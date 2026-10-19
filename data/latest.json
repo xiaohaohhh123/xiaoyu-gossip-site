@@ -1,0 +1,617 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T12:38:21.620Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 265,
+    "afterFilter": 53,
+    "selected": 13,
+    "domesticSelected": 10,
+    "domesticRatio": 77,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 3121
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 853
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 886
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 608
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 714
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1061
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1072
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1015
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1587
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "5458467e77694875",
+    "4d8c929ff316eb42",
+    "6c810adb6d93e7b5",
+    "ad8800da5749f896"
+  ],
+  "sections": {
+    "life": [],
+    "romance": [
+      "6c810adb6d93e7b5",
+      "ad8800da5749f896",
+      "4b7fa61e6e1d7c4e"
+    ],
+    "oddity": [
+      "4d8c929ff316eb42",
+      "d11b4c8150fb11d8",
+      "added7b7ed362f2b",
+      "ceb40e5f0945c034",
+      "22bc3313db68202a"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "cd19b92030ad1959",
+      "dfdc289941fad05e",
+      "36141279b57f331c"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-13ad0d7838",
+      "title": "维密大秀变了",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-19T12:08:14.854Z",
+          "title": "维密大秀变了",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7698301743641136649/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698301743641136649%22%2C%22hot_board_impr_id%22%3A%2220261019200814B840964CAE43E51CAB82%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%E5%8F%98%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7698301743641136649",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-19T12:08:14.871Z",
+          "title": "维密大秀变了",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%E5%8F%98%E4%BA%86&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "a4bb095c0e0945d0"
+    }
+  ],
+  "items": [
+    {
+      "id": "5458467e77694875",
+      "title": "儿子年薪百万，却对我们的态度越来越差，他说觉得我们亏待了他，没有给他治病和旅游",
+      "originalTitle": null,
+      "summary": "如题，老jr了70后\n 儿子学的人工智能，在某个大家都认识的平台现在年薪百万了，长得也是一表人材。但我们发现他的脾气越来越差，面对我们越来越没有耐心，也好几年没回过老家了，过年都是我们去他那里玩。\n 有一次我想买个音响，让他买，他买了之后我觉得音响不太好看让他退，他说卖家说非质量问题不能退，我让他和卖家理论一下，他就生气了，让我自己去买过别浪费他时间，然后说他小时候想买什么我们有没有这么爽快的给他买？现在来烦他这点小事\n 我们家就是普通体制内县城，正常小康水平，但我觉得男孩子没必要太富养的确是没给孩子太富裕的物质待遇，但该吃吃喝喝都正常，我就很惊讶问他为什么这么大怨气。",
+      "url": "https://bbs.hupu.com/643063563.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-19T12:38:14.497Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-f98741c39e"
+    },
+    {
+      "id": "4d8c929ff316eb42",
+      "title": "认识了一个姐姐，想听听各位的想法",
+      "originalTitle": null,
+      "summary": "认识了一个姐姐，应该是有点米的，开model X，第一次现实见到两翼门的，姐姐还很贴心展示给我看，也挺喜欢我，很主动跟我有肢体接触，第一次见面还请吃饭，但是年纪比我大很多。",
+      "url": "https://bbs.hupu.com/643026942.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-19T12:38:14.497Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-cd4ba8b7b2"
+    },
+    {
+      "id": "6c810adb6d93e7b5",
+      "title": "李小冉离婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E7%A6%BB%E5%A9%9A&t=31&band_rank=10&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:14.307Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-3f2590cdc9"
+    },
+    {
+      "id": "ad8800da5749f896",
+      "title": "女子离婚6天用AI救了前夫一命",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:16.502Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-7a42ad0a52"
+    },
+    {
+      "id": "4b7fa61e6e1d7c4e",
+      "title": "帅气小伙追脑瘫女孩半年成功求婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B8%85%E6%B0%94%E5%B0%8F%E4%BC%99%E8%BF%BD%E8%84%91%E7%98%AB%E5%A5%B3%E5%AD%A9%E5%8D%8A%E5%B9%B4%E6%88%90%E5%8A%9F%E6%B1%82%E5%A9%9A&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:16.502Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-f0b9afa132"
+    },
+    {
+      "id": "d11b4c8150fb11d8",
+      "title": "女儿用拼多多给农村父母远程装修",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BB%99%E5%86%9C%E6%9D%91%E7%88%B6%E6%AF%8D%E8%BF%9C%E7%A8%8B%E8%A3%85%E4%BF%AE%23&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:14.307Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-df944b9a1a"
+    },
+    {
+      "id": "added7b7ed362f2b",
+      "title": "没想到彩票中奖真实发生了，你们身边有中大奖的吗",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/642994486.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:14.497Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-16270d8eaa"
+    },
+    {
+      "id": "ceb40e5f0945c034",
+      "title": "新疆一5A景区出售工程抵账票？不实",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E4%B8%805A%E6%99%AF%E5%8C%BA%E5%87%BA%E5%94%AE%E5%B7%A5%E7%A8%8B%E6%8A%B5%E8%B4%A6%E7%A5%A8%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:16.502Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-668860340b"
+    },
+    {
+      "id": "22bc3313db68202a",
+      "title": "广州一村每人发3.65元补偿款",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B9%BF%E5%B7%9E%E4%B8%80%E6%9D%91%E6%AF%8F%E4%BA%BA%E5%8F%913.65%E5%85%83%E8%A1%A5%E5%81%BF%E6%AC%BE&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:16.502Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-6009ec2733"
+    },
+    {
+      "id": "cd19b92030ad1959",
+      "title": "吉赛尔·邦辰惊喜客串 2026 年维多利亚的秘密时装秀",
+      "originalTitle": "Gisele Bündchen makes surprise cameo during Victoria’s Secret Fashion Show 2026",
+      "summary": "还有谁比 OG Angels 更适合介绍这个节目呢？",
+      "url": "https://pagesix.com/2026/10/18/style/gisele-bundchen-makes-surprise-cameo-during-victorias-secret-fashion-show-2026/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fgisele-bundchen-intro-promo-2026-145656026.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T02:09:20.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7a27c60787"
+    },
+    {
+      "id": "dfdc289941fad05e",
+      "title": "杰森·苏戴奇斯透露了他从奥利维亚·王尔德分手中学到的最大教训",
+      "originalTitle": "Jason Sudeikis reveals biggest lesson he learned from Olivia Wilde split",
+      "summary": "这位《泰德·拉索》的主演和导演从 2011 年到 2020 年一直在一起。",
+      "url": "https://pagesix.com/2026/10/18/celebrity-news/jason-sudeikis-reveals-biggest-lesson-he-learned-from-olivia-wilde-split/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Folivia-wilde-jason-sudeikis-attend-145616951.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T00:38:48.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-ce47fea098"
+    },
+    {
+      "id": "36141279b57f331c",
+      "title": "《邻家女孩》明星布里吉特·马夸特在 TMZ 寻找鬼魂",
+      "originalTitle": "'Girls Next Door' Star Bridget Marquardt Hunts Ghosts at TMZ",
+      "summary": "前《花花公子》模特布里奇特·马夸特（Bridget Marquardt）有一个名为“伟大的美国幽灵狩猎”的新系列，她给 TMZ 带来了一些幽灵狩猎设备，看看我们是否有不速之客。",
+      "url": "https://www.tmz.com/2026/10/18/bridget-marquardt-tmz-offices-haunted/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-18T22:05:55.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-2ab92ee836"
+    },
+    {
+      "id": "a4bb095c0e0945d0",
+      "title": "维密大秀变了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698301743641136649/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698301743641136649%22%2C%22hot_board_impr_id%22%3A%22202610192038146AFD8AECAEFD5D49C0A7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%E5%8F%98%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7698301743641136649",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8b6f86e46fba42c19e0318857accb711~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1794960000&x-signature=QGoGxQHlZlnYCUfcZtUh4CzVSJ4%3D",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-19T12:38:14.273Z",
+      "timeBasis": "fetch",
+      "heat": 1484880,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 12,
+      "ruleScore": 12,
+      "eventId": "ev-13ad0d7838"
+    }
+  ]
+}

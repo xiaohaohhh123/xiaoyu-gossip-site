@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#FFF7EF" />
+<title>小鱼爱吃瓜 · 每天给你留一口甜的</title>
+<meta name="description" content="每天精选 5-8 条最值得吃的娱乐八卦、离谱现场和海外趣闻，带原文出处与事实状态。" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='28' fill='%23F4555F'/%3E%3Cpath d='M32 8a24 24 0 0 1 0 48z' fill='%238FD9BE'/%3E%3Ccircle cx='24' cy='26' r='2.4' fill='%232A1F1D'/%3E%3Ccircle cx='24' cy='38' r='2.4' fill='%232A1F1D'/%3E%3C/svg%3E" />
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='28' fill='%23F4555F'/%3E%3Cpath d='M32 8a24 24 0 0 1 0 48z' fill='%238FD9BE'/%3E%3Ccircle cx='24' cy='26' r='2.4' fill='%232A1F1D'/%3E%3Ccircle cx='24' cy='38' r='2.4' fill='%232A1F1D'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="cards.css" />
+</head>
+<body>
+<a class="skip" href="#main">跳到内容</a>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#top" aria-label="小鱼爱吃瓜 首页">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 48 48" width="34" height="34">
+          <defs><linearGradient id="wm" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#FF7A80"/><stop offset="1" stop-color="#F4555F"/>
+          </linearGradient></defs>
+          <circle cx="24" cy="24" r="20" fill="url(#wm)"/>
+          <path d="M24 4a20 20 0 0 1 0 40z" fill="#8FD9BE" opacity=".92"/>
+          <ellipse cx="17" cy="19" rx="1.7" ry="2.4" fill="#2A1F1D"/>
+          <ellipse cx="17" cy="29" rx="1.7" ry="2.4" fill="#2A1F1D"/>
+          <path d="M20 24q2.5 2.2 5 0" stroke="#2A1F1D" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <span class="brand-text">
+        <strong>小鱼爱吃瓜</strong>
+        <em>每天给你留一口甜的</em>
+      </span>
+    </a>
+    <button class="date-btn" id="dateBtn" type="button" aria-haspopup="dialog" aria-expanded="false">
+      <span id="dateLabel">加载中</span>
+      <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" id="top">
+    <div class="hero-copy">
+      <p class="eyebrow" id="heroEyebrow">正在切瓜…</p>
+      <h1 id="heroTitle">今天有什么<br /><span class="hl">好吃的瓜</span>？</h1>
+      <p class="hero-sub" id="heroSub">精选娱乐八卦 · 炸裂现场 · 神级反转 · 海外趣闻</p>
+    </div>
+    <div class="hero-stats" id="heroStats" aria-live="polite"></div>
+  </section>
+
+  <div class="status-strip" id="statusStrip" hidden></div>
+
+  <nav class="tabs" id="tabs" aria-label="内容分区">
+    <button class="tab is-active" data-target="must" type="button">今日必吃</button>
+    <button class="tab" data-target="life" type="button">人间故事</button>
+    <button class="tab" data-target="oddity" type="button">奇闻现场</button>
+    <button class="tab" data-target="twist" type="button">反转后续</button>
+    <button class="tab" data-target="extras" type="button">茶余饭后</button>
+  </nav>
+
+  <div class="feeding" id="feeding">
+    <section class="skeleton-block" aria-hidden="true">
+      <div class="sk sk-hero"></div><div class="sk"></div><div class="sk"></div>
+    </section>
+  </div>
+
+  <div class="empty-state" id="emptyState" hidden>
+    <div class="empty-art" aria-hidden="true">🍉</div>
+    <h2>今天的瓜还没送到</h2>
+    <p id="emptyText">自动采集每天 07:30 / 12:30 / 20:00 运行一次，也可以手动刷新试试。</p>
+    <button class="btn primary" id="retryBtn" type="button">再切一次</button>
+  </div>
+</main>
+
+<nav class="tabbar" aria-label="底部导航">
+  <button class="tabbar-btn is-active" data-target="must" type="button">
+    <span aria-hidden="true">🍉</span><em>必吃</em>
+  </button>
+  <button class="tabbar-btn" data-target="life" type="button">
+    <span aria-hidden="true">🏠</span><em>人间</em>
+  </button>
+  <button class="tabbar-btn" data-target="oddity" type="button">
+    <span aria-hidden="true">💥</span><em>奇闻</em>
+  </button>
+  <button class="tabbar-btn" data-target="twist" type="button">
+    <span aria-hidden="true">🔄</span><em>反转</em>
+  </button>
+  <button class="tabbar-btn" data-target="extras" type="button">
+    <span aria-hidden="true">🍵</span><em>茶余</em>
+  </button>
+  <button class="tabbar-btn" data-target="saved" type="button" id="savedTab">
+    <span aria-hidden="true">♥</span><em>收藏</em>
+  </button>
+</nav>
+
+<div class="sheet-root" id="sheetRoot" hidden>
+  <div class="sheet-scrim" data-close></div>
+  <article class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-grip" aria-hidden="true"></div>
+    <button class="sheet-close" data-close type="button" aria-label="关闭">✕</button>
+    <div id="sheetBody"></div>
+  </article>
+</div>
+
+<div class="date-root" id="dateRoot" hidden>
+  <div class="sheet-scrim" data-close-date></div>
+  <div class="date-panel" role="dialog" aria-modal="true" aria-labelledby="dateTitle">
+    <h2 id="dateTitle">换个日子吃瓜</h2>
+    <div class="date-list" id="dateList"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<footer class="site-footer">
+  <p>每天只挑值得吃的，不凑数。内容均保留原文链接，八卦以原文为准。</p>
+  <p class="tiny">采集自公开热榜与 RSS · 自动去重与合并 · <span id="genAt">—</span></p>
+</footer>
+
+<script src="config.js"></script>
+<script type="module" src="app.js"></script>
+</body>
+</html>
