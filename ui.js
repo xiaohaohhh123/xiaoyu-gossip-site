@@ -53,7 +53,9 @@ const PALETTE = {
   overseas: ['#CDE4FF', '#4F86C6', '🌍'],
   life: ['#C8EEDD', '#3E9C7C', '🍃']
 };
-export function palette(cat) { return PALETTE[cat] || PALETTE.gossip; }
+// 品牌封面固定为西瓜粉（V0.1/V0.2 视觉），不随分类变化
+const BRAND_COVER = ['#FFC1C7', '#F4555F'];
+export function palette(cat) { return PALETTE[cat] || PALETTE.romance; }
 
 export function sourceClass(item) {
   return item && item.sourceGroup === 'cn' ? 'src cn' : 'src';
@@ -68,10 +70,9 @@ export function storyText(item, fallback) {
 }
 
 export function coverHTML(cat, label) {
-  const p = palette(cat);
-  return '<div class="cover" style="--c1:' + p[0] + ';--c2:' + p[1] + '">'
+  return '<div class="cover" style="--c1:' + BRAND_COVER[0] + ';--c2:' + BRAND_COVER[1] + '">'
     + '<span class="cover-label">' + esc(label) + '</span>'
-    + '<span class="motif" aria-hidden="true">' + p[2] + '</span></div>';
+    + '<span class="motif" aria-hidden="true">🍿</span></div>';
 }
 
 export function badgesHTML(item) {
