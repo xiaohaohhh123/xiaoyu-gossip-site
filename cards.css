@@ -39,6 +39,10 @@
 .routine{background:#F1EEE9;color:#8A7A6E}
 .reversal{background:#EDE9FF;color:#5B4CBB}
 .fact-check{background:#FFF0D9;color:#9A6418}
+/* 内容性质：由现有字段推导，含义固定 */
+.nature-media{background:var(--mint-soft);color:var(--mint-deep)}
+.nature-user{background:var(--peach-soft);color:#8A6A5C}
+.nature-topic{background:var(--cream-2);color:var(--ink-soft)}
 .origin{margin-left:auto;font-size:11.5px;color:var(--ink-faint);text-decoration:none;border-bottom:1px dashed transparent;padding-bottom:1px}
 .origin:hover{color:var(--melon-deep);border-bottom-color:rgba(244,85,95,.4)}
 .origin:focus-visible,.tab:focus-visible,.tabbar-btn:focus-visible,.like:focus-visible,.date-btn:focus-visible{outline:2px solid var(--melon);outline-offset:2px}
@@ -76,6 +80,27 @@
 .timeline b{color:var(--ink);font-weight:600;font-size:13px}
 .timeline .tl-meta{display:block;font-size:11px;color:var(--ink-faint);margin-top:2px}
 .tl-link{display:inline-block;margin-top:2px;color:var(--melon-deep);text-decoration:none;font-size:11.5px}
+
+/* 连续追瓜：追更按钮 */
+.series-foot{display:flex;align-items:center;gap:10px;margin-top:12px;padding-top:11px;border-top:1px dashed rgba(43,33,31,.12)}
+.follow-btn{border:1px solid rgba(244,85,95,.35);background:rgba(244,85,95,.07);color:var(--melon-deep);
+  font-size:12px;font-weight:700;padding:7px 14px;border-radius:999px;cursor:pointer;transition:.18s;flex:0 0 auto}
+.follow-btn:hover{background:rgba(244,85,95,.14)}
+.follow-btn:active{transform:scale(.96)}
+.follow-btn.is-on{background:var(--melon);border-color:var(--melon);color:#fff;box-shadow:0 4px 10px -6px rgba(244,85,95,.5)}
+.follow-hint{font-size:11px;color:var(--ink-faint)}
+
+/* ---------- sheet story reading ---------- */
+.sheet .hook{position:relative;margin:12px 0 0;padding:12px 14px 12px 16px;border-radius:14px;
+  background:rgba(255,235,224,.55);
+  border:1px solid rgba(244,85,95,.14);font-size:14px;line-height:1.7;color:var(--ink)}
+.sheet .hook::before{content:"";position:absolute;left:0;top:12px;bottom:12px;width:3px;border-radius:3px;
+  background:linear-gradient(to bottom,var(--melon),var(--peach))}
+.hook-label{display:block;font-size:10.5px;font-weight:800;letter-spacing:.18em;color:var(--melon-deep);margin-bottom:4px}
+.story-body{margin-top:16px}
+.story-h{font-size:13px;letter-spacing:.14em;color:var(--ink-soft);margin:0 0 8px;font-family:var(--sans);font-weight:700}
+.story-body p{font-size:14.5px;line-height:1.85;color:var(--ink-soft);margin:0 0 10px;text-align:justify}
+.story-body p:last-child{margin-bottom:0}
 
 /* skeleton */
 .skeleton-block{display:grid;gap:12px}

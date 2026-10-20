@@ -1,0 +1,583 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-20T17:26:19.248Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 263,
+    "afterFilter": 42,
+    "selected": 12,
+    "domesticSelected": 9,
+    "domesticRatio": 75,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1514
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 588
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 939
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 718
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 832
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1006
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1034
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1015
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2071
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "17f620ba4932b3cb",
+    "2c14c190783c74bf",
+    "36da924a0bd8f210",
+    "4e6af31be9c2ebb3"
+  ],
+  "sections": {
+    "life": [
+      "f4f0ae4bd513e4bc"
+    ],
+    "romance": [
+      "2c14c190783c74bf",
+      "36da924a0bd8f210",
+      "a8c6c5a7e4a81e0f"
+    ],
+    "oddity": [
+      "b16bc3dc3fc64a41"
+    ],
+    "twist": [],
+    "entertainment": [
+      "702e4da58b8a841c"
+    ],
+    "overseas": [
+      "d92cde80f663639d",
+      "a8e15914abfcdc36",
+      "22ee709215173d97"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-be6d55a042",
+      "title": "刘恺威承认新恋情",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-20T09:33:37.500Z",
+          "title": "刘恺威承认新恋情",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7698550338890023451/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698550338890023451%22%2C%22hot_board_impr_id%22%3A%2220261020173337F5CA78D07F6B90CBE7F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E6%81%BA%E5%A8%81%E6%89%BF%E8%AE%A4%E6%96%B0%E6%81%8B%E6%83%85%22%7D&rank=&style_id=40132&topic_id=7698550338890023451",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-20T09:33:39.289Z",
+          "title": "刘恺威承认新恋情",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E5%88%98%E6%81%BA%E5%A8%81%E6%89%BF%E8%AE%A4%E6%96%B0%E6%81%8B%E6%83%85&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "6bbab118d98baa5e"
+    }
+  ],
+  "items": [
+    {
+      "id": "17f620ba4932b3cb",
+      "title": "中国与阿塞拜疆青年在新疆赴“青春之约”",
+      "originalTitle": null,
+      "summary": "中新社乌鲁木齐10月20日电 (记者 苟继鹏)“我见过机器人，但像这样能跳街舞、表演中国功夫的机器人还是第一次见到。”阿塞拜疆纳希切万国立大学学生侯赛因·塔希罗夫20日在乌鲁木齐市接受中新社记者采访时说。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718097.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T13:17:18.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-1898af5d37"
+    },
+    {
+      "id": "2c14c190783c74bf",
+      "title": "和精神小妹谈恋爱是一种怎样的感受？我谈过两月精神小妹",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643071311.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:12.338Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-2e19e11882"
+    },
+    {
+      "id": "36da924a0bd8f210",
+      "title": "有没有老哥愿意花20w彩礼娶我，包生儿子️",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643069968.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:12.338Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-cdc1513677"
+    },
+    {
+      "id": "4e6af31be9c2ebb3",
+      "title": "老婆背着我拿家里买房的50万给她弟还赌债，我提离婚，丈母娘居然说我不懂事",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643095156.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:12.338Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-45e7fefc15"
+    },
+    {
+      "id": "f4f0ae4bd513e4bc",
+      "title": "儿子逼父母还债被父亲打伤 父亲免罚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698545317415206955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698545317415206955%22%2C%22hot_board_impr_id%22%3A%222026102101261158B046FF74546E2AF47C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%84%BF%E5%AD%90%E9%80%BC%E7%88%B6%E6%AF%8D%E8%BF%98%E5%80%BA%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%93%E4%BC%A4+%E7%88%B6%E4%BA%B2%E5%85%8D%E7%BD%9A%22%7D&rank=&style_id=40132&topic_id=7698545317415206955",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d940ad921ba546e4a4d444b56dcada40~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=cg9xSMDK7P6VgDt709UXuT4Saho%3D",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:11.888Z",
+      "timeBasis": "fetch",
+      "heat": 968031,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-c0120af911"
+    },
+    {
+      "id": "a8c6c5a7e4a81e0f",
+      "title": "董明珠：格力技工学校禁止谈恋爱",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698257860945366591/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698257860945366591%22%2C%22hot_board_impr_id%22%3A%222026102101261158B046FF74546E2AF47C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%22%7D&rank=&style_id=40132&topic_id=7698257860945366591",
+      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/a9393235-611b-45f0-bff8-e017b44c0382~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=YwvXLKFVO%2BQJ8PRkk34ZB%2FLo8AI%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:11.888Z",
+      "timeBasis": "fetch",
+      "heat": 5298950,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-9788511f82"
+    },
+    {
+      "id": "b16bc3dc3fc64a41",
+      "title": "张雪全网求助后网友堵门口送米",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%85%A8%E7%BD%91%E6%B1%82%E5%8A%A9%E5%90%8E%E7%BD%91%E5%8F%8B%E5%A0%B5%E9%97%A8%E5%8F%A3%E9%80%81%E7%B1%B3&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:12.789Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-6288b9119a"
+    },
+    {
+      "id": "702e4da58b8a841c",
+      "title": "从佛罗伦萨到河南开封 意大利“但丁爷爷”邂逅中国热情",
+      "originalTitle": null,
+      "summary": "中新网开封10月20日电 (王士豪 夏青华)近日，意大利街头艺术家Marco来到河南开封万岁山武侠城，与中国游客近距离互动。他以独特造型吸引不少游客拍照合影，还有人专程赶来，只为亲眼见一见这位网红“但丁爷爷”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718084.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T12:26:21.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-433ce01d5c"
+    },
+    {
+      "id": "d92cde80f663639d",
+      "title": "Dylan Sprouse reveals he and twin Cole are ‘children of incest’",
+      "originalTitle": null,
+      "summary": "Dylan also revealed how his brother reacted to the \"f--king crazy\" news about their family.",
+      "url": "https://pagesix.com/2026/10/20/celebrity-news/dylan-sprouse-reveals-he-and-twin-cole-are-children-of-incest/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-youtube-com-watch-v-145841532.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T17:22:16.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-22f8b2580a"
+    },
+    {
+      "id": "a8e15914abfcdc36",
+      "title": "Stella McCartney and Jennifer Lopez get cheeky and more star snaps",
+      "originalTitle": null,
+      "summary": "Lewis Hamilton takes a hike, JLo gets sassy, and more star snaps...",
+      "url": "https://pagesix.com/2026/10/20/photos/stella-mccartney-and-jennifer-lopez-get-cheeky-and-more-star-snaps/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fjlo-stella-mccartney-2026-145832179.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T17:11:08.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-3a1fc9d099"
+    },
+    {
+      "id": "22ee709215173d97",
+      "title": "Jessica Simpson Says She's 'Very Happy' in Her New Relationship",
+      "originalTitle": null,
+      "summary": "Jessica Simpson sounds like she's super smitten with her boyfriend ... because she says she's \"very happy\" with their relationship. The singer was at LAX bright and early Monday ...",
+      "url": "https://www.tmz.com/2026/10/20/jessica-simpson-talks-new-relationship/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T16:18:01.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-3b55305b5a"
+    },
+    {
+      "id": "6bbab118d98baa5e",
+      "title": "刘恺威承认新恋情",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698550338890023451/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698550338890023451%22%2C%22hot_board_impr_id%22%3A%222026102101261158B046FF74546E2AF47C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E6%81%BA%E5%A8%81%E6%89%BF%E8%AE%A4%E6%96%B0%E6%81%8B%E6%83%85%22%7D&rank=&style_id=40132&topic_id=7698550338890023451",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/70ac92f8a4c34c17a7ed80ea737a8559~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=uq%2BeRRx9Kv1XWf0q%2BftbMhz5ZWQ%3D",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:11.888Z",
+      "timeBasis": "fetch",
+      "heat": 648890,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 12,
+      "ruleScore": 12,
+      "eventId": "ev-be6d55a042"
+    }
+  ]
+}

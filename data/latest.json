@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T09:33:47.497Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-20T17:26:19.248Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
+    "totalCollected": 263,
     "afterFilter": 42,
-    "selected": 14,
-    "domesticSelected": 11,
-    "domesticRatio": 79,
+    "selected": 12,
+    "domesticSelected": 9,
+    "domesticRatio": 75,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2992
+        "ms": 1514
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1179
+        "ms": 588
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 4539
+        "ms": 939
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 2203
+        "ms": 718
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 2365
+        "ms": 832
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 4538
+        "ms": 1006
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 4506
+        "ms": 1034
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 4510
+        "ms": 1015
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 5156
+        "ms": 2071
       }
     ],
     "ai": {
@@ -108,113 +108,34 @@
     "totalSources": 9
   },
   "mustEat": [
-    "192b043bdf978385",
-    "65cee491cf0d3550",
-    "a8c6c5a7e4a81e0f",
-    "2c14c190783c74bf"
+    "17f620ba4932b3cb",
+    "2c14c190783c74bf",
+    "36da924a0bd8f210",
+    "4e6af31be9c2ebb3"
   ],
   "sections": {
     "life": [
-      "54b0a87c8ed26d61",
       "f4f0ae4bd513e4bc"
     ],
     "romance": [
-      "a8c6c5a7e4a81e0f",
       "2c14c190783c74bf",
-      "96ae325e9bfae43e"
+      "36da924a0bd8f210",
+      "a8c6c5a7e4a81e0f"
     ],
     "oddity": [
-      "f196b8e8b6f13943"
+      "b16bc3dc3fc64a41"
     ],
-    "twist": [
-      "65cee491cf0d3550"
+    "twist": [],
+    "entertainment": [
+      "702e4da58b8a841c"
     ],
-    "entertainment": [],
     "overseas": [
-      "e85fb0f8b0ef28db",
-      "6529f9c7746247a8",
-      "d6c0e4aadc271e5e"
+      "d92cde80f663639d",
+      "a8e15914abfcdc36",
+      "22ee709215173d97"
     ]
   },
   "events": [
-    {
-      "id": "ev-cf9771b123",
-      "title": "董明珠：格力技工学校禁止谈恋爱",
-      "sources": [
-        "toutiao",
-        "zhihu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-10-20T01:56:50.359Z",
-          "title": "董明珠：格力技工学校禁止谈恋爱",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7698257860945366591/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698257860945366591%22%2C%22hot_board_impr_id%22%3A%222026102009565073D0963FC9976F3D8457%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%22%7D&rank=&style_id=40132&topic_id=7698257860945366591",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-20T01:56:50.577Z",
-          "title": "董明珠称格力技工学校禁止谈恋爱",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=2&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-20T01:56:51.475Z",
-          "title": "董明珠称格力技工学校禁止谈恋爱",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-20T09:33:40.864Z",
-          "title": "董明珠称格力技工学校禁止谈恋爱、头发不能太长，你觉得合理吗？这对学生而言是束缚还是保护？",
-          "source": "知乎热榜",
-          "url": "https://www.zhihu.com/question/2095788538184691975",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "a8c6c5a7e4a81e0f"
-    },
-    {
-      "id": "ev-024ec789e7",
-      "title": "小天才手表回应封闭社交",
-      "sources": [
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-10-20T09:33:37.500Z",
-          "title": "小天才手表回应封闭社交",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7698560438723838015/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698560438723838015%22%2C%22hot_board_impr_id%22%3A%2220261020173337F5CA78D07F6B90CBE7F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%9B%9E%E5%BA%94%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%22%7D&rank=&style_id=40132&topic_id=7698560438723838015",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-20T09:33:39.289Z",
-          "title": "小天才手表回应封闭社交",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%9B%9E%E5%BA%94%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "0a12cb8b7214b3bd"
-    },
     {
       "id": "ev-be6d55a042",
       "title": "刘恺威承认新恋情",
@@ -246,86 +167,20 @@
         }
       ],
       "itemId": "6bbab118d98baa5e"
-    },
-    {
-      "id": "ev-6e6391f4a9",
-      "title": "南部战区回应美舰冲闯中国仙宾礁海域",
-      "sources": [
-        "baidu",
-        "douyin"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-10-20T09:33:39.289Z",
-          "title": "南部战区回应美舰冲闯中国仙宾礁海域",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BB%99%E5%AE%BE%E7%A4%81%E6%B5%B7%E5%9F%9F&sa=fyb_news",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-20T09:33:40.837Z",
-          "title": "南部战区回应美舰冲闯中国海域",
-          "source": "抖音热搜",
-          "url": "https://www.douyin.com/hot/2704169",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "67befbe8786516a7"
     }
   ],
   "items": [
     {
-      "id": "192b043bdf978385",
-      "title": "你最想告诉20岁的自己一句话是什么?",
+      "id": "17f620ba4932b3cb",
+      "title": "中国与阿塞拜疆青年在新疆赴“青春之约”",
       "originalTitle": null,
-      "summary": "20岁的你，可能正在宿舍打游戏，觉得挂一科没什么大不了。\n 可能正在火车站送一个人，笑着说“到了给我打电话”，不知道那是最后一面。\n 可能正在为一点小事跟父母赌气，摔门而出，觉得他们什么都不懂。\n 也可能正站在人生的岔路口，觉得选哪条都行，反正年轻。\n \n 你现在最想隔着时间，拍着那个年轻人的肩膀，告诉他的那一句话是什么？ \n 来回帖区和JRs一起聊聊！",
-      "url": "https://bbs.hupu.com/643068740.html",
+      "summary": "中新社乌鲁木齐10月20日电 (记者 苟继鹏)“我见过机器人，但像这样能跳街舞、表演中国功夫的机器人还是第一次见到。”阿塞拜疆纳希切万国立大学学生侯赛因·塔希罗夫20日在乌鲁木齐市接受中新社记者采访时说。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718097.shtml",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "oddity",
+      "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-10-20T09:33:40.832Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 83,
-      "ruleScore": 83,
-      "eventId": "ev-895220fb55"
-    },
-    {
-      "id": "65cee491cf0d3550",
-      "title": "把攻击做成生意，就别怪法律让你“买单”",
-      "originalTitle": null,
-      "summary": "据媒体报道，抖音电商近日披露，有网络黑公关正在付费组织对其规模化造谣攻击。一篇已被官方澄清辟谣的文章，不仅继续在多平台传播，更有甚者，还有公司把批量攻击性文章作为付费案例公然对外兜售。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717865.shtml",
-      "image": "",
-      "category": "twist",
-      "topicClass": "twist",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-20T08:23:40.000Z",
+      "publishedAt": "2026-10-20T13:17:18.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -343,46 +198,11 @@
         "label": "单一媒体",
         "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
-      "reversal": true,
-      "translated": false,
-      "score": 70,
-      "ruleScore": 70,
-      "eventId": "ev-e4d2db29cd"
-    },
-    {
-      "id": "a8c6c5a7e4a81e0f",
-      "title": "董明珠：格力技工学校禁止谈恋爱",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698257860945366591/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698257860945366591%22%2C%22hot_board_impr_id%22%3A%2220261020173337F5CA78D07F6B90CBE7F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%22%7D&rank=&style_id=40132&topic_id=7698257860945366591",
-      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/a9393235-611b-45f0-bff8-e017b44c0382~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=YwvXLKFVO%2BQJ8PRkk34ZB%2FLo8AI%3D",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:37.500Z",
-      "timeBasis": "fetch",
-      "heat": 5607773,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
       "reversal": false,
       "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-cf9771b123"
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-1898af5d37"
     },
     {
       "id": "2c14c190783c74bf",
@@ -394,7 +214,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:40.832Z",
+      "publishedAt": "2026-10-20T17:26:12.338Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -419,26 +239,26 @@
       "eventId": "ev-2e19e11882"
     },
     {
-      "id": "54b0a87c8ed26d61",
-      "title": "父亲过世继子起诉九旬继母腾房",
+      "id": "36da924a0bd8f210",
+      "title": "有没有老哥愿意花20w彩礼娶我，包生儿子️",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B6%E4%BA%B2%E8%BF%87%E4%B8%96%E7%BB%A7%E5%AD%90%E8%B5%B7%E8%AF%89%E4%B9%9D%E6%97%AC%E7%BB%A7%E6%AF%8D%E8%85%BE%E6%88%BF&sa=fyb_news",
+      "url": "https://bbs.hupu.com/643069968.html",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:39.289Z",
+      "publishedAt": "2026-10-20T17:26:12.338Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -448,23 +268,57 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-b6564b367b"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-cdc1513677"
+    },
+    {
+      "id": "4e6af31be9c2ebb3",
+      "title": "老婆背着我拿家里买房的50万给她弟还赌债，我提离婚，丈母娘居然说我不懂事",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643095156.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T17:26:12.338Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-45e7fefc15"
     },
     {
       "id": "f4f0ae4bd513e4bc",
       "title": "儿子逼父母还债被父亲打伤 父亲免罚",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698545317415206955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698545317415206955%22%2C%22hot_board_impr_id%22%3A%2220261020173337F5CA78D07F6B90CBE7F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%84%BF%E5%AD%90%E9%80%BC%E7%88%B6%E6%AF%8D%E8%BF%98%E5%80%BA%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%93%E4%BC%A4+%E7%88%B6%E4%BA%B2%E5%85%8D%E7%BD%9A%22%7D&rank=&style_id=40132&topic_id=7698545317415206955",
+      "url": "https://www.toutiao.com/trending/7698545317415206955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698545317415206955%22%2C%22hot_board_impr_id%22%3A%222026102101261158B046FF74546E2AF47C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%84%BF%E5%AD%90%E9%80%BC%E7%88%B6%E6%AF%8D%E8%BF%98%E5%80%BA%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%93%E4%BC%A4+%E7%88%B6%E4%BA%B2%E5%85%8D%E7%BD%9A%22%7D&rank=&style_id=40132&topic_id=7698545317415206955",
       "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d940ad921ba546e4a4d444b56dcada40~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=cg9xSMDK7P6VgDt709UXuT4Saho%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:37.500Z",
+      "publishedAt": "2026-10-20T17:26:11.888Z",
       "timeBasis": "fetch",
-      "heat": 2519735,
+      "heat": 968031,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -487,26 +341,26 @@
       "eventId": "ev-c0120af911"
     },
     {
-      "id": "96ae325e9bfae43e",
-      "title": "新娘恳求新郎出席婚礼：出钱雇你也好",
+      "id": "a8c6c5a7e4a81e0f",
+      "title": "董明珠：格力技工学校禁止谈恋爱",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%A8%98%E6%81%B3%E6%B1%82%E6%96%B0%E9%83%8E%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC%EF%BC%9A%E5%87%BA%E9%92%B1%E9%9B%87%E4%BD%A0%E4%B9%9F%E5%A5%BD&sa=fyb_news",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7698257860945366591/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698257860945366591%22%2C%22hot_board_impr_id%22%3A%222026102101261158B046FF74546E2AF47C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%22%7D&rank=&style_id=40132&topic_id=7698257860945366591",
+      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/a9393235-611b-45f0-bff8-e017b44c0382~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=YwvXLKFVO%2BQJ8PRkk34ZB%2FLo8AI%3D",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:39.289Z",
+      "publishedAt": "2026-10-20T17:26:11.888Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "heat": 5298950,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -518,19 +372,19 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-0ca8332086"
+      "eventId": "ev-9788511f82"
     },
     {
-      "id": "f196b8e8b6f13943",
-      "title": "宝妈发现儿童保温碗夹层发霉发臭",
+      "id": "b16bc3dc3fc64a41",
+      "title": "张雪全网求助后网友堵门口送米",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AE%9D%E5%A6%88%E5%8F%91%E7%8E%B0%E5%84%BF%E7%AB%A5%E4%BF%9D%E6%B8%A9%E7%A2%97%E5%A4%B9%E5%B1%82%E5%8F%91%E9%9C%89%E5%8F%91%E8%87%AD&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%85%A8%E7%BD%91%E6%B1%82%E5%8A%A9%E5%90%8E%E7%BD%91%E5%8F%8B%E5%A0%B5%E9%97%A8%E5%8F%A3%E9%80%81%E7%B1%B3&sa=fyb_news",
       "image": "",
       "category": "oddity",
-      "topicClass": "oddity",
+      "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:39.289Z",
+      "publishedAt": "2026-10-20T17:26:12.789Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -550,55 +404,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-0c538ad81c"
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-6288b9119a"
     },
     {
-      "id": "e85fb0f8b0ef28db",
-      "title": "阿曼达·塞弗里德面临严厉批评，因为观众撕毁了她在伊丽莎白·霍姆斯纪录片中的行为",
-      "originalTitle": "Amanda Seyfried faces harsh criticism as viewers rip her behavior in Elizabeth Holmes documentary",
-      "summary": "阿曼达·塞弗里德 (Amanda Seyfried) 因其在内森·菲尔德 (Nathan Fielder) 执导的伊丽莎白·福尔摩斯 (Elizabeth Holmes) 纪录片《你可以看到一切》(You Can See Everything) 中的行为而面临观众的强烈反对。",
-      "url": "https://pagesix.com/2026/10/20/entertainment/amanda-seyfried-faces-harsh-criticism-as-viewers-rip-her-behavior-in-elizabeth-holmes-documentary/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famanda-seyfried-attends-6th-annual-145547674.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "id": "702e4da58b8a841c",
+      "title": "从佛罗伦萨到河南开封 意大利“但丁爷爷”邂逅中国热情",
+      "originalTitle": null,
+      "summary": "中新网开封10月20日电 (王士豪 夏青华)近日，意大利街头艺术家Marco来到河南开封万岁山武侠城，与中国游客近距离互动。他以独特造型吸引不少游客拍照合影，还有人专程赶来，只为亲眼见一见这位网红“但丁爷爷”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718084.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-10-20T04:28:47.000Z",
+      "publishedAt": "2026-10-20T12:26:21.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "chinanews.com.cn"
         ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
-      "reversal": true,
-      "translated": true,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-6d9738158d"
+      "reversal": false,
+      "translated": false,
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-433ce01d5c"
     },
     {
-      "id": "6529f9c7746247a8",
-      "title": "一线明星在大都会歌剧院的“中阴界的林肯”地毯上大放异彩：杜阿·利帕、艾米·波勒等",
-      "originalTitle": "A-listers shine on MET Opera’s ‘Lincoln in the Bardo’ carpet: Dua Lipa, Amy Poehler and more",
-      "summary": "明星们云集小镇，观看大都会歌剧院的开幕晚会。",
-      "url": "https://pagesix.com/2026/10/19/photos/a-listers-shine-on-met-operas-lincoln-in-the-bardo-carpet-dua-lipa-amy-poehler-and-more/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fdua-lipa-attends-metropolitan-opera-145777745.jpg?w%3D735",
+      "id": "d92cde80f663639d",
+      "title": "Dylan Sprouse reveals he and twin Cole are ‘children of incest’",
+      "originalTitle": null,
+      "summary": "Dylan also revealed how his brother reacted to the \"f--king crazy\" news about their family.",
+      "url": "https://pagesix.com/2026/10/20/celebrity-news/dylan-sprouse-reveals-he-and-twin-cole-are-children-of-incest/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-youtube-com-watch-v-145841532.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-20T02:39:29.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T17:22:16.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -617,22 +471,56 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-bee088822d"
+      "eventId": "ev-22f8b2580a"
     },
     {
-      "id": "d6c0e4aadc271e5e",
-      "title": "《公主日记》埃里克·冯·德顿因涉嫌虐待老人而被起诉",
-      "originalTitle": "'Princess Diaries' Erik von Detten Sued Over Alleged Elder Abuse",
-      "summary": "据 TMZ 报道，埃里克·冯·德滕 (Erik von Detten) 在针对这位前童星提起的令人震惊的诉讼中被指控涉嫌欺诈和虐待老人。",
-      "url": "https://www.tmz.com/2026/10/20/erik-von-detten-sued-over-alleged-elder-abuse/",
+      "id": "a8e15914abfcdc36",
+      "title": "Stella McCartney and Jennifer Lopez get cheeky and more star snaps",
+      "originalTitle": null,
+      "summary": "Lewis Hamilton takes a hike, JLo gets sassy, and more star snaps...",
+      "url": "https://pagesix.com/2026/10/20/photos/stella-mccartney-and-jennifer-lopez-get-cheeky-and-more-star-snaps/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fjlo-stella-mccartney-2026-145832179.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T17:11:08.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-3a1fc9d099"
+    },
+    {
+      "id": "22ee709215173d97",
+      "title": "Jessica Simpson Says She's 'Very Happy' in Her New Relationship",
+      "originalTitle": null,
+      "summary": "Jessica Simpson sounds like she's super smitten with her boyfriend ... because she says she's \"very happy\" with their relationship. The singer was at LAX bright and early Monday ...",
+      "url": "https://www.tmz.com/2026/10/20/jessica-simpson-talks-new-relationship/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-20T08:00:05.000Z",
+      "publishedAt": "2026-10-20T16:18:01.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -651,59 +539,24 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-e01ce7e942"
-    },
-    {
-      "id": "0a12cb8b7214b3bd",
-      "title": "小天才手表回应封闭社交",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698560438723838015/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698560438723838015%22%2C%22hot_board_impr_id%22%3A%2220261020173337F5CA78D07F6B90CBE7F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%9B%9E%E5%BA%94%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%22%7D&rank=&style_id=40132&topic_id=7698560438723838015",
-      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/9a733b91-98ad-4f53-8a76-a150cc8b8453~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=E2k0G0Rq2lB5NhqSaUrFrwLwkGQ%3D",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:37.500Z",
-      "timeBasis": "fetch",
-      "heat": 9245655,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 12,
-      "ruleScore": 12,
-      "eventId": "ev-024ec789e7"
+      "eventId": "ev-3b55305b5a"
     },
     {
       "id": "6bbab118d98baa5e",
       "title": "刘恺威承认新恋情",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7698550338890023451/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698550338890023451%22%2C%22hot_board_impr_id%22%3A%2220261020173337F5CA78D07F6B90CBE7F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E6%81%BA%E5%A8%81%E6%89%BF%E8%AE%A4%E6%96%B0%E6%81%8B%E6%83%85%22%7D&rank=&style_id=40132&topic_id=7698550338890023451",
+      "url": "https://www.toutiao.com/trending/7698550338890023451/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698550338890023451%22%2C%22hot_board_impr_id%22%3A%222026102101261158B046FF74546E2AF47C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E6%81%BA%E5%A8%81%E6%89%BF%E8%AE%A4%E6%96%B0%E6%81%8B%E6%83%85%22%7D&rank=&style_id=40132&topic_id=7698550338890023451",
       "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/70ac92f8a4c34c17a7ed80ea737a8559~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=uq%2BeRRx9Kv1XWf0q%2BftbMhz5ZWQ%3D",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:37.500Z",
+      "publishedAt": "2026-10-20T17:26:11.888Z",
       "timeBasis": "fetch",
-      "heat": 6849350,
+      "heat": 648890,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -725,41 +578,6 @@
       "score": 12,
       "ruleScore": 12,
       "eventId": "ev-be6d55a042"
-    },
-    {
-      "id": "67befbe8786516a7",
-      "title": "南部战区回应美舰冲闯中国仙宾礁海域",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BB%99%E5%AE%BE%E7%A4%81%E6%B5%B7%E5%9F%9F&sa=fyb_news",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-20T09:33:39.289Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "baidu",
-          "douyin"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 12,
-      "ruleScore": 12,
-      "eventId": "ev-6e6391f4a9"
     }
   ]
 }

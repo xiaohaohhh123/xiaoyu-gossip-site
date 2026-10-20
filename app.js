@@ -9,6 +9,7 @@ const SECTIONS = [
 ];
 
 const FAV_KEY = 'xycg:favs:v2';
+const FOLLOW_KEY = 'xycg:follow:v1';
 
 const state = {
   daily: null,
@@ -16,6 +17,7 @@ const state = {
   meta: null,
   date: null,
   saved: new Map(),
+  following: new Set(),
   lastFocus: null
 };
 
@@ -27,10 +29,36 @@ function loadSaved() {
     const arr = raw ? JSON.parse(raw) : [];
     for (const it of arr) state.saved.set(it.id, it);
   } catch { /* ignore */ }
+  try {
+    const rawF = localStorage.getItem(FOLLOW_KEY);
+    const arrF = rawF ? JSON.parse(rawF) : [];
+    for (const id of arrF) state.following.add(id);
+  } catch { /* ignore */ }
 }
 
 function persistSaved() {
   try { localStorage.setItem(FAV_KEY, JSON.stringify([...state.saved.values()])); } catch { /* ignore */ }
+}
+
+function persistFollow() {
+  try { localStorage.setItem(FOLLOW_KEY, JSON.stringify([...state.following])); } catch { /* ignore */ }
+}
+
+function toggleFollow(evId) {
+  if (state.following.has(evId)) {
+    state.following.delete(evId);
+    toast('已取消追更');
+  } else {
+    state.following.add(evId);
+    toast('追更成功，有新进展会标出来 🔔');
+  }
+  persistFollow();
+  document.querySelectorAll('[data-follow="' + evId + '"]').forEach((btn) => {
+    const on = state.following.has(evId);
+    btn.classList.toggle('is-on', on);
+    btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    btn.textContent = on ? '🔔 追更中' : '🔔 追这条瓜';
+  });
 }
 
 function toast(msg) {
@@ -177,7 +205,7 @@ function renderSections(d, byId) {
   parts.push('<section class="section" id="twist" data-section="twist">' + sectionHead('twist', twist.length));
   if (!twist.length && !events.length) parts.push('<p class="section-empty">今天没有带证据的反转，等下一次。</p>');
   twist.forEach((it, i) => parts.push(cardHTML(it, i, state.saved.has(it.id))));
-  events.forEach((ev, i) => parts.push(seriesHTML(ev, twist.length + i)));
+  events.forEach((ev, i) => parts.push(seriesHTML(ev, twist.length + i, state.following.has(ev.id))));
   parts.push('</section>');
 
   const ent = sectionItems(d, byId, 'entertainment');
@@ -196,6 +224,12 @@ function syncSavedButtons() {
     btn.setAttribute('aria-pressed', on ? 'true' : 'false');
     if (btn.classList.contains('btn')) btn.textContent = on ? '♥ 已收藏' : '♡ 收藏';
   });
+  const badge = $('#savedCount');
+  if (badge) {
+    const n = state.saved.size;
+    badge.textContent = n > 99 ? '99+' : String(n);
+    badge.hidden = n === 0;
+  }
 }
 
 function snapshot(item) {
@@ -329,6 +363,12 @@ function bind() {
           like.setAttribute('aria-pressed', state.saved.has(like.dataset.like) ? 'true' : 'false');
         }
       }
+      return;
+    }
+    const follow = e.target.closest('[data-follow]');
+    if (follow) {
+      e.preventDefault();
+      toggleFollow(follow.dataset.follow);
       return;
     }
     const open = e.target.closest('[data-open]');

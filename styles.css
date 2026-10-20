@@ -90,10 +90,14 @@ main{position:relative;z-index:2;max-width:920px;margin:0 auto;padding:0 16px}
   box-shadow:0 18px 40px -18px rgba(43,33,31,.9);max-width:calc(100vw - 20px)}
 .tabbar-btn{background:none;border:0;color:rgba(255,248,241,.58);display:flex;flex-direction:column;align-items:center;
   gap:1px;padding:7px 11px;border-radius:16px;font-size:10px;cursor:pointer;min-width:54px;transition:.18s}
-.tabbar-btn span{font-size:17px;line-height:1.1;filter:grayscale(.35);transition:.18s}
+.tabbar-ico{position:relative;font-size:17px;line-height:1.1;filter:grayscale(.35);transition:.18s}
 .tabbar-btn em{font-style:normal;letter-spacing:.06em}
 .tabbar-btn.is-active{background:rgba(255,248,241,.14);color:#FFF8F1}
-.tabbar-btn.is-active span{filter:none;transform:translateY(-1px) scale(1.06)}
+.tabbar-btn.is-active .tabbar-ico{filter:none;transform:translateY(-1px) scale(1.06)}
+.count-badge{position:absolute;top:-7px;right:-13px;min-width:17px;height:17px;padding:0 4px;border-radius:999px;
+  background:var(--melon);color:#fff;font-size:10px;font-weight:800;font-style:normal;line-height:17px;text-align:center;
+  box-shadow:0 2px 6px -3px rgba(244,85,95,.55);filter:none}
+.count-badge[hidden]{display:none}
 
 /* sheet */
 .sheet-root,.date-root{position:fixed;inset:0;z-index:60;display:flex;align-items:flex-end;justify-content:center}
