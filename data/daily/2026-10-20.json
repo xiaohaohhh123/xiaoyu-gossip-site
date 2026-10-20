@@ -1,0 +1,661 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T01:56:57.372Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 257,
+    "afterFilter": 44,
+    "selected": 13,
+    "domesticSelected": 10,
+    "domesticRatio": 77,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1823
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 667
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 884
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 535
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 644
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 971
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 934
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 950
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1709
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "5458467e77694875",
+    "192b043bdf978385",
+    "462062d73b93e890",
+    "4e4d3170ac8dd811"
+  ],
+  "sections": {
+    "life": [
+      "192b043bdf978385",
+      "dce08c41c4c69e18"
+    ],
+    "romance": [
+      "4e4d3170ac8dd811",
+      "ad8800da5749f896",
+      "600d2fa28f4f983e"
+    ],
+    "oddity": [
+      "462062d73b93e890",
+      "ca5ae84048bae6a0"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "405859b845e5f146",
+      "0388fe7cfc5d6955",
+      "d49d25b175f9e9f7"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-bd021ceea5",
+      "title": "董明珠：格力技工学校禁止谈恋爱",
+      "sources": [
+        "toutiao",
+        "weibo",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 3
+      },
+      "timeline": [
+        {
+          "at": "2026-10-20T01:56:50.359Z",
+          "title": "董明珠：格力技工学校禁止谈恋爱",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7698257860945366591/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698257860945366591%22%2C%22hot_board_impr_id%22%3A%222026102009565073D0963FC9976F3D8457%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%22%7D&rank=&style_id=40132&topic_id=7698257860945366591",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-20T01:56:50.577Z",
+          "title": "董明珠称格力技工学校禁止谈恋爱",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=2&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-20T01:56:51.475Z",
+          "title": "董明珠称格力技工学校禁止谈恋爱",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "a8c6c5a7e4a81e0f"
+    },
+    {
+      "id": "ev-40ca89a23d",
+      "title": "官方辟谣艾滋病患者到济南恶意传播",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-20T01:56:50.359Z",
+          "title": "官方辟谣艾滋病患者到济南恶意传播",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7697899874683109430/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227697899874683109430%22%2C%22hot_board_impr_id%22%3A%222026102009565073D0963FC9976F3D8457%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%88%B0%E6%B5%8E%E5%8D%97%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD%22%7D&rank=&style_id=40132&topic_id=7697899874683109430",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-20T01:56:51.475Z",
+          "title": "官方辟谣艾滋病患者到济南恶意传播",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%88%B0%E6%B5%8E%E5%8D%97%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "11d064f88e751960"
+    }
+  ],
+  "items": [
+    {
+      "id": "5458467e77694875",
+      "title": "儿子年薪百万，却对我们的态度越来越差，他说觉得我们亏待了他，没有给他治病和旅游",
+      "originalTitle": null,
+      "summary": "如题，老jr了70后\n 儿子学的人工智能，在某个大家都认识的平台现在年薪百万了，长得也是一表人材。但我们发现他的脾气越来越差，面对我们越来越没有耐心，也好几年没回过老家了，过年都是我们去他那里玩。\n 有一次我想买个音响，让他买，他买了之后我觉得音响不太好看让他退，他说卖家说非质量问题不能退，我让他和卖家理论一下，他就生气了，让我自己去买过别浪费他时间，然后说他小时候想买什么我们有没有这么爽快的给他买？现在来烦他这点小事\n 我们家就是普通体制内县城，正常小康水平，但我觉得男孩子没必要太富养的确是没给孩子太富裕的物质待遇，但该吃吃喝喝都正常，我就很惊讶问他为什么这么大怨气。",
+      "url": "https://bbs.hupu.com/643063563.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T01:56:50.632Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-f98741c39e"
+    },
+    {
+      "id": "192b043bdf978385",
+      "title": "你最想告诉20岁的自己一句话是什么?",
+      "originalTitle": null,
+      "summary": "20岁的你，可能正在宿舍打游戏，觉得挂一科没什么大不了。\n 可能正在火车站送一个人，笑着说“到了给我打电话”，不知道那是最后一面。\n 可能正在为一点小事跟父母赌气，摔门而出，觉得他们什么都不懂。\n 也可能正站在人生的岔路口，觉得选哪条都行，反正年轻。\n \n 你现在最想隔着时间，拍着那个年轻人的肩膀，告诉他的那一句话是什么？ \n 来回帖区和JRs一起聊聊！",
+      "url": "https://bbs.hupu.com/643068740.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T01:56:50.632Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-895220fb55"
+    },
+    {
+      "id": "462062d73b93e890",
+      "title": "网红王扁重庆街头遇袭，行凶者疑似其前经纪人",
+      "originalTitle": null,
+      "summary": "遇袭事件发生在2026年10月17日晚9时许，当时王扁在重庆观音桥附近摆摊，突然遭一名男子持械袭击头部，整个过程持续约10分钟，肇事者被警方当场控制。\n \n 根据多家媒体报道和现场目击者描述，行凶者疑似是王扁的前经纪人，冲突原因可能涉及直播分红等经济纠纷，不过这一说法尚未得到官方最终证实。",
+      "url": "https://bbs.hupu.com/643066864.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T01:56:50.632Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-05e1e88b65"
+    },
+    {
+      "id": "4e4d3170ac8dd811",
+      "title": "董明珠称格力技工学校禁止谈恋爱",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=2&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:50.577Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 3,
+        "platformSources": [
+          "toutiao",
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-bd021ceea5"
+    },
+    {
+      "id": "dce08c41c4c69e18",
+      "title": "今天和女朋友出门遇到个挺膈应的事，想问问兄弟们，如果是你们会怎么处理？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643062764.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:50.632Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-b2320442df"
+    },
+    {
+      "id": "ad8800da5749f896",
+      "title": "女子离婚6天用AI救了前夫一命",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:51.475Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-7a42ad0a52"
+    },
+    {
+      "id": "600d2fa28f4f983e",
+      "title": "浪姐 离婚玄学",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%B5%AA%E5%A7%90+%E7%A6%BB%E5%A9%9A%E7%8E%84%E5%AD%A6&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:51.475Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-8169eb81fc"
+    },
+    {
+      "id": "ca5ae84048bae6a0",
+      "title": "广州一村每人发3.65元补偿款",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698343072161120294/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698343072161120294%22%2C%22hot_board_impr_id%22%3A%222026102009565073D0963FC9976F3D8457%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E5%B7%9E%E4%B8%80%E6%9D%91%E6%AF%8F%E4%BA%BA%E5%8F%913.65%E5%85%83%E8%A1%A5%E5%81%BF%E6%AC%BE%22%7D&rank=&style_id=40132&topic_id=7698343072161120294",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/f8c9a0302cfc4741bb8c4c4c4d527f97~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=Q6UzX4ZB7e1dwg%2BDdgLXncMh2%2Bo%3D",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:50.359Z",
+      "timeBasis": "fetch",
+      "heat": 2835749,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-8718e248f3"
+    },
+    {
+      "id": "405859b845e5f146",
+      "title": "Halle Berry’s daughter, Nahla, set to testify in emotional mom’s abuse case",
+      "originalTitle": null,
+      "summary": "Aubry, 18, previously stated she never saw her mom abuse Maceo, 13, \"in any way.\"",
+      "url": "https://pagesix.com/2026/10/19/celebrity-news/halle-berrys-daughter-nahla-set-to-testify-in-moms-abuse-case/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fhalle-berry-van-hunt-seen-145727505_b69add.jpg?w%3D704",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-19T23:49:54.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-22f0657e05"
+    },
+    {
+      "id": "0388fe7cfc5d6955",
+      "title": "Jennifer Lopez and Brett Goldstein are ‘casually’ dating",
+      "originalTitle": null,
+      "summary": "The pair were spotted arriving at — and leaving — a talent manager's party in Los Angeles on Oct. 16.",
+      "url": "https://pagesix.com/2026/10/19/celebrity-news/jennifer-lopez-and-brett-goldstein-are-casually-dating/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbrett-goldstein-jennifer-lopez-attend-145750876.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-19T22:10:53.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-6e196bb2c1"
+    },
+    {
+      "id": "d49d25b175f9e9f7",
+      "title": "TikToker Dakota Harper Blames Ex for Landing Him Behind Bars",
+      "originalTitle": null,
+      "summary": "TikToker Dakota Harper says it's all his ex's fault he's been busted for arson ... essentially calling her a bad influence.",
+      "url": "https://www.tmz.com/2026/10/19/dakota-harper-blames-felicity-eatmon-for-arrest/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-20T00:41:43.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-d1ec0291df"
+    },
+    {
+      "id": "a8c6c5a7e4a81e0f",
+      "title": "董明珠：格力技工学校禁止谈恋爱",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698257860945366591/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698257860945366591%22%2C%22hot_board_impr_id%22%3A%222026102009565073D0963FC9976F3D8457%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1%22%7D&rank=&style_id=40132&topic_id=7698257860945366591",
+      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/a9393235-611b-45f0-bff8-e017b44c0382~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=YwvXLKFVO%2BQJ8PRkk34ZB%2FLo8AI%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:50.359Z",
+      "timeBasis": "fetch",
+      "heat": 17155285,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 3,
+        "platformSources": [
+          "toutiao",
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-bd021ceea5"
+    },
+    {
+      "id": "11d064f88e751960",
+      "title": "官方辟谣艾滋病患者到济南恶意传播",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7697899874683109430/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227697899874683109430%22%2C%22hot_board_impr_id%22%3A%222026102009565073D0963FC9976F3D8457%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%89%BE%E6%BB%8B%E7%97%85%E6%82%A3%E8%80%85%E5%88%B0%E6%B5%8E%E5%8D%97%E6%81%B6%E6%84%8F%E4%BC%A0%E6%92%AD%22%7D&rank=&style_id=40132&topic_id=7697899874683109430",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/2787a9bb7b7a4673853c992d4d905d19~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795046400&x-signature=STuxC%2FghlWocPctrUzGDI53RFzo%3D",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-20T01:56:50.359Z",
+      "timeBasis": "fetch",
+      "heat": 9415020,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 12,
+      "ruleScore": 12,
+      "eventId": "ev-40ca89a23d"
+    }
+  ]
+}
