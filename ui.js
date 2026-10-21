@@ -43,10 +43,12 @@ export function relTime(iso) {
 const CAT_LABEL = { family: '家长里短', romance: '婚恋狗血', oddity: '奇闻现场', scene: '离谱现场', twist: '反转后续', entertainment: '娱乐八卦', overseas: '海外瓜田', 'overseas-ent': '海外瓜田', life: '生活百态', gossip: '娱乐八卦', other: '新鲜事' };
 export function catLabel(cat) { return CAT_LABEL[cat] || '新鲜事'; }
 
-/* 内容性质：完全由现有字段推导（fact.mediaCount / sourceName），不编造、不臆测 */
+/* 内容性质：完全由现有字段推导（fact.mediaCount / sourceName），不编造、不臆测。
+   mc 是独立媒体域名数：>=2 才能说"多家"，==1 只能说"单一媒体"，不能混淆。 */
 export function natureOf(item) {
   const mc = (item.fact && item.fact.mediaCount) || 0;
-  if (mc > 0) return { key: 'media', text: '媒体报道', title: '有多家独立媒体报道核实' };
+  if (mc >= 2) return { key: 'media', text: '媒体报道', title: '多家独立媒体报道核实' };
+  if (mc === 1) return { key: 'media', text: '媒体报道', title: '单一媒体报道，未见其他媒体跟进' };
   const name = item.sourceName || '';
   if (/热帖|小组|豆瓣|贴吧|论坛|社区|热议/.test(name)) return { key: 'user', text: '网友自述', title: '来自网友自述，未经媒体核实，请以原文为准' };
   return { key: 'topic', text: '热榜话题', title: '仅出现在热榜，未经媒体核实，请以原文为准' };
