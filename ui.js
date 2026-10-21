@@ -178,7 +178,7 @@ export function seriesHTML(ev, index, following) {
       + '<a class="tl-link" href="' + esc(t.url) + '" target="_blank" rel="noopener noreferrer nofollow">看这条 ↗</a></li>';
   }).join('');
   const followBtn = '<button class="follow-btn' + (following ? ' is-on' : '') + '" type="button" data-follow="' + esc(ev.id) + '" aria-pressed="' + (following ? 'true' : 'false') + '">'
-    + (following ? '🔔 追更中' : '🔔 追这条瓜') + '</button>';
+    + (following ? '📌 已关注' : '📌 关注这条瓜') + '</button>';
   return '<article class="card series-card" style="--i:' + index + '">'
     + '<div class="tl-head"><span class="chip cat cat-gossip">连续追瓜</span>'
     + '<span class="chip fact fact-' + esc((ev.fact && ev.fact.key) || 'platform') + '">' + esc(factLabel) + '</span>'
@@ -186,7 +186,7 @@ export function seriesHTML(ev, index, following) {
     + '<h3><a href="#" data-open="' + esc(ev.itemId) + '">' + esc(ev.title) + '</a></h3>'
     + '<ol class="timeline">' + tl + '</ol>'
     + '<div class="series-foot">' + followBtn
-    + '<span class="follow-hint">追更只保存在这台设备上，有新进展会在时间线里标出，不会发消息提醒</span></div></article>';
+    + '<span class="follow-hint">关注只保存在这台设备上，方便下次打开时接着看这件事的时间线，不会发消息提醒</span></div></article>';
 }
 
 export function sheetHTML(item, ev, saved, dateLabel) {

@@ -47,17 +47,17 @@ function persistFollow() {
 function toggleFollow(evId) {
   if (state.following.has(evId)) {
     state.following.delete(evId);
-    toast('已取消追更');
+    toast('已取消关注');
   } else {
     state.following.add(evId);
-    toast('追更成功，有新进展会标出来 🔔');
+    toast('已关注，只保存在这台设备 📌');
   }
   persistFollow();
   document.querySelectorAll('[data-follow="' + evId + '"]').forEach((btn) => {
     const on = state.following.has(evId);
     btn.classList.toggle('is-on', on);
     btn.setAttribute('aria-pressed', on ? 'true' : 'false');
-    btn.textContent = on ? '🔔 追更中' : '🔔 追这条瓜';
+    btn.textContent = on ? '📌 已关注' : '📌 关注这条瓜';
   });
 }
 

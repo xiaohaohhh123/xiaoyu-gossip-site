@@ -1,23 +1,23 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T01:44:50.757Z",
+  "generatedAt": "2026-10-21T09:29:20.831Z",
   "timezone": "Asia/Shanghai",
   "meta": {
     "totalCollected": 258,
-    "afterFilter": 35,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "afterFilter": 50,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 3406
+        "ms": 1446
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1185
+        "ms": 643
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1069
+        "ms": 814
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 1669
+        "ms": 500
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 19,
         "error": null,
         "httpStatus": 200,
-        "ms": 958
+        "ms": 593
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1210
+        "ms": 972
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1184
+        "ms": 1179
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1209
+        "ms": 912
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1683
+        "ms": 1400
       }
     ],
     "ai": {
@@ -108,42 +108,38 @@
     "totalSources": 9
   },
   "mustEat": [
-    "17f620ba4932b3cb",
-    "50499abbb08ae492",
-    "bac19efa76f110e1",
-    "48eda093921d0652"
+    "fb5ec457b43b3c83",
+    "b52c219c11093493"
   ],
   "sections": {
     "life": [],
     "romance": [
-      "50499abbb08ae492",
-      "d17b200b28e1b872"
+      "9c895897f85b775d"
     ],
-    "oddity": [
-      "bac19efa76f110e1",
-      "48eda093921d0652"
-    ],
+    "oddity": [],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "f57bc18b765d8e28"
+    ],
     "overseas": [
-      "79e0f0ab2ac041d6",
-      "31f2a796d633541e",
-      "f310768f78525d95"
+      "b52c219c11093493",
+      "d581cece6b1df156",
+      "49608eac89f05c61"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "17f620ba4932b3cb",
-      "title": "中国与阿塞拜疆青年在新疆赴“青春之约”",
+      "id": "fb5ec457b43b3c83",
+      "title": "一男子利用电动车藏匿20千克银粒进境 被海关查获",
       "originalTitle": null,
-      "summary": "中新社乌鲁木齐10月20日电 (记者 苟继鹏)“我见过机器人，但像这样能跳街舞、表演中国功夫的机器人还是第一次见到。”阿塞拜疆纳希切万国立大学学生侯赛因·塔希罗夫20日在乌鲁木齐市接受中新社记者采访时说。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718097.shtml",
+      "summary": "中新网10月21日电 据“海关发布”微信公众号21日消息，10月13日，一男子利用电动车藏匿20千克银粒经拱北口岸进境，被拱北海关所属闸口海关当场查获。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718528.shtml",
       "image": "",
       "category": "oddity",
-      "topicClass": "oddity",
+      "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-10-20T13:17:18.000Z",
+      "publishedAt": "2026-10-21T07:49:33.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -163,225 +159,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 77,
-      "ruleScore": 77,
-      "eventId": "ev-1898af5d37"
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-a9e1ae87d2"
     },
     {
-      "id": "50499abbb08ae492",
-      "title": "“目的地婚礼”爆火",
+      "id": "b52c219c11093493",
+      "title": "Dale Arden in 'Flash Gordon' Movie 'Memba Her?!",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%A9%9A%E7%A4%BC%E2%80%9D%E7%88%86%E7%81%AB&sa=fyb_news",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T01:44:44.689Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-130f1ceebe"
-    },
-    {
-      "id": "bac19efa76f110e1",
-      "title": "队旗缝进百褶裙夹层",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E9%98%9F%E6%97%97%E7%BC%9D%E8%BF%9B%E7%99%BE%E8%A4%B6%E8%A3%99%E5%A4%B9%E5%B1%82&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T01:44:44.689Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-17f4218f90"
-    },
-    {
-      "id": "48eda093921d0652",
-      "title": "1V9，堪比2016年南海对峙事件？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643108912.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T01:44:42.524Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-72635cd24b"
-    },
-    {
-      "id": "d17b200b28e1b872",
-      "title": "观众对打小三斗渣男剧情审美疲劳了吗",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698594688470859818/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698594688470859818%22%2C%22hot_board_impr_id%22%3A%22202610210944426AF9228310762A338186%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%82%E4%BC%97%E5%AF%B9%E6%89%93%E5%B0%8F%E4%B8%89%E6%96%97%E6%B8%A3%E7%94%B7%E5%89%A7%E6%83%85%E5%AE%A1%E7%BE%8E%E7%96%B2%E5%8A%B3%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7698594688470859818",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/f0c6e88eaf5c4b4b8355351e9044c7cc~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795132800&x-signature=Izdw6cYBM16oJaa3Hu6%2FWA%2FILNA%3D",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T01:44:42.515Z",
-      "timeBasis": "fetch",
-      "heat": 3400249,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 43,
-      "ruleScore": 43,
-      "eventId": "ev-2f3a2bdf6e"
-    },
-    {
-      "id": "79e0f0ab2ac041d6",
-      "title": "Tyler Cameron and fiancée Tate Madden reveal pregnancy in emotional ‘Dedication Night’ routine on ‘DWTS’",
-      "originalTitle": null,
-      "summary": "The \"Bachelorette\" alum proposed to Madden in August.",
-      "url": "https://pagesix.com/2026/10/20/entertainment/tyler-cameron-reveals-fiancee-tate-madden-is-pregnant-on-dwts/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fyler-cameron-fianc-e-tate-145856039.jpg?w%3D768",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-21T01:42:28.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-a0ae37e9be"
-    },
-    {
-      "id": "31f2a796d633541e",
-      "title": "Jordyn Woods debuts new version of lucky Knicks bag at home opener",
-      "originalTitle": null,
-      "summary": "The model's iconic lucky bag got a shiny new upgrade.",
-      "url": "https://pagesix.com/2026/10/20/style/jordyn-woods-debuts-new-version-of-lucky-knicks-bag-at-home-opener/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fjordyn-woods-debuts-new-version-145900044.jpg?w%3D576",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-21T01:27:05.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-f1c3edfdd1"
-    },
-    {
-      "id": "f310768f78525d95",
-      "title": "Olivier Martinez Spotted Smoking Outside of Court Amid Halle Berry Custody Battle",
-      "originalTitle": null,
-      "summary": "Looks like Olivier Martinez is lighting up to take the edge off amid his custody battle with Halle Berry ... because cameras caught him smoking outside court.",
-      "url": "https://www.tmz.com/2026/10/20/halle-berry-ex-olivier-martinez-smoking-outside-of-court/",
+      "summary": "Former Canadian actress Melody Anderson was in her mid 20s when she played Dale -- the travel agent babe who turned into the galactic warrior -- in the cult 1980 film adaptation of the comic \"Flash Gordon.\" Guess what sh…",
+      "url": "https://www.tmz.com/2026/10/21/melody-anderson-as-dale-arden-in-flash-gordon-movie/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-21T01:07:47.000Z",
+      "publishedAt": "2026-10-21T07:01:27.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -401,9 +193,145 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-2725d7af61"
+    },
+    {
+      "id": "9c895897f85b775d",
+      "title": "毛不易在朋友婚礼上的致辞",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E%23&t=31&band_rank=17&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-21T09:29:14.687Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-a2f3dd226a"
+    },
+    {
+      "id": "f57bc18b765d8e28",
+      "title": "男子造谣“艺人肖某演唱会第一排门票25万元”被依法查处",
+      "originalTitle": null,
+      "summary": "中新网10月21日电 据公安部网安局微信公众号消息，近日，网传“艺人肖某演唱会第一排门票25万元”，相关消息引发网民热议。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718374.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-21T03:55:28.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 24,
+      "ruleScore": 24,
+      "eventId": "ev-c17ed71882"
+    },
+    {
+      "id": "d581cece6b1df156",
+      "title": "How ‘Dancing With the Stars’ acknowledged Val Chmerkovskiy’s suspension drama on ‘Dedication Night’",
+      "originalTitle": null,
+      "summary": "Chmerkovskiy made the controversial post in an attempt to defend his wife, Jenna Johnson, from Inaba's criticism.",
+      "url": "https://pagesix.com/2026/10/20/entertainment/how-dwts-acknowledged-val-chmerkovskiys-suspension-on-dedication-night/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fval-chmerkovskiy-attends-sports-illustrated-145714880_484f75.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-21T03:18:51.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-bdfaba2f42"
+      "eventId": "ev-7a2c51f38d"
+    },
+    {
+      "id": "49608eac89f05c61",
+      "title": "Eyewitness details Taylor Swift’s testy confrontation with fan who filmed her at Chiefs game",
+      "originalTitle": null,
+      "summary": "Swift was seen directing a fan's attention to the field during Sunday's Chiefs game.",
+      "url": "https://pagesix.com/2026/10/20/entertainment/eyewitness-reports-taylor-swifts-fan-confrontation-at-chiefs-game/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Ftaylor-swift-caitlin-clark-watch-145642810.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-21T02:07:11.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-98c9617fbf"
     }
   ]
 }
