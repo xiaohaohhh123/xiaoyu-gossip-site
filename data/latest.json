@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T09:32:40.915Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-22T17:30:01.377Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 254,
-    "afterFilter": 34,
-    "selected": 6,
-    "domesticSelected": 3,
-    "domesticRatio": 50,
+    "totalCollected": 264,
+    "afterFilter": 38,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1493
+        "ms": 4703
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1085
+        "ms": 1846
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 949
+        "ms": 1309
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 721
+        "ms": 1578
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 802
+        "ms": 1097
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 941
+        "ms": 1434
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 944
+        "ms": 1441
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 929
+        "ms": 1365
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1378
+        "ms": 2036
       }
     ],
     "ai": {
@@ -108,38 +108,45 @@
     "totalSources": 9
   },
   "mustEat": [
-    "6b341c115f7f4cdd",
-    "7b23311b6b53259f"
+    "a586043493ab7cb4",
+    "7e51a06ad5bb50af",
+    "34fca5008445b244"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "abedd52e4929529b"
+    ],
     "romance": [
-      "7dc3a28409f28723"
+      "e78f144c204c3c6e"
     ],
     "oddity": [
-      "9cedfa2d663c3f0b"
+      "7e51a06ad5bb50af",
+      "abefe4d5e905dae7"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "af2c6c0e91e4c67f",
+      "ac47e31a5f11ba74"
+    ],
     "overseas": [
-      "7b23311b6b53259f",
-      "8bc0df6d7e0ee3a4",
-      "a897572789909ffd"
+      "34fca5008445b244",
+      "9d7bf9a87fd769e0",
+      "cc9134cba2990888"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "6b341c115f7f4cdd",
-      "title": "我这算是拿到大结果了吗",
+      "id": "a586043493ab7cb4",
+      "title": "“人怎么能聪明到这种程度！”男子捡到38000元留了道题给失主",
       "originalTitle": null,
-      "summary": "楼主谈恋爱已有0.5坤年，恋爱前后见了应该有30+女孩，对我有兴趣的女生大概10+。下面是楼主近期在xhs认识的女生，最后一个是女友，祝大家顺利！",
-      "url": "https://bbs.hupu.com/643123022.html",
+      "summary": "10月19日，湖北襄阳一男子在楼下捡到一个包，里面装有身份证、银行卡、车钥匙，还有3.8万元现金。\n 随后，男子写了一则失物招领贴在楼栋电梯里：他把自己手机号的后4位隐去，提示需用失主身份证号码里的4个特定数字补齐。\n 如此一来，能成功拨通电话认领物品的，大概率就是真正的失主。\n 网友纷纷为这个办法点赞，感慨“人怎么能聪明到这种程度！”既能核验身份，也能避免自己被无关人员骚扰。",
+      "url": "https://bbs.hupu.com/643133730.html",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-22T09:32:34.702Z",
+      "publishedAt": "2026-10-22T17:29:52.064Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -159,21 +166,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 80,
-      "ruleScore": 80,
-      "eventId": "ev-82ede55da4"
+      "score": 84,
+      "ruleScore": 84,
+      "eventId": "ev-f682faa6b9"
     },
     {
-      "id": "7b23311b6b53259f",
-      "title": "Guess Who This Costume Kid Turned Into!",
+      "id": "7e51a06ad5bb50af",
+      "title": "天津北辰法院发布建设工程审判白皮书 破解工程价款结算难题",
       "originalTitle": null,
-      "summary": "Before this sweet girl turned into a Disney star, she was just dressing up as Belle from \"Beauty and the Beast.\" In 2015, she played the daughter of the Evil Queen in Disney's musical fantasty film \"Descendants.\" She hit…",
-      "url": "https://www.tmz.com/2026/10/22/guess-who-this-costume-kid-turned-into/",
+      "summary": "中新网天津10月22日电 (记者 江莹)建设工程纠纷案情复杂、涉案标的大，直接关乎建筑市场秩序与市场主体权益保障。21日，天津市北辰区人民法院召开建设工程审判工作新闻发布会，发布《建设工程合同纠纷审判白皮书》及8起典型案例，梳理近三年案件审理态势，明确司法裁判导向，以司法力量护航辖区法治化营商环境建设。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719413.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-22T14:09:14.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-755960264f"
+    },
+    {
+      "id": "34fca5008445b244",
+      "title": "温迪·威廉姆斯疯狂购物",
+      "originalTitle": "Wendy Williams Hits Old Navy for a Shopping Spree",
+      "summary": "温迪·威廉姆斯在纽约疯狂购物……看起来她储备了蓝色牛仔裤。照片让温迪周三晚上在时代广场的 Old Navy 购物......",
+      "url": "https://www.tmz.com/2026/10/22/wendy-williams-shopping-at-old-navy/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-22T07:01:51.000Z",
+      "publishedAt": "2026-10-22T17:26:07.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -192,22 +233,22 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
-      "score": 4,
-      "ruleScore": 4,
-      "eventId": "ev-202a986ef9"
+      "translated": true,
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-c02a85f83b"
     },
     {
-      "id": "7dc3a28409f28723",
-      "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？",
+      "id": "abedd52e4929529b",
+      "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/2096547342124172821",
+      "url": "https://www.zhihu.com/question/2096553146264674983",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-22T09:32:34.698Z",
+      "publishedAt": "2026-10-22T17:29:52.055Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "zhihu",
@@ -229,29 +270,29 @@
       "translated": false,
       "score": 57,
       "ruleScore": 57,
-      "eventId": "ev-536c1c9724"
+      "eventId": "ev-cc4a7cecb2"
     },
     {
-      "id": "9cedfa2d663c3f0b",
-      "title": "女子叫了辆顺风车司机竟然是自己",
+      "id": "e78f144c204c3c6e",
+      "title": "婚礼发言说虽然不是我的妻子",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%8F%AB%E4%BA%86%E8%BE%86%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%AB%9F%E7%84%B6%E6%98%AF%E8%87%AA%E5%B7%B1&sa=fyb_news",
+      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E8%AF%B4%E8%99%BD%E7%84%B6%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90&t=31&band_rank=11&Refer=top",
       "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-22T09:32:35.207Z",
+      "publishedAt": "2026-10-22T17:29:51.925Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -261,55 +302,123 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-aa36f10617"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-241499f884"
     },
     {
-      "id": "8bc0df6d7e0ee3a4",
-      "title": "Zach Bryan admits he drank ‘15 beers a day’ as part of ‘perfect routine’ before quitting alcohol",
+      "id": "abefe4d5e905dae7",
+      "title": "媒体：莫让冲突切片消解内容本意",
       "originalTitle": null,
-      "summary": "The country star told Matthew McConaughey his drinking led to severe panic attacks before he quit alcohol.",
-      "url": "https://pagesix.com/2026/10/22/entertainment/zach-bryan-admits-he-drank-15-beers-a-day-as-part-of-perfect-routine-before-quitting-alcohol/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fzach-bryan-admits-drank-15-146053133.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7698746379619303478/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698746379619303478%22%2C%22hot_board_impr_id%22%3A%2220261023012952BF758A716BB1588199BE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E8%8E%AB%E8%AE%A9%E5%86%B2%E7%AA%81%E5%88%87%E7%89%87%E6%B6%88%E8%A7%A3%E5%86%85%E5%AE%B9%E6%9C%AC%E6%84%8F%22%7D&rank=&style_id=40132&topic_id=7698746379619303478",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8caae729fa8e48f1af45134628a36e0e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795219200&x-signature=prU2nSmnliCMHTGueZAbWHy8vp0%3D",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-22T17:29:52.460Z",
+      "timeBasis": "fetch",
+      "heat": 524054,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-8238f7e438"
+    },
+    {
+      "id": "af2c6c0e91e4c67f",
+      "title": "从工作一线走上T台 2026成都职工工装风尚T台秀举行",
+      "originalTitle": null,
+      "summary": "中新网成都10月22日电(祝欢)22日，“匠心织造·工装风尚”2026成都职工工装风尚T台秀正式开秀。劳模工匠、企业职工、行业代表穿上工装，依次走上红毯，工装不再是车间和柜面后的“制服背景”，而被放上主舞台中央。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719324.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-10-22T07:32:04.000Z",
+      "publishedAt": "2026-10-22T12:33:37.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "chinanews.com.cn"
         ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-51f3a5c43a"
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-defe13a909"
     },
     {
-      "id": "a897572789909ffd",
-      "title": "Unpacking the ‘Glee’ curse as the show sets its shocking return",
+      "id": "ac47e31a5f11ba74",
+      "title": "2026年福建“村歌”美育活动在福州闽清举行",
       "originalTitle": null,
-      "summary": "A series of tragedies and scandals have haunted the original cast of \"Glee\" through the years.",
-      "url": "https://pagesix.com/entertainment/what-to-know-about-the-glee-curse/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Flea-michele-chris-colfer-amber-145977560_6e07d1.jpg",
+      "summary": "中新网福州10月22日电 (叶秋云)2026年福建“村歌”美育活动暨“心上莲”乡村音乐综艺22日在福州闽清县上莲乡启幕。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719411.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-22T14:05:14.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-1c9f3f0750"
+    },
+    {
+      "id": "9d7bf9a87fd769e0",
+      "title": "艾比·李·米勒在轮椅据称抵达“碎片”后抨击美国航空“糟糕”",
+      "originalTitle": "Abby Lee Miller blasts ‘awful’ American Airlines after wheelchair allegedly arrives ‘in pieces’",
+      "summary": "这并不是米勒第一次与该航空公司提出异议。",
+      "url": "https://pagesix.com/2026/10/22/celebrity-news/abby-lee-miller-blasts-awful-american-airlines/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F10-21-26-cathy-nesbitt-146089942.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-22T02:06:22.000Z",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-22T17:29:37.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -328,10 +437,44 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-a9fdbd1378"
+      "eventId": "ev-8be0bb4bdb"
+    },
+    {
+      "id": "cc9134cba2990888",
+      "title": "乔治王子离家前往伊顿公学后，凯特·米德尔顿分享了他苦乐参半的最新消息",
+      "originalTitle": "Kate Middleton shares bittersweet update on Prince George after he leaves home for Eton College",
+      "summary": "威尔士王子和王妃上个月将他们的大儿子送到了寄宿学校。",
+      "url": "https://pagesix.com/2026/10/22/royal-family/kate-middleton-shares-bittersweet-update-on-prince-george-after-he-leaves-home-for-eton-college/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fprince-william-prince-wales-r-146091195.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-22T16:54:37.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-16157afdc3"
     }
   ]
 }
