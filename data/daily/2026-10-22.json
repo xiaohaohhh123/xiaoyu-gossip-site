@@ -1,13 +1,13 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-21T17:33:34.529Z",
+  "generatedAt": "2026-10-22T09:32:40.915Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 267,
-    "afterFilter": 44,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 254,
+    "afterFilter": 34,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2089
+        "ms": 1493
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1019
+        "ms": 1085
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 983
+        "ms": 949
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 770
+        "ms": 721
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 840
+        "ms": 802
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1157
+        "ms": 941
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1085
+        "ms": 944
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1096
+        "ms": 929
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1464
+        "ms": 1378
       }
     ],
     "ai": {
@@ -108,40 +108,38 @@
     "totalSources": 9
   },
   "mustEat": [
-    "36da924a0bd8f210",
-    "13daf6b9971c43dd"
+    "6b341c115f7f4cdd",
+    "7b23311b6b53259f"
   ],
   "sections": {
-    "life": [
-      "7f51a4978939a86a"
-    ],
+    "life": [],
     "romance": [
-      "73d1b1fc40bd84d0"
+      "7dc3a28409f28723"
     ],
     "oddity": [
-      "53fcf37709f2185d"
+      "9cedfa2d663c3f0b"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "13daf6b9971c43dd",
-      "74b2ef601c0503a7",
-      "d00b44668088ae24"
+      "7b23311b6b53259f",
+      "8bc0df6d7e0ee3a4",
+      "a897572789909ffd"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "36da924a0bd8f210",
-      "title": "有没有老哥愿意花20w彩礼娶我，包生儿子️",
+      "id": "6b341c115f7f4cdd",
+      "title": "我这算是拿到大结果了吗",
       "originalTitle": null,
-      "summary": "本人94年，身高168，身材前凸后翘，肤白，长相中等，本科毕业，高中教师，身体非常健康，无同居史，父母事业编已退休，名下有房有车。\n 希望您是90后，身高175以上，长相端正，有一份稳定工作，收入不低于2w，异地也可，每个月给我和孩子起码1w生活费。\n 接受闪婚，希望婚前双方一起去三甲医院做全方面体检并交换体检报告和征信报告。这个年纪谈不明白了，只想找个有点能力的搭子共同抚育后代。",
-      "url": "https://bbs.hupu.com/643069968.html",
+      "summary": "楼主谈恋爱已有0.5坤年，恋爱前后见了应该有30+女孩，对我有兴趣的女生大概10+。下面是楼主近期在xhs认识的女生，最后一个是女友，祝大家顺利！",
+      "url": "https://bbs.hupu.com/643123022.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-21T17:33:28.412Z",
+      "publishedAt": "2026-10-22T09:32:34.702Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -161,191 +159,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 88,
-      "ruleScore": 88,
-      "eventId": "ev-cdc1513677"
+      "score": 80,
+      "ruleScore": 80,
+      "eventId": "ev-82ede55da4"
     },
     {
-      "id": "13daf6b9971c43dd",
-      "title": "Amanda Seyfried gives rare insight into co-parenting with ex Thomas Sadoski after shock split",
+      "id": "7b23311b6b53259f",
+      "title": "Guess Who This Costume Kid Turned Into!",
       "originalTitle": null,
-      "summary": "News broke last month that the actress and her husband called it quits after nearly a decade of marriage and two kids -- Nina, 9, and Thomas, 6.",
-      "url": "https://pagesix.com/2026/10/21/parents/amanda-seyfried-gives-rare-insight-into-co-parenting-with-ex-thomas-sadoski-after-split/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famanda-seyfried-thomas-sadoski-pose-145953523.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-21T16:43:07.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-5764abaf9c"
-    },
-    {
-      "id": "7f51a4978939a86a",
-      "title": "孩子哭闹别拿手机哄娃",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E5%93%AD%E9%97%B9%E5%88%AB%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%93%84%E5%A8%83&sa=fyb_news",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T17:33:29.338Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-229658c930"
-    },
-    {
-      "id": "73d1b1fc40bd84d0",
-      "title": "和比较有好感的女孩的对话，讨论结婚后双方对家庭付出的看法。",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643103965.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T17:33:28.412Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-e0ff27c2e5"
-    },
-    {
-      "id": "53fcf37709f2185d",
-      "title": "解放军“围观”美日演习？学者解读",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699022518941650482/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699022518941650482%22%2C%22hot_board_impr_id%22%3A%222026102201332807E1E6DED384F55C4BB5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%A3%E6%94%BE%E5%86%9B%E2%80%9C%E5%9B%B4%E8%A7%82%E2%80%9D%E7%BE%8E%E6%97%A5%E6%BC%94%E4%B9%A0%EF%BC%9F%E5%AD%A6%E8%80%85%E8%A7%A3%E8%AF%BB%22%7D&rank=&style_id=40132&topic_id=7699022518941650482",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e8263d83a9514b198c460431321736ad~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795132800&x-signature=%2FjC9BItMFfsAMjEP9%2F74e5jDtuw%3D",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-21T17:33:28.336Z",
-      "timeBasis": "fetch",
-      "heat": 666908,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-a0e6c3ea66"
-    },
-    {
-      "id": "74b2ef601c0503a7",
-      "title": "Ron Howard details extreme measures he took to evade fans during ‘Happy Days’ heyday",
-      "originalTitle": null,
-      "summary": "Howard starred as Richie Cunningham on the hit sitcom before leaving ahead of its eighth season in 1980 to pursue directing full-time.",
-      "url": "https://pagesix.com/2026/10/21/celebrity-news/ron-howard-details-extreme-measures-he-took-to-evade-fans-during-happy-days-heyday/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fdirector-ron-howard-seen-2026-144566710.jpg?w%3D805",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-21T16:23:49.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-2ba26782bd"
-    },
-    {
-      "id": "d00b44668088ae24",
-      "title": "TMZ, NYP 'The Low Down:' Breaking Down the Federal Investigation Into Ilhan Omar",
-      "originalTitle": null,
-      "summary": "Rep. Ilhan Omar is in the federal government's crosshairs ... but whether that's the Trump administration's fault or Democrats' own past actions is up for debate.",
-      "url": "https://www.tmz.com/2026/10/21/ilhan-omar-federal-investigation-breakdown/",
+      "summary": "Before this sweet girl turned into a Disney star, she was just dressing up as Belle from \"Beauty and the Beast.\" In 2015, she played the daughter of the Evil Queen in Disney's musical fantasty film \"Descendants.\" She hit…",
+      "url": "https://www.tmz.com/2026/10/22/guess-who-this-costume-kid-turned-into/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-21T16:16:19.000Z",
+      "publishedAt": "2026-10-22T07:01:51.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -365,9 +193,145 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-202a986ef9"
+    },
+    {
+      "id": "7dc3a28409f28723",
+      "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2096547342124172821",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-22T09:32:34.698Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-536c1c9724"
+    },
+    {
+      "id": "9cedfa2d663c3f0b",
+      "title": "女子叫了辆顺风车司机竟然是自己",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%8F%AB%E4%BA%86%E8%BE%86%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%AB%9F%E7%84%B6%E6%98%AF%E8%87%AA%E5%B7%B1&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-22T09:32:35.207Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-aa36f10617"
+    },
+    {
+      "id": "8bc0df6d7e0ee3a4",
+      "title": "Zach Bryan admits he drank ‘15 beers a day’ as part of ‘perfect routine’ before quitting alcohol",
+      "originalTitle": null,
+      "summary": "The country star told Matthew McConaughey his drinking led to severe panic attacks before he quit alcohol.",
+      "url": "https://pagesix.com/2026/10/22/entertainment/zach-bryan-admits-he-drank-15-beers-a-day-as-part-of-perfect-routine-before-quitting-alcohol/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fzach-bryan-admits-drank-15-146053133.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-22T07:32:04.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-136c68ac6b"
+      "eventId": "ev-51f3a5c43a"
+    },
+    {
+      "id": "a897572789909ffd",
+      "title": "Unpacking the ‘Glee’ curse as the show sets its shocking return",
+      "originalTitle": null,
+      "summary": "A series of tragedies and scandals have haunted the original cast of \"Glee\" through the years.",
+      "url": "https://pagesix.com/entertainment/what-to-know-about-the-glee-curse/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Flea-michele-chris-colfer-amber-145977560_6e07d1.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-22T02:06:22.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-a9fdbd1378"
     }
   ]
 }
