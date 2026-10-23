@@ -1,13 +1,13 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-22T17:30:01.377Z",
+  "generatedAt": "2026-10-23T01:41:28.074Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 264,
-    "afterFilter": 38,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 262,
+    "afterFilter": 33,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 4703
+        "ms": 1555
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1846
+        "ms": 603
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1309
+        "ms": 879
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 1578
+        "ms": 415
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1097
+        "ms": 485
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1434
+        "ms": 1014
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1441
+        "ms": 943
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1365
+        "ms": 947
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2036
+        "ms": 858
       }
     ],
     "ai": {
@@ -108,45 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "a586043493ab7cb4",
+    "6b341c115f7f4cdd",
     "7e51a06ad5bb50af",
-    "34fca5008445b244"
+    "b0387e871167aba2"
   ],
   "sections": {
-    "life": [
-      "abedd52e4929529b"
-    ],
+    "life": [],
     "romance": [
       "e78f144c204c3c6e"
     ],
     "oddity": [
       "7e51a06ad5bb50af",
-      "abefe4d5e905dae7"
+      "0e51d50e2e596be2"
     ],
     "twist": [],
     "entertainment": [
-      "af2c6c0e91e4c67f",
       "ac47e31a5f11ba74"
     ],
     "overseas": [
-      "34fca5008445b244",
-      "9d7bf9a87fd769e0",
-      "cc9134cba2990888"
+      "b0387e871167aba2",
+      "baed938366649e6a",
+      "9a5a870628391956"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "a586043493ab7cb4",
-      "title": "“人怎么能聪明到这种程度！”男子捡到38000元留了道题给失主",
+      "id": "6b341c115f7f4cdd",
+      "title": "我这算是拿到大结果了吗",
       "originalTitle": null,
-      "summary": "10月19日，湖北襄阳一男子在楼下捡到一个包，里面装有身份证、银行卡、车钥匙，还有3.8万元现金。\n 随后，男子写了一则失物招领贴在楼栋电梯里：他把自己手机号的后4位隐去，提示需用失主身份证号码里的4个特定数字补齐。\n 如此一来，能成功拨通电话认领物品的，大概率就是真正的失主。\n 网友纷纷为这个办法点赞，感慨“人怎么能聪明到这种程度！”既能核验身份，也能避免自己被无关人员骚扰。",
-      "url": "https://bbs.hupu.com/643133730.html",
+      "summary": "楼主谈恋爱已有0.5坤年，恋爱前后见了应该有30+女孩，对我有兴趣的女生大概10+。下面是楼主近期在xhs认识的女生，最后一个是女友，祝大家顺利！",
+      "url": "https://bbs.hupu.com/643123022.html",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-22T17:29:52.064Z",
+      "publishedAt": "2026-10-23T01:41:21.256Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -166,9 +163,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 84,
-      "ruleScore": 84,
-      "eventId": "ev-f682faa6b9"
+      "score": 80,
+      "ruleScore": 80,
+      "eventId": "ev-82ede55da4"
     },
     {
       "id": "7e51a06ad5bb50af",
@@ -200,89 +197,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 79,
-      "ruleScore": 79,
+      "score": 77,
+      "ruleScore": 77,
       "eventId": "ev-755960264f"
     },
     {
-      "id": "34fca5008445b244",
-      "title": "温迪·威廉姆斯疯狂购物",
-      "originalTitle": "Wendy Williams Hits Old Navy for a Shopping Spree",
-      "summary": "温迪·威廉姆斯在纽约疯狂购物……看起来她储备了蓝色牛仔裤。照片让温迪周三晚上在时代广场的 Old Navy 购物......",
-      "url": "https://www.tmz.com/2026/10/22/wendy-williams-shopping-at-old-navy/",
-      "image": "",
+      "id": "b0387e871167aba2",
+      "title": "Brandi Glanville to get ‘face taken off’ for under-skin ‘power wash’ to remove parasite",
+      "originalTitle": null,
+      "summary": "Glanville previously said she has a \"fungal ball\" in her face.",
+      "url": "https://pagesix.com/2026/10/22/entertainment/brandi-glanville-to-get-face-taken-off-for-under-skin-power-wash/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbrandi-glanville-reveals-whopping-6-102877007.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-22T17:26:07.000Z",
+      "publishedAt": "2026-10-23T01:25:43.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-c02a85f83b"
-    },
-    {
-      "id": "abedd52e4929529b",
-      "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.zhihu.com/question/2096553146264674983",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-22T17:29:52.055Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
       "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-cc4a7cecb2"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5d5fd9f6eb"
     },
     {
       "id": "e78f144c204c3c6e",
       "title": "婚礼发言说虽然不是我的妻子",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E8%AF%B4%E8%99%BD%E7%84%B6%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90&t=31&band_rank=11&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E8%AF%B4%E8%99%BD%E7%84%B6%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90&t=31&band_rank=14&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-22T17:29:51.925Z",
+      "publishedAt": "2026-10-23T01:41:21.185Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -307,50 +270,16 @@
       "eventId": "ev-241499f884"
     },
     {
-      "id": "abefe4d5e905dae7",
-      "title": "媒体：莫让冲突切片消解内容本意",
+      "id": "0e51d50e2e596be2",
+      "title": "荒唐一幕：年轻人谎报120，现场对急救人员比耶……生命通道，容不得半点儿戏",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7698746379619303478/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698746379619303478%22%2C%22hot_board_impr_id%22%3A%2220261023012952BF758A716BB1588199BE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E8%8E%AB%E8%AE%A9%E5%86%B2%E7%AA%81%E5%88%87%E7%89%87%E6%B6%88%E8%A7%A3%E5%86%85%E5%AE%B9%E6%9C%AC%E6%84%8F%22%7D&rank=&style_id=40132&topic_id=7698746379619303478",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8caae729fa8e48f1af45134628a36e0e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795219200&x-signature=prU2nSmnliCMHTGueZAbWHy8vp0%3D",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-22T17:29:52.460Z",
-      "timeBasis": "fetch",
-      "heat": 524054,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-8238f7e438"
-    },
-    {
-      "id": "af2c6c0e91e4c67f",
-      "title": "从工作一线走上T台 2026成都职工工装风尚T台秀举行",
-      "originalTitle": null,
-      "summary": "中新网成都10月22日电(祝欢)22日，“匠心织造·工装风尚”2026成都职工工装风尚T台秀正式开秀。劳模工匠、企业职工、行业代表穿上工装，依次走上红毯，工装不再是车间和柜面后的“制服背景”，而被放上主舞台中央。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719324.shtml",
+      "summary": "“这种明目张胆的挑衅我们120，还是第一次遇到的。”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719512.shtml",
       "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-22T12:33:37.000Z",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-23T01:16:11.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -370,9 +299,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 28,
-      "ruleScore": 28,
-      "eventId": "ev-defe13a909"
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-f57c1b5503"
     },
     {
       "id": "ac47e31a5f11ba74",
@@ -404,21 +333,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 25,
-      "ruleScore": 25,
+      "score": 22,
+      "ruleScore": 22,
       "eventId": "ev-1c9f3f0750"
     },
     {
-      "id": "9d7bf9a87fd769e0",
-      "title": "艾比·李·米勒在轮椅据称抵达“碎片”后抨击美国航空“糟糕”",
-      "originalTitle": "Abby Lee Miller blasts ‘awful’ American Airlines after wheelchair allegedly arrives ‘in pieces’",
-      "summary": "这并不是米勒第一次与该航空公司提出异议。",
-      "url": "https://pagesix.com/2026/10/22/celebrity-news/abby-lee-miller-blasts-awful-american-airlines/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F10-21-26-cathy-nesbitt-146089942.jpg",
+      "id": "baed938366649e6a",
+      "title": "Halle Berry’s ex Olivier Martinez doubles down on abuse claims in court showdown",
+      "originalTitle": null,
+      "summary": "The French actor was grilled by Berry’s attorney, Marina Beck, during cross-examination Thursday, marking the fourth consecutive day of proceedings in their ongoing custody dispute and domestic violence restraining order…",
+      "url": "https://pagesix.com/2026/10/22/celebrity-news/halle-berrys-ex-olivier-martinez-doubles-down-on-abuse-claims-in-court-showdown/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fhalle-berry-seen-arrives-stanley-146087337.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-22T17:29:37.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-23T00:40:49.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -437,44 +366,44 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-8be0bb4bdb"
+      "eventId": "ev-ff91f6128e"
     },
     {
-      "id": "cc9134cba2990888",
-      "title": "乔治王子离家前往伊顿公学后，凯特·米德尔顿分享了他苦乐参半的最新消息",
-      "originalTitle": "Kate Middleton shares bittersweet update on Prince George after he leaves home for Eton College",
-      "summary": "威尔士王子和王妃上个月将他们的大儿子送到了寄宿学校。",
-      "url": "https://pagesix.com/2026/10/22/royal-family/kate-middleton-shares-bittersweet-update-on-prince-george-after-he-leaves-home-for-eton-college/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fprince-william-prince-wales-r-146091195.jpg?w%3D1024",
+      "id": "9a5a870628391956",
+      "title": "'RHONY' Star Dorinda Medley's Neighbor Fires Back Over Property Dispute",
+      "originalTitle": null,
+      "summary": "Looks like Dorinda Medley might need Andy Cohen to mediate this fight with her neighbor ... 'cause the neighbor's firing back over the housewife’s lawsuit!",
+      "url": "https://www.tmz.com/2026/10/22/dorinda-medley-court-battle-over-massachusetts-home/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-22T16:54:37.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-23T01:00:29.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-16157afdc3"
+      "eventId": "ev-6a75f474aa"
     }
   ]
 }
