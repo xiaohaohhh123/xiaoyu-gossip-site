@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T01:41:28.074Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T01:44:39.850Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 262,
-    "afterFilter": 33,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 265,
+    "afterFilter": 49,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 51,
+        "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1555
+        "ms": 3043
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 603
+        "ms": 1206
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 879
+        "ms": 1270
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 415
+        "ms": 1088
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 485
+        "ms": 1223
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1014
+        "ms": 1468
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 943
+        "ms": 1407
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 947
+        "ms": 1379
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 858
+        "ms": 2412
       }
     ],
     "ai": {
@@ -108,42 +108,74 @@
     "totalSources": 9
   },
   "mustEat": [
-    "6b341c115f7f4cdd",
-    "7e51a06ad5bb50af",
-    "b0387e871167aba2"
+    "bede02e20ec9b13c",
+    "26013b53f78210a1",
+    "7abd4e210c9e9995"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "26013b53f78210a1"
+    ],
     "romance": [
-      "e78f144c204c3c6e"
+      "1439efba343c8bec"
     ],
     "oddity": [
-      "7e51a06ad5bb50af",
-      "0e51d50e2e596be2"
+      "9506ec88498c3081"
     ],
     "twist": [],
-    "entertainment": [
-      "ac47e31a5f11ba74"
-    ],
+    "entertainment": [],
     "overseas": [
-      "b0387e871167aba2",
-      "baed938366649e6a",
-      "9a5a870628391956"
+      "7abd4e210c9e9995",
+      "913b357b9637c260",
+      "25aa7c5547920f30"
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "id": "ev-e3c0234a27",
+      "title": "独生女继承2亿遗产1年后遭离婚分产",
+      "sources": [
+        "weibo",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-24T01:44:33.388Z",
+          "title": "独生女继承2亿遗产1年后遭离婚分产",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-24T01:44:35.122Z",
+          "title": "独生女继承2亿遗产后遭离婚分财产",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A7%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E8%B4%A2%E4%BA%A7&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "1439efba343c8bec"
+    }
+  ],
   "items": [
     {
-      "id": "6b341c115f7f4cdd",
-      "title": "我这算是拿到大结果了吗",
+      "id": "bede02e20ec9b13c",
+      "title": "我原以为是P友，没想到发展成了情侣关系",
       "originalTitle": null,
-      "summary": "楼主谈恋爱已有0.5坤年，恋爱前后见了应该有30+女孩，对我有兴趣的女生大概10+。下面是楼主近期在xhs认识的女生，最后一个是女友，祝大家顺利！",
-      "url": "https://bbs.hupu.com/643123022.html",
+      "summary": "请各位屌大的情场老手们帮我分析一下这女生到底是什么心理。\n 四年前在朋友婚礼认识该女生，交换了wx，四年间断断续续闲聊，聊得也并不算多。最近的一次联系也是一年前多了，直到最近我点赞了她的朋友圈，她主动来和我打招呼就这样聊回来了。聊天期间我表现出对她有意思后，她不断发一些稍微有点性感的图片给我看，甚至很直言不讳地大尺度讨论起了她和前男友的那点事。于是第一次本来约在酒店喝酒聊天，见面没五分钟直接干柴烈火。回来后我以为她会消停点，没想到的是她多次暗示我们已是情侣关系，这我就想不通了，有先办事后谈恋爱的先例吗[捂脸]\n 现在已经甜蜜呢称叫起来了，但很多时候表现出来确实很真诚不虚情假意。我想不通她追求的是什么。渴望恋爱？还是单纯瘾大",
+      "url": "https://bbs.hupu.com/643167178.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-23T01:41:21.256Z",
+      "publishedAt": "2026-10-24T01:44:33.529Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -163,99 +195,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 80,
-      "ruleScore": 80,
-      "eventId": "ev-82ede55da4"
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-5eda758049"
     },
     {
-      "id": "7e51a06ad5bb50af",
-      "title": "天津北辰法院发布建设工程审判白皮书 破解工程价款结算难题",
+      "id": "26013b53f78210a1",
+      "title": "教孩子以暴制暴对吗？我儿子今天把校霸给扎伤了……JR们怎么看？我倒是不太后悔…",
       "originalTitle": null,
-      "summary": "中新网天津10月22日电 (记者 江莹)建设工程纠纷案情复杂、涉案标的大，直接关乎建筑市场秩序与市场主体权益保障。21日，天津市北辰区人民法院召开建设工程审判工作新闻发布会，发布《建设工程合同纠纷审判白皮书》及8起典型案例，梳理近三年案件审理态势，明确司法裁判导向，以司法力量护航辖区法治化营商环境建设。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719413.shtml",
+      "summary": "儿子4年级，六年级有个学校老大，基本上看哪个孩子不顺眼，就会欺负哪个。\n 儿子跟我讲回来挺害怕的，因为上体育课看见他们抽烟了，上体育课就推搡他了……感觉最近要打我儿子。\n 我说别害怕，别尿他，他们一群人欺负你，你就逮到他一个人打就行，拿笔扎他，但是别扎要害，就扎大腿和屁股。\n 扎完就坐地下哭……\n 结果今天还真发生了，看录像还真是校霸主动挑衅了……我儿子直接扎大腿了！\n 处理了大半天……回来教育了儿子碰见校霸就收拾他，但是绝对不能欺负别人，否则他们校霸就是今天这个下场。\n 孩子她妈说我以暴制暴不对……我反正不认可，学校也不管只能靠自己了\n JR们怎么看？",
+      "url": "https://bbs.hupu.com/643182735.html",
       "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-22T14:09:14.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 77,
-      "ruleScore": 77,
-      "eventId": "ev-755960264f"
-    },
-    {
-      "id": "b0387e871167aba2",
-      "title": "Brandi Glanville to get ‘face taken off’ for under-skin ‘power wash’ to remove parasite",
-      "originalTitle": null,
-      "summary": "Glanville previously said she has a \"fungal ball\" in her face.",
-      "url": "https://pagesix.com/2026/10/22/entertainment/brandi-glanville-to-get-face-taken-off-for-under-skin-power-wash/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbrandi-glanville-reveals-whopping-6-102877007.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-23T01:25:43.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-5d5fd9f6eb"
-    },
-    {
-      "id": "e78f144c204c3c6e",
-      "title": "婚礼发言说虽然不是我的妻子",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E8%AF%B4%E8%99%BD%E7%84%B6%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90&t=31&band_rank=14&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-23T01:41:21.185Z",
+      "publishedAt": "2026-10-24T01:44:33.529Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,123 +229,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-241499f884"
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-6bdd60fbbf"
     },
     {
-      "id": "0e51d50e2e596be2",
-      "title": "荒唐一幕：年轻人谎报120，现场对急救人员比耶……生命通道，容不得半点儿戏",
+      "id": "7abd4e210c9e9995",
+      "title": "Detective Reese In 'Obsessed' 'Memba Her?!",
       "originalTitle": null,
-      "summary": "“这种明目张胆的挑衅我们120，还是第一次遇到的。”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719512.shtml",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-23T01:16:11.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-f57c1b5503"
-    },
-    {
-      "id": "ac47e31a5f11ba74",
-      "title": "2026年福建“村歌”美育活动在福州闽清举行",
-      "originalTitle": null,
-      "summary": "中新网福州10月22日电 (叶秋云)2026年福建“村歌”美育活动暨“心上莲”乡村音乐综艺22日在福州闽清县上莲乡启幕。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719411.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-22T14:05:14.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 22,
-      "ruleScore": 22,
-      "eventId": "ev-1c9f3f0750"
-    },
-    {
-      "id": "baed938366649e6a",
-      "title": "Halle Berry’s ex Olivier Martinez doubles down on abuse claims in court showdown",
-      "originalTitle": null,
-      "summary": "The French actor was grilled by Berry’s attorney, Marina Beck, during cross-examination Thursday, marking the fourth consecutive day of proceedings in their ongoing custody dispute and domestic violence restraining order…",
-      "url": "https://pagesix.com/2026/10/22/celebrity-news/halle-berrys-ex-olivier-martinez-doubles-down-on-abuse-claims-in-court-showdown/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fhalle-berry-seen-arrives-stanley-146087337.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-23T00:40:49.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-ff91f6128e"
-    },
-    {
-      "id": "9a5a870628391956",
-      "title": "'RHONY' Star Dorinda Medley's Neighbor Fires Back Over Property Dispute",
-      "originalTitle": null,
-      "summary": "Looks like Dorinda Medley might need Andy Cohen to mediate this fight with her neighbor ... 'cause the neighbor's firing back over the housewife’s lawsuit!",
-      "url": "https://www.tmz.com/2026/10/22/dorinda-medley-court-battle-over-massachusetts-home/",
+      "summary": "Christine Lahti was in her late 50s when she played Detective Reese in \"Obsessed.\" Her character was investigating the stalker situation between Derek Charles, played by Idris Elba, and Lisa Sheridan, played by Ali Larte…",
+      "url": "https://www.tmz.com/2026/10/23/chrstine-lahti-as-detective-reese-in-obsessed/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-23T01:00:29.000Z",
+      "publishedAt": "2026-10-23T21:00:03.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -401,9 +263,146 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-2443eb0476"
+    },
+    {
+      "id": "1439efba343c8bec",
+      "title": "独生女继承2亿遗产1年后遭离婚分产",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-24T01:44:33.388Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-e3c0234a27"
+    },
+    {
+      "id": "9506ec88498c3081",
+      "title": "钓虾有风险，尤其是带别人的老婆风险更大！笑死我了，这娘们是真彪！",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643172838.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-24T01:44:33.529Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-5d16fa5c91"
+    },
+    {
+      "id": "913b357b9637c260",
+      "title": "Kate Gosselin’s former nanny claims she witnessed abuse of son Collin",
+      "originalTitle": null,
+      "summary": "A former Gosselin family nanny is backing Collin's abuse allegations against his mom, Kate.",
+      "url": "https://pagesix.com/2026/10/23/parents/former-gosselin-family-nanny-backs-collins-allegations-of-abuse/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fcollin-gosselin-seen-segment-good-143168760_a3ae71.jpg?w%3D697",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T01:03:33.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-6a75f474aa"
+      "eventId": "ev-e7ff755bea"
+    },
+    {
+      "id": "25aa7c5547920f30",
+      "title": "Ariana Madix’s LA home burglarized as thieves make off with jewelry",
+      "originalTitle": null,
+      "summary": "The \"Vanderpump Rules\" alum's back door was shattered as the thieves made off with her valuables.",
+      "url": "https://pagesix.com/2026/10/23/celebrity-news/ariana-madixs-la-home-burglarized-as-thieves-make-off-with-jewelry/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fariana-madix-vanderpump-rules-season-146248322.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-23T22:46:43.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-230b35b5dc"
     }
   ]
 }

@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T01:44:39.850Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 265,
+    "afterFilter": 49,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 3043
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1206
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1270
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1088
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1223
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1468
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1407
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1379
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2412
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "bede02e20ec9b13c",
+    "26013b53f78210a1",
+    "7abd4e210c9e9995"
+  ],
+  "sections": {
+    "life": [
+      "26013b53f78210a1"
+    ],
+    "romance": [
+      "1439efba343c8bec"
+    ],
+    "oddity": [
+      "9506ec88498c3081"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "7abd4e210c9e9995",
+      "913b357b9637c260",
+      "25aa7c5547920f30"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-e3c0234a27",
+      "title": "独生女继承2亿遗产1年后遭离婚分产",
+      "sources": [
+        "weibo",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-24T01:44:33.388Z",
+          "title": "独生女继承2亿遗产1年后遭离婚分产",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-24T01:44:35.122Z",
+          "title": "独生女继承2亿遗产后遭离婚分财产",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A7%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E8%B4%A2%E4%BA%A7&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "1439efba343c8bec"
+    }
+  ],
+  "items": [
+    {
+      "id": "bede02e20ec9b13c",
+      "title": "我原以为是P友，没想到发展成了情侣关系",
+      "originalTitle": null,
+      "summary": "请各位屌大的情场老手们帮我分析一下这女生到底是什么心理。\n 四年前在朋友婚礼认识该女生，交换了wx，四年间断断续续闲聊，聊得也并不算多。最近的一次联系也是一年前多了，直到最近我点赞了她的朋友圈，她主动来和我打招呼就这样聊回来了。聊天期间我表现出对她有意思后，她不断发一些稍微有点性感的图片给我看，甚至很直言不讳地大尺度讨论起了她和前男友的那点事。于是第一次本来约在酒店喝酒聊天，见面没五分钟直接干柴烈火。回来后我以为她会消停点，没想到的是她多次暗示我们已是情侣关系，这我就想不通了，有先办事后谈恋爱的先例吗[捂脸]\n 现在已经甜蜜呢称叫起来了，但很多时候表现出来确实很真诚不虚情假意。我想不通她追求的是什么。渴望恋爱？还是单纯瘾大",
+      "url": "https://bbs.hupu.com/643167178.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T01:44:33.529Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-5eda758049"
+    },
+    {
+      "id": "26013b53f78210a1",
+      "title": "教孩子以暴制暴对吗？我儿子今天把校霸给扎伤了……JR们怎么看？我倒是不太后悔…",
+      "originalTitle": null,
+      "summary": "儿子4年级，六年级有个学校老大，基本上看哪个孩子不顺眼，就会欺负哪个。\n 儿子跟我讲回来挺害怕的，因为上体育课看见他们抽烟了，上体育课就推搡他了……感觉最近要打我儿子。\n 我说别害怕，别尿他，他们一群人欺负你，你就逮到他一个人打就行，拿笔扎他，但是别扎要害，就扎大腿和屁股。\n 扎完就坐地下哭……\n 结果今天还真发生了，看录像还真是校霸主动挑衅了……我儿子直接扎大腿了！\n 处理了大半天……回来教育了儿子碰见校霸就收拾他，但是绝对不能欺负别人，否则他们校霸就是今天这个下场。\n 孩子她妈说我以暴制暴不对……我反正不认可，学校也不管只能靠自己了\n JR们怎么看？",
+      "url": "https://bbs.hupu.com/643182735.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T01:44:33.529Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-6bdd60fbbf"
+    },
+    {
+      "id": "7abd4e210c9e9995",
+      "title": "Detective Reese In 'Obsessed' 'Memba Her?!",
+      "originalTitle": null,
+      "summary": "Christine Lahti was in her late 50s when she played Detective Reese in \"Obsessed.\" Her character was investigating the stalker situation between Derek Charles, played by Idris Elba, and Lisa Sheridan, played by Ali Larte…",
+      "url": "https://www.tmz.com/2026/10/23/chrstine-lahti-as-detective-reese-in-obsessed/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-23T21:00:03.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-2443eb0476"
+    },
+    {
+      "id": "1439efba343c8bec",
+      "title": "独生女继承2亿遗产1年后遭离婚分产",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=1&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-24T01:44:33.388Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-e3c0234a27"
+    },
+    {
+      "id": "9506ec88498c3081",
+      "title": "钓虾有风险，尤其是带别人的老婆风险更大！笑死我了，这娘们是真彪！",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643172838.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-24T01:44:33.529Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-5d16fa5c91"
+    },
+    {
+      "id": "913b357b9637c260",
+      "title": "Kate Gosselin’s former nanny claims she witnessed abuse of son Collin",
+      "originalTitle": null,
+      "summary": "A former Gosselin family nanny is backing Collin's abuse allegations against his mom, Kate.",
+      "url": "https://pagesix.com/2026/10/23/parents/former-gosselin-family-nanny-backs-collins-allegations-of-abuse/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fcollin-gosselin-seen-segment-good-143168760_a3ae71.jpg?w%3D697",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T01:03:33.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-e7ff755bea"
+    },
+    {
+      "id": "25aa7c5547920f30",
+      "title": "Ariana Madix’s LA home burglarized as thieves make off with jewelry",
+      "originalTitle": null,
+      "summary": "The \"Vanderpump Rules\" alum's back door was shattered as the thieves made off with her valuables.",
+      "url": "https://pagesix.com/2026/10/23/celebrity-news/ariana-madixs-la-home-burglarized-as-thieves-make-off-with-jewelry/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fariana-madix-vanderpump-rules-season-146248322.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-23T22:46:43.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-230b35b5dc"
+    }
+  ]
+}
