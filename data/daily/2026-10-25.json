@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T01:20:24.253Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 264,
+    "afterFilter": 47,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 4413
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 515
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1003
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 547
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 689
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 966
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 934
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 933
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1875
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "2929bd1c746bdacb",
+    "7b306cebe134b062"
+  ],
+  "sections": {
+    "life": [],
+    "romance": [
+      "45d587d1cd53f0a1"
+    ],
+    "oddity": [
+      "747ebafe9ff6e606"
+    ],
+    "twist": [],
+    "entertainment": [
+      "24c50bdb43f5dfd4"
+    ],
+    "overseas": [
+      "7b306cebe134b062",
+      "1e2a9693d1d2a013",
+      "23c133dc2c0c6695"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-e18b9a38ea",
+      "title": "曝刘学义张予曦差点结婚",
+      "sources": [
+        "toutiao",
+        "weibo",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 3
+      },
+      "timeline": [
+        {
+          "at": "2026-10-25T01:20:14.912Z",
+          "title": "曝刘学义张予曦差点结婚",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7700111683301654538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700111683301654538%22%2C%22hot_board_impr_id%22%3A%222026102509201484289857F985A7502FD1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7700111683301654538",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-25T01:20:15.402Z",
+          "title": "曝刘学义张予曦差点结婚",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%23&t=31&band_rank=27&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-25T01:20:18.784Z",
+          "title": "曝刘学义张予曦差点结婚",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "2d907bfe83b6d123"
+    }
+  ],
+  "items": [
+    {
+      "id": "2929bd1c746bdacb",
+      "title": "毛不易在一位女性朋友的婚礼上致辞被骂上热搜",
+      "originalTitle": null,
+      "summary": "新郎在一旁尴尬的都挂脸上了，说新娘给他收拾屋子，还给厌学的他做饭。网友辣评“这是当自己是娘家人撑腰，还是友达以上恋人未满爱而不得？！",
+      "url": "https://bbs.hupu.com/643188077.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-25T01:20:15.336Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-c98aa84db0"
+    },
+    {
+      "id": "7b306cebe134b062",
+      "title": "Pro Wrestler Amber Flora Arrested For DUI",
+      "originalTitle": null,
+      "summary": "Pro wrestler Amber Flora has been arrested for DUI and refusal to submit to DUI testing ... TMZ has learned. The former NXT wrestler was arrested by the Orlando Police Department on Friday at 5:40 AM ...",
+      "url": "https://www.tmz.com/2026/10/24/amber-nova-flora-arrested/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T21:56:38.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-6f8f34d3d1"
+    },
+    {
+      "id": "45d587d1cd53f0a1",
+      "title": "曝刘学义张予曦差点结婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%23&t=31&band_rank=27&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-25T01:20:15.402Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 3,
+        "platformSources": [
+          "toutiao",
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-e18b9a38ea"
+    },
+    {
+      "id": "747ebafe9ff6e606",
+      "title": "杜兰特福克斯爆发冲突",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9D%9C%E5%85%B0%E7%89%B9%E7%A6%8F%E5%85%8B%E6%96%AF%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-25T01:20:18.784Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-f350ab64d0"
+    },
+    {
+      "id": "24c50bdb43f5dfd4",
+      "title": "中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球",
+      "originalTitle": null,
+      "summary": "时尚饰品专区，在杭州一家铜工艺品企业的展位前，多名境外采购商被葫芦造型首饰吸引，现场试戴后直接下单；",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T13:04:32.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 21,
+      "ruleScore": 21,
+      "eventId": "ev-7301db3020"
+    },
+    {
+      "id": "1e2a9693d1d2a013",
+      "title": "Lindsay Hubbard cheekily details romance with ‘hot’ Joe Bradley: ‘I’m having a hot MILF fall’",
+      "originalTitle": null,
+      "summary": "Sparks flew between the couple when they filmed the upcoming \"Summer House\" and \"Below Deck Mediterranean\" crossover.",
+      "url": "https://pagesix.com/2026/10/24/celebrity-news/lindsay-hubbard-cheekily-details-hot-joe-bradley-romance/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fim-hot-milf-fall-bravo-146372551.jpg?w%3D576",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T23:17:47.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-d69963a80a"
+    },
+    {
+      "id": "23c133dc2c0c6695",
+      "title": "‘DWTS’ pros Witney Carson and Mark Ballas ‘refused to be in the same room’ amid secret feud, former contestants claim",
+      "originalTitle": null,
+      "summary": "Carson and Ballas allegedly didn't get along during Season 21 of the hit competition series back in 2015.",
+      "url": "https://pagesix.com/2026/10/24/celebrity-news/dwts-pros-witney-carson-and-mark-ballas-allegedly-feuded-during-season-21-former-contestants-claim/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fdwts-pros-witney-carson-mark-146351302.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T21:38:18.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-4919cba07f"
+    },
+    {
+      "id": "2d907bfe83b6d123",
+      "title": "曝刘学义张予曦差点结婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700111683301654538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700111683301654538%22%2C%22hot_board_impr_id%22%3A%222026102509201484289857F985A7502FD1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7700111683301654538",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/f2e43549a10a47a1874b129700467adb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795478400&x-signature=hKPZFNe3NjLRsn8TjfKAKy19ycI%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-25T01:20:14.912Z",
+      "timeBasis": "fetch",
+      "heat": 602528,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 3,
+        "platformSources": [
+          "toutiao",
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-e18b9a38ea"
+    }
+  ]
+}

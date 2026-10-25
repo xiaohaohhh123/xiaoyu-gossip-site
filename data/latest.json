@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:59:45.931Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T01:20:24.253Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
+    "totalCollected": 264,
     "afterFilter": 47,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1802
+        "ms": 4413
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 789
+        "ms": 515
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 785
+        "ms": 1003
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 588
+        "ms": 547
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 609
+        "ms": 689
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 888
+        "ms": 966
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 878
+        "ms": 934
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 859
+        "ms": 933
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1034
+        "ms": 1875
       }
     ],
     "ai": {
@@ -108,33 +108,34 @@
     "totalSources": 9
   },
   "mustEat": [
-    "f87d674ad392fd8d",
-    "17936c2a9c763db4"
+    "2929bd1c746bdacb",
+    "7b306cebe134b062"
   ],
   "sections": {
-    "life": [
-      "6648c4425d9e19f5"
-    ],
+    "life": [],
     "romance": [
-      "12f4818e6b39c075"
+      "45d587d1cd53f0a1"
     ],
     "oddity": [
-      "41358945d0d1c591"
+      "747ebafe9ff6e606"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "24c50bdb43f5dfd4"
+    ],
     "overseas": [
-      "17936c2a9c763db4",
-      "a5f08272befe80fa",
-      "3705df872bfd52bd"
+      "7b306cebe134b062",
+      "1e2a9693d1d2a013",
+      "23c133dc2c0c6695"
     ]
   },
   "events": [
     {
-      "id": "ev-3cc184cb99",
-      "title": "物业设电子屏滚动播放欠费业主",
+      "id": "ev-e18b9a38ea",
+      "title": "曝刘学义张予曦差点结婚",
       "sources": [
         "toutiao",
+        "weibo",
         "baidu"
       ],
       "fact": {
@@ -142,208 +143,46 @@
         "label": "平台热榜",
         "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
         "mediaCount": 0,
-        "platformCount": 2
+        "platformCount": 3
       },
       "timeline": [
         {
-          "at": "2026-10-24T08:59:39.756Z",
-          "title": "物业设电子屏滚动播放欠费业主",
+          "at": "2026-10-25T01:20:14.912Z",
+          "title": "曝刘学义张予曦差点结婚",
           "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7699334725109956650/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699334725109956650%22%2C%22hot_board_impr_id%22%3A%222026102416593996811058F7DD61C7BA63%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%A9%E4%B8%9A%E8%AE%BE%E7%94%B5%E5%AD%90%E5%B1%8F%E6%BB%9A%E5%8A%A8%E6%92%AD%E6%94%BE%E6%AC%A0%E8%B4%B9%E4%B8%9A%E4%B8%BB%22%7D&rank=&style_id=40132&topic_id=7699334725109956650",
+          "url": "https://www.toutiao.com/trending/7700111683301654538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700111683301654538%22%2C%22hot_board_impr_id%22%3A%222026102509201484289857F985A7502FD1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7700111683301654538",
           "kind": "platform"
         },
         {
-          "at": "2026-10-24T08:59:40.729Z",
-          "title": "物业设电子屏滚动播放业主欠缴费用",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E7%89%A9%E4%B8%9A%E8%AE%BE%E7%94%B5%E5%AD%90%E5%B1%8F%E6%BB%9A%E5%8A%A8%E6%92%AD%E6%94%BE%E4%B8%9A%E4%B8%BB%E6%AC%A0%E7%BC%B4%E8%B4%B9%E7%94%A8&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "c759e8794649b9b7"
-    },
-    {
-      "id": "ev-51a9fe5201",
-      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
-      "sources": [
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-10-24T08:59:39.756Z",
-          "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7699472218053066815/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699472218053066815%22%2C%22hot_board_impr_id%22%3A%222026102416593996811058F7DD61C7BA63%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%AB%E6%B3%AA%E8%B0%88%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%EF%BC%9A%E6%88%91%E5%A4%9C%E4%B8%8D%E8%83%BD%E5%AF%90%22%7D&rank=&style_id=40132&topic_id=7699472218053066815",
+          "at": "2026-10-25T01:20:15.402Z",
+          "title": "曝刘学义张予曦差点结婚",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%23&t=31&band_rank=27&Refer=top",
           "kind": "platform"
         },
         {
-          "at": "2026-10-24T08:59:40.729Z",
-          "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
+          "at": "2026-10-25T01:20:18.784Z",
+          "title": "曝刘学义张予曦差点结婚",
           "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%AB%E6%B3%AA%E8%B0%88%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%EF%BC%9A%E6%88%91%E5%A4%9C%E4%B8%8D%E8%83%BD%E5%AF%90&sa=fyb_news",
+          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A&sa=fyb_news",
           "kind": "platform"
         }
       ],
-      "itemId": "a757dc706027d612"
+      "itemId": "2d907bfe83b6d123"
     }
   ],
   "items": [
     {
-      "id": "f87d674ad392fd8d",
-      "title": "从家族浮沉看家国团圆 在吉台胞追忆峥嵘过往",
+      "id": "2929bd1c746bdacb",
+      "title": "毛不易在一位女性朋友的婚礼上致辞被骂上热搜",
       "originalTitle": null,
-      "summary": "中新网长春10月24日电 (高龙安 李彦国)23日，台湾光复纪念日到来前夕，吉林省台湾同胞联谊会在长春举办“凝聚民族记忆 两岸同根同源”台湾光复纪念日主题活动，40余位在吉台胞齐聚一堂，共同回望全体中华儿女浴血奋战、赢得抗战胜利与台湾光复的峥嵘历史。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720224.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-24T02:53:00.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-caec3ff119"
-    },
-    {
-      "id": "17936c2a9c763db4",
-      "title": "Hollywood veteran says Tom Cruise punched Jack Nicholson after ‘A Few Good Men’ courtroom scene",
-      "originalTitle": null,
-      "summary": "Cruise punched Nicholson after he made a clown face while filming \"A Few Good Men.\"",
-      "url": "https://pagesix.com/2026/10/23/entertainment/hollywood-veteran-kevin-pollak-says-tom-cruise-punched-jack-nicholson-after-a-few-good-men-courtroom-scene/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fgood-men-tom-cruise-demi-59717390.jpg?w%3D1024",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-24T02:46:06.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-aa4efe7595"
-    },
-    {
-      "id": "6648c4425d9e19f5",
-      "title": "物业设电子屏滚动播放业主欠缴费用",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%89%A9%E4%B8%9A%E8%AE%BE%E7%94%B5%E5%AD%90%E5%B1%8F%E6%BB%9A%E5%8A%A8%E6%92%AD%E6%94%BE%E4%B8%9A%E4%B8%BB%E6%AC%A0%E7%BC%B4%E8%B4%B9%E7%94%A8&sa=fyb_news",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-24T08:59:40.729Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-3cc184cb99"
-    },
-    {
-      "id": "12f4818e6b39c075",
-      "title": "去年全国结婚登记676万对",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676%E4%B8%87%E5%AF%B9%23&t=31&band_rank=2&Refer=top",
+      "summary": "新郎在一旁尴尬的都挂脸上了，说新娘给他收拾屋子，还给厌学的他做饭。网友辣评“这是当自己是娘家人撑腰，还是友达以上恋人未满爱而不得？！",
+      "url": "https://bbs.hupu.com/643188077.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-24T08:59:39.754Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-77f8c2120d"
-    },
-    {
-      "id": "41358945d0d1c591",
-      "title": "2026年居然还有这样的家长吗？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643154321.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-24T08:59:39.856Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-25T01:20:15.336Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -363,21 +202,159 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-19e63cd01a"
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-c98aa84db0"
     },
     {
-      "id": "a5f08272befe80fa",
-      "title": "Halle Berry restraining order extended as court battle drags into second week",
+      "id": "7b306cebe134b062",
+      "title": "Pro Wrestler Amber Flora Arrested For DUI",
       "originalTitle": null,
-      "summary": "Berry’s fiancé, Van Hunt, also took the stand in closed court Friday, and appeared to be relieved after finishing his testimony.",
-      "url": "https://pagesix.com/2026/10/23/celebrity-news/halle-berry-restraining-order-extended-as-court-battle-drags-into-second-week/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fexclusive-los-angeles-ca-olivier-146267298.jpg?w%3D683",
+      "summary": "Pro wrestler Amber Flora has been arrested for DUI and refusal to submit to DUI testing ... TMZ has learned. The former NXT wrestler was arrested by the Orlando Police Department on Friday at 5:40 AM ...",
+      "url": "https://www.tmz.com/2026/10/24/amber-nova-flora-arrested/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-24T02:35:45.000Z",
+      "publishedAt": "2026-10-24T21:56:38.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-6f8f34d3d1"
+    },
+    {
+      "id": "45d587d1cd53f0a1",
+      "title": "曝刘学义张予曦差点结婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%23&t=31&band_rank=27&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-25T01:20:15.402Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 3,
+        "platformSources": [
+          "toutiao",
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-e18b9a38ea"
+    },
+    {
+      "id": "747ebafe9ff6e606",
+      "title": "杜兰特福克斯爆发冲突",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%9D%9C%E5%85%B0%E7%89%B9%E7%A6%8F%E5%85%8B%E6%96%AF%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-25T01:20:18.784Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-f350ab64d0"
+    },
+    {
+      "id": "24c50bdb43f5dfd4",
+      "title": "中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球",
+      "originalTitle": null,
+      "summary": "时尚饰品专区，在杭州一家铜工艺品企业的展位前，多名境外采购商被葫芦造型首饰吸引，现场试戴后直接下单；",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T13:04:32.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 21,
+      "ruleScore": 21,
+      "eventId": "ev-7301db3020"
+    },
+    {
+      "id": "1e2a9693d1d2a013",
+      "title": "Lindsay Hubbard cheekily details romance with ‘hot’ Joe Bradley: ‘I’m having a hot MILF fall’",
+      "originalTitle": null,
+      "summary": "Sparks flew between the couple when they filmed the upcoming \"Summer House\" and \"Below Deck Mediterranean\" crossover.",
+      "url": "https://pagesix.com/2026/10/24/celebrity-news/lindsay-hubbard-cheekily-details-hot-joe-bradley-romance/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fim-hot-milf-fall-bravo-146372551.jpg?w%3D576",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-24T23:17:47.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -399,31 +376,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-061cbc9810"
+      "eventId": "ev-d69963a80a"
     },
     {
-      "id": "3705df872bfd52bd",
-      "title": "Jeffrey Epstein Used Private Jets, Money to Con Rich, Powerful Men",
+      "id": "23c133dc2c0c6695",
+      "title": "‘DWTS’ pros Witney Carson and Mark Ballas ‘refused to be in the same room’ amid secret feud, former contestants claim",
       "originalTitle": null,
-      "summary": "Jeffrey Epstein, a college dropout with marginal social skills, ingratiated himself with the richest, most powerful men in the world by using the almighty dollar ... along with extravagant perks.",
-      "url": "https://www.tmz.com/2026/10/24/jeffrey-epstein-conned-powerful-men-with-private-jets-money/",
-      "image": "",
+      "summary": "Carson and Ballas allegedly didn't get along during Season 21 of the hit competition series back in 2015.",
+      "url": "https://pagesix.com/2026/10/24/celebrity-news/dwts-pros-witney-carson-and-mark-ballas-allegedly-feuded-during-season-21-former-contestants-claim/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fdwts-pros-witney-carson-mark-146351302.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-24T08:00:34.000Z",
+      "publishedAt": "2026-10-24T21:38:18.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -433,29 +410,30 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-79b81ce403"
+      "eventId": "ev-4919cba07f"
     },
     {
-      "id": "c759e8794649b9b7",
-      "title": "物业设电子屏滚动播放欠费业主",
+      "id": "2d907bfe83b6d123",
+      "title": "曝刘学义张予曦差点结婚",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7699334725109956650/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699334725109956650%22%2C%22hot_board_impr_id%22%3A%222026102416593996811058F7DD61C7BA63%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%A9%E4%B8%9A%E8%AE%BE%E7%94%B5%E5%AD%90%E5%B1%8F%E6%BB%9A%E5%8A%A8%E6%92%AD%E6%94%BE%E6%AC%A0%E8%B4%B9%E4%B8%9A%E4%B8%BB%22%7D&rank=&style_id=40132&topic_id=7699334725109956650",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/1d0e402e04e54e7ebe91e01db6f0d9e5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795392000&x-signature=QRbmyBhT2tqoVVlfkMoNCVkQ8gM%3D",
-      "category": "family",
-      "topicClass": "family",
+      "url": "https://www.toutiao.com/trending/7700111683301654538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700111683301654538%22%2C%22hot_board_impr_id%22%3A%222026102509201484289857F985A7502FD1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7700111683301654538",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/f2e43549a10a47a1874b129700467adb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795478400&x-signature=hKPZFNe3NjLRsn8TjfKAKy19ycI%3D",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-24T08:59:39.756Z",
+      "publishedAt": "2026-10-25T01:20:14.912Z",
       "timeBasis": "fetch",
-      "heat": 88312,
+      "heat": 602528,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
       "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
-        "platformCount": 2,
+        "platformCount": 3,
         "platformSources": [
           "toutiao",
+          "weibo",
           "baidu"
         ],
         "mediaCount": 0,
@@ -466,44 +444,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-3cc184cb99"
-    },
-    {
-      "id": "a757dc706027d612",
-      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7699472218053066815/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699472218053066815%22%2C%22hot_board_impr_id%22%3A%222026102416593996811058F7DD61C7BA63%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%AB%E6%B3%AA%E8%B0%88%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%EF%BC%9A%E6%88%91%E5%A4%9C%E4%B8%8D%E8%83%BD%E5%AF%90%22%7D&rank=&style_id=40132&topic_id=7699472218053066815",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/fc803c31d4da4758891117935af4e899~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795392000&x-signature=%2BoSCxzb2eJysR79W6uQqbpJBlrs%3D",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-24T08:59:39.756Z",
-      "timeBasis": "fetch",
-      "heat": 2166522,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 60,
-      "ruleScore": 60,
-      "eventId": "ev-51a9fe5201"
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-e18b9a38ea"
     }
   ]
 }
