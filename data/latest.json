@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T10:22:35.481Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-26T18:49:54.030Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 254,
-    "afterFilter": 45,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 268,
+    "afterFilter": 41,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 51,
+        "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 3080
+        "ms": 1524
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 815
+        "ms": 782
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 537
+        "ms": 754
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 236
+        "ms": 533
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 305
+        "ms": 592
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 686
+        "ms": 878
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 591
+        "ms": 855
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 613
+        "ms": 899
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 739
+        "ms": 1654
       }
     ],
     "ai": {
@@ -110,62 +110,28 @@
   "mustEat": [
     "6cc0cf57f976be40",
     "f08b20d2b9fc3ae6",
-    "d64afc1b5ed88882"
+    "4013299574a295a3"
   ],
   "sections": {
     "life": [
-      "899c90248490f0fe"
+      "791f04c3e80421a2"
     ],
     "romance": [
       "f08b20d2b9fc3ae6",
-      "70ce76277dc5b9b2"
+      "4785551e7358e2c4"
     ],
     "oddity": [
-      "a8cb66b78ee28365",
-      "781bb61855b47efd"
+      "71a1cfa42d288e23"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "d64afc1b5ed88882",
-      "8166898e7e7b8c91",
-      "0ea4495a2694eb7b"
+      "4013299574a295a3",
+      "30162a0eb0164876",
+      "324c4d684e1a2864"
     ]
   },
-  "events": [
-    {
-      "id": "ev-fe15073cc0",
-      "title": "老干妈涉多起劳动争议纠纷",
-      "sources": [
-        "weibo",
-        "toutiao"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-10-26T10:22:26.747Z",
-          "title": "老干妈涉多起劳动争议纠纷",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E6%B6%89%E5%A4%9A%E8%B5%B7%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E7%BA%A0%E7%BA%B7%23&t=31&band_rank=4&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-26T10:22:27.023Z",
-          "title": "老干妈涉多起劳动争议纠纷",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7700124731663695935/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700124731663695935%22%2C%22hot_board_impr_id%22%3A%222026102618222608D3C2908583E96ADA41%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E5%B9%B2%E5%A6%88%E6%B6%89%E5%A4%9A%E8%B5%B7%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E7%BA%A0%E7%BA%B7%22%7D&rank=&style_id=40132&topic_id=7700124731663695935",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "48e3cebb0006f64a"
-    }
-  ],
+  "events": [],
   "items": [
     {
       "id": "6cc0cf57f976be40",
@@ -177,7 +143,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T10:22:26.808Z",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -211,7 +177,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T10:22:26.808Z",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -236,28 +202,28 @@
       "eventId": "ev-fd15b1480b"
     },
     {
-      "id": "d64afc1b5ed88882",
-      "title": "Nancy In 'The Craft' 'Memba Her?!",
+      "id": "4013299574a295a3",
+      "title": "Beyoncé wears nothing but fur, heels and jewels on the cover of i-D magazine",
       "originalTitle": null,
-      "summary": "American actress and musician Fairuza Balk was 21 years old when she played Nancy -- the mean leader of her witchy friends obsessed with gaining more power -- in the 1996 horror/fantasy film \"The Craft.\" Balk hit the big…",
-      "url": "https://www.tmz.com/2026/10/26/fairuza-balk-as-nancy-in-the-craft/",
-      "image": "",
+      "summary": "The singer is celebrating her hair care brand Cécred's expansion into the UK.",
+      "url": "https://pagesix.com/2026/10/26/style/beyonce-wears-nothing-but-fur-heels-and-jewels-on-the-cover-of-i-d-magazine/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbeyonce-wears-nothing-fur-heels-146545538.jpg?w%3D768",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T07:01:30.000Z",
+      "publishedAt": "2026-10-26T18:37:07.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -265,31 +231,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 4,
-      "ruleScore": 4,
-      "eventId": "ev-3c1071f901"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-e1c7dba0ce"
     },
     {
-      "id": "899c90248490f0fe",
-      "title": "奥迪中国四环标和字母标正式分家",
+      "id": "791f04c3e80421a2",
+      "title": "物业被围，压断人腿愤而离去",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%AA%E4%B8%AD%E5%9B%BD%E5%9B%9B%E7%8E%AF%E6%A0%87%E5%92%8C%E5%AD%97%E6%AF%8D%E6%A0%87%E6%AD%A3%E5%BC%8F%E5%88%86%E5%AE%B6&sa=fyb_news",
+      "url": "https://bbs.hupu.com/643272492.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-26T10:22:29.242Z",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -299,21 +265,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-6a0ca6bca3"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-4452131916"
     },
     {
-      "id": "70ce76277dc5b9b2",
-      "title": "被分手一个月的前任这样骂，我该骂回去吗？",
+      "id": "4785551e7358e2c4",
+      "title": "毛不易婚礼发言引网友争议",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643284644.html",
+      "url": "https://bbs.hupu.com/643252575.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-26T10:22:26.808Z",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -335,53 +301,19 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-6ce52cb74a"
+      "eventId": "ev-d0fb78de62"
     },
     {
-      "id": "a8cb66b78ee28365",
-      "title": "你有经历过什么灵异事情吗？",
-      "originalTitle": null,
-      "summary": "在看似都可以用科学解释通的生活中，有没有碰到过一些灵异的事情？\n 比如：\n 记得一清二楚放在桌子上的耳机，下一秒出现在了房间的另外一个地方；\n 走在夜晚空无一人的道路上，却听到了一些不该出现的声音；\n 深夜独自在家时，墙壁或者柜子偶尔会发出一些奇怪的声响...\n 这些灵异的事情有没有什么到现在想起来都会脊背发凉的？\n \n 来回帖区和JRs一起分享吧！",
-      "url": "https://bbs.hupu.com/643189301.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-26T10:22:26.808Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 68,
-      "ruleScore": 68,
-      "eventId": "ev-8ee8d0cd87"
-    },
-    {
-      "id": "781bb61855b47efd",
-      "title": "樊振东诺坎普之旅荒诞像场梦",
+      "id": "71a1cfa42d288e23",
+      "title": "樊振东用荒诞形容首次诺坎普之旅",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%BA%E5%9D%8E%E6%99%AE%E4%B9%8B%E6%97%85%E8%8D%92%E8%AF%9E%E5%83%8F%E5%9C%BA%E6%A2%A6%23&t=31&band_rank=30&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%A8%E8%8D%92%E8%AF%9E%E5%BD%A2%E5%AE%B9%E9%A6%96%E6%AC%A1%E8%AF%BA%E5%9D%8E%E6%99%AE%E4%B9%8B%E6%97%85%23&t=31&band_rank=12&Refer=top",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-26T10:22:26.747Z",
+      "publishedAt": "2026-10-26T18:49:47.405Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -403,19 +335,19 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-6c1083b3b8"
+      "eventId": "ev-fbd54c111d"
     },
     {
-      "id": "8166898e7e7b8c91",
-      "title": "Adam22 and Lena the Plug reconcile after hoax divorce filing",
+      "id": "30162a0eb0164876",
+      "title": "Why Dax Shepard initially refused to marry Kristen Bell — and what changed",
       "originalTitle": null,
-      "summary": "\"Gave this man a second chance,\" the OnlyFans star wrote on Instagram.",
-      "url": "https://pagesix.com/2026/10/25/celebrity-news/adam22-and-lena-the-plug-reconcile-after-hoax-divorce-filing/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-instagram-com-p-de4yd-146500685.jpg?w%3D613",
+      "summary": "Bell confessed that started sobbing when he proposed because she never thought it would happen.",
+      "url": "https://pagesix.com/2026/10/26/celebrity-news/why-dax-shepard-initially-refused-to-marry-kristen-bell-and-what-changed/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-youtube-com-watch-v-146552641.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T01:59:09.000Z",
+      "publishedAt": "2026-10-26T18:25:15.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -437,76 +369,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f18e10612e"
+      "eventId": "ev-5dfd0f33bb"
     },
     {
-      "id": "0ea4495a2694eb7b",
-      "title": "A-list couple channels ‘Game of Thrones’ characters in jaw-dropping Halloween 2026 costumes",
+      "id": "324c4d684e1a2864",
+      "title": "Tom Brady & Candice Swanepoel Have Been Dating Since June",
       "originalTitle": null,
-      "summary": "The superstar pair took their \"Game of Thrones\" obsession to the next level.",
-      "url": "https://pagesix.com/2026/10/25/celebrity-news/a-list-couple-channels-game-of-thrones-characters-in-jaw-dropping-halloween-2026-costumes/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fnew-york-ny-jordyn-woods-146441863.jpg?w%3D734",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-25T23:08:15.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-c596cd73bd"
-    },
-    {
-      "id": "48e3cebb0006f64a",
-      "title": "老干妈涉多起劳动争议纠纷",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E6%B6%89%E5%A4%9A%E8%B5%B7%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E7%BA%A0%E7%BA%B7%23&t=31&band_rank=4&Refer=top",
+      "summary": "Tom Brady and Candice Swanepoel started their romance over the summer ... but they've avoided public scrutiny by hanging in a low-key area of Miami.",
+      "url": "https://www.tmz.com/2026/10/26/tom-brady-and-candice-swanepoel-dating-since-june/",
       "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-26T10:22:26.747Z",
-      "timeBasis": "fetch",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-26T18:05:40.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "weibo",
-          "toutiao"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
       "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-fe15073cc0"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-0722c7a4a7"
     }
   ]
 }

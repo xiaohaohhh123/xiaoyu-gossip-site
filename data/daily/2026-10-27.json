@@ -1,0 +1,409 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-26T18:49:54.030Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 268,
+    "afterFilter": 41,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1524
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 782
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 754
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 533
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 592
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 878
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 855
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 899
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1654
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "6cc0cf57f976be40",
+    "f08b20d2b9fc3ae6",
+    "4013299574a295a3"
+  ],
+  "sections": {
+    "life": [
+      "791f04c3e80421a2"
+    ],
+    "romance": [
+      "f08b20d2b9fc3ae6",
+      "4785551e7358e2c4"
+    ],
+    "oddity": [
+      "71a1cfa42d288e23"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "4013299574a295a3",
+      "30162a0eb0164876",
+      "324c4d684e1a2864"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "6cc0cf57f976be40",
+      "title": "20 年前，张冕为护胡歌逝世，胡歌许诺赡养其父母，如今他做到了吗",
+      "originalTitle": null,
+      "summary": "2023 年冬天，云南威信县，一户老屋前。\n 一个裹得严实的男人牵着刚会走路的小女孩，让女儿管两位白发老人喊“爷爷奶奶”。\n 没有摄像机，没有通稿，只有路人偷拍下的一段模糊画面。\n 那个男人是胡歌，那两位老人，是张冕的父母。\n 而张冕，已经离开整整十七年了。\n 那一晚的沪杭高速 \n 2006 年 8 月 29 号晚上，横店收工，胡歌带着助理张冕、司机小凯往上海赶。\n 拍《射雕英雄传》前期的戏，连轴转了太久，一上车他就往副驾驶座上一瘫，眼皮直打架。\n 张冕坐在后排看了他一会儿，开口说了句，你去后座躺着睡吧，我坐前面。\n 我觉得，这大概是张冕这辈子说得最普通、也最要命的一句话，没有任何铺垫，就是看同事累，想让他舒服点。",
+      "url": "https://bbs.hupu.com/643294354.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-46a101ddd4"
+    },
+    {
+      "id": "f08b20d2b9fc3ae6",
+      "title": "她吻他的嘴早已亲过他的它？",
+      "originalTitle": null,
+      "summary": "近日毛不易婚礼致辞引热议。提炼要点：\n 1.友情：\"佳奇是我生活交集最多最紧密的朋友。\"\n 2. 陪伴：\"从校服到婚纱，虽然不是我的妻子，但这是我跟佳奇从开始到今天的全部过程。\"\n 3. 婚姻观：\"结婚越来越不意味着什么了，但起码是人生新的开始，也是你们感情的见证。\"\n 4. 祝福：愿两人在每次动摇时仍坚定选彼此。\n （本文整理自公开报道。）",
+      "url": "https://bbs.hupu.com/643242358.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 86,
+      "ruleScore": 86,
+      "eventId": "ev-fd15b1480b"
+    },
+    {
+      "id": "4013299574a295a3",
+      "title": "Beyoncé wears nothing but fur, heels and jewels on the cover of i-D magazine",
+      "originalTitle": null,
+      "summary": "The singer is celebrating her hair care brand Cécred's expansion into the UK.",
+      "url": "https://pagesix.com/2026/10/26/style/beyonce-wears-nothing-but-fur-heels-and-jewels-on-the-cover-of-i-d-magazine/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbeyonce-wears-nothing-fur-heels-146545538.jpg?w%3D768",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-26T18:37:07.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-e1c7dba0ce"
+    },
+    {
+      "id": "791f04c3e80421a2",
+      "title": "物业被围，压断人腿愤而离去",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643272492.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-4452131916"
+    },
+    {
+      "id": "4785551e7358e2c4",
+      "title": "毛不易婚礼发言引网友争议",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643252575.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-d0fb78de62"
+    },
+    {
+      "id": "71a1cfa42d288e23",
+      "title": "樊振东用荒诞形容首次诺坎普之旅",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%A8%E8%8D%92%E8%AF%9E%E5%BD%A2%E5%AE%B9%E9%A6%96%E6%AC%A1%E8%AF%BA%E5%9D%8E%E6%99%AE%E4%B9%8B%E6%97%85%23&t=31&band_rank=12&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-26T18:49:47.405Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-fbd54c111d"
+    },
+    {
+      "id": "30162a0eb0164876",
+      "title": "Why Dax Shepard initially refused to marry Kristen Bell — and what changed",
+      "originalTitle": null,
+      "summary": "Bell confessed that started sobbing when he proposed because she never thought it would happen.",
+      "url": "https://pagesix.com/2026/10/26/celebrity-news/why-dax-shepard-initially-refused-to-marry-kristen-bell-and-what-changed/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-youtube-com-watch-v-146552641.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-26T18:25:15.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5dfd0f33bb"
+    },
+    {
+      "id": "324c4d684e1a2864",
+      "title": "Tom Brady & Candice Swanepoel Have Been Dating Since June",
+      "originalTitle": null,
+      "summary": "Tom Brady and Candice Swanepoel started their romance over the summer ... but they've avoided public scrutiny by hanging in a low-key area of Miami.",
+      "url": "https://www.tmz.com/2026/10/26/tom-brady-and-candice-swanepoel-dating-since-june/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-26T18:05:40.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-0722c7a4a7"
+    }
+  ]
+}
