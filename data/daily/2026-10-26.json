@@ -1,13 +1,13 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-25T16:42:05.838Z",
+  "generatedAt": "2026-10-26T01:23:56.040Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 264,
-    "afterFilter": 59,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 254,
+    "afterFilter": 58,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 4023
+        "ms": 1734
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 859
+        "ms": 779
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 1355
+        "ms": 856
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 914
+        "ms": 327
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1041
+        "ms": 368
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1772
+        "ms": 1052
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1450
+        "ms": 1031
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1560
+        "ms": 1032
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2379
+        "ms": 1068
       }
     ],
     "ai": {
@@ -109,26 +109,24 @@
   },
   "mustEat": [
     "f08b20d2b9fc3ae6",
-    "2929bd1c746bdacb",
-    "c17757c9e32a014e"
+    "c9c933d8a65ec3ea"
   ],
   "sections": {
     "life": [
-      "7262d924974b11dd"
+      "08fc6e890888acb1"
     ],
     "romance": [
-      "2929bd1c746bdacb",
-      "b3901fe0ac796d17"
+      "a345183c6965a58d"
     ],
     "oddity": [
-      "5a19a52c5af4d3ee"
+      "2a7cca661788077d"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "c17757c9e32a014e",
-      "c8c462296a071f6d",
-      "75bb2cfd488ea60b"
+      "c9c933d8a65ec3ea",
+      "0ea4495a2694eb7b",
+      "6d2b4318e716fba1"
     ]
   },
   "events": [],
@@ -143,7 +141,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-25T16:41:57.813Z",
+      "publishedAt": "2026-10-26T01:23:49.210Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -168,220 +166,16 @@
       "eventId": "ev-fd15b1480b"
     },
     {
-      "id": "2929bd1c746bdacb",
-      "title": "毛不易在一位女性朋友的婚礼上致辞被骂上热搜",
+      "id": "c9c933d8a65ec3ea",
+      "title": "Tom Brady & Candice Swanepoel Dating: Reports",
       "originalTitle": null,
-      "summary": "新郎在一旁尴尬的都挂脸上了，说新娘给他收拾屋子，还给厌学的他做饭。网友辣评“这是当自己是娘家人撑腰，还是友达以上恋人未满爱而不得？！",
-      "url": "https://bbs.hupu.com/643188077.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-25T16:41:57.813Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-c98aa84db0"
-    },
-    {
-      "id": "c17757c9e32a014e",
-      "title": "Bethenny Frankel calls out ‘bitter’ Andy Cohen in fiery video rant: ‘He lost all his OGs’",
-      "originalTitle": null,
-      "summary": "The Bravo alum took to TikTok to respond to the \"Watch What Happens Live\" host's remarks about whether he would have her back on \"RHONY.\"",
-      "url": "https://pagesix.com/2026/10/25/celebrity-news/bethenny-frankel-calls-out-bitter-andy-cohen-in-fiery-video-rant/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F7700434293054622989-oct-24-26-bethenny-146442725.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-25T15:56:19.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-2811c2ec2e"
-    },
-    {
-      "id": "7262d924974b11dd",
-      "title": "大三谈了个女朋友我第一次打球打了一个多小时才缴械这是为什么",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643242351.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-25T16:41:57.813Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-9491e330d1"
-    },
-    {
-      "id": "b3901fe0ac796d17",
-      "title": "丈母娘也开始抢AI人了",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86&sa=fyb_news",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-25T16:42:00.349Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-69ba0cffc3"
-    },
-    {
-      "id": "5a19a52c5af4d3ee",
-      "title": "找的竟然是真良家？一直以为是找的咯咯哒呢",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643257092.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-25T16:41:57.813Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-ad26a061a0"
-    },
-    {
-      "id": "c8c462296a071f6d",
-      "title": "Martha Stewart’s top-rated cookware and home decor is deeply discounted for Way Day",
-      "originalTitle": null,
-      "summary": "Bring Stewart's impeccable taste to your home with these can't-miss deals.",
-      "url": "https://pagesix.com/2026/10/25/style/martha-stewart-cookware-and-home-decor-is-on-sale-for-way-day/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F146243115.jpg?quality%3D90%26strip%3Dall",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-25T13:00:00.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-2956dbe286"
-    },
-    {
-      "id": "75bb2cfd488ea60b",
-      "title": "NFL Investigating Jalen Hurts' Blood Clot Diagnosis",
-      "originalTitle": null,
-      "summary": "The NFL has confirmed they're launching an investigation into Jalen Hurts' medical care and blood clot diagnosis ... after the player was sidelined for the rest of the season.",
-      "url": "https://www.tmz.com/2026/10/25/jalen-hurts-blood-clot-diagnosis-being-investigated-by-nfl/",
+      "summary": "Tom Brady and Candice Swanepoel are officially an item ... according to multiple reports. The 7-time Super Bowl and supermodel have been seeing each other \"for a while\" ... an insider told Us Weekly.",
+      "url": "https://www.tmz.com/2026/10/25/tom-brady-and-candice-swanepoel-are-dating/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-25T14:18:01.000Z",
+      "publishedAt": "2026-10-25T21:05:49.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -401,9 +195,179 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-c9da7f80c3"
+    },
+    {
+      "id": "08fc6e890888acb1",
+      "title": "小区近300户玻璃自爆 物业：过质保期",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E8%BF%91300%E6%88%B7%E7%8E%BB%E7%92%83%E8%87%AA%E7%88%86+%E7%89%A9%E4%B8%9A%EF%BC%9A%E8%BF%87%E8%B4%A8%E4%BF%9D%E6%9C%9F&sa=fyb_news",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-26T01:23:49.865Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-7e4633e1ec"
+    },
+    {
+      "id": "a345183c6965a58d",
+      "title": "和胡彦斌分手后状态反差",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E5%88%86%E6%89%8B%E5%90%8E%E7%8A%B6%E6%80%81%E5%8F%8D%E5%B7%AE&t=31&band_rank=11&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-26T01:23:49.029Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-71f999d2a6"
+    },
+    {
+      "id": "2a7cca661788077d",
+      "title": "这部离谱日剧为谁招魂",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E9%83%A8%E7%A6%BB%E8%B0%B1%E6%97%A5%E5%89%A7%E4%B8%BA%E8%B0%81%E6%8B%9B%E9%AD%82&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-26T01:23:49.865Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-098fc5d219"
+    },
+    {
+      "id": "0ea4495a2694eb7b",
+      "title": "A-list couple channels ‘Game of Thrones’ characters in jaw-dropping Halloween 2026 costumes",
+      "originalTitle": null,
+      "summary": "The superstar pair took their \"Game of Thrones\" obsession to the next level.",
+      "url": "https://pagesix.com/2026/10/25/celebrity-news/a-list-couple-channels-game-of-thrones-characters-in-jaw-dropping-halloween-2026-costumes/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fnew-york-ny-jordyn-woods-146441863.jpg?w%3D734",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-25T23:08:15.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-4826c5bc53"
+      "eventId": "ev-c596cd73bd"
+    },
+    {
+      "id": "6d2b4318e716fba1",
+      "title": "Former Fox News meterologist Janice Dean ‘sick’ of ‘mean girl’ Megyn Kelly ‘putting people down’",
+      "originalTitle": null,
+      "summary": "Dean says her goal is to spread awareness about multiple sclerosis and not fight in the gutter with Kelly.",
+      "url": "https://pagesix.com/2026/10/25/society/former-fox-news-meterologist-janice-dean-sick-of-mean-girl-megyn-kelly-putting-people-down/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fjanice-dean-attends-fox-friends-146250241.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-25T22:50:55.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-8560530332"
     }
   ]
 }
