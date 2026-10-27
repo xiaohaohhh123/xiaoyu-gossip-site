@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T09:56:55.371Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-27T18:10:17.169Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 258,
-    "afterFilter": 46,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 254,
+    "afterFilter": 29,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1430
+        "ms": 2036
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 841
+        "ms": 704
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 480
+        "ms": 648
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 7,
         "error": null,
         "httpStatus": 200,
-        "ms": 340
+        "ms": 311
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 467
+        "ms": 391
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 589
+        "ms": 823
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 604
+        "ms": 674
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 594
+        "ms": 687
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2710
+        "ms": 1150
       }
     ],
     "ai": {
@@ -108,111 +108,33 @@
     "totalSources": 9
   },
   "mustEat": [
-    "e17d0c5e9ae485ed",
     "6cc0cf57f976be40",
-    "5479a19a2010cdf4"
+    "4db8e5c820512dac",
+    "8f7ee58a164d0fb9",
+    "150ae0ab8ec3e3c0"
   ],
   "sections": {
     "life": [
-      "6cc0cf57f976be40",
+      "8f7ee58a164d0fb9",
       "791f04c3e80421a2"
     ],
     "romance": [
-      "44402dc2b62e3df0"
+      "4db8e5c820512dac",
+      "6c4e5abd34679b2f"
     ],
-    "oddity": [],
+    "oddity": [
+      "25d8d94584472f76"
+    ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "5479a19a2010cdf4",
-      "f557b7122b7d312e",
-      "b03957975e6968b8"
+      "150ae0ab8ec3e3c0",
+      "99a747373050537a",
+      "1816c1f47163ec0f"
     ]
   },
-  "events": [
-    {
-      "id": "ev-b5e89c57f5",
-      "title": "新娘回应参加婚礼吃了一桌外卖",
-      "sources": [
-        "weibo",
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 3
-      },
-      "timeline": [
-        {
-          "at": "2026-10-27T09:56:47.388Z",
-          "title": "新娘回应参加婚礼吃了一桌外卖",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%A4%96%E5%8D%96%23&t=31&band_rank=14&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-27T09:56:47.388Z",
-          "title": "参加婚礼吃了一桌子外卖",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%23&t=31&band_rank=18&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-27T09:56:47.747Z",
-          "title": "网友称参加婚礼吃了一桌子外卖",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7700825823057657875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700825823057657875%22%2C%22hot_board_impr_id%22%3A%22202610271756479BF4C0F21EF8422BA38E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%22%7D&rank=&style_id=40132&topic_id=7700825823057657875",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-27T09:56:48.281Z",
-          "title": "参加婚礼吃了一桌子外卖",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "e481961a5bde6735"
-    }
-  ],
+  "events": [],
   "items": [
-    {
-      "id": "e17d0c5e9ae485ed",
-      "title": "经济下行带来了很多家庭矛盾，想听听家人们的想法",
-      "originalTitle": null,
-      "summary": "一、前情：\n 双方都是省内一个地方的人，目前在浙B体制内工作、定居。\n 23年因为结婚的需要一直在看房，当时经济好我家对未来比较乐观上杠杆购入一套总价640个的房子，组合贷款260个左右，目前还到240内。当时买房的时候确实我家这边要面子过于乐观背了贷，老婆（当时还是女友未订婚）那边意思是没必要压力这么大买这么好。\n 今年初收房装修，预算是70个（房子套内130左右），想着装起来能住至少十年的。这两年行情也很差，爸妈的生意较23年前差了很多，装修至今也是全力支持，目前累计拿了50个。",
-      "url": "https://bbs.hupu.com/643333434.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-27T09:56:47.519Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 91,
-      "ruleScore": 91,
-      "eventId": "ev-32579aeb53"
-    },
     {
       "id": "6cc0cf57f976be40",
       "title": "20 年前，张冕为护胡歌逝世，胡歌许诺赡养其父母，如今他做到了吗",
@@ -223,7 +145,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T09:56:47.519Z",
+      "publishedAt": "2026-10-27T18:10:09.628Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -248,16 +170,84 @@
       "eventId": "ev-46a101ddd4"
     },
     {
-      "id": "5479a19a2010cdf4",
-      "title": "Inside Matthew Perry’s ‘struggle’ ahead of the 2021 ‘Friends’ reunion",
+      "id": "4db8e5c820512dac",
+      "title": "南开大学启动“主辅一体”人才培养新模式 2027年秋季起逐步面向全校本科生铺开",
       "originalTitle": null,
-      "summary": "Family and friends say the late actor was \"struggling\" ahead of his final TV appearance at the 2021 \"Friends\" reunion special.",
-      "url": "https://pagesix.com/2026/10/27/entertainment/inside-matthew-perrys-struggle-ahead-of-the-2021-friends-reunion/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fmatthew-perry-friends-cast-reunite-146543845.jpg?w%3D1024",
+      "summary": "中新网天津10月27日电 (记者 孙玲玲)记者从南开大学获悉，今年秋季学期，该校率先启动了以“主辅一体”为核心的人才培养新模式，推进全校性跨学科学习，构建复合型创新人才培养新路径。这项培养改革在金融学院、信息与传播学院、历史学院、旅游与服务学院试点启动，将于2027年秋季学期起逐步面向全校本科生铺开。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721872.shtml",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-27T13:03:22.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 84,
+      "ruleScore": 84,
+      "eventId": "ev-468f83b740"
+    },
+    {
+      "id": "8f7ee58a164d0fb9",
+      "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+      "originalTitle": null,
+      "summary": "中新网重庆10月27日电 (马佳欣)历史场景复原、口述史料展陈、革命遗址连片呈现……27日，南腰界红三军革命旧址群整体展示开放活动在重庆市酉阳土家族苗族自治县南腰界镇会师广场举行。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-27T14:03:07.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 77,
+      "ruleScore": 77,
+      "eventId": "ev-df160aa27a"
+    },
+    {
+      "id": "150ae0ab8ec3e3c0",
+      "title": "Rachael Ray’s future career plans revealed after worrisome appearances sparked health concerns",
+      "originalTitle": null,
+      "summary": "In recent years, fans have wondered whether the beloved cook was \"OK\" after \"slurring\" her words in multiple Instagram videos.",
+      "url": "https://pagesix.com/2026/10/27/celebrity-news/rachael-rays-future-career-plans-revealed-after-health-concerns/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Frachael-ray-speaks-onstage-new-145623626.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "publishedAt": "2026-10-27T16:51:49.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -279,7 +269,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f0d018ffaa"
+      "eventId": "ev-2b5b63755d"
     },
     {
       "id": "791f04c3e80421a2",
@@ -291,7 +281,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-27T09:56:47.519Z",
+      "publishedAt": "2026-10-27T18:10:09.628Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -316,28 +306,26 @@
       "eventId": "ev-4452131916"
     },
     {
-      "id": "44402dc2b62e3df0",
-      "title": "参加婚礼吃了一桌子外卖",
+      "id": "6c4e5abd34679b2f",
+      "title": "网友称参加婚礼吃了一桌子外卖",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%23&t=31&band_rank=18&Refer=top",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7700825823057657875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700825823057657875%22%2C%22hot_board_impr_id%22%3A%2220261028021009278C7B79E647167EEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%22%7D&rank=&style_id=40132&topic_id=7700825823057657875",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/614884cf754a45e1be77b241d220686d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795651200&x-signature=pTytsjdvVw2MpIexGRPQ5eyzOdM%3D",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-27T09:56:47.388Z",
+      "publishedAt": "2026-10-27T18:10:09.650Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "heat": 37691962,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
-        "platformCount": 3,
+        "platformCount": 1,
         "platformSources": [
-          "weibo",
-          "toutiao",
-          "baidu"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -347,21 +335,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 68,
-      "ruleScore": 68,
-      "eventId": "ev-b5e89c57f5"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-ba333cf2d1"
     },
     {
-      "id": "f557b7122b7d312e",
-      "title": "Natalie Portman says being sexualized as a child star forced her to become a ‘good girl’ as protection",
+      "id": "25d8d94584472f76",
+      "title": "俄乌冲突今年能否终结",
       "originalTitle": null,
-      "summary": "Oscar winner Natalie Portman said early Hollywood roles led her to craft a safety mechanism that shaped her image",
-      "url": "https://pagesix.com/2026/10/27/entertainment/natalie-portman-says-being-sexualized-as-a-child-star-forced-her-to-become-a-good-girl-as-protection/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fnatalie-portman-attends-apples-fountain-146600233.jpg",
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701358027156229642/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701358027156229642%22%2C%22hot_board_impr_id%22%3A%2220261028021009278C7B79E647167EEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E4%BB%8A%E5%B9%B4%E8%83%BD%E5%90%A6%E7%BB%88%E7%BB%93%22%7D&rank=&style_id=40132&topic_id=7701358027156229642",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/6eeec2779242433b823e486747800e53~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795651200&x-signature=oMx0mj70wp1NiNqvrYfh5RV2xlY%3D",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-27T18:10:09.650Z",
+      "timeBasis": "fetch",
+      "heat": 4176388,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-00ff2a2795"
+    },
+    {
+      "id": "99a747373050537a",
+      "title": "Abby Lee Miller, Cathy Nesbitt-Stein talk reconciliation, ‘Dance Moms’ musical and ‘DWTS’ drama with VRT",
+      "originalTitle": null,
+      "summary": "“Dance Moms” legends Abby Lee Miller and Cathy Nesbitt-Stein stopped by the Page Six studio to chat with “Virtual Reali-Tea” co-hosts Danny Murphy and Evan Real about reuniting for their new competition reality show, “Ab…",
+      "url": "https://pagesix.com/video/abby-lee-miller-cathy-nesbitt-stein-talk-reconciliation-dance-moms-musical-and-dwts-drama-with-vrt/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2FABBY-LEE-wordpress-25-2.png",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T05:11:34.000Z",
+      "publishedAt": "2026-10-27T16:37:10.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -383,19 +405,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d567806a64"
+      "eventId": "ev-77001395fe"
     },
     {
-      "id": "b03957975e6968b8",
-      "title": "'Baywatch' Star Erika Eleniak on Track to Hit $1 Million in 1st Year on OnlyFans",
+      "id": "1816c1f47163ec0f",
+      "title": "Chrishell Stause and G Flip Never Made Marriage Legal Before Split",
       "originalTitle": null,
-      "summary": "Erika Eleniak is making some serious waves on OnlyFans ... 'cause the former \"Baywatch\" star has raked in nearly $300K in just three months, putting her on pace to generate $1 million in her first year ...",
-      "url": "https://www.tmz.com/2026/10/27/erika-eleniak-onlyfans-earnings-revealed/",
+      "summary": "Chrishell Stause and G Flip are going their separate ways after four years together and multiple weddings ... but TMZ has learned there's one thing they won't have to worry about -- getting a divorce.",
+      "url": "https://www.tmz.com/2026/10/27/chrishell-stause-g-flip-never-legally-married/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T07:00:34.000Z",
+      "publishedAt": "2026-10-27T17:49:34.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -417,43 +439,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-057bd0cd53"
-    },
-    {
-      "id": "e481961a5bde6735",
-      "title": "新娘回应参加婚礼吃了一桌外卖",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%A4%96%E5%8D%96%23&t=31&band_rank=14&Refer=top",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-27T09:56:47.388Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 3,
-        "platformSources": [
-          "weibo",
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 14,
-      "ruleScore": 14,
-      "eventId": "ev-b5e89c57f5"
+      "eventId": "ev-f1d41390d2"
     }
   ]
 }
