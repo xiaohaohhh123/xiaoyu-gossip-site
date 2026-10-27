@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-26T18:49:54.030Z",
+  "generatedAt": "2026-10-27T02:11:54.831Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 41,
+    "totalCollected": 266,
+    "afterFilter": 50,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -14,10 +14,10 @@
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1524
+        "ms": 1308
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 782
+        "ms": 871
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 754
+        "ms": 1014
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 533
+        "ms": 640
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 592
+        "ms": 798
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 878
+        "ms": 1013
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 855
+        "ms": 1094
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 899
+        "ms": 964
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1654
+        "ms": 1554
       }
     ],
     "ai": {
@@ -110,28 +110,59 @@
   "mustEat": [
     "6cc0cf57f976be40",
     "f08b20d2b9fc3ae6",
-    "4013299574a295a3"
+    "534d0c1da1ae321f"
   ],
   "sections": {
     "life": [
-      "791f04c3e80421a2"
+      "e0bc66b16b191709"
     ],
     "romance": [
       "f08b20d2b9fc3ae6",
-      "4785551e7358e2c4"
+      "164ae36f0885eade"
     ],
-    "oddity": [
-      "71a1cfa42d288e23"
-    ],
+    "oddity": [],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "4013299574a295a3",
-      "30162a0eb0164876",
-      "324c4d684e1a2864"
+      "534d0c1da1ae321f",
+      "6be45d86f739028f",
+      "6fb906dfd4314441"
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "id": "ev-cf2ccfa0ac",
+      "title": "租客留277元离开房东退回1177元",
+      "sources": [
+        "toutiao",
+        "weibo"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-27T02:11:44.214Z",
+          "title": "租客留277元离开房东退回1177元",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7700818283880054803/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700818283880054803%22%2C%22hot_board_impr_id%22%3A%22202610271011431BFEFD20CF4AF64A86EA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A7%9F%E5%AE%A2%E7%95%99277%E5%85%83%E7%A6%BB%E5%BC%80%E6%88%BF%E4%B8%9C%E9%80%80%E5%9B%9E1177%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7700818283880054803",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-27T02:11:44.358Z",
+          "title": "租客留277元离开房东退回1177元",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E7%95%99277%E5%85%83%E7%A6%BB%E5%BC%80%E6%88%BF%E4%B8%9C%E9%80%80%E5%9B%9E1177%E5%85%83%23&t=31&band_rank=29&Refer=top",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "479b8e9931282588"
+    }
+  ],
   "items": [
     {
       "id": "6cc0cf57f976be40",
@@ -143,7 +174,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "publishedAt": "2026-10-27T02:11:44.442Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -177,7 +208,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "publishedAt": "2026-10-27T02:11:44.442Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -202,16 +233,16 @@
       "eventId": "ev-fd15b1480b"
     },
     {
-      "id": "4013299574a295a3",
-      "title": "Beyoncé wears nothing but fur, heels and jewels on the cover of i-D magazine",
+      "id": "534d0c1da1ae321f",
+      "title": "Jay-Z headlining Apple Music Super Bowl 2027 halftime show",
       "originalTitle": null,
-      "summary": "The singer is celebrating her hair care brand Cécred's expansion into the UK.",
-      "url": "https://pagesix.com/2026/10/26/style/beyonce-wears-nothing-but-fur-heels-and-jewels-on-the-cover-of-i-d-magazine/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbeyonce-wears-nothing-fur-heels-146545538.jpg?w%3D768",
+      "summary": "The exciting news was announced during Monday Night Football on Oct. 26 with a black-and-white ad featuring the \"Empire State of Mind\" rapper.",
+      "url": "https://pagesix.com/2026/10/26/entertainment/jay-z-headlining-apple-music-super-bowl-2027-halftime-show/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famerican-rapper-jay-z-reacts-146587080.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T18:37:07.000Z",
+      "publishedAt": "2026-10-27T02:05:03.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -233,29 +264,30 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-e1c7dba0ce"
+      "eventId": "ev-daab261db3"
     },
     {
-      "id": "791f04c3e80421a2",
-      "title": "物业被围，压断人腿愤而离去",
+      "id": "e0bc66b16b191709",
+      "title": "租客留277元离开房东退回1177元",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643272492.html",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E7%95%99277%E5%85%83%E7%A6%BB%E5%BC%80%E6%88%BF%E4%B8%9C%E9%80%80%E5%9B%9E1177%E5%85%83%23&t=31&band_rank=29&Refer=top",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-26T18:49:47.509Z",
+      "publishedAt": "2026-10-27T02:11:44.358Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
-        "platformCount": 1,
+        "platformCount": 2,
         "platformSources": [
-          "hupu"
+          "toutiao",
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,55 +297,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-4452131916"
+      "score": 64,
+      "ruleScore": 64,
+      "eventId": "ev-cf2ccfa0ac"
     },
     {
-      "id": "4785551e7358e2c4",
-      "title": "毛不易婚礼发言引网友争议",
+      "id": "164ae36f0885eade",
+      "title": "孟子义李昀锐分手感",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643252575.html",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%88%86%E6%89%8B%E6%84%9F%23&t=31&band_rank=23&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-26T18:49:47.509Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-d0fb78de62"
-    },
-    {
-      "id": "71a1cfa42d288e23",
-      "title": "樊振东用荒诞形容首次诺坎普之旅",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%A8%E8%8D%92%E8%AF%9E%E5%BD%A2%E5%AE%B9%E9%A6%96%E6%AC%A1%E8%AF%BA%E5%9D%8E%E6%99%AE%E4%B9%8B%E6%97%85%23&t=31&band_rank=12&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-26T18:49:47.405Z",
+      "publishedAt": "2026-10-27T02:11:44.358Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -333,21 +331,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-fbd54c111d"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-d30ff38937"
     },
     {
-      "id": "30162a0eb0164876",
-      "title": "Why Dax Shepard initially refused to marry Kristen Bell — and what changed",
+      "id": "6be45d86f739028f",
+      "title": "Halle Berry’s daughter Nahla, fiancé Van Hunt testify in actress’ bitter custody battle",
       "originalTitle": null,
-      "summary": "Bell confessed that started sobbing when he proposed because she never thought it would happen.",
-      "url": "https://pagesix.com/2026/10/26/celebrity-news/why-dax-shepard-initially-refused-to-marry-kristen-bell-and-what-changed/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-youtube-com-watch-v-146552641.jpg?w%3D1024",
+      "summary": "The 18-year-old previously supported Berry in a court filing after the actress was accused of choking her young son.",
+      "url": "https://pagesix.com/2026/10/26/celebrity-news/halle-berrys-daughter-nahla-fiance-van-hunt-testify-in-actress-custody-battle/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2FBGUS_1609145_001_3f22c2.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T18:25:15.000Z",
+      "publishedAt": "2026-10-27T01:03:31.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,19 +367,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5dfd0f33bb"
+      "eventId": "ev-1dad86ed00"
     },
     {
-      "id": "324c4d684e1a2864",
-      "title": "Tom Brady & Candice Swanepoel Have Been Dating Since June",
+      "id": "6fb906dfd4314441",
+      "title": "Taylor Swift Jokes About Estrangement From Brad Paisley",
       "originalTitle": null,
-      "summary": "Tom Brady and Candice Swanepoel started their romance over the summer ... but they've avoided public scrutiny by hanging in a low-key area of Miami.",
-      "url": "https://www.tmz.com/2026/10/26/tom-brady-and-candice-swanepoel-dating-since-june/",
+      "summary": "Taylor Swift is no stranger to \"Bad Blood\" and her induction speech at the Nashville Songwriters Hall of Fame was no exception ... because she's talking about her nearly two-decade estrangement from Brad Paisley.",
+      "url": "https://www.tmz.com/2026/10/26/taylor-swift-jokes-about-brad-paisley-relationship/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-26T18:05:40.000Z",
+      "publishedAt": "2026-10-27T01:33:29.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -403,7 +401,42 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-0722c7a4a7"
+      "eventId": "ev-8b840c587c"
+    },
+    {
+      "id": "479b8e9931282588",
+      "title": "租客留277元离开房东退回1177元",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7700818283880054803/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700818283880054803%22%2C%22hot_board_impr_id%22%3A%22202610271011431BFEFD20CF4AF64A86EA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A7%9F%E5%AE%A2%E7%95%99277%E5%85%83%E7%A6%BB%E5%BC%80%E6%88%BF%E4%B8%9C%E9%80%80%E5%9B%9E1177%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7700818283880054803",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/740500d245c140358ebff40ff930120c~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795651200&x-signature=32P0QOerpWFgoU4YM%2F09MIsq5ys%3D",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-27T02:11:44.214Z",
+      "timeBasis": "fetch",
+      "heat": 14643883,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 62,
+      "ruleScore": 62,
+      "eventId": "ev-cf2ccfa0ac"
     }
   ]
 }
