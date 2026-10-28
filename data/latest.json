@@ -1,23 +1,23 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-27T18:10:17.169Z",
+  "generatedAt": "2026-10-28T02:27:20.516Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 254,
-    "afterFilter": 29,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 255,
+    "afterFilter": 34,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 51,
+        "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 2036
+        "ms": 1308
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 704
+        "ms": 978
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 648
+        "ms": 723
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 7,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 311
+        "ms": 507
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 391
+        "ms": 609
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 823
+        "ms": 1224
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 19,
         "error": null,
         "httpStatus": 200,
-        "ms": 674
+        "ms": 990
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 687
+        "ms": 995
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1150
+        "ms": 1395
       }
     ],
     "ai": {
@@ -108,101 +108,70 @@
     "totalSources": 9
   },
   "mustEat": [
-    "6cc0cf57f976be40",
-    "4db8e5c820512dac",
     "8f7ee58a164d0fb9",
-    "150ae0ab8ec3e3c0"
+    "99c362673086831f"
   ],
   "sections": {
     "life": [
-      "8f7ee58a164d0fb9",
-      "791f04c3e80421a2"
+      "6cc0cf57f976be40"
     ],
     "romance": [
-      "4db8e5c820512dac",
       "6c4e5abd34679b2f"
     ],
     "oddity": [
-      "25d8d94584472f76"
+      "24aeb91d904c812d"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "150ae0ab8ec3e3c0",
-      "99a747373050537a",
-      "1816c1f47163ec0f"
+      "99c362673086831f",
+      "944c98035cb9c53b",
+      "b20585b32beb1c8f"
     ]
   },
-  "events": [],
-  "items": [
+  "events": [
     {
-      "id": "6cc0cf57f976be40",
-      "title": "20 年前，张冕为护胡歌逝世，胡歌许诺赡养其父母，如今他做到了吗",
-      "originalTitle": null,
-      "summary": "2023 年冬天，云南威信县，一户老屋前。\n 一个裹得严实的男人牵着刚会走路的小女孩，让女儿管两位白发老人喊“爷爷奶奶”。\n 没有摄像机，没有通稿，只有路人偷拍下的一段模糊画面。\n 那个男人是胡歌，那两位老人，是张冕的父母。\n 而张冕，已经离开整整十七年了。\n 那一晚的沪杭高速 \n 2006 年 8 月 29 号晚上，横店收工，胡歌带着助理张冕、司机小凯往上海赶。\n 拍《射雕英雄传》前期的戏，连轴转了太久，一上车他就往副驾驶座上一瘫，眼皮直打架。\n 张冕坐在后排看了他一会儿，开口说了句，你去后座躺着睡吧，我坐前面。\n 我觉得，这大概是张冕这辈子说得最普通、也最要命的一句话，没有任何铺垫，就是看同事累，想让他舒服点。",
-      "url": "https://bbs.hupu.com/643294354.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-27T18:10:09.628Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "id": "ev-60c14b116f",
+      "title": "人民日报锐评姆巴佩翻车",
+      "sources": [
+        "weibo",
+        "toutiao",
+        "baidu"
+      ],
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
         "key": "platform",
         "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 3
       },
-      "reversal": false,
-      "translated": false,
-      "score": 89,
-      "ruleScore": 89,
-      "eventId": "ev-46a101ddd4"
-    },
-    {
-      "id": "4db8e5c820512dac",
-      "title": "南开大学启动“主辅一体”人才培养新模式 2027年秋季起逐步面向全校本科生铺开",
-      "originalTitle": null,
-      "summary": "中新网天津10月27日电 (记者 孙玲玲)记者从南开大学获悉，今年秋季学期，该校率先启动了以“主辅一体”为核心的人才培养新模式，推进全校性跨学科学习，构建复合型创新人才培养新路径。这项培养改革在金融学院、信息与传播学院、历史学院、旅游与服务学院试点启动，将于2027年秋季学期起逐步面向全校本科生铺开。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721872.shtml",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-27T13:03:22.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 84,
-      "ruleScore": 84,
-      "eventId": "ev-468f83b740"
-    },
+      "timeline": [
+        {
+          "at": "2026-10-28T02:27:15.125Z",
+          "title": "人民日报锐评姆巴佩翻车",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=17&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-28T02:27:15.378Z",
+          "title": "人民日报评姆巴佩翻车",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7701170258211700779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701170258211700779%22%2C%22hot_board_impr_id%22%3A%222026102810271521299B6C9508DDEA1BC1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7701170258211700779",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-28T02:27:15.669Z",
+          "title": "人民日报评姆巴佩“翻车”",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "51c795e038cdf500"
+    }
+  ],
+  "items": [
     {
       "id": "8f7ee58a164d0fb9",
       "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
@@ -233,33 +202,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 77,
-      "ruleScore": 77,
+      "score": 74,
+      "ruleScore": 74,
       "eventId": "ev-df160aa27a"
     },
     {
-      "id": "150ae0ab8ec3e3c0",
-      "title": "Rachael Ray’s future career plans revealed after worrisome appearances sparked health concerns",
+      "id": "99c362673086831f",
+      "title": "Guess The Influencer Bustin' Out Of her Tight Top",
       "originalTitle": null,
-      "summary": "In recent years, fans have wondered whether the beloved cook was \"OK\" after \"slurring\" her words in multiple Instagram videos.",
-      "url": "https://pagesix.com/2026/10/27/celebrity-news/rachael-rays-future-career-plans-revealed-after-health-concerns/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Frachael-ray-speaks-onstage-new-145623626.jpg",
+      "summary": "We are just days away from Halloween, and this busty babe is ready for the occasion ... can you guess which gothic influencer is falling out of her mini dress?!? Known best for her cosplaying and streaming ...",
+      "url": "https://www.tmz.com/2026/10/27/influencer-hot-photo/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T16:51:49.000Z",
+      "publishedAt": "2026-10-27T21:59:27.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -267,21 +236,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-2b5b63755d"
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-c1509f251c"
     },
     {
-      "id": "791f04c3e80421a2",
-      "title": "物业被围，压断人腿愤而离去",
+      "id": "6cc0cf57f976be40",
+      "title": "20 年前，张冕为护胡歌逝世，胡歌许诺赡养其父母，如今他做到了吗",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643272492.html",
+      "url": "https://bbs.hupu.com/643294354.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-27T18:10:09.628Z",
+      "publishedAt": "2026-10-28T02:27:15.399Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -303,21 +272,21 @@
       "translated": false,
       "score": 61,
       "ruleScore": 61,
-      "eventId": "ev-4452131916"
+      "eventId": "ev-46a101ddd4"
     },
     {
       "id": "6c4e5abd34679b2f",
       "title": "网友称参加婚礼吃了一桌子外卖",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700825823057657875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700825823057657875%22%2C%22hot_board_impr_id%22%3A%2220261028021009278C7B79E647167EEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%22%7D&rank=&style_id=40132&topic_id=7700825823057657875",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/614884cf754a45e1be77b241d220686d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795651200&x-signature=pTytsjdvVw2MpIexGRPQ5eyzOdM%3D",
+      "url": "https://www.toutiao.com/trending/7700825823057657875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700825823057657875%22%2C%22hot_board_impr_id%22%3A%222026102810271521299B6C9508DDEA1BC1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%22%7D&rank=&style_id=40132&topic_id=7700825823057657875",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/614884cf754a45e1be77b241d220686d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795737600&x-signature=6L8K9Wtp7xkrZbeX5PFueEXmm5w%3D",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-27T18:10:09.650Z",
+      "publishedAt": "2026-10-28T02:27:15.378Z",
       "timeBasis": "fetch",
-      "heat": 37691962,
+      "heat": 15907261,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -340,26 +309,26 @@
       "eventId": "ev-ba333cf2d1"
     },
     {
-      "id": "25d8d94584472f76",
-      "title": "俄乌冲突今年能否终结",
+      "id": "24aeb91d904c812d",
+      "title": "尚公主没想到文弱书生亲起来那么猛",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701358027156229642/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701358027156229642%22%2C%22hot_board_impr_id%22%3A%2220261028021009278C7B79E647167EEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E4%BB%8A%E5%B9%B4%E8%83%BD%E5%90%A6%E7%BB%88%E7%BB%93%22%7D&rank=&style_id=40132&topic_id=7701358027156229642",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/6eeec2779242433b823e486747800e53~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795651200&x-signature=oMx0mj70wp1NiNqvrYfh5RV2xlY%3D",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E6%B2%A1%E6%83%B3%E5%88%B0%E6%96%87%E5%BC%B1%E4%B9%A6%E7%94%9F%E4%BA%B2%E8%B5%B7%E6%9D%A5%E9%82%A3%E4%B9%88%E7%8C%9B%23&t=31&band_rank=5&Refer=top",
+      "image": "",
       "category": "oddity",
-      "topicClass": "scene",
+      "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-27T18:10:09.650Z",
+      "publishedAt": "2026-10-28T02:27:15.125Z",
       "timeBasis": "fetch",
-      "heat": 4176388,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "toutiao"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -369,21 +338,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-00ff2a2795"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-e3ea0b6912"
     },
     {
-      "id": "99a747373050537a",
-      "title": "Abby Lee Miller, Cathy Nesbitt-Stein talk reconciliation, ‘Dance Moms’ musical and ‘DWTS’ drama with VRT",
+      "id": "944c98035cb9c53b",
+      "title": "Tatum O’Neal, 62, makes rare public outing with family 6 years after near-fatal stroke",
       "originalTitle": null,
-      "summary": "“Dance Moms” legends Abby Lee Miller and Cathy Nesbitt-Stein stopped by the Page Six studio to chat with “Virtual Reali-Tea” co-hosts Danny Murphy and Evan Real about reuniting for their new competition reality show, “Ab…",
-      "url": "https://pagesix.com/video/abby-lee-miller-cathy-nesbitt-stein-talk-reconciliation-dance-moms-musical-and-dwts-drama-with-vrt/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2FABBY-LEE-wordpress-25-2.png",
+      "summary": "The \"Paper Moon\" actress suffered a stroke back in 2020.",
+      "url": "https://pagesix.com/2026/10/27/celebrity-news/tatum-oneal-62-makes-rare-public-outing-with-family-6-years-after-near-fatal-stroke/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fexclusive-los-angeles-ca-web-146660383.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T16:37:10.000Z",
+      "publishedAt": "2026-10-28T02:09:44.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,31 +374,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-77001395fe"
+      "eventId": "ev-3e7e3aa861"
     },
     {
-      "id": "1816c1f47163ec0f",
-      "title": "Chrishell Stause and G Flip Never Made Marriage Legal Before Split",
+      "id": "b20585b32beb1c8f",
+      "title": "Standoff over Libbie Mugrabi’s $6M Hamptons mansion rocks ritzy community",
       "originalTitle": null,
-      "summary": "Chrishell Stause and G Flip are going their separate ways after four years together and multiple weddings ... but TMZ has learned there's one thing they won't have to worry about -- getting a divorce.",
-      "url": "https://www.tmz.com/2026/10/27/chrishell-stause-g-flip-never-legally-married/",
-      "image": "",
+      "summary": "\"Libbie's a vulnerable individual in need of assistance and nothing is being done, and it's spilling over into the community,\" one concerned neighbor told Page Six.",
+      "url": "https://pagesix.com/2026/10/27/society/standoff-over-libbie-mugrabis-6m-hamptons-mansion-rocks-ritzy-community/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F2021-sunday-features-libbie-mugrabi-18207623.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T17:49:34.000Z",
+      "publishedAt": "2026-10-27T23:56:44.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -439,7 +408,43 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f1d41390d2"
+      "eventId": "ev-a80b825755"
+    },
+    {
+      "id": "51c795e038cdf500",
+      "title": "人民日报锐评姆巴佩翻车",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=17&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-28T02:27:15.125Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 3,
+        "platformSources": [
+          "weibo",
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 62,
+      "ruleScore": 62,
+      "eventId": "ev-60c14b116f"
     }
   ]
 }
