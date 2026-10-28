@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T02:27:20.516Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-28T18:26:58.475Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 255,
-    "afterFilter": 34,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 257,
+    "afterFilter": 40,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1308
+        "ms": 1587
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 978
+        "ms": 1121
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 723
+        "ms": 1073
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 507
+        "ms": 844
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 609
+        "ms": 899
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1224
+        "ms": 1154
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 19,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 990
+        "ms": 1132
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 995
+        "ms": 1152
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1395
+        "ms": 1571
       }
     ],
     "ai": {
@@ -108,149 +108,43 @@
     "totalSources": 9
   },
   "mustEat": [
-    "8f7ee58a164d0fb9",
-    "99c362673086831f"
+    "729b74dccd2cb2a4",
+    "50e04c2ab8b139e6"
   ],
   "sections": {
     "life": [
-      "6cc0cf57f976be40"
+      "24d7bd547d86fb0d"
     ],
     "romance": [
-      "6c4e5abd34679b2f"
+      "1af3c49dd120ed29"
     ],
     "oddity": [
-      "24aeb91d904c812d"
+      "d9bf3e64959d7d35"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "e33ccf2ac49a1ac1",
+      "1062454795472488"
+    ],
     "overseas": [
-      "99c362673086831f",
-      "944c98035cb9c53b",
-      "b20585b32beb1c8f"
+      "50e04c2ab8b139e6",
+      "50f752665f173428",
+      "58a1206822c8835a"
     ]
   },
-  "events": [
-    {
-      "id": "ev-60c14b116f",
-      "title": "人民日报锐评姆巴佩翻车",
-      "sources": [
-        "weibo",
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 3
-      },
-      "timeline": [
-        {
-          "at": "2026-10-28T02:27:15.125Z",
-          "title": "人民日报锐评姆巴佩翻车",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=17&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-28T02:27:15.378Z",
-          "title": "人民日报评姆巴佩翻车",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7701170258211700779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701170258211700779%22%2C%22hot_board_impr_id%22%3A%222026102810271521299B6C9508DDEA1BC1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7701170258211700779",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-28T02:27:15.669Z",
-          "title": "人民日报评姆巴佩“翻车”",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "51c795e038cdf500"
-    }
-  ],
+  "events": [],
   "items": [
     {
-      "id": "8f7ee58a164d0fb9",
-      "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+      "id": "729b74dccd2cb2a4",
+      "title": "生活随笔（要个三胎都没有话语权的男人）",
       "originalTitle": null,
-      "summary": "中新网重庆10月27日电 (马佳欣)历史场景复原、口述史料展陈、革命遗址连片呈现……27日，南腰界红三军革命旧址群整体展示开放活动在重庆市酉阳土家族苗族自治县南腰界镇会师广场举行。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
+      "summary": "岳父岳母昨天中午打来电话，说想两个孩子了，老两口雷厉风行，下午四点坐高铁就到了常州。我带着两个小家伙去接站，老爸老妈媳妇直接去饭店等着去了。\n 岳父五月份退休，直接从领导干部到市民小老头的断崖式落差，经过这几个月的痛苦磨合，刚刚适应了退休生活，少了在位时的威严做派，多了公园大爷的闲散慵懒。岳父和老爸传承了徐州人的酒文化，酒量甚好，老哥俩都喜欢52度水晶剑，媳妇怕两个老头和我喝多了，只带来两瓶。老爸和岳父是一个村光屁股长大的同姓兄弟发小，从小玩到大，从小学到中学，铁哥们。15岁时，我爹进了技工学校，岳父进了公安学校，两位就此各自走上了不同的人生道路，两人期间联系不断，老爸逢年过节回徐州老家老哥俩也都安排见面叙旧，友情持之以恒。",
+      "url": "https://bbs.hupu.com/643319834.html",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T14:03:07.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 74,
-      "ruleScore": 74,
-      "eventId": "ev-df160aa27a"
-    },
-    {
-      "id": "99c362673086831f",
-      "title": "Guess The Influencer Bustin' Out Of her Tight Top",
-      "originalTitle": null,
-      "summary": "We are just days away from Halloween, and this busty babe is ready for the occasion ... can you guess which gothic influencer is falling out of her mini dress?!? Known best for her cosplaying and streaming ...",
-      "url": "https://www.tmz.com/2026/10/27/influencer-hot-photo/",
-      "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-27T21:59:27.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-c1509f251c"
-    },
-    {
-      "id": "6cc0cf57f976be40",
-      "title": "20 年前，张冕为护胡歌逝世，胡歌许诺赡养其父母，如今他做到了吗",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643294354.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-28T02:27:15.399Z",
+      "publishedAt": "2026-10-28T18:26:52.170Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -270,23 +164,125 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-46a101ddd4"
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-4c344e4920"
     },
     {
-      "id": "6c4e5abd34679b2f",
-      "title": "网友称参加婚礼吃了一桌子外卖",
+      "id": "50e04c2ab8b139e6",
+      "title": "Chix On Netflix -- 猜猜热门恐怖明星",
+      "originalTitle": "Chix On Netflix -- Guess The Hot Horror Star",
+      "summary": "Netflix 上的 Chix 本周变得越来越恐怖——你能为这位不知名的明星打分吗？！ 2017 年，她在拍摄恐怖片时双手叉腰，腹部朝外。",
+      "url": "https://www.tmz.com/2026/10/28/guess-the-netflix-star/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-28T18:00:16.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": true,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-4c5dc1d31a"
+    },
+    {
+      "id": "24d7bd547d86fb0d",
+      "title": "亲戚资助出国玩 低保资格会被取消吗",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7700825823057657875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700825823057657875%22%2C%22hot_board_impr_id%22%3A%222026102810271521299B6C9508DDEA1BC1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96%22%7D&rank=&style_id=40132&topic_id=7700825823057657875",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/614884cf754a45e1be77b241d220686d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795737600&x-signature=6L8K9Wtp7xkrZbeX5PFueEXmm5w%3D",
+      "url": "https://m.baidu.com/s?word=%E4%BA%B2%E6%88%9A%E8%B5%84%E5%8A%A9%E5%87%BA%E5%9B%BD%E7%8E%A9+%E4%BD%8E%E4%BF%9D%E8%B5%84%E6%A0%BC%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88%E5%90%97&sa=fyb_news",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-28T18:26:52.591Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-1b9eacaa21"
+    },
+    {
+      "id": "1af3c49dd120ed29",
+      "title": "毛不易婚礼发言的当事男女都出来说话了。表示关系都很好，大家不要断章取义！",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643377742.html",
+      "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-28T02:27:15.378Z",
+      "publishedAt": "2026-10-28T18:26:52.170Z",
       "timeBasis": "fetch",
-      "heat": 15907261,
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-9f880cac07"
+    },
+    {
+      "id": "d9bf3e64959d7d35",
+      "title": "人民日报评姆巴佩翻车",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701170258211700779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701170258211700779%22%2C%22hot_board_impr_id%22%3A%2220261029022651E71B82E76465FB2E64B9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7701170258211700779",
+      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/7c6dc65d-10dc-4700-8e58-ac1c4b80eb90~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795737600&x-signature=KnyZxXC4ka2GJi5dFJE2CHPb5LY%3D",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-28T18:26:52.155Z",
+      "timeBasis": "fetch",
+      "heat": 29076006,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -304,55 +300,89 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-ba333cf2d1"
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-257c546d98"
     },
     {
-      "id": "24aeb91d904c812d",
-      "title": "尚公主没想到文弱书生亲起来那么猛",
+      "id": "e33ccf2ac49a1ac1",
+      "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E6%B2%A1%E6%83%B3%E5%88%B0%E6%96%87%E5%BC%B1%E4%B9%A6%E7%94%9F%E4%BA%B2%E8%B5%B7%E6%9D%A5%E9%82%A3%E4%B9%88%E7%8C%9B%23&t=31&band_rank=5&Refer=top",
+      "summary": "中新网兰州10月28日电 (王源 马丽)进入秋冬季，炉火熄灭、铁锤停歇，家庭小作坊大多进入“空闲期”，这曾是保安腰刀传承八百余年的常态，如今在甘肃省临夏州积石山县刘集乡团结村，几名工人操作着现代化设备，不多时，一把兼具保安腰刀形制神韵的菜刀便已成型。这座拔地而起的标准化厂房，让保安腰刀告别了“看天吃饭”的旧模式，开启了“工厂模式”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
       "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-28T02:27:15.125Z",
-      "timeBasis": "fetch",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-28T14:37:22.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-e3ea0b6912"
+      "score": 32,
+      "ruleScore": 32,
+      "eventId": "ev-093c0bbd8d"
     },
     {
-      "id": "944c98035cb9c53b",
-      "title": "Tatum O’Neal, 62, makes rare public outing with family 6 years after near-fatal stroke",
+      "id": "1062454795472488",
+      "title": "山西阳高：冷棚暖棚菌菇棚轮番上阵 全年生产“不打烊”",
       "originalTitle": null,
-      "summary": "The \"Paper Moon\" actress suffered a stroke back in 2020.",
-      "url": "https://pagesix.com/2026/10/27/celebrity-news/tatum-oneal-62-makes-rare-public-outing-with-family-6-years-after-near-fatal-stroke/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fexclusive-los-angeles-ca-web-146660383.jpg",
+      "summary": "中新网大同10月28日电 (胡健 宋佳烨 左暄)日前，山西省大同市阳高县大白登镇潘寺村设施蔬菜基地里，710栋冷棚成片静立，棚膜下的土地正休养歇茬；一街之隔的暖棚和菌菇棚里却热气扑面，村民正忙着采摘、分拣、打包。冷棚、暖棚、菌菇棚三种大棚各走各的节奏，合起来却让基地一年到头生产不断档、增收不停步。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722322.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-28T10:28:30.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 30,
+      "ruleScore": 30,
+      "eventId": "ev-56f6a5c9e3"
+    },
+    {
+      "id": "50f752665f173428",
+      "title": "Savannah Chrisley 的诈骗未婚夫 Jason Galanis 曾因未付 12 万美元钻石手镯的账单而提起诉讼",
+      "originalTitle": "Savannah Chrisley’s fraudster fiancé Jason Galanis once sued over unpaid bill for $120K diamond bracelet",
+      "summary": "比佛利山庄珠宝公司六剑有限责任公司 (Six Swords LLC) 指控 56 岁的加拉尼斯 (Galanis) 和他当时的妻子未能支付这件昂贵珠宝的最后两笔款项。",
+      "url": "https://pagesix.com/2026/10/28/celebrity-news/savannah-chrisleys-fraudster-fiance-jason-galanis-once-sued-over-unpaid-bill-for-120k-diamond-bracelet/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fsavannah-chrisley-jason-galanis-2026-146728143_b034c5.jpg?w%3D564",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-28T02:09:44.000Z",
+      "publishedAt": "2026-10-28T17:34:32.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -371,22 +401,22 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-3e7e3aa861"
+      "eventId": "ev-4a5902f05b"
     },
     {
-      "id": "b20585b32beb1c8f",
-      "title": "Standoff over Libbie Mugrabi’s $6M Hamptons mansion rocks ritzy community",
-      "originalTitle": null,
-      "summary": "\"Libbie's a vulnerable individual in need of assistance and nothing is being done, and it's spilling over into the community,\" one concerned neighbor told Page Six.",
-      "url": "https://pagesix.com/2026/10/27/society/standoff-over-libbie-mugrabis-6m-hamptons-mansion-rocks-ritzy-community/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F2021-sunday-features-libbie-mugrabi-18207623.jpg",
+      "id": "58a1206822c8835a",
+      "title": "乔恩·洛维茨在严厉批评《花花公子》的“变态”言论后回应克里斯托·赫夫纳：“这是一种恭维”",
+      "originalTitle": "Jon Lovitz responds to Crystal Hefner after scathing Playboy ‘perv’ claims: ‘It’s a compliment’",
+      "summary": "这位《邻家女孩》的演员指责这位喜剧演员参加了在臭名昭著的花花公子大厦举办的“每场派对”。",
+      "url": "https://pagesix.com/2026/10/28/celebrity-news/jon-lovitz-responds-to-crystal-hefner-after-scathing-playboy-perv-claims/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fjon-lovitz-146751358.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-27T23:56:44.000Z",
+      "publishedAt": "2026-10-28T17:32:30.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,46 +435,10 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-a80b825755"
-    },
-    {
-      "id": "51c795e038cdf500",
-      "title": "人民日报锐评姆巴佩翻车",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=17&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-28T02:27:15.125Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 3,
-        "platformSources": [
-          "weibo",
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-60c14b116f"
+      "eventId": "ev-7404195355"
     }
   ]
 }
