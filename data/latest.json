@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T11:01:02.620Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-29T18:36:51.863Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
-    "afterFilter": 37,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 263,
+    "afterFilter": 42,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2045
+        "ms": 2745
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1144
+        "ms": 563
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 4682
+        "ms": 650
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 867
+        "ms": 419
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 957
+        "ms": 557
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 4781
+        "ms": 754
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 4757
+        "ms": 725
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 4756
+        "ms": 671
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1726
+        "ms": 1656
       }
     ],
     "ai": {
@@ -110,25 +110,24 @@
   "mustEat": [
     "ffc0e71601ae61b4",
     "397359c16b7e862c",
-    "37e458630b8178ce",
-    "5f5fd3f2ee0d0d47"
+    "af482f55e5bd2bbe",
+    "370ffcd2f545292a"
   ],
   "sections": {
     "life": [
       "397359c16b7e862c",
-      "37e458630b8178ce",
-      "6cc0cf57f976be40"
+      "af482f55e5bd2bbe"
     ],
     "romance": [
-      "f16231691d6419e9"
+      "23a08b338479c978"
     ],
     "oddity": [],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "5f5fd3f2ee0d0d47",
-      "b01d9bb378df8d67",
-      "7f64f2f8689ab14b"
+      "370ffcd2f545292a",
+      "3321d5ec5de277a1",
+      "1c0743f0e8df0b1e"
     ]
   },
   "events": [],
@@ -143,7 +142,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T11:00:57.402Z",
+      "publishedAt": "2026-10-29T18:36:44.633Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -177,7 +176,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T11:00:57.402Z",
+      "publishedAt": "2026-10-29T18:36:44.633Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -202,16 +201,16 @@
       "eventId": "ev-bb2d7b2a12"
     },
     {
-      "id": "37e458630b8178ce",
-      "title": "江西铅山：小区有了“铅管家” 细微服务暖万家",
+      "id": "af482f55e5bd2bbe",
+      "title": "山壁下、临江边，重庆彭水谋划为风险防控添三道“锁”",
       "originalTitle": null,
-      "summary": "中新网江西铅山10月29日电 (王成前)上门保洁清扫、免费便民理发、排查居家隐患、代办生活琐事……今年以来，江西省上饶市铅山县打造本土物业服务品牌“铅管家”，聚焦居民日常琐碎烦心事，把精细化便民服务送到楼栋家门口，让社区治理更接地气、更有温度。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722737.shtml",
+      "summary": "中新网重庆10月29日电 (罗永皓)重庆市彭水苗族土家族自治县地处武陵山区腹地，属于典型的喀斯特地貌。当地城市空间狭窄、用地条件复杂，百姓住房大多依山而建、临江而居。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T07:47:50.000Z",
+      "publishedAt": "2026-10-29T12:02:38.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -231,21 +230,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-4be2374e1c"
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-1d941adcf2"
     },
     {
-      "id": "5f5fd3f2ee0d0d47",
-      "title": "Martha Plimpton was ‘so excited’ to reunite with former on-screen dad in ‘The Lowdown’",
+      "id": "370ffcd2f545292a",
+      "title": "‘Beaten down’ Amanda Batula shares ‘huge reason’ for ‘In the City’ exit",
       "originalTitle": null,
-      "summary": "She played the actor's daughter when she was 14 in the 1984 movie “The River Rat.\"",
-      "url": "https://pagesix.com/2026/10/29/entertainment/martha-plimpton-was-so-excited-to-reunite-with-former-on-screen-dad-in-the-lowdown/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fmartha-plimpton-lowdown-season-2-146742322.jpg?w%3D1024",
+      "summary": "Batula previously exited \"Summer House\" after ten seasons, following her boyfriend, West Wilson, getting ousted.",
+      "url": "https://pagesix.com/2026/10/29/entertainment/beaten-down-amanda-batula-shares-huge-reason-for-in-the-city-exit/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famanda-batula-oct-5-2026-146867790_6aee05.jpg?w%3D768",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T05:00:00.000Z",
+      "publishedAt": "2026-10-29T18:16:15.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -267,53 +266,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-c0366facff"
+      "eventId": "ev-523dc7e61b"
     },
     {
-      "id": "6cc0cf57f976be40",
-      "title": "20 年前，张冕为护胡歌逝世，胡歌许诺赡养其父母，如今他做到了吗",
+      "id": "23a08b338479c978",
+      "title": "AI复原的英雄父亲“赴约”儿子婚礼",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643294354.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-29T11:00:57.402Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-46a101ddd4"
-    },
-    {
-      "id": "f16231691d6419e9",
-      "title": "结婚请人撑场面火爆全网 小小徐回应",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BB%93%E5%A9%9A%E8%AF%B7%E4%BA%BA%E6%92%91%E5%9C%BA%E9%9D%A2%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E5%B0%8F%E5%B0%8F%E5%BE%90%E5%9B%9E%E5%BA%94&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=AI%E5%A4%8D%E5%8E%9F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%88%B6%E4%BA%B2%E2%80%9C%E8%B5%B4%E7%BA%A6%E2%80%9D%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC&sa=fyb_news",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-29T11:00:54.615Z",
+      "publishedAt": "2026-10-29T18:36:46.618Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -335,19 +300,19 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-f49c5c3a21"
+      "eventId": "ev-0bacacae6d"
     },
     {
-      "id": "b01d9bb378df8d67",
-      "title": "Ryan Seacrest gives rare update on his relationship status",
+      "id": "3321d5ec5de277a1",
+      "title": "Gwyneth Paltrow and Salma Hayek’s nepo baby kids named as the UK’s most eligible socialites",
       "originalTitle": null,
-      "summary": "Seacrest was most recently linked to Dutch model Maxime Nova.",
-      "url": "https://pagesix.com/2026/10/28/celebrity-news/ryan-seacrest-gives-rare-update-on-his-relationship-status/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-instagram-com-p-dfc7vchpxxg-146806098.jpg?w%3D576",
+      "summary": "The exclusive list was published by Tatler this week.",
+      "url": "https://pagesix.com/2026/10/29/parents/gwyneth-paltrow-and-salma-hayeks-nepo-baby-kids-named-as-the-uks-most-eligible-socialites/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Feditorial-use-non-editorial-use-146861880.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T02:51:54.000Z",
+      "publishedAt": "2026-10-29T18:06:52.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,19 +334,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-4be55cc5d4"
+      "eventId": "ev-598c719672"
     },
     {
-      "id": "7f64f2f8689ab14b",
-      "title": "Lindsay Clancy's Lawyer Blasts Ex-Husband's Attorney Over Claims She'll Testify",
+      "id": "1c0743f0e8df0b1e",
+      "title": "Halle Berry's Ex Olivier Martinez Keeps Primary Custody, at Least Temporarily",
       "originalTitle": null,
-      "summary": "Lindsay Clancy's attorney is firing back at her ex-husband's legal team ... flatly denying claims she plans to testify in a civil lawsuit against her medical providers.",
-      "url": "https://www.tmz.com/2026/10/28/lindsay-clancys-lawyer-blasts-ex-husband-attorney-over-claims-shell-testify/",
+      "summary": "The judge overseeing Halle Berry and ex Olivier Martinez's bitter custody case has reached a decision ...",
+      "url": "https://www.tmz.com/2026/10/29/halle-berry-olivier-martinez-custody-case/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T01:40:22.000Z",
+      "publishedAt": "2026-10-29T17:33:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -403,7 +368,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-b86e555a96"
+      "eventId": "ev-57625232b2"
     }
   ]
 }

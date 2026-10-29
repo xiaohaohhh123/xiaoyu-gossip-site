@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-29T18:36:51.863Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 263,
+    "afterFilter": 42,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2745
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 563
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 650
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 419
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 557
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 754
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 725
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 671
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1656
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "ffc0e71601ae61b4",
+    "397359c16b7e862c",
+    "af482f55e5bd2bbe",
+    "370ffcd2f545292a"
+  ],
+  "sections": {
+    "life": [
+      "397359c16b7e862c",
+      "af482f55e5bd2bbe"
+    ],
+    "romance": [
+      "23a08b338479c978"
+    ],
+    "oddity": [],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "370ffcd2f545292a",
+      "3321d5ec5de277a1",
+      "1c0743f0e8df0b1e"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "ffc0e71601ae61b4",
+      "title": "这段时间市面上各种Dating app的亲身体验",
+      "originalTitle": null,
+      "summary": "之前一直都没有用过dating app 前段时间分手实在想体验一下 深度使用了各大app两个月吧 \n 也约出来了20+个女生 锐评一下各大主流dating app 希望能给大家一些帮助 在这个大压抑时代少走一些弯路\n Soul：🌶️\n 我知道这个可能是大家用的最多的app 但是我的评价是真的拉完了 这个软件最大的问题就是不用上传自己真实的照片 所有人都顶着一样头像 男生女生都无法进行任何筛选 也因为没有真实资料 软件里的戾气非常大 里面充斥着各种假照男女 只要是个女性用户随便发一张照片 就能引来无数舔狗的私信和骚扰 导致了这个软件上的女生都能体会到众星环绕的感觉 所以交流的时候就是一种高高在上的感觉 完全就是女性的精神商K\n 里面…",
+      "url": "https://bbs.hupu.com/643389980.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T18:36:44.633Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-a1cdb709fc"
+    },
+    {
+      "id": "397359c16b7e862c",
+      "title": "哈文现状：定居纽约富人区，靠丈夫遗产和女儿很潇洒，没有再婚",
+      "originalTitle": null,
+      "summary": "2026年的春天，纽约中央公园的跑道上，有一个身影已经连续出现了好几年。她穿着简单的运动装，跑完十公里也不觉得费力，脸上是那种卸下了所有重担之后的松弛。\n 路过的游客大概不会多看她一眼，但如果时间倒回十几年前，这个女人往春晚后台一站，整个剧组的人连大气都不敢喘。\n \n 她是哈文。到今年，李咏离开已经整整八年了。说实话，我每次看到关于哈文的讨论，都觉得公众对她有一种根深蒂固的误解。\n 大家张口闭口“李咏的遗孀”“靠丈夫遗产过活”，仿佛她这一辈子最大的成就就是嫁了个好老公。\n \n \n 可在我看来，这种标签恰恰是对她最大的不公平。哈文从来不是谁的附属品，她本身就是中国电视行业里那个响当当的名字。",
+      "url": "https://bbs.hupu.com/643330791.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T18:36:44.633Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-bb2d7b2a12"
+    },
+    {
+      "id": "af482f55e5bd2bbe",
+      "title": "山壁下、临江边，重庆彭水谋划为风险防控添三道“锁”",
+      "originalTitle": null,
+      "summary": "中新网重庆10月29日电 (罗永皓)重庆市彭水苗族土家族自治县地处武陵山区腹地，属于典型的喀斯特地貌。当地城市空间狭窄、用地条件复杂，百姓住房大多依山而建、临江而居。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T12:02:38.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-1d941adcf2"
+    },
+    {
+      "id": "370ffcd2f545292a",
+      "title": "‘Beaten down’ Amanda Batula shares ‘huge reason’ for ‘In the City’ exit",
+      "originalTitle": null,
+      "summary": "Batula previously exited \"Summer House\" after ten seasons, following her boyfriend, West Wilson, getting ousted.",
+      "url": "https://pagesix.com/2026/10/29/entertainment/beaten-down-amanda-batula-shares-huge-reason-for-in-the-city-exit/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famanda-batula-oct-5-2026-146867790_6aee05.jpg?w%3D768",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T18:16:15.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-523dc7e61b"
+    },
+    {
+      "id": "23a08b338479c978",
+      "title": "AI复原的英雄父亲“赴约”儿子婚礼",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=AI%E5%A4%8D%E5%8E%9F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%88%B6%E4%BA%B2%E2%80%9C%E8%B5%B4%E7%BA%A6%E2%80%9D%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-29T18:36:46.618Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-0bacacae6d"
+    },
+    {
+      "id": "3321d5ec5de277a1",
+      "title": "Gwyneth Paltrow and Salma Hayek’s nepo baby kids named as the UK’s most eligible socialites",
+      "originalTitle": null,
+      "summary": "The exclusive list was published by Tatler this week.",
+      "url": "https://pagesix.com/2026/10/29/parents/gwyneth-paltrow-and-salma-hayeks-nepo-baby-kids-named-as-the-uks-most-eligible-socialites/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Feditorial-use-non-editorial-use-146861880.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T18:06:52.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-598c719672"
+    },
+    {
+      "id": "1c0743f0e8df0b1e",
+      "title": "Halle Berry's Ex Olivier Martinez Keeps Primary Custody, at Least Temporarily",
+      "originalTitle": null,
+      "summary": "The judge overseeing Halle Berry and ex Olivier Martinez's bitter custody case has reached a decision ...",
+      "url": "https://www.tmz.com/2026/10/29/halle-berry-olivier-martinez-custody-case/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T17:33:00.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-57625232b2"
+    }
+  ]
+}
