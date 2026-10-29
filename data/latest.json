@@ -1,13 +1,13 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-28T18:26:58.475Z",
+  "generatedAt": "2026-10-29T02:34:32.770Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 257,
-    "afterFilter": 40,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 255,
+    "afterFilter": 53,
+    "selected": 12,
+    "domesticSelected": 9,
+    "domesticRatio": 75,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1587
+        "ms": 5034
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1121
+        "ms": 826
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1073
+        "ms": 807
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 844
+        "ms": 464
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 899
+        "ms": 624
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1154
+        "ms": 888
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1132
+        "ms": 921
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1152
+        "ms": 929
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1571
+        "ms": 1299
       }
     ],
     "ai": {
@@ -109,27 +109,32 @@
   },
   "mustEat": [
     "729b74dccd2cb2a4",
-    "50e04c2ab8b139e6"
+    "1af3c49dd120ed29",
+    "397359c16b7e862c",
+    "860cdf680c23da63"
   ],
   "sections": {
     "life": [
+      "397359c16b7e862c",
+      "369b0e8ef67bfd5f",
       "24d7bd547d86fb0d"
     ],
     "romance": [
-      "1af3c49dd120ed29"
+      "1af3c49dd120ed29",
+      "2791886efb63133f"
     ],
     "oddity": [
-      "d9bf3e64959d7d35"
+      "860cdf680c23da63"
     ],
     "twist": [],
     "entertainment": [
-      "e33ccf2ac49a1ac1",
-      "1062454795472488"
+      "f4934d7fbef33be9",
+      "00327a091d4fff5f"
     ],
     "overseas": [
-      "50e04c2ab8b139e6",
-      "50f752665f173428",
-      "58a1206822c8835a"
+      "fa1c7fad02b93359",
+      "396dbcafcb2e1bad",
+      "6dd62e5e7ad0806c"
     ]
   },
   "events": [],
@@ -144,7 +149,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-28T18:26:52.170Z",
+      "publishedAt": "2026-10-29T02:34:21.853Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -169,38 +174,140 @@
       "eventId": "ev-4c344e4920"
     },
     {
-      "id": "50e04c2ab8b139e6",
-      "title": "Chix On Netflix -- 猜猜热门恐怖明星",
-      "originalTitle": "Chix On Netflix -- Guess The Hot Horror Star",
-      "summary": "Netflix 上的 Chix 本周变得越来越恐怖——你能为这位不知名的明星打分吗？！ 2017 年，她在拍摄恐怖片时双手叉腰，腹部朝外。",
-      "url": "https://www.tmz.com/2026/10/28/guess-the-netflix-star/",
+      "id": "1af3c49dd120ed29",
+      "title": "毛不易婚礼发言的当事男女都出来说话了。表示关系都很好，大家不要断章取义！",
+      "originalTitle": null,
+      "summary": "看了其他视频，当天应该就是一个户外的小型婚礼，宾客人也不多。\n 毛不易代表女方娘家人的身份，向来宾作一个致辞，他自己说到上台了都没想好说什么。\n 后面即兴讲了一段话。\n 估计也没想到会被拍下来发到网上。\n \n 我还是之前的观点。\n 这段致辞，单拿出来看，特别是放到网上来审视，很不妥当。\n 有不少越界且容易引发歧义的表述。\n \n 但是在当时那种婚礼环境里，不少人又知道毛不易和他们夫妻俩关系很好的情况下。\n 更多还是感受到他真挚的情感，不会去往他和新娘混乱关系上想。\n \n 这应该再次给公众人物提了个醒。\n 但凡有手机能摄像的环境，措辞都得考究下。\n 不能想说什么说什么。",
+      "url": "https://bbs.hupu.com/643377742.html",
       "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-28T18:00:16.000Z",
+      "publishedAt": "2026-10-29T02:34:21.853Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-9f880cac07"
+    },
+    {
+      "id": "397359c16b7e862c",
+      "title": "哈文现状：定居纽约富人区，靠丈夫遗产和女儿很潇洒，没有再婚",
+      "originalTitle": null,
+      "summary": "2026年的春天，纽约中央公园的跑道上，有一个身影已经连续出现了好几年。她穿着简单的运动装，跑完十公里也不觉得费力，脸上是那种卸下了所有重担之后的松弛。\n 路过的游客大概不会多看她一眼，但如果时间倒回十几年前，这个女人往春晚后台一站，整个剧组的人连大气都不敢喘。\n \n 她是哈文。到今年，李咏离开已经整整八年了。说实话，我每次看到关于哈文的讨论，都觉得公众对她有一种根深蒂固的误解。\n 大家张口闭口“李咏的遗孀”“靠丈夫遗产过活”，仿佛她这一辈子最大的成就就是嫁了个好老公。\n \n \n 可在我看来，这种标签恰恰是对她最大的不公平。哈文从来不是谁的附属品，她本身就是中国电视行业里那个响当当的名字。",
+      "url": "https://bbs.hupu.com/643330791.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T02:34:21.853Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 89,
+      "ruleScore": 89,
+      "eventId": "ev-bb2d7b2a12"
+    },
+    {
+      "id": "860cdf680c23da63",
+      "title": "工伤后又引发并发症，赔偿谁担？",
+      "originalTitle": null,
+      "summary": "工伤后引发的并发症，是否属于工伤保障范围？工伤后停工留薪期间的待遇，应如何计算？近日，江西省南昌市中级人民法院审理一起劳动纠纷案，确认劳动者工伤后引发的并发症属于工伤保障范围，支持劳动者获取工伤赔偿。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722503.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-28T23:20:13.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "chinanews.com.cn"
         ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
-      "translated": true,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-4c5dc1d31a"
+      "translated": false,
+      "score": 76,
+      "ruleScore": 76,
+      "eventId": "ev-5f76b43398"
+    },
+    {
+      "id": "369b0e8ef67bfd5f",
+      "title": "我该给我妈养老吗？",
+      "originalTitle": null,
+      "summary": "不发其他平台因为都有我熟人所以来hp问问，楼主玻璃心如果觉得我做得不应该也好好说求别骂我\n 我是女生，两岁不到的时候我爸公司破产父母离异，我爸净身出户，我妈拿了房车（绝对的一线城市）存款，不到一年把我送奶奶家了，从此再无抚育...后来她房车全卖，存款全花挥霍了很多年，现在我大学毕业后来找我时不时暗示要给我她养老，而且我后来才得知她不仅没存款她还欠了一屁股债，这些钱百分之两百没花到我身上\n 我在奶奶家读完二年级，我爸爸把我接到身边，因为大城市教育资源好。",
+      "url": "https://bbs.hupu.com/643378525.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T02:34:21.853Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 86,
+      "ruleScore": 86,
+      "eventId": "ev-8e5a413fea"
     },
     {
       "id": "24d7bd547d86fb0d",
@@ -212,7 +319,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-28T18:26:52.591Z",
+      "publishedAt": "2026-10-29T02:34:25.923Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -237,26 +344,26 @@
       "eventId": "ev-1b9eacaa21"
     },
     {
-      "id": "1af3c49dd120ed29",
-      "title": "毛不易婚礼发言的当事男女都出来说话了。表示关系都很好，大家不要断章取义！",
+      "id": "2791886efb63133f",
+      "title": "郑合惠子 跟我提结婚我肯定吓得腿软",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643377742.html",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20%E8%B7%9F%E6%88%91%E6%8F%90%E7%BB%93%E5%A9%9A%E6%88%91%E8%82%AF%E5%AE%9A%E5%90%93%E5%BE%97%E8%85%BF%E8%BD%AF&t=31&band_rank=16&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-28T18:26:52.170Z",
+      "publishedAt": "2026-10-29T02:34:21.735Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -268,87 +375,19 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-9f880cac07"
+      "eventId": "ev-3e6b606639"
     },
     {
-      "id": "d9bf3e64959d7d35",
-      "title": "人民日报评姆巴佩翻车",
+      "id": "f4934d7fbef33be9",
+      "title": "被恶意剪辑、被AI换脸、被“商业代言” 警惕涉老网络侵权新风险",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701170258211700779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701170258211700779%22%2C%22hot_board_impr_id%22%3A%2220261029022651E71B82E76465FB2E64B9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7701170258211700779",
-      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/7c6dc65d-10dc-4700-8e58-ac1c4b80eb90~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795737600&x-signature=KnyZxXC4ka2GJi5dFJE2CHPb5LY%3D",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-28T18:26:52.155Z",
-      "timeBasis": "fetch",
-      "heat": 29076006,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-257c546d98"
-    },
-    {
-      "id": "e33ccf2ac49a1ac1",
-      "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
-      "originalTitle": null,
-      "summary": "中新网兰州10月28日电 (王源 马丽)进入秋冬季，炉火熄灭、铁锤停歇，家庭小作坊大多进入“空闲期”，这曾是保安腰刀传承八百余年的常态，如今在甘肃省临夏州积石山县刘集乡团结村，几名工人操作着现代化设备，不多时，一把兼具保安腰刀形制神韵的菜刀便已成型。这座拔地而起的标准化厂房，让保安腰刀告别了“看天吃饭”的旧模式，开启了“工厂模式”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
+      "summary": "当前，随着互联网技术的迭代，老年人在享受数字化、智能化服务进程中已经成为不容忽视的群体。中国互联网络信息中心发布的《第57次中国互联网络发展状况统计报告》显示，截至2025年12月，60岁及以上老年网民用户规模已达1.73亿人，占网民整体的15.4%。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722504.shtml",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-10-28T14:37:22.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 32,
-      "ruleScore": 32,
-      "eventId": "ev-093c0bbd8d"
-    },
-    {
-      "id": "1062454795472488",
-      "title": "山西阳高：冷棚暖棚菌菇棚轮番上阵 全年生产“不打烊”",
-      "originalTitle": null,
-      "summary": "中新网大同10月28日电 (胡健 宋佳烨 左暄)日前，山西省大同市阳高县大白登镇潘寺村设施蔬菜基地里，710栋冷棚成片静立，棚膜下的土地正休养歇茬；一街之隔的暖棚和菌菇棚里却热气扑面，村民正忙着采摘、分拣、打包。冷棚、暖棚、菌菇棚三种大棚各走各的节奏，合起来却让基地一年到头生产不断档、增收不停步。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722322.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-28T10:28:30.000Z",
+      "publishedAt": "2026-10-28T23:23:35.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -370,19 +409,53 @@
       "translated": false,
       "score": 30,
       "ruleScore": 30,
-      "eventId": "ev-56f6a5c9e3"
+      "eventId": "ev-dd849ab9d3"
     },
     {
-      "id": "50f752665f173428",
-      "title": "Savannah Chrisley 的诈骗未婚夫 Jason Galanis 曾因未付 12 万美元钻石手镯的账单而提起诉讼",
-      "originalTitle": "Savannah Chrisley’s fraudster fiancé Jason Galanis once sued over unpaid bill for $120K diamond bracelet",
-      "summary": "比佛利山庄珠宝公司六剑有限责任公司 (Six Swords LLC) 指控 56 岁的加拉尼斯 (Galanis) 和他当时的妻子未能支付这件昂贵珠宝的最后两笔款项。",
-      "url": "https://pagesix.com/2026/10/28/celebrity-news/savannah-chrisleys-fraudster-fiance-jason-galanis-once-sued-over-unpaid-bill-for-120k-diamond-bracelet/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fsavannah-chrisley-jason-galanis-2026-146728143_b034c5.jpg?w%3D564",
+      "id": "00327a091d4fff5f",
+      "title": "我的声音被AI“偷”走了，咋维权？",
+      "originalTitle": null,
+      "summary": "“在视频里听到了‘自己’的声音，可我从来没为其配过音，该如何维权？”近日，配音演员王女士起诉某公司人工智能生成声音侵权的案件，由上海市第一中级人民法院依法审结。这是上海市首例人工智能合成语音引发的自然人声音权益保护纠纷案件，法院判决平台运营方构成声音侵权，须赔偿权利人经济损失5万元。",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-28T22:25:22.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 30,
+      "ruleScore": 30,
+      "eventId": "ev-9c4b1fc4f1"
+    },
+    {
+      "id": "fa1c7fad02b93359",
+      "title": "Crystal Hefner slams ‘misogynist’ Jon Lovitz after he mocked her over Playboy Mansion ‘perv’ comments",
+      "originalTitle": null,
+      "summary": "Hefner also detailed the power her late husband held, which she said impacted relationships and media coverage.",
+      "url": "https://pagesix.com/2026/10/28/celebrity-news/crystal-hefner-slams-jon-lovitz-after-mocking-her-playboy-mansion-perv-comments/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fcrystal-hefner-attends-gloria-allred-146787543.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-28T17:34:32.000Z",
+      "publishedAt": "2026-10-29T01:36:32.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -401,22 +474,22 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-4a5902f05b"
+      "eventId": "ev-c2bc8345c4"
     },
     {
-      "id": "58a1206822c8835a",
-      "title": "乔恩·洛维茨在严厉批评《花花公子》的“变态”言论后回应克里斯托·赫夫纳：“这是一种恭维”",
-      "originalTitle": "Jon Lovitz responds to Crystal Hefner after scathing Playboy ‘perv’ claims: ‘It’s a compliment’",
-      "summary": "这位《邻家女孩》的演员指责这位喜剧演员参加了在臭名昭著的花花公子大厦举办的“每场派对”。",
-      "url": "https://pagesix.com/2026/10/28/celebrity-news/jon-lovitz-responds-to-crystal-hefner-after-scathing-playboy-perv-claims/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fjon-lovitz-146751358.jpg?w%3D1024",
+      "id": "396dbcafcb2e1bad",
+      "title": "How Kim Kardashian kept close eye on biographer during yearslong ‘Citizen Kim’ writing process",
+      "originalTitle": null,
+      "summary": "Before Kim Kardashian agreed to be the subject of a tell-all book, she had one important call to make: Anna Wintour.",
+      "url": "https://pagesix.com/2026/10/28/celebrity-news/kim-kardashian-vetted-kept-close-eye-on-citizen-kim-biographer/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F146559716.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-28T17:32:30.000Z",
+      "publishedAt": "2026-10-29T00:24:40.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -435,10 +508,44 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-7404195355"
+      "eventId": "ev-607b8e40ef"
+    },
+    {
+      "id": "6dd62e5e7ad0806c",
+      "title": "Great-Grandmother Joins OnlyFans To Secure Retirement Plan",
+      "originalTitle": null,
+      "summary": "A 72-year-old great-grandmother of 8 has revealed the \"great retirement\" plan she cooked up with her husband ... filming adult content.",
+      "url": "https://www.tmz.com/2026/10/28/dd-white-great-grandmother-adult-content-her-retirement-plan/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-29T00:30:47.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-ea2a8ec127"
     }
   ]
 }
