@@ -1,13 +1,13 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-29T18:36:51.863Z",
+  "generatedAt": "2026-10-30T02:44:10.384Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 263,
-    "afterFilter": 42,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 265,
+    "afterFilter": 29,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2745
+        "ms": 1298
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 563
+        "ms": 742
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 650
+        "ms": 663
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 8,
         "error": null,
         "httpStatus": 200,
-        "ms": 419
+        "ms": 603
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 557
+        "ms": 704
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 754
+        "ms": 739
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 725
+        "ms": 717
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 671
+        "ms": 717
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1656
+        "ms": 3098
       }
     ],
     "ai": {
@@ -109,25 +109,22 @@
   },
   "mustEat": [
     "ffc0e71601ae61b4",
-    "397359c16b7e862c",
-    "af482f55e5bd2bbe",
-    "370ffcd2f545292a"
+    "411a3d2b1269024c"
   ],
   "sections": {
-    "life": [
-      "397359c16b7e862c",
-      "af482f55e5bd2bbe"
-    ],
+    "life": [],
     "romance": [
-      "23a08b338479c978"
+      "dc7acd99e600a631"
     ],
-    "oddity": [],
+    "oddity": [
+      "fbb4268949696fc4"
+    ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "370ffcd2f545292a",
-      "3321d5ec5de277a1",
-      "1c0743f0e8df0b1e"
+      "411a3d2b1269024c",
+      "cca6518a30fd573b",
+      "abb48b33e7820e7f"
     ]
   },
   "events": [],
@@ -142,7 +139,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T18:36:44.633Z",
+      "publishedAt": "2026-10-30T02:44:02.941Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -167,118 +164,50 @@
       "eventId": "ev-a1cdb709fc"
     },
     {
-      "id": "397359c16b7e862c",
-      "title": "哈文现状：定居纽约富人区，靠丈夫遗产和女儿很潇洒，没有再婚",
-      "originalTitle": null,
-      "summary": "2026年的春天，纽约中央公园的跑道上，有一个身影已经连续出现了好几年。她穿着简单的运动装，跑完十公里也不觉得费力，脸上是那种卸下了所有重担之后的松弛。\n 路过的游客大概不会多看她一眼，但如果时间倒回十几年前，这个女人往春晚后台一站，整个剧组的人连大气都不敢喘。\n \n 她是哈文。到今年，李咏离开已经整整八年了。说实话，我每次看到关于哈文的讨论，都觉得公众对她有一种根深蒂固的误解。\n 大家张口闭口“李咏的遗孀”“靠丈夫遗产过活”，仿佛她这一辈子最大的成就就是嫁了个好老公。\n \n \n 可在我看来，这种标签恰恰是对她最大的不公平。哈文从来不是谁的附属品，她本身就是中国电视行业里那个响当当的名字。",
-      "url": "https://bbs.hupu.com/643330791.html",
+      "id": "411a3d2b1269024c",
+      "title": "猜猜床上的巨乳宝贝！",
+      "originalTitle": "Guess The Busty Babe In Bed!",
+      "summary": "星期四快乐！你能猜出哪个卧室的宝贝在床单上炫耀她的资产吗？！？这位巨乳美女以影响力而闻名，在 Instagram 上拥有超过 200 万粉丝，同时还出现在…",
+      "url": "https://www.tmz.com/2026/10/29/guess-the-busty-babe/",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-29T18:36:44.633Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 89,
-      "ruleScore": 89,
-      "eventId": "ev-bb2d7b2a12"
-    },
-    {
-      "id": "af482f55e5bd2bbe",
-      "title": "山壁下、临江边，重庆彭水谋划为风险防控添三道“锁”",
-      "originalTitle": null,
-      "summary": "中新网重庆10月29日电 (罗永皓)重庆市彭水苗族土家族自治县地处武陵山区腹地，属于典型的喀斯特地貌。当地城市空间狭窄、用地条件复杂，百姓住房大多依山而建、临江而居。",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-29T12:02:38.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 75,
-      "ruleScore": 75,
-      "eventId": "ev-1d941adcf2"
-    },
-    {
-      "id": "370ffcd2f545292a",
-      "title": "‘Beaten down’ Amanda Batula shares ‘huge reason’ for ‘In the City’ exit",
-      "originalTitle": null,
-      "summary": "Batula previously exited \"Summer House\" after ten seasons, following her boyfriend, West Wilson, getting ousted.",
-      "url": "https://pagesix.com/2026/10/29/entertainment/beaten-down-amanda-batula-shares-huge-reason-for-in-the-city-exit/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famanda-batula-oct-5-2026-146867790_6aee05.jpg?w%3D768",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T18:16:15.000Z",
+      "publishedAt": "2026-10-29T21:08:04.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-523dc7e61b"
+      "translated": true,
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-622f37ba3b"
     },
     {
-      "id": "23a08b338479c978",
-      "title": "AI复原的英雄父亲“赴约”儿子婚礼",
+      "id": "dc7acd99e600a631",
+      "title": "小小徐婚礼车队堵了一公里",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=AI%E5%A4%8D%E5%8E%9F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%88%B6%E4%BA%B2%E2%80%9C%E8%B5%B4%E7%BA%A6%E2%80%9D%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%B0%8F%E5%BE%90%E5%A9%9A%E7%A4%BC%E8%BD%A6%E9%98%9F%E5%A0%B5%E4%BA%86%E4%B8%80%E5%85%AC%E9%87%8C&sa=fyb_news",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-29T18:36:46.618Z",
+      "publishedAt": "2026-10-30T02:44:03.472Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -300,19 +229,53 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-0bacacae6d"
+      "eventId": "ev-e9237e0006"
     },
     {
-      "id": "3321d5ec5de277a1",
-      "title": "Gwyneth Paltrow and Salma Hayek’s nepo baby kids named as the UK’s most eligible socialites",
+      "id": "fbb4268949696fc4",
+      "title": "4个老婆、正师级待遇、全家移民， 潘长江身上的标签个个离谱",
       "originalTitle": null,
-      "summary": "The exclusive list was published by Tatler this week.",
-      "url": "https://pagesix.com/2026/10/29/parents/gwyneth-paltrow-and-salma-hayeks-nepo-baby-kids-named-as-the-uks-most-eligible-socialites/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Feditorial-use-non-editorial-use-146861880.jpg?w%3D683",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643330827.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-30T02:44:02.941Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-f1b30fad4c"
+    },
+    {
+      "id": "cca6518a30fd573b",
+      "title": "HGTV 明星为他 16 岁的女儿购买价值 15 万美元的宝马进行辩护：“她应得的”",
+      "originalTitle": "HGTV star defends buying $150K BMW for his 16-year-old daughter: ‘She deserved it’",
+      "summary": "这位电视名人解释了他十几岁的女儿如何“赢得”了她的新车。",
+      "url": "https://pagesix.com/2026/10/29/celebrity-news/hgtv-star-defends-buying-150k-bmw-for-his-16-year-old-daughter/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fshe-deserved-it-want-get-146909983.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-29T18:06:52.000Z",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-30T02:43:21.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -331,44 +294,44 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-598c719672"
+      "eventId": "ev-7343837adb"
     },
     {
-      "id": "1c0743f0e8df0b1e",
-      "title": "Halle Berry's Ex Olivier Martinez Keeps Primary Custody, at Least Temporarily",
-      "originalTitle": null,
-      "summary": "The judge overseeing Halle Berry and ex Olivier Martinez's bitter custody case has reached a decision ...",
-      "url": "https://www.tmz.com/2026/10/29/halle-berry-olivier-martinez-custody-case/",
-      "image": "",
+      "id": "abb48b33e7820e7f",
+      "title": "布兰妮·斯皮尔斯付款结束后，凯文·费德林遭遇巨额信用卡账单",
+      "originalTitle": "Kevin Federline hit with staggering credit card bill after Britney Spears payments end",
+      "summary": "费德林此前在回忆录中声称，他从斯皮尔斯那里收到的每月 4 万美元的付款不足以支付他的生活费用。",
+      "url": "https://pagesix.com/2026/10/29/celebrity-news/kevin-federline-hit-with-staggering-credit-card-bill-after-britney-spears-payments-end/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Famerican-celebrity-kevin-federline-australia-146903654.jpg?w%3D655",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-29T17:33:00.000Z",
+      "publishedAt": "2026-10-30T01:45:17.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-57625232b2"
+      "eventId": "ev-9916cb1fda"
     }
   ]
 }
