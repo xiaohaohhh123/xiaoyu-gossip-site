@@ -1,23 +1,23 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-30T18:08:29.469Z",
+  "generatedAt": "2026-10-31T10:30:17.930Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 261,
+    "totalCollected": 265,
     "afterFilter": 42,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 3347
+        "ms": 1664
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1326
+        "ms": 677
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 26,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1388
+        "ms": 1176
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 8,
         "error": null,
         "httpStatus": 200,
-        "ms": 1072
+        "ms": 416
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1214
+        "ms": 501
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1551
+        "ms": 1009
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1548
+        "ms": 962
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2050
+        "ms": 972
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1980
+        "ms": 1293
       }
     ],
     "ai": {
@@ -108,40 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "4f96a86cf4f96d79",
-    "589048909e2cd6ff",
-    "9414d94a91de114e"
+    "f79fa4afd3bce2b9",
+    "1943c8483cf59e49"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "4a9cd16978890d4a"
+    ],
     "romance": [
-      "589048909e2cd6ff",
-      "34e0871ecb3db383"
+      "e8a72cb7634788e4"
     ],
     "oddity": [
-      "fe2d66a57d2d7989"
+      "b7cbd6272d8ac94e"
     ],
-    "twist": [],
+    "twist": [
+      "062bc5fa0b055aff"
+    ],
     "entertainment": [],
     "overseas": [
-      "9414d94a91de114e",
-      "33fe3ebc63dc194f",
-      "0e5372e63a886af5"
+      "1943c8483cf59e49",
+      "1f65e89ee578f5df",
+      "9468670d4feece6d"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "4f96a86cf4f96d79",
-      "title": "不查不知道，一查吓一跳，43岁独居北京的小尼，私下到底能有多壕",
+      "id": "f79fa4afd3bce2b9",
+      "title": "关于我妹妹在群里怼亲戚气到老爸，向我求助的事情",
       "originalTitle": null,
-      "summary": "央视主持人小尼，今年43，离婚后独居北京，日子过得清爽低调。\n 可不查不知道，一查吓一跳 —— 他私下那座家底，比镜头前张扬多了。 \n \n \n 乌鲁木齐老家的房子上千平，水晶灯六位数，地上铺满羊毛地毯。\n 但真正让人破防的是，这些“壕”的背后，每一处细节都在跟着父母走...... \n \n \n 43岁，离婚独居住北京 \n 镜头前的小尼，大家太熟了。\n 央视一套的门面，春晚主持台站了一年又一年。\n \n \n 《开门大吉》里笑得一脸褶子，嘴皮子利索，反应快，见谁都热乎。\n 这两年他43岁了，身材还保持得不错。\n \n \n 不录节目的时候泡健身房，穿得也素，看着就是个精神利落的中年男人。\n 可镜头一关，他回到北京的住处，屋里就他一个人。",
-      "url": "https://bbs.hupu.com/643407947.html",
+      "summary": "先交代一下背景我们都建议把我外公外婆两个老人从老家接过来租个小车库，然后一起照顾，我小舅妈死活不同意，他们已经在群里讨论了几百条信息了\n 我妹是不是嘴太毒了",
+      "url": "https://bbs.hupu.com/643466726.html",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-10-30T18:08:22.146Z",
+      "publishedAt": "2026-10-31T10:30:11.415Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -161,89 +163,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 93,
-      "ruleScore": 93,
-      "eventId": "ev-cc4b2917be"
+      "score": 76,
+      "ruleScore": 76,
+      "eventId": "ev-6fc2e7e2a6"
     },
     {
-      "id": "589048909e2cd6ff",
-      "title": "记录和xhs女生的约会",
-      "originalTitle": null,
-      "summary": "这个女生是在xhs上认识的，我当时是发了一个同城恋爱的帖子，然后她就私信我了，因为她健身所以上来就问我看健身照，我平时不怎么健身，但是以前有运动习惯，所以手臂上还是有肌肉的，然后我发了二头肌的照片，可能她不太满意吧，然后问我要脸的照片，我就现拍了一张照片，（小弟长得平平无奇，普通人）她说我五官端正，然后就聊聊聊。",
-      "url": "https://bbs.hupu.com/643439236.html",
+      "id": "1943c8483cf59e49",
+      "title": "Alanna Pow 为她 24 岁生日拍摄的热门照片！",
+      "originalTitle": "Alanna Pow Hot Shots For Her 24th Birthday!",
+      "summary": "Alanna Pow 让我们惊叹不已……而这位性感尤物刚刚年满 24 岁……所以我们想，还有什么比用一些热门镜头更好的方式来庆祝这个丰满的宝贝呢？！？我们不得不说，我们已经完成了我们的工作......",
+      "url": "https://www.tmz.com/2026/10/31/alanna-pow-birthday-hot-shots/",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-10-30T18:08:22.146Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 85,
-      "ruleScore": 85,
-      "eventId": "ev-e3f6a76637"
-    },
-    {
-      "id": "9414d94a91de114e",
-      "title": "Todd and Julie Chrisley reveal they went under the knife for joint facelifts",
-      "originalTitle": null,
-      "summary": "The couple both had some facial work done in July.",
-      "url": "https://pagesix.com/2026/10/30/style/todd-and-julie-chrisley-reveal-they-went-under-the-knife-for-joint-facelifts/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Freality-tv-personalities-julie-chrisley-146980480.jpg?w%3D717",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-30T18:01:54.000Z",
+      "publishedAt": "2026-10-31T08:00:33.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-2bdb69fc53"
+      "translated": true,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-f051667b09"
     },
     {
-      "id": "34e0871ecb3db383",
-      "title": "姜乘澜结婚了",
+      "id": "4a9cd16978890d4a",
+      "title": "嫁金钗谢画楼下跪变脸",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E8%B0%A2%E7%94%BB%E6%A5%BC%E4%B8%8B%E8%B7%AA%E5%8F%98%E8%84%B8&t=31&band_rank=10&Refer=top",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-30T18:08:21.981Z",
+      "publishedAt": "2026-10-31T10:30:11.625Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -263,31 +231,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-4e52e22fec"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-f57720c548"
     },
     {
-      "id": "fe2d66a57d2d7989",
-      "title": "男子在星巴克不消费占座被劝离后报警",
+      "id": "e8a72cb7634788e4",
+      "title": "中年失业离婚，回到老家，看到父亲的记事本潸然泪下",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7701722821202051114/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701722821202051114%22%2C%22hot_board_impr_id%22%3A%2220261031020821DE8423631F69EA5D38A3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%8D%E6%B6%88%E8%B4%B9%E5%8D%A0%E5%BA%A7%E8%A2%AB%E5%8A%9D%E7%A6%BB%E5%90%8E%E6%8A%A5%E8%AD%A6%22%7D&rank=&style_id=40132&topic_id=7701722821202051114",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/ddb7fae7e3714b67ae1c33b38305688f~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795910400&x-signature=sZPMRnQufD3d15exwJfyxYBB8qk%3D",
-      "category": "oddity",
-      "topicClass": "scene",
+      "url": "https://bbs.hupu.com/643483916.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-10-30T18:08:21.918Z",
+      "publishedAt": "2026-10-31T10:30:11.415Z",
       "timeBasis": "fetch",
-      "heat": 5415259,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "toutiao"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -297,21 +265,89 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-8cb101100e"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-b322c91463"
     },
     {
-      "id": "33fe3ebc63dc194f",
-      "title": "Kevin Federline once admitted to blowing through Britney Spears’ $40K-a-month child support to fund lavish lifestyle",
+      "id": "b7cbd6272d8ac94e",
+      "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
       "originalTitle": null,
-      "summary": "According to documents obtained by Page Six, the Princess of Pop's ex-husband has been hit with a lawsuit over a six-figure credit card bill.",
-      "url": "https://pagesix.com/2026/10/30/celebrity-news/kevin-federline-once-admitted-to-blowing-through-britney-spears-40k-a-month-child-support-to-fund-lavish-lifestyle/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fbritney-spears-happy-able-see-146976308_82eb71.jpg",
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2066223484309434997",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-31T10:30:11.461Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 58,
+      "ruleScore": 58,
+      "eventId": "ev-16ed9220c4"
+    },
+    {
+      "id": "062bc5fa0b055aff",
+      "title": "12年了，为什么我们还是找不到MH370？接近真相最合理的解释",
+      "originalTitle": null,
+      "summary": "2026年3月8日，MH370失联整整12年。这一天，马来西亚航空事故调查局给家属发来通报：最新一轮深海搜寻，没有找到任何能确认残骸位置的东西。\n 搜寻公司Ocean Infinity的CEO普伦基特说了句很实在的话：至少可以有把握地说，飞机不在我们查过的地方。从2018年算起，这家公司在海上漂了151天，扫过的海底超过14万平方公里，换来的是一张越来越长的\"不在这里\"清单。\n 一架载着239个人的波音777，怎么就能消失12年？为什么我们还是找不到它？离真相最近的那个解释，又是什么？\n \n \n 整片南印度洋，只靠几声电子脉冲 \n 先把时间拨回那个晚上。",
+      "url": "https://bbs.hupu.com/643445893.html",
+      "image": "",
+      "category": "twist",
+      "topicClass": "twist",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T10:30:11.415Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 72,
+      "ruleScore": 72,
+      "eventId": "ev-4e076b5ecd"
+    },
+    {
+      "id": "1f65e89ee578f5df",
+      "title": "《犯罪心理》20季完结，演员因突然取消而打破沉默",
+      "originalTitle": "‘Criminal Minds’ ending after 20 seasons as cast breaks silence over abrupt cancellation",
+      "summary": "这部长篇犯罪剧于 2005 年在哥伦比亚广播公司 (CBS) 首播，并于 2022 年转至派拉蒙+，将于 2027 年完结。",
+      "url": "https://pagesix.com/2026/10/31/entertainment/criminal-minds-evolution-ending-after-20-seasons-as-cast-breaks-silence-over-abrupt-cancellation/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fcredit-michael-becker-paramount-147050068.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-30T17:58:13.000Z",
+      "publishedAt": "2026-10-31T05:24:03.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -330,44 +366,44 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-11820c2503"
+      "eventId": "ev-ba3a7035db"
     },
     {
-      "id": "0e5372e63a886af5",
-      "title": "Kevin Gates Says He Wasn't Sweating Giving His Estranged Wife More Than $1 Million",
-      "originalTitle": null,
-      "summary": "Kevin Gates says he doesn't care that he had to fork over a small fortune to his estranged wife ... saying he always gives everything to those he loves -- and the seven-figure payment was no different.",
-      "url": "https://www.tmz.com/2026/10/30/kevin-gates-on-giving-ex-wife-money/",
-      "image": "",
+      "id": "9468670d4feece6d",
+      "title": "“Below Deck”明星 Kerry Titherage 船长在游艇上与 ICE 发生紧张的冲突",
+      "originalTitle": "‘Below Deck’ star Captain Kerry Titherage in tense yacht encounter with ICE",
+      "summary": "这位船长于 2022 年在《Below Deck Adventure》中首次亮相电视真人秀，并于 2024 年接替了《Below Deck》中的长期明星李·罗斯巴赫船长。",
+      "url": "https://pagesix.com/2026/10/30/celebrity-news/below-deck-star-captain-kerry-titherage-in-tense-yacht-encounter-with-ice/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fgettyimages-2296086734.jpg?w%3D819",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-30T18:00:59.000Z",
+      "publishedAt": "2026-10-31T01:06:16.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-9ebc73be46"
+      "eventId": "ev-aa0c6b0d3c"
     }
   ]
 }
