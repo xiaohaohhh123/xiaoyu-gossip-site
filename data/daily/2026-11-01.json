@@ -1,0 +1,480 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-10-31T17:20:20.452Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 267,
+    "afterFilter": 43,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1807
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 896
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1000
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 774
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 786
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1067
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1159
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1101
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1785
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "4f96a86cf4f96d79",
+    "e9bd3dcfcb4d7a56",
+    "f79fa4afd3bce2b9",
+    "df5bab5cd87ca594"
+  ],
+  "sections": {
+    "life": [
+      "f79fa4afd3bce2b9"
+    ],
+    "romance": [
+      "70bd2a17fc149518"
+    ],
+    "oddity": [
+      "e9bd3dcfcb4d7a56"
+    ],
+    "twist": [
+      "062bc5fa0b055aff"
+    ],
+    "entertainment": [],
+    "overseas": [
+      "df5bab5cd87ca594",
+      "b7041b46276d7de4",
+      "feca31fcc977350f"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-a7fe6ae636",
+      "title": "夫妻因一餐5个菜闹到要离婚",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-10-31T17:20:13.548Z",
+          "title": "夫妻因一餐5个菜闹到要离婚",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7701948215012393014/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701948215012393014%22%2C%22hot_board_impr_id%22%3A%2220261101012013869DEB7A1186ECE05BCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7701948215012393014",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-10-31T17:20:14.420Z",
+          "title": "夫妻因一餐5个菜闹到要离婚",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "6169ced9a104b9dd"
+    }
+  ],
+  "items": [
+    {
+      "id": "4f96a86cf4f96d79",
+      "title": "不查不知道，一查吓一跳，43岁独居北京的小尼，私下到底能有多壕",
+      "originalTitle": null,
+      "summary": "央视主持人小尼，今年43，离婚后独居北京，日子过得清爽低调。\n 可不查不知道，一查吓一跳 —— 他私下那座家底，比镜头前张扬多了。 \n \n \n 乌鲁木齐老家的房子上千平，水晶灯六位数，地上铺满羊毛地毯。\n 但真正让人破防的是，这些“壕”的背后，每一处细节都在跟着父母走...... \n \n \n 43岁，离婚独居住北京 \n 镜头前的小尼，大家太熟了。\n 央视一套的门面，春晚主持台站了一年又一年。\n \n \n 《开门大吉》里笑得一脸褶子，嘴皮子利索，反应快，见谁都热乎。\n 这两年他43岁了，身材还保持得不错。\n \n \n 不录节目的时候泡健身房，穿得也素，看着就是个精神利落的中年男人。\n 可镜头一关，他回到北京的住处，屋里就他一个人。",
+      "url": "https://bbs.hupu.com/643407947.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T17:20:13.817Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-cc4b2917be"
+    },
+    {
+      "id": "e9bd3dcfcb4d7a56",
+      "title": "近日，四川眉山一男子在一家会所内接受按摩时沉沉睡去，熟睡过程中，技师在没有征得他同意的情况下，私自提供“手推”服务，男子被异样触感惊醒，随即选择报警。",
+      "originalTitle": null,
+      "summary": "近日，四川眉山一男子在一家会所内接受按摩时沉沉睡去，熟睡过程中，技师在没有征得他同意的情况下，私自提供“手推”服务，男子被异样触感惊醒，随即选择报警。接到报案后，当地警方已经对此事立案调查。\n 据当事人讲述，他到会所原本只是做常规按摩放松，按摩过程中睡意来袭，慢慢睡着了。在毫无防备的状态下，技师做出了超出正规按摩范畴的不当行为。他惊醒之后，当即拒绝对方并报警。\n 警方接到警情后迅速到场处置，对当事人、涉事技师以及会所相关人员开展询问笔录，固定相关证据，同步核查这家会所是否长期存在涉黄违规经营问题。目前案件正在进一步办理当中。",
+      "url": "https://bbs.hupu.com/643456783.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T17:20:13.817Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-541c51a6cf"
+    },
+    {
+      "id": "f79fa4afd3bce2b9",
+      "title": "关于我妹妹在群里怼亲戚气到老爸，向我求助的事情",
+      "originalTitle": null,
+      "summary": "先交代一下背景我们都建议把我外公外婆两个老人从老家接过来租个小车库，然后一起照顾，我小舅妈死活不同意，他们已经在群里讨论了几百条信息了\n 我妹是不是嘴太毒了",
+      "url": "https://bbs.hupu.com/643466726.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T17:20:13.817Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 76,
+      "ruleScore": 76,
+      "eventId": "ev-6fc2e7e2a6"
+    },
+    {
+      "id": "df5bab5cd87ca594",
+      "title": "Royal fans go wild over Prince Louis’ never-before-seen throwback Halloween photo",
+      "originalTitle": null,
+      "summary": "Prince William and Kate Middleton shared the pic of their youngest child to their joint Instagram account on Saturday.",
+      "url": "https://pagesix.com/2026/10/31/royal-family/prince-william-and-kate-middleton-share-never-before-seen-halloween-photo-of-prince-louis/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F147080747.jpg?w%3D768",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T17:05:30.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-87db9dc1a3"
+    },
+    {
+      "id": "70bd2a17fc149518",
+      "title": "夫妻因一餐5个菜闹到要离婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-31T17:20:14.420Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-a7fe6ae636"
+    },
+    {
+      "id": "062bc5fa0b055aff",
+      "title": "12年了，为什么我们还是找不到MH370？接近真相最合理的解释",
+      "originalTitle": null,
+      "summary": "2026年3月8日，MH370失联整整12年。这一天，马来西亚航空事故调查局给家属发来通报：最新一轮深海搜寻，没有找到任何能确认残骸位置的东西。\n 搜寻公司Ocean Infinity的CEO普伦基特说了句很实在的话：至少可以有把握地说，飞机不在我们查过的地方。从2018年算起，这家公司在海上漂了151天，扫过的海底超过14万平方公里，换来的是一张越来越长的\"不在这里\"清单。\n 一架载着239个人的波音777，怎么就能消失12年？为什么我们还是找不到它？离真相最近的那个解释，又是什么？\n \n \n 整片南印度洋，只靠几声电子脉冲 \n 先把时间拨回那个晚上。",
+      "url": "https://bbs.hupu.com/643445893.html",
+      "image": "",
+      "category": "twist",
+      "topicClass": "twist",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T17:20:13.817Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 72,
+      "ruleScore": 72,
+      "eventId": "ev-4e076b5ecd"
+    },
+    {
+      "id": "b7041b46276d7de4",
+      "title": "Gayle King admits she tries to get ‘Real Housewives’ gossip out of close pal Andy Cohen",
+      "originalTitle": null,
+      "summary": "The CBS morning honcho is a committed Housewives fan.",
+      "url": "https://pagesix.com/2026/10/31/entertainment/gayle-king-calls-pal-andy-cohen-for-real-housewives-tea/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F2026-pac-nyc-icon-culture-146684841.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T17:00:00.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-06034e2db8"
+    },
+    {
+      "id": "feca31fcc977350f",
+      "title": "Crystal Hefner Says Hugh Attempted 'Disgusting' Act With Playboy Twins",
+      "originalTitle": null,
+      "summary": "Crystal Hefner is speaking out against her late husband Hugh Hefner's alleged attempt to force Playboy twins Kristina and Karissa Shannon to perform graphic sex acts on each other.",
+      "url": "https://www.tmz.com/2026/10/31/crystal-harris-discusses-hugh-hefner-sex-acts-playboy-twins/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-10-31T14:37:17.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-898bc79b23"
+    },
+    {
+      "id": "6169ced9a104b9dd",
+      "title": "夫妻因一餐5个菜闹到要离婚",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7701948215012393014/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701948215012393014%22%2C%22hot_board_impr_id%22%3A%2220261101012013869DEB7A1186ECE05BCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7701948215012393014",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/14105b7d3f9e4946871eaaff5b427dbf~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1795996800&x-signature=DOfvYk8VumUEZsbD9yLUCg%2Bp2kg%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-10-31T17:20:13.548Z",
+      "timeBasis": "fetch",
+      "heat": 4267121,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-a7fe6ae636"
+    }
+  ]
+}
