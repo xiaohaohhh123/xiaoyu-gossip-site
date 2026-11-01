@@ -1,13 +1,13 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T02:22:57.887Z",
+  "generatedAt": "2026-11-01T11:25:09.787Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 43,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 267,
+    "afterFilter": 39,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1632
+        "ms": 1572
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 731
+        "ms": 711
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 651
+        "ms": 553
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 351
+        "ms": 334
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 448
+        "ms": 470
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 701
+        "ms": 773
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 668
+        "ms": 711
       },
       {
         "id": "douyin",
@@ -87,17 +87,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 658
+        "ms": 757
       },
       {
         "id": "chinanews-society",
         "name": "中国新闻网·社会",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1141
+        "ms": 1508
       }
     ],
     "ai": {
@@ -108,73 +108,44 @@
     "totalSources": 9
   },
   "mustEat": [
-    "f79fa4afd3bce2b9",
-    "9189d128ba98d0ba"
+    "4f96a86cf4f96d79",
+    "407f567c5dd0c73c",
+    "109d05447f1d7c6c"
   ],
   "sections": {
     "life": [
-      "3a02904806ab061a"
+      "304bc48e507e8d63"
     ],
     "romance": [
-      "70bd2a17fc149518"
+      "407f567c5dd0c73c",
+      "3a0ef48dbe8b770d"
     ],
     "oddity": [
       "abebe084e87aceaa"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "3ab0e12c212a6578"
+    ],
     "overseas": [
-      "9189d128ba98d0ba",
-      "4a80fbca1a72e69b",
+      "109d05447f1d7c6c",
+      "7ea4e4ca1da9ea30",
       "49e4011714608f1e"
     ]
   },
-  "events": [
-    {
-      "id": "ev-a7fe6ae636",
-      "title": "夫妻因一餐5个菜闹到要离婚",
-      "sources": [
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-10-31T17:20:13.548Z",
-          "title": "夫妻因一餐5个菜闹到要离婚",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7701948215012393014/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701948215012393014%22%2C%22hot_board_impr_id%22%3A%2220261101012013869DEB7A1186ECE05BCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7701948215012393014",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-10-31T17:20:14.420Z",
-          "title": "夫妻因一餐5个菜闹到要离婚",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "6169ced9a104b9dd"
-    }
-  ],
+  "events": [],
   "items": [
     {
-      "id": "f79fa4afd3bce2b9",
-      "title": "关于我妹妹在群里怼亲戚气到老爸，向我求助的事情",
+      "id": "4f96a86cf4f96d79",
+      "title": "不查不知道，一查吓一跳，43岁独居北京的小尼，私下到底能有多壕",
       "originalTitle": null,
-      "summary": "先交代一下背景我们都建议把我外公外婆两个老人从老家接过来租个小车库，然后一起照顾，我小舅妈死活不同意，他们已经在群里讨论了几百条信息了\n 我妹是不是嘴太毒了",
-      "url": "https://bbs.hupu.com/643466726.html",
+      "summary": "央视主持人小尼，今年43，离婚后独居北京，日子过得清爽低调。\n 可不查不知道，一查吓一跳 —— 他私下那座家底，比镜头前张扬多了。 \n \n \n 乌鲁木齐老家的房子上千平，水晶灯六位数，地上铺满羊毛地毯。\n 但真正让人破防的是，这些“壕”的背后，每一处细节都在跟着父母走...... \n \n \n 43岁，离婚独居住北京 \n 镜头前的小尼，大家太熟了。\n 央视一套的门面，春晚主持台站了一年又一年。\n \n \n 《开门大吉》里笑得一脸褶子，嘴皮子利索，反应快，见谁都热乎。\n 这两年他43岁了，身材还保持得不错。\n \n \n 不录节目的时候泡健身房，穿得也素，看着就是个精神利落的中年男人。\n 可镜头一关，他回到北京的住处，屋里就他一个人。",
+      "url": "https://bbs.hupu.com/643407947.html",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-01T02:22:51.673Z",
+      "publishedAt": "2026-11-01T11:25:03.306Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -194,21 +165,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-6fc2e7e2a6"
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-cc4b2917be"
     },
     {
-      "id": "9189d128ba98d0ba",
-      "title": "迈克尔·道格拉斯罕见地透露了“失踪”密友杰克·尼科尔森的最新情况",
-      "originalTitle": "Michael Douglas gives rare update on ‘disappeared’ close friend Jack Nicholson",
-      "summary": "“他不再工作了，”道格拉斯谈到他的朋友尼科尔森时说道。",
-      "url": "https://pagesix.com/2026/10/31/celebrity-news/michael-douglas-gives-update-on-disappeared-friend-jack-nicholson/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Factor-michael-douglas-recipient-life-147142015.jpg",
+      "id": "407f567c5dd0c73c",
+      "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
+      "originalTitle": null,
+      "summary": "中新网杭州11月1日电(张煜欢)为积极培育新型婚育文化，引导青年树立正确的婚恋观、生育观、家庭观，11月1日，由浙江省妇联主办的“美好生活 见证幸福”2026年“浙里幸福荟”集体婚礼在浙江杭州举办，百位新人在钱塘江畔以宋礼传情，许白首之约。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T07:20:17.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-22c82554a6"
+    },
+    {
+      "id": "109d05447f1d7c6c",
+      "title": "Jessie James Decker sprays passenger’s ‘smelly’ bare foot resting on her armrest during flight",
+      "originalTitle": null,
+      "summary": "\"Someone’s foot smells so bad on the plane.\"",
+      "url": "https://pagesix.com/2026/11/01/celebrity-news/jessie-james-decker-sprays-passengers-smelly-bare-foot-resting-on-her-armrest-during-flight/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjessie-james-decker-sets-internet-147183991.png?w%3D576",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T00:52:22.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T09:42:33.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -227,56 +232,22 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-30d097393c"
+      "eventId": "ev-5b7e303cd3"
     },
     {
-      "id": "3a02904806ab061a",
-      "title": "卖 650 万捐赠房产要缴 450 万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
+      "id": "304bc48e507e8d63",
+      "title": "女子夜间遭邻居拉电闸输密码入室",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/2099855613391893093",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%A4%9C%E9%97%B4%E9%81%AD%E9%82%BB%E5%B1%85%E6%8B%89%E7%94%B5%E9%97%B8%E8%BE%93%E5%AF%86%E7%A0%81%E5%85%A5%E5%AE%A4&sa=fyb_news",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-01T02:22:51.705Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 53,
-      "ruleScore": 53,
-      "eventId": "ev-c629ce6fa8"
-    },
-    {
-      "id": "70bd2a17fc149518",
-      "title": "夫妻因一餐5个菜闹到要离婚",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T02:22:52.602Z",
+      "publishedAt": "2026-11-01T11:25:04.136Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -284,9 +255,8 @@
       "sourceGroup": "cn",
       "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
-        "platformCount": 2,
+        "platformCount": 1,
         "platformSources": [
-          "toutiao",
           "baidu"
         ],
         "mediaCount": 0,
@@ -297,9 +267,43 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-a7fe6ae636"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-8b15eb4ca8"
+    },
+    {
+      "id": "3a0ef48dbe8b770d",
+      "title": "侯卓成杨汝晴官宣分手",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T11:25:03.144Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-da088d3464"
     },
     {
       "id": "abebe084e87aceaa",
@@ -311,7 +315,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-01T02:22:51.705Z",
+      "publishedAt": "2026-11-01T11:25:03.367Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "zhihu",
@@ -336,16 +340,50 @@
       "eventId": "ev-14bd2c7c7f"
     },
     {
-      "id": "4a80fbca1a72e69b",
-      "title": "《无人想要这个》明星托瓦·费尔德舒谈到了亚当·布罗迪巴勒斯坦言论引发的“紧张局势”",
-      "originalTitle": "‘Nobody Wants This’ star Tovah Feldshuh addresses ‘tensions’ regarding Adam Brody’s Palestine comments",
-      "summary": "这位资深女演员在社交媒体上写道，演员们之间存在“意见分歧”。",
-      "url": "https://pagesix.com/2026/10/31/celebrity-news/nobody-wants-this-star-tovah-feldshuh-addresses-tensions-around-palestine/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Ftovah-feldshuh-attends-broadwayhds-10th-147133236.jpg",
+      "id": "3ab0e12c212a6578",
+      "title": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
+      "originalTitle": null,
+      "summary": "中新网11月1日电 据浙江温州龙湾公安分局官方微博“平安龙湾”消息，11月1日，温州市公安局龙湾区分局、温州市龙湾区文化和广电旅游体育局发布情况通报：",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724314.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T08:01:19.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 26,
+      "ruleScore": 26,
+      "eventId": "ev-71523b0d1d"
+    },
+    {
+      "id": "7ea4e4ca1da9ea30",
+      "title": "‘American Idol’ star Bo Bice trades signature rocker look for new image as fans sound off",
+      "originalTitle": null,
+      "summary": "The former \"American Idol\" runner-up drew mixed reactions from fans after unveiling a dramatic transformation on Instagram.",
+      "url": "https://pagesix.com/2026/11/01/celebrity-news/american-idol-star-bo-bice-shaves-off-signature-rocker-look/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fseason-four-runner-up-carrie-147167188.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-10-31T23:39:49.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T05:03:05.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -364,16 +402,16 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-088a9a6766"
+      "eventId": "ev-a9815effe9"
     },
     {
       "id": "49e4011714608f1e",
-      "title": "坎蒂丝·斯瓦内普尔与汤姆·布雷迪见面时，手指上戴着戒指",
-      "originalTitle": "Candice Swanepoel Wears Ring On That Finger Amid Sightings With Tom Brady",
-      "summary": "坎蒂丝·斯瓦内普尔 (Candice Swanepoel) 被发现外出，手指上戴着金戒指，因为她与汤姆·布雷迪 (Tom Brady) 的恋情升温……TMZ 上有这些照片。",
+      "title": "Candice Swanepoel Wears Ring On That Finger Amid Sightings With Tom Brady",
+      "originalTitle": null,
+      "summary": "Candice Swanepoel was spotted out and about wearing a gold ring on THAT finger as her romance with Tom Brady heats up ... and TMZ has the pics.",
       "url": "https://www.tmz.com/2026/10/31/candice-swanepoel-seen-wearing-ring-amid-tom-brady-dating-buzz/",
       "image": "",
       "category": "overseas-ent",
@@ -398,45 +436,10 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
       "eventId": "ev-d542e3aceb"
-    },
-    {
-      "id": "6169ced9a104b9dd",
-      "title": "夫妻因一餐5个菜闹到要离婚",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7701948215012393014/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701948215012393014%22%2C%22hot_board_impr_id%22%3A%222026110110225118A635C60EFA8C8B5E6E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7701948215012393014",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/14105b7d3f9e4946871eaaff5b427dbf~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796083200&x-signature=CG8WgH0SZqPAx0hlmQSvcYKaras%3D",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T02:22:51.731Z",
-      "timeBasis": "fetch",
-      "heat": 1152923,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-a7fe6ae636"
     }
   ]
 }
