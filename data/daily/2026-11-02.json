@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-01T18:02:31.366Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 259,
+    "afterFilter": 44,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1411
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 454
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 456
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 302
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 430
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 689
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 564
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 650
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1242
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "32fe448edeab2963",
+    "407f567c5dd0c73c",
+    "ad249ebd0a7e7a4c"
+  ],
+  "sections": {
+    "life": [
+      "5b4d32384574e39e"
+    ],
+    "romance": [
+      "407f567c5dd0c73c",
+      "5f62c34afffa92b5"
+    ],
+    "oddity": [
+      "474eeb49ebef2dce"
+    ],
+    "twist": [],
+    "entertainment": [
+      "3ab0e12c212a6578"
+    ],
+    "overseas": [
+      "ad249ebd0a7e7a4c",
+      "8be79a46a243d72e",
+      "51097e3b08872153"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "32fe448edeab2963",
+      "title": "浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家",
+      "originalTitle": null,
+      "summary": "中新网杭州11月1日电(张煜欢)红绸轻展，礼乐和鸣。11月1日，一场简约庄重的集体婚礼在浙江杭州举行，一对对新人以雅致仪式许下相守之约，没有繁复排场，只留真诚祝福。这场由浙江省妇联主办的2026年“浙里幸福荟”集体婚礼融入宋韵美学，将家国同庆、婚事简办的理念娓娓道来，生动诠释了婚育新风的独特魅力。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724448.shtml",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T11:34:43.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 84,
+      "ruleScore": 84,
+      "eventId": "ev-6901d28a21"
+    },
+    {
+      "id": "407f567c5dd0c73c",
+      "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
+      "originalTitle": null,
+      "summary": "中新网杭州11月1日电(张煜欢)为积极培育新型婚育文化，引导青年树立正确的婚恋观、生育观、家庭观，11月1日，由浙江省妇联主办的“美好生活 见证幸福”2026年“浙里幸福荟”集体婚礼在浙江杭州举办，百位新人在钱塘江畔以宋礼传情，许白首之约。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T07:20:17.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-22c82554a6"
+    },
+    {
+      "id": "ad249ebd0a7e7a4c",
+      "title": "玛莎·斯图尔特回应了对无家可归者万圣节服装的强烈反对，但没有道歉",
+      "originalTitle": "Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing",
+      "summary": "这位女商人在万圣节打扮成无家可归者后遭到强烈反对。",
+      "url": "https://pagesix.com/2026/11/01/celebrity-news/martha-stewart-addresses-backlash-over-homeless-halloween-costume-but-stops-short-of-apologizing/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-marthastewart48-hl-147202567_a20a9e.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T17:31:45.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5eefaf8c15"
+    },
+    {
+      "id": "5b4d32384574e39e",
+      "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2099653516453328673",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T18:02:23.524Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-d54303e3eb"
+    },
+    {
+      "id": "5f62c34afffa92b5",
+      "title": "分手应该体面，谁都不要说抱歉",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643466178.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T18:02:23.400Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-1edc0462e5"
+    },
+    {
+      "id": "474eeb49ebef2dce",
+      "title": "车库口冲突",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643503752.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T18:02:23.400Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-84d40ea521"
+    },
+    {
+      "id": "3ab0e12c212a6578",
+      "title": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
+      "originalTitle": null,
+      "summary": "中新网11月1日电 据浙江温州龙湾公安分局官方微博“平安龙湾”消息，11月1日，温州市公安局龙湾区分局、温州市龙湾区文化和广电旅游体育局发布情况通报：",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724314.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T08:01:19.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 24,
+      "ruleScore": 24,
+      "eventId": "ev-71523b0d1d"
+    },
+    {
+      "id": "8be79a46a243d72e",
+      "title": "《痴迷》明星因德·纳瓦雷特在《周六夜现场》独白中猛烈抨击肖恩·吉利斯",
+      "originalTitle": "‘Obsession’ star Inde Navarrette takes savage swipe at Shane Gillis during ‘SNL’ monologue",
+      "summary": "纳瓦雷特的言论明显参考了吉利斯自己 10 月 10 日在《周六夜现场》中的独白，当时他因对女性暴露的运动服发表粗俗评论而引发强烈反对。",
+      "url": "https://pagesix.com/2026/11/01/entertainment/obsession-star-inde-navarrette-takes-savage-swipe-at-shane-gillis-during-snl-monologue/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fobsession-star-inde-navarrette-takes-147201542.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T14:31:36.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-268ef18453"
+    },
+    {
+      "id": "51097e3b08872153",
+      "title": "多莉·帕顿的侄子布莱恩·西弗在博物馆火灾后为丽贝卡修女辩护",
+      "originalTitle": "Dolly Parton's Nephew Bryan Seaver Defends Sister Rebecca After Museum Firing",
+      "summary": "多莉·帕顿 (Dolly Parton) 的侄子布莱恩·西弗 (Bryan Seaver) 与管理其遗产的公司陷入了一场激烈的法律纠纷。在妹妹丽贝卡·西弗 (Rebecca Seaver) 被这位已故歌手的博物馆解雇后，他正在为她辩护。",
+      "url": "https://www.tmz.com/2026/11/01/dolly-parton-nephew-bryan-seaver-defends-sister-rebecca/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-01T16:30:12.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": true,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-b7a3a651b6"
+    }
+  ]
+}

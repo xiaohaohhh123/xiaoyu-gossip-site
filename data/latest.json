@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T11:25:09.787Z",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-01T18:02:31.366Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 267,
-    "afterFilter": 39,
+    "totalCollected": 259,
+    "afterFilter": 44,
     "selected": 9,
     "domesticSelected": 6,
     "domesticRatio": 67,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1572
+        "ms": 1411
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 711
+        "ms": 454
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 553
+        "ms": 456
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 334
+        "ms": 302
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 470
+        "ms": 430
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 773
+        "ms": 689
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 711
+        "ms": 564
       },
       {
         "id": "douyin",
@@ -87,17 +87,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 757
+        "ms": 650
       },
       {
         "id": "chinanews-society",
         "name": "中国新闻网·社会",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1508
+        "ms": 1242
       }
     ],
     "ai": {
@@ -108,66 +108,66 @@
     "totalSources": 9
   },
   "mustEat": [
-    "4f96a86cf4f96d79",
+    "32fe448edeab2963",
     "407f567c5dd0c73c",
-    "109d05447f1d7c6c"
+    "ad249ebd0a7e7a4c"
   ],
   "sections": {
     "life": [
-      "304bc48e507e8d63"
+      "5b4d32384574e39e"
     ],
     "romance": [
       "407f567c5dd0c73c",
-      "3a0ef48dbe8b770d"
+      "5f62c34afffa92b5"
     ],
     "oddity": [
-      "abebe084e87aceaa"
+      "474eeb49ebef2dce"
     ],
     "twist": [],
     "entertainment": [
       "3ab0e12c212a6578"
     ],
     "overseas": [
-      "109d05447f1d7c6c",
-      "7ea4e4ca1da9ea30",
-      "49e4011714608f1e"
+      "ad249ebd0a7e7a4c",
+      "8be79a46a243d72e",
+      "51097e3b08872153"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "4f96a86cf4f96d79",
-      "title": "不查不知道，一查吓一跳，43岁独居北京的小尼，私下到底能有多壕",
+      "id": "32fe448edeab2963",
+      "title": "浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家",
       "originalTitle": null,
-      "summary": "央视主持人小尼，今年43，离婚后独居北京，日子过得清爽低调。\n 可不查不知道，一查吓一跳 —— 他私下那座家底，比镜头前张扬多了。 \n \n \n 乌鲁木齐老家的房子上千平，水晶灯六位数，地上铺满羊毛地毯。\n 但真正让人破防的是，这些“壕”的背后，每一处细节都在跟着父母走...... \n \n \n 43岁，离婚独居住北京 \n 镜头前的小尼，大家太熟了。\n 央视一套的门面，春晚主持台站了一年又一年。\n \n \n 《开门大吉》里笑得一脸褶子，嘴皮子利索，反应快，见谁都热乎。\n 这两年他43岁了，身材还保持得不错。\n \n \n 不录节目的时候泡健身房，穿得也素，看着就是个精神利落的中年男人。\n 可镜头一关，他回到北京的住处，屋里就他一个人。",
-      "url": "https://bbs.hupu.com/643407947.html",
+      "summary": "中新网杭州11月1日电(张煜欢)红绸轻展，礼乐和鸣。11月1日，一场简约庄重的集体婚礼在浙江杭州举行，一对对新人以雅致仪式许下相守之约，没有繁复排场，只留真诚祝福。这场由浙江省妇联主办的2026年“浙里幸福荟”集体婚礼融入宋韵美学，将家国同庆、婚事简办的理念娓娓道来，生动诠释了婚育新风的独特魅力。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724448.shtml",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-01T11:25:03.306Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-01T11:34:43.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 93,
-      "ruleScore": 93,
-      "eventId": "ev-cc4b2917be"
+      "score": 84,
+      "ruleScore": 84,
+      "eventId": "ev-6901d28a21"
     },
     {
       "id": "407f567c5dd0c73c",
@@ -199,21 +199,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 83,
-      "ruleScore": 83,
+      "score": 81,
+      "ruleScore": 81,
       "eventId": "ev-22c82554a6"
     },
     {
-      "id": "109d05447f1d7c6c",
-      "title": "Jessie James Decker sprays passenger’s ‘smelly’ bare foot resting on her armrest during flight",
-      "originalTitle": null,
-      "summary": "\"Someone’s foot smells so bad on the plane.\"",
-      "url": "https://pagesix.com/2026/11/01/celebrity-news/jessie-james-decker-sprays-passengers-smelly-bare-foot-resting-on-her-armrest-during-flight/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjessie-james-decker-sets-internet-147183991.png?w%3D576",
+      "id": "ad249ebd0a7e7a4c",
+      "title": "玛莎·斯图尔特回应了对无家可归者万圣节服装的强烈反对，但没有道歉",
+      "originalTitle": "Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing",
+      "summary": "这位女商人在万圣节打扮成无家可归者后遭到强烈反对。",
+      "url": "https://pagesix.com/2026/11/01/celebrity-news/martha-stewart-addresses-backlash-over-homeless-halloween-costume-but-stops-short-of-apologizing/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-marthastewart48-hl-147202567_a20a9e.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-01T09:42:33.000Z",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T17:31:45.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -231,91 +231,23 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
-      "translated": false,
+      "reversal": true,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5b7e303cd3"
+      "eventId": "ev-5eefaf8c15"
     },
     {
-      "id": "304bc48e507e8d63",
-      "title": "女子夜间遭邻居拉电闸输密码入室",
+      "id": "5b4d32384574e39e",
+      "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%A4%9C%E9%97%B4%E9%81%AD%E9%82%BB%E5%B1%85%E6%8B%89%E7%94%B5%E9%97%B8%E8%BE%93%E5%AF%86%E7%A0%81%E5%85%A5%E5%AE%A4&sa=fyb_news",
+      "url": "https://www.zhihu.com/question/2099653516453328673",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-01T11:25:04.136Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-8b15eb4ca8"
-    },
-    {
-      "id": "3a0ef48dbe8b770d",
-      "title": "侯卓成杨汝晴官宣分手",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23&t=31&band_rank=19&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T11:25:03.144Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-da088d3464"
-    },
-    {
-      "id": "abebe084e87aceaa",
-      "title": "南京一男子在星巴克不消费占座，被店员提醒后反报警，经调解后离开门店，怎样看待这一行为？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.zhihu.com/question/2099542758293877225",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T11:25:03.367Z",
+      "publishedAt": "2026-11-01T18:02:23.524Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "zhihu",
@@ -335,9 +267,77 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 55,
-      "ruleScore": 55,
-      "eventId": "ev-14bd2c7c7f"
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-d54303e3eb"
+    },
+    {
+      "id": "5f62c34afffa92b5",
+      "title": "分手应该体面，谁都不要说抱歉",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643466178.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T18:02:23.400Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-1edc0462e5"
+    },
+    {
+      "id": "474eeb49ebef2dce",
+      "title": "车库口冲突",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643503752.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-01T18:02:23.400Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-84d40ea521"
     },
     {
       "id": "3ab0e12c212a6578",
@@ -369,21 +369,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 26,
-      "ruleScore": 26,
+      "score": 24,
+      "ruleScore": 24,
       "eventId": "ev-71523b0d1d"
     },
     {
-      "id": "7ea4e4ca1da9ea30",
-      "title": "‘American Idol’ star Bo Bice trades signature rocker look for new image as fans sound off",
-      "originalTitle": null,
-      "summary": "The former \"American Idol\" runner-up drew mixed reactions from fans after unveiling a dramatic transformation on Instagram.",
-      "url": "https://pagesix.com/2026/11/01/celebrity-news/american-idol-star-bo-bice-shaves-off-signature-rocker-look/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fseason-four-runner-up-carrie-147167188.jpg",
+      "id": "8be79a46a243d72e",
+      "title": "《痴迷》明星因德·纳瓦雷特在《周六夜现场》独白中猛烈抨击肖恩·吉利斯",
+      "originalTitle": "‘Obsession’ star Inde Navarrette takes savage swipe at Shane Gillis during ‘SNL’ monologue",
+      "summary": "纳瓦雷特的言论明显参考了吉利斯自己 10 月 10 日在《周六夜现场》中的独白，当时他因对女性暴露的运动服发表粗俗评论而引发强烈反对。",
+      "url": "https://pagesix.com/2026/11/01/entertainment/obsession-star-inde-navarrette-takes-savage-swipe-at-shane-gillis-during-snl-monologue/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fobsession-star-inde-navarrette-takes-147201542.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-01T05:03:05.000Z",
+      "publishedAt": "2026-11-01T14:31:36.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -401,23 +401,23 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
-      "translated": false,
+      "reversal": true,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-a9815effe9"
+      "eventId": "ev-268ef18453"
     },
     {
-      "id": "49e4011714608f1e",
-      "title": "Candice Swanepoel Wears Ring On That Finger Amid Sightings With Tom Brady",
-      "originalTitle": null,
-      "summary": "Candice Swanepoel was spotted out and about wearing a gold ring on THAT finger as her romance with Tom Brady heats up ... and TMZ has the pics.",
-      "url": "https://www.tmz.com/2026/10/31/candice-swanepoel-seen-wearing-ring-amid-tom-brady-dating-buzz/",
+      "id": "51097e3b08872153",
+      "title": "多莉·帕顿的侄子布莱恩·西弗在博物馆火灾后为丽贝卡修女辩护",
+      "originalTitle": "Dolly Parton's Nephew Bryan Seaver Defends Sister Rebecca After Museum Firing",
+      "summary": "多莉·帕顿 (Dolly Parton) 的侄子布莱恩·西弗 (Bryan Seaver) 与管理其遗产的公司陷入了一场激烈的法律纠纷。在妹妹丽贝卡·西弗 (Rebecca Seaver) 被这位已故歌手的博物馆解雇后，他正在为她辩护。",
+      "url": "https://www.tmz.com/2026/11/01/dolly-parton-nephew-bryan-seaver-defends-sister-rebecca/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-10-31T18:30:07.000Z",
+      "publishedAt": "2026-11-01T16:30:12.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -436,10 +436,10 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": false,
+      "translated": true,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d542e3aceb"
+      "eventId": "ev-b7a3a651b6"
     }
   ]
 }
