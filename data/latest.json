@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T12:44:13.263Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-02T21:52:39.903Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 259,
-    "afterFilter": 44,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 265,
+    "afterFilter": 38,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1768
+        "ms": 2950
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 962
+        "ms": 1005
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 27,
         "error": null,
         "httpStatus": 200,
-        "ms": 1017
+        "ms": 687
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 769
+        "ms": 536
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 785
+        "ms": 599
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1105
+        "ms": 772
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1113
+        "ms": 737
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1045
+        "ms": 758
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1672
+        "ms": 1565
       }
     ],
     "ai": {
@@ -108,18 +108,15 @@
     "totalSources": 9
   },
   "mustEat": [
-    "50368713c5c37284",
     "688065628c64b72c",
-    "c6ca9d2f761fe0c5",
-    "2260aa591a2c0589"
+    "4e2deab60d3bc0c7",
+    "9d40d3565be60124"
   ],
   "sections": {
-    "life": [],
-    "romance": [
-      "688065628c64b72c",
-      "c6ca9d2f761fe0c5",
-      "98264857aeed27e8"
+    "life": [
+      "4e2deab60d3bc0c7"
     ],
+    "romance": [],
     "oddity": [
       "c39460c4ae9bdb80"
     ],
@@ -128,47 +125,13 @@
       "2d08d721eaa271fe"
     ],
     "overseas": [
-      "2260aa591a2c0589",
-      "5b7622989fcef911",
-      "b78209b5a262bff2"
+      "9d40d3565be60124",
+      "41c6aeef7c8a4b60",
+      "acc868bb2697247f"
     ]
   },
   "events": [],
   "items": [
-    {
-      "id": "50368713c5c37284",
-      "title": "被老婆用性惩罚了",
-      "originalTitle": null,
-      "summary": "先说下我俩的情况，高一在一块的已经在一起11年，结婚3年，孩子1岁，之前感情一直很好。\n 事情起因是在8月底，被她翻到我硬盘里的学习资料和以前我拍的老照片（之前发过帖子），从那时候开始生了我一个星期的气，开始拒绝我的需求了，一直到现在三个月了，只有在国庆出游的时候整过一次。我瘾比较大，恨不得天天整，她之前都能满足我的要求。我是老实人只有她一个性伴侣，她到底是觉得我恶心还是把我绿了",
-      "url": "https://bbs.hupu.com/643540592.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-02T12:44:06.249Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 88,
-      "ruleScore": 88,
-      "eventId": "ev-1f26674cef"
-    },
     {
       "id": "688065628c64b72c",
       "title": "JRS，我也要离婚了",
@@ -179,7 +142,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T12:44:06.249Z",
+      "publishedAt": "2026-11-02T21:52:32.212Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -204,16 +167,16 @@
       "eventId": "ev-1bd1a69dc3"
     },
     {
-      "id": "c6ca9d2f761fe0c5",
-      "title": "7天“剧本”套路聊天 揭秘“AI生成女友”网恋诈骗流水线",
+      "id": "4e2deab60d3bc0c7",
+      "title": "小积分激活大治理 湖南新田青皮源村微改造扮靓瑶乡",
       "originalTitle": null,
-      "summary": "在上海工作的刘先生在刷短视频时，认识了一位叫婷婷的美丽女子。双方网恋一段时间后，开始谈婚论嫁。然而刘先生想不到的是，他频频转账的这位“未婚妻”竟然是AI生成的。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724801.shtml",
+      "summary": "中新网永州11月2日电 (蒋军君 周林凤 谢欣怡)废旧轮胎刷漆变身创意花盆、山泉水顺着竹管引入村寨......近年来，湖南新田县门楼下瑶族乡青皮源村以党员积分制为抓手，将人居环境整治拆解为一件件可量化、可认领的民生小事，推动瑶寨道路庭院、饮水保障同步提档升级。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724947.shtml",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T08:20:09.000Z",
+      "publishedAt": "2026-11-02T13:36:18.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -233,21 +196,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-c9c999fd2c"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-b279b74cb8"
     },
     {
-      "id": "2260aa591a2c0589",
-      "title": "《海滩救护队》美女埃里卡·埃伦尼克在扮演标志性电视角色几十年后，OnlyFans 的发薪日有望突破 100 万美元",
-      "originalTitle": "‘Baywatch’ beauty Erika Eleniak on pace for $1 million OnlyFans payday decades after iconic TV role",
-      "summary": "扮演救生员肖尼·麦克莱恩的女演员在该平台短短三个月内就赚了近30万美元。",
-      "url": "https://pagesix.com/2026/11/02/celebrity-news/baywatch-beauty-erika-eleniak-on-pace-for-1-million-onlyfans-payday-decades-after-iconic-tv-role/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fbaywatch-1989-2001-13252915.jpg",
+      "id": "9d40d3565be60124",
+      "title": "Nicolas Cage says he’s ‘currently homeless’ after giant sinkhole opened up next to his L.A. mansion",
+      "originalTitle": null,
+      "summary": "The actor shared how he was \"sort of living in hotels.\"",
+      "url": "https://pagesix.com/2026/11/02/celebrity-news/nicolas-cage-says-hes-currently-homeless-after-giant-sinkhole-opened-up-next-to-his-l-a-mansion/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnicolas-cage-attends-q-panel-147217378.jpg?w%3D757",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-02T08:34:35.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T21:37:27.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -266,44 +229,10 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-b6369e70ed"
-    },
-    {
-      "id": "98264857aeed27e8",
-      "title": "虚拟恋爱背后的生意与迷局",
-      "originalTitle": null,
-      "summary": "剧本杀新玩法“恋陪本”为何引发争议衍生乱象？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724793.shtml",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-02T07:51:47.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-bee899995f"
+      "eventId": "ev-419aa7d562"
     },
     {
       "id": "c39460c4ae9bdb80",
@@ -315,7 +244,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-02T12:44:06.249Z",
+      "publishedAt": "2026-11-02T21:52:32.212Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -349,7 +278,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T12:44:06.249Z",
+      "publishedAt": "2026-11-02T21:52:32.212Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -374,16 +303,16 @@
       "eventId": "ev-9e2f7371fb"
     },
     {
-      "id": "5b7622989fcef911",
-      "title": "玛莎·斯图尔特为无家可归者的万圣节服装道歉：“麻木不仁且不好笑”",
-      "originalTitle": "Martha Stewart apologizes for homeless Halloween costume: ‘Insensitive and not funny’",
-      "summary": "这位千万富翁女商人此前在《第六页》的一份声明中表示，她实际上是通过她的服装让人们意识到无家可归问题。",
-      "url": "https://pagesix.com/2026/11/01/celebrity-news/martha-stewart-apologizes-for-homeless-halloween-costume/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-marthastewart48-hl-147202567_72bdb2.jpg?w%3D1024",
+      "id": "41c6aeef7c8a4b60",
+      "title": "Madison LeCroy’s ‘super cute’ cardigan is under $30",
+      "originalTitle": null,
+      "summary": "The \"Southern Charm\" shared all of her fall fashion favorites.",
+      "url": "https://pagesix.com/2026/11/02/style/madison-lecroy-super-cute-cardigan-sweater-is-under-30/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmadison-lecroy-trendy-queen.jpg?quality%3D90%26strip%3Dall%261793636128%261793636128",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T01:48:45.000Z",
+      "publishedAt": "2026-11-02T21:34:12.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -401,23 +330,23 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": true,
-      "translated": true,
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-8d5e566e09"
+      "eventId": "ev-d58e01353e"
     },
     {
-      "id": "b78209b5a262bff2",
-      "title": "《RHOBH》明星多丽特·凯姆斯利据称在孩子们的生活中为分居的丈夫PK锦上添花",
-      "originalTitle": "'RHOBH' Star Dorit Kemsley Allegedly Icing Estranged Husband PK Out of Kids' Lives",
-      "summary": "据称，《比佛利山庄的真正家庭主妇》明星多丽特·凯姆斯利 (Dorit Kemsley) 在两人不愉快的分手期间不再向分居的丈夫 PK Kemsley 告知孩子们的学业情况……TMZ 获悉。",
-      "url": "https://www.tmz.com/2026/11/02/dorit-kemsley-allegedly-cut-estranged-husband-pk-out-of-kids-life/",
+      "id": "acc868bb2697247f",
+      "title": "Dolly Parton's Nephew Bryan Seaver Fighting Estate's Temporary Restraining Order",
+      "originalTitle": null,
+      "summary": "Dolly Parton's nephew, Bryan Seaver, is asking a judge to dismiss the case filed against him by the entity running his late aunt's estate ... essentially calling the case total BS.",
+      "url": "https://www.tmz.com/2026/11/02/dolly-parton-nephew-bryan-seaver-fighting-restraining-order/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T09:00:03.000Z",
+      "publishedAt": "2026-11-02T21:46:57.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -436,10 +365,10 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-fdf7f49bda"
+      "eventId": "ev-0cf5a839c2"
     }
   ]
 }

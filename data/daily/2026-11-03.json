@@ -1,0 +1,374 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-02T21:52:39.903Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 265,
+    "afterFilter": 38,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2950
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1005
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 27,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 687
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 536
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 599
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 772
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 737
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 758
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1565
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "688065628c64b72c",
+    "4e2deab60d3bc0c7",
+    "9d40d3565be60124"
+  ],
+  "sections": {
+    "life": [
+      "4e2deab60d3bc0c7"
+    ],
+    "romance": [],
+    "oddity": [
+      "c39460c4ae9bdb80"
+    ],
+    "twist": [],
+    "entertainment": [
+      "2d08d721eaa271fe"
+    ],
+    "overseas": [
+      "9d40d3565be60124",
+      "41c6aeef7c8a4b60",
+      "acc868bb2697247f"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "688065628c64b72c",
+      "title": "JRS，我也要离婚了",
+      "originalTitle": null,
+      "summary": "让家人们见笑了，删了写，写了删，反反复复了几遍，边哭边写，大家随便看看吧，就是一段失败的婚姻而已，就是不知道为什么心里会这么难受。\n 我和他2014年相识相知相爱，2018年结婚，目前女儿快7岁，儿子不到2岁，本来生活还算平静，有辆车，雷凌的，省会一套房还有200w左右贷款，自住一套小城市三居，毕业9年，日子也在一点点往好的地方发展。",
+      "url": "https://bbs.hupu.com/643549596.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T21:52:32.212Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 86,
+      "ruleScore": 86,
+      "eventId": "ev-1bd1a69dc3"
+    },
+    {
+      "id": "4e2deab60d3bc0c7",
+      "title": "小积分激活大治理 湖南新田青皮源村微改造扮靓瑶乡",
+      "originalTitle": null,
+      "summary": "中新网永州11月2日电 (蒋军君 周林凤 谢欣怡)废旧轮胎刷漆变身创意花盆、山泉水顺着竹管引入村寨......近年来，湖南新田县门楼下瑶族乡青皮源村以党员积分制为抓手，将人居环境整治拆解为一件件可量化、可认领的民生小事，推动瑶寨道路庭院、饮水保障同步提档升级。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724947.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T13:36:18.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-b279b74cb8"
+    },
+    {
+      "id": "9d40d3565be60124",
+      "title": "Nicolas Cage says he’s ‘currently homeless’ after giant sinkhole opened up next to his L.A. mansion",
+      "originalTitle": null,
+      "summary": "The actor shared how he was \"sort of living in hotels.\"",
+      "url": "https://pagesix.com/2026/11/02/celebrity-news/nicolas-cage-says-hes-currently-homeless-after-giant-sinkhole-opened-up-next-to-his-l-a-mansion/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnicolas-cage-attends-q-panel-147217378.jpg?w%3D757",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T21:37:27.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-419aa7d562"
+    },
+    {
+      "id": "c39460c4ae9bdb80",
+      "title": "惊呆了，张作霖的女儿，张学良的妹妹，竟然还在世。 ​​​",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643550904.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-02T21:52:32.212Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-6082875fcd"
+    },
+    {
+      "id": "2d08d721eaa271fe",
+      "title": "女网红和榜一大哥奔现翻车！",
+      "originalTitle": null,
+      "summary": "榜一大哥和三百万粉丝的女网红“子晗小霸王”线下见面，发现差别太大，气的大哥在马桶上就拍视频发抖音！\n 女网红好像还想翻垃圾桶搜集证据，最后大哥气不过报警了……",
+      "url": "https://bbs.hupu.com/643539343.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T21:52:32.212Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 26,
+      "ruleScore": 26,
+      "eventId": "ev-9e2f7371fb"
+    },
+    {
+      "id": "41c6aeef7c8a4b60",
+      "title": "Madison LeCroy’s ‘super cute’ cardigan is under $30",
+      "originalTitle": null,
+      "summary": "The \"Southern Charm\" shared all of her fall fashion favorites.",
+      "url": "https://pagesix.com/2026/11/02/style/madison-lecroy-super-cute-cardigan-sweater-is-under-30/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmadison-lecroy-trendy-queen.jpg?quality%3D90%26strip%3Dall%261793636128%261793636128",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T21:34:12.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-d58e01353e"
+    },
+    {
+      "id": "acc868bb2697247f",
+      "title": "Dolly Parton's Nephew Bryan Seaver Fighting Estate's Temporary Restraining Order",
+      "originalTitle": null,
+      "summary": "Dolly Parton's nephew, Bryan Seaver, is asking a judge to dismiss the case filed against him by the entity running his late aunt's estate ... essentially calling the case total BS.",
+      "url": "https://www.tmz.com/2026/11/02/dolly-parton-nephew-bryan-seaver-fighting-restraining-order/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T21:46:57.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-0cf5a839c2"
+    }
+  ]
+}
