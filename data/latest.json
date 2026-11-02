@@ -1,13 +1,13 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-01T18:02:31.366Z",
+  "generatedAt": "2026-11-02T02:38:21.570Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 259,
-    "afterFilter": 44,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 267,
+    "afterFilter": 40,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1411
+        "ms": 1517
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 454
+        "ms": 712
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 456
+        "ms": 663
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 302
+        "ms": 366
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 430
+        "ms": 480
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 689
+        "ms": 992
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 564
+        "ms": 867
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 650
+        "ms": 788
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1242
+        "ms": 1291
       }
     ],
     "ai": {
@@ -109,28 +109,26 @@
   },
   "mustEat": [
     "32fe448edeab2963",
-    "407f567c5dd0c73c",
-    "ad249ebd0a7e7a4c"
+    "5b7622989fcef911"
   ],
   "sections": {
     "life": [
-      "5b4d32384574e39e"
+      "f79fa4afd3bce2b9"
     ],
     "romance": [
-      "407f567c5dd0c73c",
-      "5f62c34afffa92b5"
+      "11ed9ed131a41ed5"
     ],
     "oddity": [
-      "474eeb49ebef2dce"
+      "7b39e2a4c6cb2124"
     ],
     "twist": [],
     "entertainment": [
-      "3ab0e12c212a6578"
+      "2d08d721eaa271fe"
     ],
     "overseas": [
-      "ad249ebd0a7e7a4c",
-      "8be79a46a243d72e",
-      "51097e3b08872153"
+      "5b7622989fcef911",
+      "675dae15d3f1780e",
+      "91289251641ad610"
     ]
   },
   "events": [],
@@ -165,55 +163,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 84,
-      "ruleScore": 84,
+      "score": 81,
+      "ruleScore": 81,
       "eventId": "ev-6901d28a21"
     },
     {
-      "id": "407f567c5dd0c73c",
-      "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
+      "id": "5b7622989fcef911",
+      "title": "Martha Stewart apologizes for homeless Halloween costume: ‘Insensitive and not funny’",
       "originalTitle": null,
-      "summary": "中新网杭州11月1日电(张煜欢)为积极培育新型婚育文化，引导青年树立正确的婚恋观、生育观、家庭观，11月1日，由浙江省妇联主办的“美好生活 见证幸福”2026年“浙里幸福荟”集体婚礼在浙江杭州举办，百位新人在钱塘江畔以宋礼传情，许白首之约。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-01T07:20:17.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 81,
-      "ruleScore": 81,
-      "eventId": "ev-22c82554a6"
-    },
-    {
-      "id": "ad249ebd0a7e7a4c",
-      "title": "玛莎·斯图尔特回应了对无家可归者万圣节服装的强烈反对，但没有道歉",
-      "originalTitle": "Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing",
-      "summary": "这位女商人在万圣节打扮成无家可归者后遭到强烈反对。",
-      "url": "https://pagesix.com/2026/11/01/celebrity-news/martha-stewart-addresses-backlash-over-homeless-halloween-costume-but-stops-short-of-apologizing/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-marthastewart48-hl-147202567_a20a9e.jpg",
+      "summary": "The multimillionaire businesswoman previously shared in a statement to Page Six that she was actually bringing awareness to the issue of homelessness with her costume.",
+      "url": "https://pagesix.com/2026/11/01/celebrity-news/martha-stewart-apologizes-for-homeless-halloween-costume/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-marthastewart48-hl-147202567_72bdb2.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T17:31:45.000Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T01:48:45.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -232,56 +196,22 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": true,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5eefaf8c15"
+      "eventId": "ev-8d5e566e09"
     },
     {
-      "id": "5b4d32384574e39e",
-      "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
+      "id": "f79fa4afd3bce2b9",
+      "title": "关于我妹妹在群里怼亲戚气到老爸，向我求助的事情",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/2099653516453328673",
+      "url": "https://bbs.hupu.com/643466726.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-01T18:02:23.524Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-d54303e3eb"
-    },
-    {
-      "id": "5f62c34afffa92b5",
-      "title": "分手应该体面，谁都不要说抱歉",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643466178.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-01T18:02:23.400Z",
+      "publishedAt": "2026-11-02T02:38:15.596Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -292,6 +222,40 @@
         "platformCount": 1,
         "platformSources": [
           "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-6fc2e7e2a6"
+    },
+    {
+      "id": "11ed9ed131a41ed5",
+      "title": "杨汝晴侯卓成分手前共同买了一套房",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B1%9D%E6%99%B4%E4%BE%AF%E5%8D%93%E6%88%90%E5%88%86%E6%89%8B%E5%89%8D%E5%85%B1%E5%90%8C%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-02T02:38:15.389Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -303,19 +267,53 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-1edc0462e5"
+      "eventId": "ev-7ef7354c81"
     },
     {
-      "id": "474eeb49ebef2dce",
-      "title": "车库口冲突",
+      "id": "7b39e2a4c6cb2124",
+      "title": "民警视频对峙“假警察”守住35万",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643503752.html",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7703359863203840041/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703359863203840041%22%2C%22hot_board_impr_id%22%3A%22202611021038159EEA297F310CB0D82B50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B0%91%E8%AD%A6%E8%A7%86%E9%A2%91%E5%AF%B9%E5%B3%99%E2%80%9C%E5%81%87%E8%AD%A6%E5%AF%9F%E2%80%9D%E5%AE%88%E4%BD%8F35%E4%B8%87%22%7D&rank=&style_id=40132&topic_id=7703359863203840041",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/4297525952154fccaec88e24f7b47d3e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796169600&x-signature=bt2DKZF1zDftAlORx1HC8iTWU78%3D",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-01T18:02:23.400Z",
+      "publishedAt": "2026-11-02T02:38:15.437Z",
+      "timeBasis": "fetch",
+      "heat": 7269069,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-36cb0d1050"
+    },
+    {
+      "id": "2d08d721eaa271fe",
+      "title": "女网红和榜一大哥奔现翻车！",
+      "originalTitle": null,
+      "summary": "榜一大哥和三百万粉丝的女网红“子晗小霸王”线下见面，发现差别太大，气的大哥在马桶上就拍视频发抖音！\n 女网红好像还想翻垃圾桶搜集证据，最后大哥气不过报警了……",
+      "url": "https://bbs.hupu.com/643539343.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-02T02:38:15.596Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -335,55 +333,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-84d40ea521"
+      "score": 26,
+      "ruleScore": 26,
+      "eventId": "ev-9e2f7371fb"
     },
     {
-      "id": "3ab0e12c212a6578",
-      "title": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
+      "id": "675dae15d3f1780e",
+      "title": "Andrew Shue and Marilee Fiebig marry in New Jersey just weeks after exes T.J. Holmes and Amy Robach",
       "originalTitle": null,
-      "summary": "中新网11月1日电 据浙江温州龙湾公安分局官方微博“平安龙湾”消息，11月1日，温州市公安局龙湾区分局、温州市龙湾区文化和广电旅游体育局发布情况通报：",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724314.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-01T08:01:19.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 24,
-      "ruleScore": 24,
-      "eventId": "ev-71523b0d1d"
-    },
-    {
-      "id": "8be79a46a243d72e",
-      "title": "《痴迷》明星因德·纳瓦雷特在《周六夜现场》独白中猛烈抨击肖恩·吉利斯",
-      "originalTitle": "‘Obsession’ star Inde Navarrette takes savage swipe at Shane Gillis during ‘SNL’ monologue",
-      "summary": "纳瓦雷特的言论明显参考了吉利斯自己 10 月 10 日在《周六夜现场》中的独白，当时他因对女性暴露的运动服发表粗俗评论而引发强烈反对。",
-      "url": "https://pagesix.com/2026/11/01/entertainment/obsession-star-inde-navarrette-takes-savage-swipe-at-shane-gillis-during-snl-monologue/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fobsession-star-inde-navarrette-takes-147201542.jpg?w%3D1024",
+      "summary": "The couple got together in 2023 after their exes' workplace romance was famously exposed.",
+      "url": "https://pagesix.com/2026/11/01/celebrity-news/andrew-shue-and-marilee-fiebig-marry-in-new-jersey-just-weeks-after-exes-t-j-holmes-and-amy-robach/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmarilee-fiebig-andrew-shue-attend-147254562.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-01T14:31:36.000Z",
+      "publishedAt": "2026-11-02T00:49:37.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -401,23 +365,23 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": true,
-      "translated": true,
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-268ef18453"
+      "eventId": "ev-ae8fbc1b26"
     },
     {
-      "id": "51097e3b08872153",
-      "title": "多莉·帕顿的侄子布莱恩·西弗在博物馆火灾后为丽贝卡修女辩护",
-      "originalTitle": "Dolly Parton's Nephew Bryan Seaver Defends Sister Rebecca After Museum Firing",
-      "summary": "多莉·帕顿 (Dolly Parton) 的侄子布莱恩·西弗 (Bryan Seaver) 与管理其遗产的公司陷入了一场激烈的法律纠纷。在妹妹丽贝卡·西弗 (Rebecca Seaver) 被这位已故歌手的博物馆解雇后，他正在为她辩护。",
-      "url": "https://www.tmz.com/2026/11/01/dolly-parton-nephew-bryan-seaver-defends-sister-rebecca/",
+      "id": "91289251641ad610",
+      "title": "NJ 5th Grade Teacher, Accused of Having 11-Year-Old Student's Baby, Pleads Guilty",
+      "originalTitle": null,
+      "summary": "Laura Caron -- a 36-year-old former 5th grade teacher -- has pleaded guilty to one of the charges against her ... after being accused of sexually assaulting a student and having his baby.",
+      "url": "https://www.tmz.com/2026/11/01/teacher-accused-of-having-11-year-old-victims-child/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-01T16:30:12.000Z",
+      "publishedAt": "2026-11-01T20:48:08.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -436,10 +400,10 @@
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
-      "translated": true,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-b7a3a651b6"
+      "eventId": "ev-ffd8816219"
     }
   ]
 }
