@@ -1,13 +1,13 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-02T21:52:39.903Z",
+  "generatedAt": "2026-11-03T03:58:09.568Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 265,
-    "afterFilter": 38,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 268,
+    "afterFilter": 36,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2950
+        "ms": 1545
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1005
+        "ms": 711
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 27,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 687
+        "ms": 596
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 536
+        "ms": 361
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 599
+        "ms": 413
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 772
+        "ms": 720
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 737
+        "ms": 668
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 758
+        "ms": 701
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1565
+        "ms": 2776
       }
     ],
     "ai": {
@@ -108,41 +108,38 @@
     "totalSources": 9
   },
   "mustEat": [
-    "688065628c64b72c",
-    "4e2deab60d3bc0c7",
-    "9d40d3565be60124"
+    "50368713c5c37284",
+    "88ca4629dc6f61ab"
   ],
   "sections": {
     "life": [
-      "4e2deab60d3bc0c7"
+      "2e7de5248e6d2a4d"
     ],
     "romance": [],
     "oddity": [
-      "c39460c4ae9bdb80"
+      "52d4e560eadd3159"
     ],
     "twist": [],
-    "entertainment": [
-      "2d08d721eaa271fe"
-    ],
+    "entertainment": [],
     "overseas": [
-      "9d40d3565be60124",
-      "41c6aeef7c8a4b60",
-      "acc868bb2697247f"
+      "88ca4629dc6f61ab",
+      "9c7d280ea9b91477",
+      "38f61844d6148bf8"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "688065628c64b72c",
-      "title": "JRS，我也要离婚了",
+      "id": "50368713c5c37284",
+      "title": "被老婆用性惩罚了",
       "originalTitle": null,
-      "summary": "让家人们见笑了，删了写，写了删，反反复复了几遍，边哭边写，大家随便看看吧，就是一段失败的婚姻而已，就是不知道为什么心里会这么难受。\n 我和他2014年相识相知相爱，2018年结婚，目前女儿快7岁，儿子不到2岁，本来生活还算平静，有辆车，雷凌的，省会一套房还有200w左右贷款，自住一套小城市三居，毕业9年，日子也在一点点往好的地方发展。",
-      "url": "https://bbs.hupu.com/643549596.html",
+      "summary": "先说下我俩的情况，高一在一块的已经在一起11年，结婚3年，孩子1岁，之前感情一直很好。\n 事情起因是在8月底，被她翻到我硬盘里的学习资料和以前我拍的老照片（之前发过帖子），从那时候开始生了我一个星期的气，开始拒绝我的需求了，一直到现在三个月了，只有在国庆出游的时候整过一次。我瘾比较大，恨不得天天整，她之前都能满足我的要求。我是老实人只有她一个性伴侣，她到底是觉得我恶心还是把我绿了",
+      "url": "https://bbs.hupu.com/643540592.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T21:52:32.212Z",
+      "publishedAt": "2026-11-03T03:58:00.933Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -162,55 +159,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 86,
-      "ruleScore": 86,
-      "eventId": "ev-1bd1a69dc3"
+      "score": 88,
+      "ruleScore": 88,
+      "eventId": "ev-1f26674cef"
     },
     {
-      "id": "4e2deab60d3bc0c7",
-      "title": "小积分激活大治理 湖南新田青皮源村微改造扮靓瑶乡",
+      "id": "88ca4629dc6f61ab",
+      "title": "Pregnant Savannah Chrisley reveals sex of 1st baby with much-older fraudster husband Jason Galanis",
       "originalTitle": null,
-      "summary": "中新网永州11月2日电 (蒋军君 周林凤 谢欣怡)废旧轮胎刷漆变身创意花盆、山泉水顺着竹管引入村寨......近年来，湖南新田县门楼下瑶族乡青皮源村以党员积分制为抓手，将人居环境整治拆解为一件件可量化、可认领的民生小事，推动瑶寨道路庭院、饮水保障同步提档升级。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724947.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-02T13:36:18.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 78,
-      "ruleScore": 78,
-      "eventId": "ev-b279b74cb8"
-    },
-    {
-      "id": "9d40d3565be60124",
-      "title": "Nicolas Cage says he’s ‘currently homeless’ after giant sinkhole opened up next to his L.A. mansion",
-      "originalTitle": null,
-      "summary": "The actor shared how he was \"sort of living in hotels.\"",
-      "url": "https://pagesix.com/2026/11/02/celebrity-news/nicolas-cage-says-hes-currently-homeless-after-giant-sinkhole-opened-up-next-to-his-l-a-mansion/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnicolas-cage-attends-q-panel-147217378.jpg?w%3D757",
+      "summary": "The reality star wrote that her unborn child is the \"most beautiful reminder that God’s plans are always greater than our own\" to social media.",
+      "url": "https://pagesix.com/2026/11/02/parents/pregnant-savannah-chrisley-reveals-sex-of-1st-baby-with-much-older-fraudster-husband/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fwww-instagram-com-p-dfqojpgpzly-147355397.jpg?w%3D576",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T21:37:27.000Z",
+      "publishedAt": "2026-11-03T03:35:39.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -232,19 +195,53 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-419aa7d562"
+      "eventId": "ev-b03332208a"
     },
     {
-      "id": "c39460c4ae9bdb80",
-      "title": "惊呆了，张作霖的女儿，张学良的妹妹，竟然还在世。 ​​​",
+      "id": "2e7de5248e6d2a4d",
+      "title": "九寨沟老人打人视频曝光",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643550904.html",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%AF%A8%E6%B2%9F%E8%80%81%E4%BA%BA%E6%89%93%E4%BA%BA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-03T03:58:00.856Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-74529930b4"
+    },
+    {
+      "id": "52d4e560eadd3159",
+      "title": "竟然可以这样了？ ​​​",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643528542.html",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-02T21:52:32.212Z",
+      "publishedAt": "2026-11-03T03:58:00.933Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -266,53 +263,19 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-6082875fcd"
+      "eventId": "ev-d630152aaa"
     },
     {
-      "id": "2d08d721eaa271fe",
-      "title": "女网红和榜一大哥奔现翻车！",
+      "id": "9c7d280ea9b91477",
+      "title": "‘Dancing With the Stars’ sends former frontrunner packing on ‘Disney Night’",
       "originalTitle": null,
-      "summary": "榜一大哥和三百万粉丝的女网红“子晗小霸王”线下见面，发现差别太大，气的大哥在马桶上就拍视频发抖音！\n 女网红好像还想翻垃圾桶搜集证据，最后大哥气不过报警了……",
-      "url": "https://bbs.hupu.com/643539343.html",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-02T21:52:32.212Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 26,
-      "ruleScore": 26,
-      "eventId": "ev-9e2f7371fb"
-    },
-    {
-      "id": "41c6aeef7c8a4b60",
-      "title": "Madison LeCroy’s ‘super cute’ cardigan is under $30",
-      "originalTitle": null,
-      "summary": "The \"Southern Charm\" shared all of her fall fashion favorites.",
-      "url": "https://pagesix.com/2026/11/02/style/madison-lecroy-super-cute-cardigan-sweater-is-under-30/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmadison-lecroy-trendy-queen.jpg?quality%3D90%26strip%3Dall%261793636128%261793636128",
+      "summary": "The magical journey ended for one couple, while another earned immunity for next week's dance-off.",
+      "url": "https://pagesix.com/2026/11/02/entertainment/julia-stiles-eliminated-from-dancing-with-the-stars-on-disney-night/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2Fabcs-dancing-stars-stars-julia-142083712-1.jpg?w%3D768",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T21:34:12.000Z",
+      "publishedAt": "2026-11-03T03:07:44.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -334,19 +297,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d58e01353e"
+      "eventId": "ev-d9a1099656"
     },
     {
-      "id": "acc868bb2697247f",
-      "title": "Dolly Parton's Nephew Bryan Seaver Fighting Estate's Temporary Restraining Order",
+      "id": "38f61844d6148bf8",
+      "title": "Ethan Klein and Estranged Wife Hila Divorcing Amid Cheating Scandal",
       "originalTitle": null,
-      "summary": "Dolly Parton's nephew, Bryan Seaver, is asking a judge to dismiss the case filed against him by the entity running his late aunt's estate ... essentially calling the case total BS.",
-      "url": "https://www.tmz.com/2026/11/02/dolly-parton-nephew-bryan-seaver-fighting-restraining-order/",
+      "summary": "Hila Klein has filed for divorce from Ethan Klein after 14 years of marriage in the wake of his alleged cheating ... TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/02/hila-klein-files-for-divorce-from-husband-ethan/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-02T21:46:57.000Z",
+      "publishedAt": "2026-11-03T01:39:22.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -368,7 +331,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-0cf5a839c2"
+      "eventId": "ev-822acf042d"
     }
   ]
 }
