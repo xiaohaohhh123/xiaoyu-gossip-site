@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-03T19:42:59.309Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 260,
+    "afterFilter": 37,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2120
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 363
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 385
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 9,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 300
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 333
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 530
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 492
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 512
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 639
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "0f073a3778ca7651",
+    "6d9781dc3aaf5369",
+    "7944824343bdb914",
+    "9fc26b6dc1ae8cc1"
+  ],
+  "sections": {
+    "life": [],
+    "romance": [
+      "6d9781dc3aaf5369",
+      "688065628c64b72c"
+    ],
+    "oddity": [
+      "7944824343bdb914",
+      "bd63fc51e393422c"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "9fc26b6dc1ae8cc1",
+      "1e99607674e3fc46",
+      "c4472a4e3a76d35d"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "0f073a3778ca7651",
+      "title": "本人在外地，10年不曾联系不曾见面的同事也是朋友，请自己喝结婚喜酒，该不该参加，或者该不该不参加随礼？",
+      "originalTitle": null,
+      "summary": "本人在外地，距离5-600公里，这两天一个10年前的同事还有朋友，联系我要回去参加他的婚礼，这10年，从来没有在微信，电话联系过，好像就见过一次面，还是在路上偶遇见的。10年前，我和这哥们一起下班，一起去跑业务，一起吃饭，互相帮助。但是整整10年不再联系，不再往来。如今他结婚，突然联系我，叫我回去参加婚礼，也不问我在哪里，直接叫我回去参加婚礼。\n \n jr们，你们觉得我该不该参加，或者不参加然后随礼，该不该呢？老家那个地方随礼就是2-300。该不该随这个礼呢？\n \n jrs来聊聊。",
+      "url": "https://bbs.hupu.com/643587702.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-03T19:42:52.313Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 87,
+      "ruleScore": 87,
+      "eventId": "ev-d396dd7257"
+    },
+    {
+      "id": "6d9781dc3aaf5369",
+      "title": "以前的一个同事，女的，",
+      "originalTitle": null,
+      "summary": "最近和几个以前的同事喝酒，闲聊中聊到以前的在一个办公室的女孩子。听说她离婚了，还有两个孩子，结婚6年，因为她老公的最近生意不好，赚不到钱了，两个人就经常吵架，就离了，现在都这么现实了吗？6年感情，还有孩子，就因为男孩子赚不到钱了，就离婚了。",
+      "url": "https://bbs.hupu.com/643572448.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-03T19:42:52.313Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-52bc214455"
+    },
+    {
+      "id": "7944824343bdb914",
+      "title": "骗子冒充公检法“接力”演戏 银行柜员报警保住养老钱",
+      "originalTitle": null,
+      "summary": "一通来电显示为湖北当阳本地的电话，让七旬老人林先生慌了神。好在银行柜员敏锐识诈、果断报警，警银联动紧急拦截，成功保住了老人的4万元“养老钱”。林先生遭遇的是冒充公检法骗局，与以往不同的是，这种骗局又有了新套路。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725647.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-03T14:52:02.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 76,
+      "ruleScore": 76,
+      "eventId": "ev-7f2bef0d85"
+    },
+    {
+      "id": "9fc26b6dc1ae8cc1",
+      "title": "Heidi Klum has surprise run-in with ex-boyfriend while enjoying lunch with look-alike daughter Leni",
+      "originalTitle": null,
+      "summary": "Klum and her art dealer ex-boyfriend, Vito Schnabel, ended up at the same restaurant in New York City on Monday.",
+      "url": "https://pagesix.com/2026/11/03/celebrity-news/heidi-klum-has-run-in-with-ex-boyfriend-vito-schnabel-at-lunch-with-daughter-leni/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-new-york-ny-heidi-147329198.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-03T19:25:48.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-3b17d33577"
+    },
+    {
+      "id": "688065628c64b72c",
+      "title": "JRS，我也要离婚了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643549596.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-03T19:42:52.313Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-1bd1a69dc3"
+    },
+    {
+      "id": "bd63fc51e393422c",
+      "title": "去参观了邻居家的装修，发现他家的蹲厕居然做成了这种嵌入式。好用吗？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643550498.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-03T19:42:52.313Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-f2a7b3c9d0"
+    },
+    {
+      "id": "1e99607674e3fc46",
+      "title": "North West schooled Kim Kardashian on how to dress exactly like her for Halloween",
+      "originalTitle": null,
+      "summary": "The Skims founder revealed that her eldest daughter not only conceived of her costume but also styled it.",
+      "url": "https://pagesix.com/2026/11/03/style/north-west-styled-kim-kardashians-halloween-2026-costume/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkim-kardashian-transforms-13-year-145848165.jpg?w%3D768",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-03T19:23:03.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-ac6b38c3bb"
+    },
+    {
+      "id": "c4472a4e3a76d35d",
+      "title": "Fitness Influencer Goob's Viral Arrest Was Staged for Social Media, Cops Say",
+      "originalTitle": null,
+      "summary": "Fitness influencer Goob is asking for privacy after his supposed arrest ... but there's just one problem ... the whole thing was staged, TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/03/john-goob-dorsey-arrest-staged/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-03T19:12:31.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-ee95172c33"
+    }
+  ]
+}
