@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T03:04:35.599Z",
+  "generatedAt": "2026-11-04T12:23:22.178Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 259,
-    "afterFilter": 40,
+    "totalCollected": 269,
+    "afterFilter": 38,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 6081
+        "ms": 1425
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 523
+        "ms": 681
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 821
+        "ms": 706
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 556
+        "ms": 380
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 690
+        "ms": 550
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 979
+        "ms": 802
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 961
+        "ms": 769
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 958
+        "ms": 762
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1328
+        "ms": 1092
       }
     ],
     "ai": {
@@ -108,77 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "203d2563436d8edb",
     "18078477a227ab36",
-    "7944824343bdb914",
-    "e94e8b1ae71c337f"
+    "5dc922288ab5a1ab",
+    "11e6cd143736b257"
   ],
   "sections": {
-    "life": [
-      "18078477a227ab36"
-    ],
+    "life": [],
     "romance": [
-      "a7925c911e7f39bd"
+      "7e6bad8650b6ba1f"
     ],
     "oddity": [
-      "7944824343bdb914",
-      "c2d62c70bd089862"
+      "5dc922288ab5a1ab",
+      "bd63fc51e393422c"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "b7991269ac6e7ed7"
+    ],
     "overseas": [
-      "e94e8b1ae71c337f",
-      "7b9dc9ed829a0a1f",
-      "60f3a0523ff9f866"
+      "11e6cd143736b257",
+      "fd7a4af3f2e068c6",
+      "6506c84e47ad149e"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "203d2563436d8edb",
-      "title": "我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
-      "originalTitle": null,
-      "summary": "近日，农业农村部认定第八批重要农业文化遗产，新增88项传统农业系统。至此，我国重要农业文化遗产增加到了276项。它们在中华民族的长期农耕生产实践中逐渐形成，因地制宜守护传承下来，蕴含着深厚的农耕文化思想智慧。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725713.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-03T23:34:09.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 78,
-      "ruleScore": 78,
-      "eventId": "ev-f469f5a7fc"
-    },
-    {
       "id": "18078477a227ab36",
       "title": "前天万圣节派对认识球友兄弟们给个建议还有后续联系的必要吗",
       "originalTitle": null,
-      "summary": "照片和本人基本一致会比照片稍微胖一点点打球时对抗激烈会各种自主背身运球但第二天结束后想要小弟给她买礼物（化妆品➕包包）聊天时也时不时会暗示奈何球技确实不错现在比较纠结要不要继续下去",
+      "summary": "照片和本人基本一致会比照片稍微胖一点点（有时会穿束腰）打球时对抗激烈会各种自主背身运球但第二天结束后想要小弟给她买礼物（化妆品➕包包）聊天时也时不时会暗示奈何球技确实不错现在比较纠结要不要继续下去.po张合照以防口嗨",
       "url": "https://bbs.hupu.com/643604600.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T03:04:20.154Z",
+      "publishedAt": "2026-11-04T12:23:17.193Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -198,21 +163,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 77,
-      "ruleScore": 77,
+      "score": 78,
+      "ruleScore": 78,
       "eventId": "ev-7d1e6281af"
     },
     {
-      "id": "7944824343bdb914",
-      "title": "骗子冒充公检法“接力”演戏 银行柜员报警保住养老钱",
+      "id": "5dc922288ab5a1ab",
+      "title": "截图≠铁证、语音不能单独作数！微信电子证据该如何留存？",
       "originalTitle": null,
-      "summary": "一通来电显示为湖北当阳本地的电话，让七旬老人林先生慌了神。好在银行柜员敏锐识诈、果断报警，警银联动紧急拦截，成功保住了老人的4万元“养老钱”。林先生遭遇的是冒充公检法骗局，与以往不同的是，这种骗局又有了新套路。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725647.shtml",
+      "summary": "近年来，微信聊天、语音沟通、转账支付几乎成了人们日常交往、消费、交易、经济往来的重要方式。在人民法院处理各类民事纠纷过程中，微信电子证据的使用越来越多。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726011.shtml",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-03T14:52:02.000Z",
+      "publishedAt": "2026-11-04T07:57:37.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -232,21 +197,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 73,
-      "ruleScore": 73,
-      "eventId": "ev-7f2bef0d85"
+      "score": 74,
+      "ruleScore": 74,
+      "eventId": "ev-b97ca89ff9"
     },
     {
-      "id": "e94e8b1ae71c337f",
-      "title": "Pinkies Up for Lara Raj's Birthday Hot Shots!",
+      "id": "11e6cd143736b257",
+      "title": "Guess The Model Bustin' Out Of Her Dress",
       "originalTitle": null,
-      "summary": "KATSEYE queen Lara Raj just hit a major milestone ... the pop princess has officially turned 21! While she's got her pinky up sipping her first legal drink, we're celebrating by rounding up some of her sexiest snaps.",
-      "url": "https://www.tmz.com/2026/11/03/lara-raj-birthday-hot-pictures/",
+      "summary": "Happy hump day! Can you guess which busty model was nearly falling out of her dress?!? This hottie was crowned Miss India in 2007 and made her Bollywood debut a few years later with the film \"Jannat 2.\" When she's not wi…",
+      "url": "https://www.tmz.com/2026/11/04/esha-gupta-hot-busty-picture/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-03T21:00:45.000Z",
+      "publishedAt": "2026-11-04T08:30:53.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -266,55 +231,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-9322f61d23"
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-f27fc4e524"
     },
     {
-      "id": "a7925c911e7f39bd",
-      "title": "高颜值保洁大叔：年轻时相亲被嫌丑",
+      "id": "7e6bad8650b6ba1f",
+      "title": "李嘉格车澈离婚原因",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7702951351181099050/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702951351181099050%22%2C%22hot_board_impr_id%22%3A%2220261104110419B2AD24C8131E4A237610%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E9%A2%9C%E5%80%BC%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%97%B6%E7%9B%B8%E4%BA%B2%E8%A2%AB%E5%AB%8C%E4%B8%91%22%7D&rank=&style_id=40132&topic_id=7702951351181099050",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a9914ead1260483c83d0bd22cf9c7668~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796342400&x-signature=rF8bMHLloS9JaMMTQzPeeuIg79Q%3D",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E8%BD%A6%E6%BE%88%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
+      "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-04T03:04:19.713Z",
-      "timeBasis": "fetch",
-      "heat": 5477429,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-3dd941549e"
-    },
-    {
-      "id": "c2d62c70bd089862",
-      "title": "红果短剧到底有多离谱",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=5&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-04T03:04:20.012Z",
+      "publishedAt": "2026-11-04T12:23:17.127Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -334,21 +265,91 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-8864a3acd8"
+    },
+    {
+      "id": "bd63fc51e393422c",
+      "title": "去参观了邻居家的装修，发现他家的蹲厕居然做成了这种嵌入式。好用吗？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643550498.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-04T12:23:17.193Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-351abd973e"
+      "eventId": "ev-f2a7b3c9d0"
     },
     {
-      "id": "7b9dc9ed829a0a1f",
-      "title": "Hailey Bieber reveals ‘lonely journey’ with health condition following birth of son Jack Blues",
+      "id": "b7991269ac6e7ed7",
+      "title": "气象部门回应iPhone天气应用出现多地-32℃异常数据（2026·11·04）",
       "originalTitle": null,
-      "summary": "The model reflected on having the disorder also shared by Lili Reinhart, Zara Larsson and Dixie D'Amelio.",
-      "url": "https://pagesix.com/2026/11/03/parents/hailey-bieber-reveals-lonely-journey-with-health-condition-following-birth-of-son-jack-blues/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-depwfa7j0eh-146991500.jpg?w%3D768",
+      "summary": "辟 谣 多地-32℃，一天内温差近50℃？实为iPhone数据异常，气象部门权威回应",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726161.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-04T11:16:43.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "douyin"
+        ],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 24,
+      "ruleScore": 24,
+      "eventId": "ev-a15a1488f6"
+    },
+    {
+      "id": "fd7a4af3f2e068c6",
+      "title": "The biggest revelations from Netflix’s Natalee Holloway doc",
+      "originalTitle": null,
+      "summary": "Natalee Holloway's mother, friends, and FBI agent speak out about her disappearance and the long journey to Joran van der Sloot's confession.",
+      "url": "https://pagesix.com/2026/11/04/entertainment/the-biggest-revelations-from-netflixs-natalee-holloway-doc/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnatalee-holloway-doc-147421177.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T02:34:21.000Z",
+      "publishedAt": "2026-11-04T08:01:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -370,19 +371,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5bf6f2e984"
+      "eventId": "ev-d032652217"
     },
     {
-      "id": "60f3a0523ff9f866",
-      "title": "Kyle Cooke makes out with pal Carl Radke’s ex Lindsay Hubbard during ‘In the City’ cast trip",
+      "id": "6506c84e47ad149e",
+      "title": "Cher responds to Michael Douglas’ claim Glenn Close deserved her Oscar for ‘Moonstruck’",
       "originalTitle": null,
-      "summary": "The group spent Halloween weekend in Cancun, Mexico, where they enjoyed the beach, a performance by the Chainsmokers, a spa day and a Cooke-deejayed pool party.",
-      "url": "https://pagesix.com/2026/11/03/celebrity-news/kyle-cooke-makes-out-with-pal-carl-radkes-ex-lindsay-hubbard-during-in-the-city-cast-trip/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkyle-cooke-inside-page-six-144101653.jpg",
+      "summary": "Douglas said his “Fatal Attraction” co-star should have taken home the trophy instead.",
+      "url": "https://pagesix.com/2026/11/04/celebrity-news/cher-responds-to-michael-douglas-claim-glenn-close-deserved-her-oscar-for-moonstruck/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F2026-met-gala-celebrating-costume-147495286.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T02:10:54.000Z",
+      "publishedAt": "2026-11-04T05:58:39.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -404,7 +405,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-fa46dfa61b"
+      "eventId": "ev-46345707fc"
     }
   ]
 }
