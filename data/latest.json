@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T12:23:22.178Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-04T19:58:13.835Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 269,
-    "afterFilter": 38,
+    "totalCollected": 266,
+    "afterFilter": 43,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1425
+        "ms": 1602
       },
       {
         "id": "toutiao",
@@ -27,14 +27,14 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 681
+        "ms": 705
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
         "ms": 706
@@ -44,10 +44,10 @@
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 380
+        "ms": 432
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 550
+        "ms": 594
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 802
+        "ms": 814
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 769
+        "ms": 902
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 762
+        "ms": 890
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1092
+        "ms": 1670
       }
     ],
     "ai": {
@@ -108,17 +108,17 @@
     "totalSources": 9
   },
   "mustEat": [
-    "18078477a227ab36",
-    "5dc922288ab5a1ab",
-    "11e6cd143736b257"
+    "355e1d8dace31c4f",
+    "57602cb3c8372aac"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "c43b12a080c17ece"
+    ],
     "romance": [
-      "7e6bad8650b6ba1f"
+      "1ff053d100084085"
     ],
     "oddity": [
-      "5dc922288ab5a1ab",
       "bd63fc51e393422c"
     ],
     "twist": [],
@@ -126,58 +126,24 @@
       "b7991269ac6e7ed7"
     ],
     "overseas": [
-      "11e6cd143736b257",
-      "fd7a4af3f2e068c6",
-      "6506c84e47ad149e"
+      "57602cb3c8372aac",
+      "f12d4658673e7ab5",
+      "0f727fd57e2e1c00"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "18078477a227ab36",
-      "title": "前天万圣节派对认识球友兄弟们给个建议还有后续联系的必要吗",
+      "id": "355e1d8dace31c4f",
+      "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
       "originalTitle": null,
-      "summary": "照片和本人基本一致会比照片稍微胖一点点（有时会穿束腰）打球时对抗激烈会各种自主背身运球但第二天结束后想要小弟给她买礼物（化妆品➕包包）聊天时也时不时会暗示奈何球技确实不错现在比较纠结要不要继续下去.po张合照以防口嗨",
-      "url": "https://bbs.hupu.com/643604600.html",
+      "summary": "物业是住宅小区消防管理的前哨，依法落实小区电动自行车消防安全管理，既是物业履行消防安全职责的应有之举，也是保障全体业主居住安全的关键环节。然而近期，多地消防部门在检查中发现，一些小区物业对电动自行车停放管理存在不作为等情况。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T12:23:17.193Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 78,
-      "ruleScore": 78,
-      "eventId": "ev-7d1e6281af"
-    },
-    {
-      "id": "5dc922288ab5a1ab",
-      "title": "截图≠铁证、语音不能单独作数！微信电子证据该如何留存？",
-      "originalTitle": null,
-      "summary": "近年来，微信聊天、语音沟通、转账支付几乎成了人们日常交往、消费、交易、经济往来的重要方式。在人民法院处理各类民事纠纷过程中，微信电子证据的使用越来越多。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726011.shtml",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-04T07:57:37.000Z",
+      "publishedAt": "2026-11-04T15:18:45.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -197,21 +163,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 74,
-      "ruleScore": 74,
-      "eventId": "ev-b97ca89ff9"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-373d701cf8"
     },
     {
-      "id": "11e6cd143736b257",
-      "title": "Guess The Model Bustin' Out Of Her Dress",
+      "id": "57602cb3c8372aac",
+      "title": "Alessandra Ambrosio Hits Bali In Thong Bikini",
       "originalTitle": null,
-      "summary": "Happy hump day! Can you guess which busty model was nearly falling out of her dress?!? This hottie was crowned Miss India in 2007 and made her Bollywood debut a few years later with the film \"Jannat 2.\" When she's not wi…",
-      "url": "https://www.tmz.com/2026/11/04/esha-gupta-hot-busty-picture/",
+      "summary": "When in Bali, do as Alessandra Ambrosio does ... immerse yourself in the lush tropical landscape, sip on a fresh coconut, and strut your stuff in a thong bikini like it's your day job!",
+      "url": "https://www.tmz.com/2026/11/04/alessandra-ambrosio-in-thong-bikini/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T08:30:53.000Z",
+      "publishedAt": "2026-11-04T19:00:30.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -231,31 +197,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-f27fc4e524"
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-8ce3fdbb86"
     },
     {
-      "id": "7e6bad8650b6ba1f",
-      "title": "李嘉格车澈离婚原因",
+      "id": "c43b12a080c17ece",
+      "title": "笑不活了 邻居都是人才电梯里看到的 ​​​",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E8%BD%A6%E6%BE%88%E7%A6%BB%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
+      "url": "https://bbs.hupu.com/643609957.html",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-04T12:23:17.127Z",
+      "publishedAt": "2026-11-04T19:58:07.124Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,9 +231,43 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-8864a3acd8"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-9e53039e77"
+    },
+    {
+      "id": "1ff053d100084085",
+      "title": "男子求复合失败醉驾撞护栏还逃逸",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%B1%82%E5%A4%8D%E5%90%88%E5%A4%B1%E8%B4%A5%E9%86%89%E9%A9%BE%E6%92%9E%E6%8A%A4%E6%A0%8F%E8%BF%98%E9%80%83%E9%80%B8&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-04T19:58:07.775Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-aece71a915"
     },
     {
       "id": "bd63fc51e393422c",
@@ -279,7 +279,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-04T12:23:17.193Z",
+      "publishedAt": "2026-11-04T19:58:07.124Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -335,21 +335,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 24,
-      "ruleScore": 24,
+      "score": 22,
+      "ruleScore": 22,
       "eventId": "ev-a15a1488f6"
     },
     {
-      "id": "fd7a4af3f2e068c6",
-      "title": "The biggest revelations from Netflix’s Natalee Holloway doc",
+      "id": "f12d4658673e7ab5",
+      "title": "Anna Wintour used to drink a coffee milkshake every afternoon, says her former assistant",
       "originalTitle": null,
-      "summary": "Natalee Holloway's mother, friends, and FBI agent speak out about her disappearance and the long journey to Joran van der Sloot's confession.",
-      "url": "https://pagesix.com/2026/11/04/entertainment/the-biggest-revelations-from-netflixs-natalee-holloway-doc/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnatalee-holloway-doc-147421177.jpg?w%3D1024",
+      "summary": "The fashion editor’s onetime right hand also explained how Beyoncé ended up on her first Vogue cover purely by chance.",
+      "url": "https://pagesix.com/2026/11/04/style/anna-wintours-former-assistant-spills-on-vogue-editors-unusual-coffee-order/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fanthology-fashion-metropolitan-museum-art-147533087.jpg?w%3D660",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T08:01:00.000Z",
+      "publishedAt": "2026-11-04T19:57:21.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -371,19 +371,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d032652217"
+      "eventId": "ev-646146f8a0"
     },
     {
-      "id": "6506c84e47ad149e",
-      "title": "Cher responds to Michael Douglas’ claim Glenn Close deserved her Oscar for ‘Moonstruck’",
+      "id": "0f727fd57e2e1c00",
+      "title": "Kim Kardashian’s latest vintage look is made of metal disks",
       "originalTitle": null,
-      "summary": "Douglas said his “Fatal Attraction” co-star should have taken home the trophy instead.",
-      "url": "https://pagesix.com/2026/11/04/celebrity-news/cher-responds-to-michael-douglas-claim-glenn-close-deserved-her-oscar-for-moonstruck/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F2026-met-gala-celebrating-costume-147495286.jpg?w%3D1024",
+      "summary": "The Paco Rabbane haute couture gown is nearly as old as the Skims founder herself.",
+      "url": "https://pagesix.com/2026/11/04/style/kim-kardashian-wears-vintage-paco-rabanne-couture-gown-on-good-morning-america/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkim-kardashians-latest-vintage-look-147535286.jpg?w%3D564",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T05:58:39.000Z",
+      "publishedAt": "2026-11-04T19:26:10.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,7 +405,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-46345707fc"
+      "eventId": "ev-372ac2b1f4"
     }
   ]
 }
