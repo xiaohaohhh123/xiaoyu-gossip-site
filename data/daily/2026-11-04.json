@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-03T19:42:59.309Z",
+  "generatedAt": "2026-11-04T03:04:35.599Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 260,
-    "afterFilter": 37,
+    "totalCollected": 259,
+    "afterFilter": 40,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -14,10 +14,10 @@
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2120
+        "ms": 6081
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 363
+        "ms": 523
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 385
+        "ms": 821
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 300
+        "ms": 556
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 333
+        "ms": 690
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 530
+        "ms": 979
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 492
+        "ms": 961
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 512
+        "ms": 958
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 639
+        "ms": 1328
       }
     ],
     "ai": {
@@ -108,76 +108,77 @@
     "totalSources": 9
   },
   "mustEat": [
-    "0f073a3778ca7651",
-    "6d9781dc3aaf5369",
+    "203d2563436d8edb",
+    "18078477a227ab36",
     "7944824343bdb914",
-    "9fc26b6dc1ae8cc1"
+    "e94e8b1ae71c337f"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "18078477a227ab36"
+    ],
     "romance": [
-      "6d9781dc3aaf5369",
-      "688065628c64b72c"
+      "a7925c911e7f39bd"
     ],
     "oddity": [
       "7944824343bdb914",
-      "bd63fc51e393422c"
+      "c2d62c70bd089862"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "9fc26b6dc1ae8cc1",
-      "1e99607674e3fc46",
-      "c4472a4e3a76d35d"
+      "e94e8b1ae71c337f",
+      "7b9dc9ed829a0a1f",
+      "60f3a0523ff9f866"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "0f073a3778ca7651",
-      "title": "本人在外地，10年不曾联系不曾见面的同事也是朋友，请自己喝结婚喜酒，该不该参加，或者该不该不参加随礼？",
+      "id": "203d2563436d8edb",
+      "title": "我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
       "originalTitle": null,
-      "summary": "本人在外地，距离5-600公里，这两天一个10年前的同事还有朋友，联系我要回去参加他的婚礼，这10年，从来没有在微信，电话联系过，好像就见过一次面，还是在路上偶遇见的。10年前，我和这哥们一起下班，一起去跑业务，一起吃饭，互相帮助。但是整整10年不再联系，不再往来。如今他结婚，突然联系我，叫我回去参加婚礼，也不问我在哪里，直接叫我回去参加婚礼。\n \n jr们，你们觉得我该不该参加，或者不参加然后随礼，该不该呢？老家那个地方随礼就是2-300。该不该随这个礼呢？\n \n jrs来聊聊。",
-      "url": "https://bbs.hupu.com/643587702.html",
+      "summary": "近日，农业农村部认定第八批重要农业文化遗产，新增88项传统农业系统。至此，我国重要农业文化遗产增加到了276项。它们在中华民族的长期农耕生产实践中逐渐形成，因地制宜守护传承下来，蕴含着深厚的农耕文化思想智慧。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725713.shtml",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-03T19:42:52.313Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-03T23:34:09.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 87,
-      "ruleScore": 87,
-      "eventId": "ev-d396dd7257"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-f469f5a7fc"
     },
     {
-      "id": "6d9781dc3aaf5369",
-      "title": "以前的一个同事，女的，",
+      "id": "18078477a227ab36",
+      "title": "前天万圣节派对认识球友兄弟们给个建议还有后续联系的必要吗",
       "originalTitle": null,
-      "summary": "最近和几个以前的同事喝酒，闲聊中聊到以前的在一个办公室的女孩子。听说她离婚了，还有两个孩子，结婚6年，因为她老公的最近生意不好，赚不到钱了，两个人就经常吵架，就离了，现在都这么现实了吗？6年感情，还有孩子，就因为男孩子赚不到钱了，就离婚了。",
-      "url": "https://bbs.hupu.com/643572448.html",
+      "summary": "照片和本人基本一致会比照片稍微胖一点点打球时对抗激烈会各种自主背身运球但第二天结束后想要小弟给她买礼物（化妆品➕包包）聊天时也时不时会暗示奈何球技确实不错现在比较纠结要不要继续下去",
+      "url": "https://bbs.hupu.com/643604600.html",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-03T19:42:52.313Z",
+      "publishedAt": "2026-11-04T03:04:20.154Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -197,9 +198,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 83,
-      "ruleScore": 83,
-      "eventId": "ev-52bc214455"
+      "score": 77,
+      "ruleScore": 77,
+      "eventId": "ev-7d1e6281af"
     },
     {
       "id": "7944824343bdb914",
@@ -231,157 +232,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 76,
-      "ruleScore": 76,
+      "score": 73,
+      "ruleScore": 73,
       "eventId": "ev-7f2bef0d85"
     },
     {
-      "id": "9fc26b6dc1ae8cc1",
-      "title": "Heidi Klum has surprise run-in with ex-boyfriend while enjoying lunch with look-alike daughter Leni",
+      "id": "e94e8b1ae71c337f",
+      "title": "Pinkies Up for Lara Raj's Birthday Hot Shots!",
       "originalTitle": null,
-      "summary": "Klum and her art dealer ex-boyfriend, Vito Schnabel, ended up at the same restaurant in New York City on Monday.",
-      "url": "https://pagesix.com/2026/11/03/celebrity-news/heidi-klum-has-run-in-with-ex-boyfriend-vito-schnabel-at-lunch-with-daughter-leni/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-new-york-ny-heidi-147329198.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-03T19:25:48.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-3b17d33577"
-    },
-    {
-      "id": "688065628c64b72c",
-      "title": "JRS，我也要离婚了",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643549596.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-03T19:42:52.313Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-1bd1a69dc3"
-    },
-    {
-      "id": "bd63fc51e393422c",
-      "title": "去参观了邻居家的装修，发现他家的蹲厕居然做成了这种嵌入式。好用吗？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643550498.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-03T19:42:52.313Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-f2a7b3c9d0"
-    },
-    {
-      "id": "1e99607674e3fc46",
-      "title": "North West schooled Kim Kardashian on how to dress exactly like her for Halloween",
-      "originalTitle": null,
-      "summary": "The Skims founder revealed that her eldest daughter not only conceived of her costume but also styled it.",
-      "url": "https://pagesix.com/2026/11/03/style/north-west-styled-kim-kardashians-halloween-2026-costume/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkim-kardashian-transforms-13-year-145848165.jpg?w%3D768",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-03T19:23:03.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-ac6b38c3bb"
-    },
-    {
-      "id": "c4472a4e3a76d35d",
-      "title": "Fitness Influencer Goob's Viral Arrest Was Staged for Social Media, Cops Say",
-      "originalTitle": null,
-      "summary": "Fitness influencer Goob is asking for privacy after his supposed arrest ... but there's just one problem ... the whole thing was staged, TMZ has learned.",
-      "url": "https://www.tmz.com/2026/11/03/john-goob-dorsey-arrest-staged/",
+      "summary": "KATSEYE queen Lara Raj just hit a major milestone ... the pop princess has officially turned 21! While she's got her pinky up sipping her first legal drink, we're celebrating by rounding up some of her sexiest snaps.",
+      "url": "https://www.tmz.com/2026/11/03/lara-raj-birthday-hot-pictures/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-03T19:12:31.000Z",
+      "publishedAt": "2026-11-03T21:00:45.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -401,9 +266,145 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-9322f61d23"
+    },
+    {
+      "id": "a7925c911e7f39bd",
+      "title": "高颜值保洁大叔：年轻时相亲被嫌丑",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7702951351181099050/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702951351181099050%22%2C%22hot_board_impr_id%22%3A%2220261104110419B2AD24C8131E4A237610%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E9%A2%9C%E5%80%BC%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%EF%BC%9A%E5%B9%B4%E8%BD%BB%E6%97%B6%E7%9B%B8%E4%BA%B2%E8%A2%AB%E5%AB%8C%E4%B8%91%22%7D&rank=&style_id=40132&topic_id=7702951351181099050",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a9914ead1260483c83d0bd22cf9c7668~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796342400&x-signature=rF8bMHLloS9JaMMTQzPeeuIg79Q%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-04T03:04:19.713Z",
+      "timeBasis": "fetch",
+      "heat": 5477429,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-3dd941549e"
+    },
+    {
+      "id": "c2d62c70bd089862",
+      "title": "红果短剧到底有多离谱",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=5&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-04T03:04:20.012Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-351abd973e"
+    },
+    {
+      "id": "7b9dc9ed829a0a1f",
+      "title": "Hailey Bieber reveals ‘lonely journey’ with health condition following birth of son Jack Blues",
+      "originalTitle": null,
+      "summary": "The model reflected on having the disorder also shared by Lili Reinhart, Zara Larsson and Dixie D'Amelio.",
+      "url": "https://pagesix.com/2026/11/03/parents/hailey-bieber-reveals-lonely-journey-with-health-condition-following-birth-of-son-jack-blues/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-depwfa7j0eh-146991500.jpg?w%3D768",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-04T02:34:21.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-ee95172c33"
+      "eventId": "ev-5bf6f2e984"
+    },
+    {
+      "id": "60f3a0523ff9f866",
+      "title": "Kyle Cooke makes out with pal Carl Radke’s ex Lindsay Hubbard during ‘In the City’ cast trip",
+      "originalTitle": null,
+      "summary": "The group spent Halloween weekend in Cancun, Mexico, where they enjoyed the beach, a performance by the Chainsmokers, a spa day and a Cooke-deejayed pool party.",
+      "url": "https://pagesix.com/2026/11/03/celebrity-news/kyle-cooke-makes-out-with-pal-carl-radkes-ex-lindsay-hubbard-during-in-the-city-cast-trip/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkyle-cooke-inside-page-six-144101653.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-04T02:10:54.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-fa46dfa61b"
     }
   ]
 }
