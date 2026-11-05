@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T12:38:01.743Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-05T20:12:05.076Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 46,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 261,
+    "afterFilter": 30,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 51,
+        "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1715
+        "ms": 1572
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 843
+        "ms": 839
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 738
+        "ms": 697
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 11,
         "error": null,
         "httpStatus": 200,
-        "ms": 514
+        "ms": 341
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 622
+        "ms": 445
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 908
+        "ms": 784
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 915
+        "ms": 802
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 885
+        "ms": 739
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1143
+        "ms": 1579
       }
     ],
     "ai": {
@@ -111,60 +111,27 @@
     "1d659d7b59cf5460",
     "02fc1ada31288111",
     "2a2106afaeb9aac5",
-    "f35f9b33d226ac97"
+    "b9cc36a6a716b7cf"
   ],
   "sections": {
     "life": [
-      "e990f28dd2a067f2"
+      "7e70e94e1f9a6e66"
     ],
     "romance": [],
     "oddity": [
       "02fc1ada31288111",
-      "2a2106afaeb9aac5",
-      "bd63fc51e393422c"
+      "b066efa25d652679",
+      "2a2106afaeb9aac5"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "f35f9b33d226ac97",
-      "1ccd33523708223a",
-      "efb6b1467802fdfe"
+      "b9cc36a6a716b7cf",
+      "7a368c61bdd37361",
+      "5bd8f4ee839cc495"
     ]
   },
-  "events": [
-    {
-      "id": "ev-d995966722",
-      "title": "独生子女不一定能继承父母全部遗产",
-      "sources": [
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-11-05T12:37:55.368Z",
-          "title": "独生子女不一定能继承父母全部遗产",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%222026110520375543B471E9DA907D3F6B9E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-05T12:37:56.216Z",
-          "title": "独生子女不一定能继承父母全部遗产",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "74cfc31424447f9c"
-    }
-  ],
+  "events": [],
   "items": [
     {
       "id": "1d659d7b59cf5460",
@@ -176,7 +143,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T12:37:55.443Z",
+      "publishedAt": "2026-11-05T20:11:58.966Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -210,7 +177,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T12:37:55.443Z",
+      "publishedAt": "2026-11-05T20:11:58.966Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -264,21 +231,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 78,
-      "ruleScore": 78,
+      "score": 75,
+      "ruleScore": 75,
       "eventId": "ev-648d573bba"
     },
     {
-      "id": "f35f9b33d226ac97",
-      "title": "Guess The Country Singer Flashing Her Peach",
+      "id": "b9cc36a6a716b7cf",
+      "title": "Bathtub Babes -- Nicola Peltz Beckham vs. Lea Elui",
       "originalTitle": null,
-      "summary": "Happy Thursday! Can you guess which country star is choosin' to show off her peach on a snowy day?!? This Alabama peach is on top of the world ... from her hit song that has been topping charts for months ...",
-      "url": "https://www.tmz.com/2026/11/05/ella-langley-hot-booty-picture/",
+      "summary": "Scrub a dub dub, who's your leading lady in the tub?!? Actress Nicola Peltz Beckham sprawled out for a sultry snap in the bath, while Lea Elui was surrounded by petals in the tub -- two hotties, one steamy theme -- you d…",
+      "url": "https://www.tmz.com/2026/11/05/nicola-peltz-lea-elui-bathtub-pictures/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T08:30:24.000Z",
+      "publishedAt": "2026-11-05T19:00:29.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -298,56 +265,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-691d54feca"
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-8cb81db781"
     },
     {
-      "id": "e990f28dd2a067f2",
-      "title": "独生子女不一定能继承父母全部遗产",
+      "id": "7e70e94e1f9a6e66",
+      "title": "专盯“一手女房东”！“房产中介”倒卖信息获刑三年半",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7&sa=fyb_news",
+      "summary": "网上公开的房屋租售信息，是否属于个人信息？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726922.shtml",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-05T12:37:56.216Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-05T14:29:29.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
       "score": 62,
       "ruleScore": 62,
-      "eventId": "ev-d995966722"
+      "eventId": "ev-7abd0d2270"
     },
     {
-      "id": "bd63fc51e393422c",
-      "title": "去参观了邻居家的装修，发现他家的蹲厕居然做成了这种嵌入式。好用吗？",
+      "id": "b066efa25d652679",
+      "title": "谈了几个月，女友置顶和别人的酒店照片，想听听大家看法",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643550498.html",
+      "summary": "我和女朋友是今年6月认识的，她是我的高中同学，同时也是我外甥女的英语老师。一开始请她吃饭，本意只是想和孩子老师搞好关系。\n 我们多年没见，那晚吃饭喝酒，喝多之后，她主动邀我去她家，之后发生了关系，没过几天，我们确定了恋爱关系。\n 高中的时候我对她印象一直很好，觉得她踏实实在、大方简单，没什么弯弯绕绕。所以我是带着很深的好感和期待和她相处的，也是真心深情喜欢她，是生理性的心动。可慢慢相处下来才发现，她和我印象里的样子完全不一样。\n 她以前很喜欢发微博，经常分享自己的日常和内心想法。但和我在一起之后，却刻意表现得很冷漠，一副什么都不在乎、什么都不想的样子。",
+      "url": "https://bbs.hupu.com/643666639.html",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-05T12:37:55.443Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T20:11:58.966Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -367,21 +333,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-f2a7b3c9d0"
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-1dbd9a4399"
     },
     {
-      "id": "1ccd33523708223a",
-      "title": "Tatum O’Neal’s son spills on Oscar-winning actress’ ‘drug problem’: Time to ‘let it rip’",
+      "id": "7a368c61bdd37361",
+      "title": "Sofia Richie Grainge’s new Amazon collab is inspired by a ‘mountain chalet getaway’— but it starts at $15",
       "originalTitle": null,
-      "summary": "The 62-year-old \"Paper Moon\" star made headlines in 2020 for a drug overdose, which led to a near-fatal stroke and a six-week coma.",
-      "url": "https://pagesix.com/2026/11/05/celebrity-news/tatum-oneals-son-spills-on-oscar-winning-actress-drug-problem-time-to-let-it-rip/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkevin-mcenroe-2026-147628822.jpg?w%3D819",
+      "summary": "She calls it a “little letter to childhood and all the magic of fall.”",
+      "url": "https://pagesix.com/2026/11/05/style/sofia-richie-grainge-cozy-new-amazon-essentials-collection-starts-at-15/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F147676517.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T12:26:30.000Z",
+      "publishedAt": "2026-11-05T20:11:15.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -403,19 +369,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-bd1f82d37e"
+      "eventId": "ev-56adf135e4"
     },
     {
-      "id": "efb6b1467802fdfe",
-      "title": "Hilary Duff shares ‘gross’ revenge act on friend’s ex who mistreated her friend",
+      "id": "5bd8f4ee839cc495",
+      "title": "‘Mormon Wives’ star Jen Affleck’s estranged husband blindsided by divorce filing — which he learned about on the news",
       "originalTitle": null,
-      "summary": "“My spiciest night is kind of evil and a long time ago, pre-children,” Duff said.",
-      "url": "https://pagesix.com/2026/11/05/celebrity-news/hilary-duff-shares-gross-revenge-act-on-friends-ex-who-mistreated-her-friend/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhilary-duff-shares-gross-revenge-147617427.jpg",
+      "summary": "Jen is currently pregnant with their fourth child.",
+      "url": "https://pagesix.com/2026/11/05/entertainment/mormon-wives-star-jen-afflecks-estranged-husband-blindsided-by-divorce-filing-which-he-learned-about-on-the-news/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhost-stassi-schroeder-reunites-momtok-147664294.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T10:32:18.000Z",
+      "publishedAt": "2026-11-05T19:34:52.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -437,42 +403,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-050c3b3cfa"
-    },
-    {
-      "id": "74cfc31424447f9c",
-      "title": "独生子女不一定能继承父母全部遗产",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%222026110520375543B471E9DA907D3F6B9E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c6389bcc576e420793e9b5f427515de5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796428800&x-signature=2gpdPYCPDI8HbF2UKoXk4%2BrGIj4%3D",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-05T12:37:55.368Z",
-      "timeBasis": "fetch",
-      "heat": 11673538,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-d995966722"
+      "eventId": "ev-d9cefcd163"
     }
   ]
 }

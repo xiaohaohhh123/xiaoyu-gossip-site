@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-05T20:12:05.076Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 261,
+    "afterFilter": 30,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1572
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 839
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 697
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 11,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 341
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 445
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 784
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 802
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 739
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1579
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "1d659d7b59cf5460",
+    "02fc1ada31288111",
+    "2a2106afaeb9aac5",
+    "b9cc36a6a716b7cf"
+  ],
+  "sections": {
+    "life": [
+      "7e70e94e1f9a6e66"
+    ],
+    "romance": [],
+    "oddity": [
+      "02fc1ada31288111",
+      "b066efa25d652679",
+      "2a2106afaeb9aac5"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "b9cc36a6a716b7cf",
+      "7a368c61bdd37361",
+      "5bd8f4ee839cc495"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "1d659d7b59cf5460",
+      "title": "张雪拿远低于均薪的预算去招聘，被批评了还要骂“是不是有病”，就是傲慢！",
+      "originalTitle": null,
+      "summary": "编辑一下，发之前我完全没想到一个以学生或者说年轻人为主的论坛会那么支持资本家，帖子里针对批评张雪低薪的谩骂太多了，我都懒得回了，甚至一度怀疑是不是有人花钱买评论了。另外，说一下我自己是20年本科毕业，不是重大那么好的大学，当时年薪是12，不管是以前还是现在，技术研发这类岗位给985研究生10万都太低了，如果有人觉得合理，觉得双向选择，那就祝福这些人今后都拿到这样合理的薪资吧，研发10-12个，进车间的6-7个，打螺丝的3-4个。\n ——————\n 又编辑了一下，加了几张抖音的截图，真的买评论了吗？",
+      "url": "https://bbs.hupu.com/643654106.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T20:11:58.966Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 90,
+      "ruleScore": 90,
+      "eventId": "ev-6ce5041605"
+    },
+    {
+      "id": "02fc1ada31288111",
+      "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
+      "originalTitle": null,
+      "summary": "最近 张雪 在重庆搞校招，结果因为薪资在网上引起了争议。\n 张雪这次计划招 100 个人左右，七成是研发岗。\n 面向 985 、 211 高校的应届生，研发岗开出的年薪是 12 万到 15 万，非研发岗 10 万到 12 万；普通院校研发岗 10 万到 13 万，非研发岗 9 万到 12 万，加班费另算。\n 交六险一金，有食堂，研发买自家摩托车打半价，实习期免费住双人间宿舍，转正后每个月房租 200 块钱。\n \n 可待遇传到网上， 遭到了不少人的嘲讽 ：“这点钱谁去啊？”“去普通一本问问吧，211硕士谁看得上？”\n 紧接着，《都市现场》 发表评论 ，批评他“别拿十年后的期权宽慰现在的年轻人”， 称其 “透着一种错位的傲慢”。",
+      "url": "https://bbs.hupu.com/643640844.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T20:11:58.966Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 87,
+      "ruleScore": 87,
+      "eventId": "ev-3e9df5a762"
+    },
+    {
+      "id": "2a2106afaeb9aac5",
+      "title": "采暖消费进入旺季 山西省消协提示：防范风险、明白消费、温暖过冬",
+      "originalTitle": null,
+      "summary": "中新网太原11月5日电 (记者 杨杰英)山西已进入冬季供暖期，地暖清洗、壁挂炉维保、电暖器材销售等随之进入旺季，相关消费纠纷也进入多发时段。11月5日，山西省消费者协会发布消费提示，提醒消费者在采暖消费中多留心，做到选得明白、用得放心。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726818.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T11:49:20.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-648d573bba"
+    },
+    {
+      "id": "b9cc36a6a716b7cf",
+      "title": "Bathtub Babes -- Nicola Peltz Beckham vs. Lea Elui",
+      "originalTitle": null,
+      "summary": "Scrub a dub dub, who's your leading lady in the tub?!? Actress Nicola Peltz Beckham sprawled out for a sultry snap in the bath, while Lea Elui was surrounded by petals in the tub -- two hotties, one steamy theme -- you d…",
+      "url": "https://www.tmz.com/2026/11/05/nicola-peltz-lea-elui-bathtub-pictures/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T19:00:29.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-8cb81db781"
+    },
+    {
+      "id": "7e70e94e1f9a6e66",
+      "title": "专盯“一手女房东”！“房产中介”倒卖信息获刑三年半",
+      "originalTitle": null,
+      "summary": "网上公开的房屋租售信息，是否属于个人信息？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726922.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-05T14:29:29.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 62,
+      "ruleScore": 62,
+      "eventId": "ev-7abd0d2270"
+    },
+    {
+      "id": "b066efa25d652679",
+      "title": "谈了几个月，女友置顶和别人的酒店照片，想听听大家看法",
+      "originalTitle": null,
+      "summary": "我和女朋友是今年6月认识的，她是我的高中同学，同时也是我外甥女的英语老师。一开始请她吃饭，本意只是想和孩子老师搞好关系。\n 我们多年没见，那晚吃饭喝酒，喝多之后，她主动邀我去她家，之后发生了关系，没过几天，我们确定了恋爱关系。\n 高中的时候我对她印象一直很好，觉得她踏实实在、大方简单，没什么弯弯绕绕。所以我是带着很深的好感和期待和她相处的，也是真心深情喜欢她，是生理性的心动。可慢慢相处下来才发现，她和我印象里的样子完全不一样。\n 她以前很喜欢发微博，经常分享自己的日常和内心想法。但和我在一起之后，却刻意表现得很冷漠，一副什么都不在乎、什么都不想的样子。",
+      "url": "https://bbs.hupu.com/643666639.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T20:11:58.966Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-1dbd9a4399"
+    },
+    {
+      "id": "7a368c61bdd37361",
+      "title": "Sofia Richie Grainge’s new Amazon collab is inspired by a ‘mountain chalet getaway’— but it starts at $15",
+      "originalTitle": null,
+      "summary": "She calls it a “little letter to childhood and all the magic of fall.”",
+      "url": "https://pagesix.com/2026/11/05/style/sofia-richie-grainge-cozy-new-amazon-essentials-collection-starts-at-15/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F147676517.jpg?quality%3D90%26strip%3Dall",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T20:11:15.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-56adf135e4"
+    },
+    {
+      "id": "5bd8f4ee839cc495",
+      "title": "‘Mormon Wives’ star Jen Affleck’s estranged husband blindsided by divorce filing — which he learned about on the news",
+      "originalTitle": null,
+      "summary": "Jen is currently pregnant with their fourth child.",
+      "url": "https://pagesix.com/2026/11/05/entertainment/mormon-wives-star-jen-afflecks-estranged-husband-blindsided-by-divorce-filing-which-he-learned-about-on-the-news/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhost-stassi-schroeder-reunites-momtok-147664294.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T19:34:52.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-d9cefcd163"
+    }
+  ]
+}
