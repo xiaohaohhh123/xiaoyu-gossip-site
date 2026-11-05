@@ -1,23 +1,23 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-04T19:58:13.835Z",
+  "generatedAt": "2026-11-05T03:35:06.098Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
-    "afterFilter": 43,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 267,
+    "afterFilter": 51,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 51,
+        "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1602
+        "ms": 1606
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 705
+        "ms": 620
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 706
+        "ms": 874
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 432
+        "ms": 724
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 594
+        "ms": 793
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 814
+        "ms": 973
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 902
+        "ms": 958
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 890
+        "ms": 974
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1670
+        "ms": 1535
       }
     ],
     "ai": {
@@ -108,31 +108,103 @@
     "totalSources": 9
   },
   "mustEat": [
+    "02fc1ada31288111",
+    "37471f46bf9504ce",
     "355e1d8dace31c4f",
-    "57602cb3c8372aac"
+    "cf5ca24720bbe8ef"
   ],
   "sections": {
     "life": [
+      "355e1d8dace31c4f",
       "c43b12a080c17ece"
     ],
     "romance": [
-      "1ff053d100084085"
+      "275f782a29061125"
     ],
     "oddity": [
+      "37471f46bf9504ce",
       "bd63fc51e393422c"
     ],
     "twist": [],
     "entertainment": [
-      "b7991269ac6e7ed7"
+      "a794c158ef1f815f"
     ],
     "overseas": [
-      "57602cb3c8372aac",
-      "f12d4658673e7ab5",
-      "0f727fd57e2e1c00"
+      "cf5ca24720bbe8ef",
+      "4f01ba44cf4c9230",
+      "45610478af139ab0"
     ]
   },
   "events": [],
   "items": [
+    {
+      "id": "02fc1ada31288111",
+      "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
+      "originalTitle": null,
+      "summary": "最近 张雪 在重庆搞校招，结果因为薪资在网上引起了争议。\n 张雪这次计划招 100 个人左右，七成是研发岗。\n 面向 985 、 211 高校的应届生，研发岗开出的年薪是 12 万到 15 万，非研发岗 10 万到 12 万；普通院校研发岗 10 万到 13 万，非研发岗 9 万到 12 万，加班费另算。\n 交六险一金，有食堂，研发买自家摩托车打半价，实习期免费住双人间宿舍，转正后每个月房租 200 块钱。\n \n 可待遇传到网上， 遭到了不少人的嘲讽 ：“这点钱谁去啊？”“去普通一本问问吧，211硕士谁看得上？”\n 紧接着，《都市现场》 发表评论 ，批评他“别拿十年后的期权宽慰现在的年轻人”， 称其 “透着一种错位的傲慢”。",
+      "url": "https://bbs.hupu.com/643640844.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T03:34:59.892Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 87,
+      "ruleScore": 87,
+      "eventId": "ev-3e9df5a762"
+    },
+    {
+      "id": "37471f46bf9504ce",
+      "title": "无论走到哪都被精准跟踪，原因竟是它！",
+      "originalTitle": null,
+      "summary": "近日，一则不法分子利用技术手段精准定位他人的新闻，再次敲响了网络安全警钟。陈某与周某存在债务纠纷。陈某发现，周某总能掌握他的行踪，即便他外出出差，对方也能精准获知其位置，并持续向他催讨欠款。陈某工作生活受到严重影响，不堪其扰之下，他选择了报警求助。警方调查发现，周某在“极速定位”非法网站付费注册后，把定位页面包装成小程序链接发送给陈某。陈某点击允许获取位置后，周某通过后台即可精准获取陈某的位置信息。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726369.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-04T23:59:13.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-1f0da16080"
+    },
     {
       "id": "355e1d8dace31c4f",
       "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
@@ -163,33 +235,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 78,
-      "ruleScore": 78,
+      "score": 76,
+      "ruleScore": 76,
       "eventId": "ev-373d701cf8"
     },
     {
-      "id": "57602cb3c8372aac",
-      "title": "Alessandra Ambrosio Hits Bali In Thong Bikini",
+      "id": "cf5ca24720bbe8ef",
+      "title": "Chrishell Stause breaks cover for first time since ‘fed up’ partner G Flip called things off",
       "originalTitle": null,
-      "summary": "When in Bali, do as Alessandra Ambrosio does ... immerse yourself in the lush tropical landscape, sip on a fresh coconut, and strut your stuff in a thong bikini like it's your day job!",
-      "url": "https://www.tmz.com/2026/11/04/alessandra-ambrosio-in-thong-bikini/",
-      "image": "",
+      "summary": "Stause and G Flip announced their split in October.",
+      "url": "https://pagesix.com/2026/11/04/celebrity-news/chrishell-stause-spotted-in-los-angeles-after-g-flip-split/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-los-angeles-ca-web-147555343.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T19:00:30.000Z",
+      "publishedAt": "2026-11-05T03:09:59.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -197,9 +269,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-8ce3fdbb86"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-4d663f73dc"
     },
     {
       "id": "c43b12a080c17ece",
@@ -211,7 +283,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-04T19:58:07.124Z",
+      "publishedAt": "2026-11-05T03:34:59.892Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -236,26 +308,26 @@
       "eventId": "ev-9e53039e77"
     },
     {
-      "id": "1ff053d100084085",
-      "title": "男子求复合失败醉驾撞护栏还逃逸",
+      "id": "275f782a29061125",
+      "title": "厉娜三个前任都防着许飞",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%B1%82%E5%A4%8D%E5%90%88%E5%A4%B1%E8%B4%A5%E9%86%89%E9%A9%BE%E6%92%9E%E6%8A%A4%E6%A0%8F%E8%BF%98%E9%80%83%E9%80%B8&sa=fyb_news",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E4%B8%89%E4%B8%AA%E5%89%8D%E4%BB%BB%E9%83%BD%E9%98%B2%E7%9D%80%E8%AE%B8%E9%A3%9E%23&t=31&band_rank=13&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-04T19:58:07.775Z",
+      "publishedAt": "2026-11-05T03:34:59.804Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,9 +337,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-aece71a915"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-4736e1cd02"
     },
     {
       "id": "bd63fc51e393422c",
@@ -279,7 +351,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-04T19:58:07.124Z",
+      "publishedAt": "2026-11-05T03:34:59.892Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -304,52 +376,50 @@
       "eventId": "ev-f2a7b3c9d0"
     },
     {
-      "id": "b7991269ac6e7ed7",
-      "title": "气象部门回应iPhone天气应用出现多地-32℃异常数据（2026·11·04）",
+      "id": "a794c158ef1f815f",
+      "title": "江西女孩香港看演唱会取消低保后续：家属发声 旧事被扒，官方回应",
       "originalTitle": null,
-      "summary": "辟 谣 多地-32℃，一天内温差近50℃？实为iPhone数据异常，气象部门权威回应",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726161.shtml",
+      "summary": "江西女孩香港看演唱会取消低保后续：家属发声 旧事被扒，官方回应 \n \n 网络平台流传的一则社会事件，把低保制度的现实争议重新推到大众面前。\n 网传江西赣州一名中专在读的女生，利用个人积攒下来的资金前往香港观看演唱会，后续传出全家低保资格遭到取消的消息。\n \n \n 消息一出瞬间引起网友热议，有人骂女孩不懂事，拿全家唯一的经济来源，换一场演唱会。\n \n 也有人替女孩喊冤：难道贫困生连追星的权利都没吗？\n \n \n 根据网络流传的家属爆料信息，涉事女生属于低保共同生活家庭成员，家庭依靠低保补助维持基本生活开支，每月低保补助合计大约两千元。\n \n 是这个家庭重要的收入来源。\n \n \n 而女生的出行资金，主要来源于暑假打零工的劳动报酬。",
+      "url": "https://bbs.hupu.com/643605033.html",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T11:16:43.000Z",
-      "timeBasis": "source",
+      "publishedAt": "2026-11-05T03:34:59.892Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "douyin"
+          "hupu"
         ],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
       "reversal": false,
       "translated": false,
-      "score": 22,
-      "ruleScore": 22,
-      "eventId": "ev-a15a1488f6"
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-73e292ddc7"
     },
     {
-      "id": "f12d4658673e7ab5",
-      "title": "Anna Wintour used to drink a coffee milkshake every afternoon, says her former assistant",
+      "id": "4f01ba44cf4c9230",
+      "title": "‘Breaking Bad’ star Dean Norris’ secret divorce revealed amid $1M bankruptcy filing",
       "originalTitle": null,
-      "summary": "The fashion editor’s onetime right hand also explained how Beyoncé ended up on her first Vogue cover purely by chance.",
-      "url": "https://pagesix.com/2026/11/04/style/anna-wintours-former-assistant-spills-on-vogue-editors-unusual-coffee-order/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fanthology-fashion-metropolitan-museum-art-147533087.jpg?w%3D660",
+      "summary": "The actor and the former entertainment lawyer have been married for over 20 years and share five children together.",
+      "url": "https://pagesix.com/2026/11/04/celebrity-news/breaking-bad-star-dean-norris-secret-divorce-revealed-amid-1m-bankruptcy-filing/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fitaly-no-italy-sales-14-147577059.jpg?w%3D681",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T19:57:21.000Z",
+      "publishedAt": "2026-11-05T02:23:27.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -371,31 +441,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-646146f8a0"
+      "eventId": "ev-97966ac5ac"
     },
     {
-      "id": "0f727fd57e2e1c00",
-      "title": "Kim Kardashian’s latest vintage look is made of metal disks",
+      "id": "45610478af139ab0",
+      "title": "Kim Kardashian and Jennifer Lawrence Wear Matching Pajamas During NYC Outing",
       "originalTitle": null,
-      "summary": "The Paco Rabbane haute couture gown is nearly as old as the Skims founder herself.",
-      "url": "https://pagesix.com/2026/11/04/style/kim-kardashian-wears-vintage-paco-rabanne-couture-gown-on-good-morning-america/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkim-kardashians-latest-vintage-look-147535286.jpg?w%3D564",
+      "summary": "Kim Kardashian and Jennifer Lawrence are taking their friendship to a whole new level ... and apparently, that includes coordinating their bedtime looks!",
+      "url": "https://www.tmz.com/2026/11/04/kim-kardashian-and-jennifer-lawrence-wear-matching-pajamas-during-nyc-outing/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T19:26:10.000Z",
+      "publishedAt": "2026-11-05T03:30:42.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -405,7 +475,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-372ac2b1f4"
+      "eventId": "ev-a36c27fe55"
     }
   ]
 }
