@@ -1,23 +1,23 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T03:35:06.098Z",
+  "generatedAt": "2026-11-05T12:38:01.743Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 267,
-    "afterFilter": 51,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 268,
+    "afterFilter": 46,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1606
+        "ms": 1715
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 620
+        "ms": 843
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 874
+        "ms": 738
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 724
+        "ms": 514
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 793
+        "ms": 622
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 973
+        "ms": 908
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 958
+        "ms": 915
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 974
+        "ms": 885
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1535
+        "ms": 1143
       }
     ],
     "ai": {
@@ -108,35 +108,98 @@
     "totalSources": 9
   },
   "mustEat": [
+    "1d659d7b59cf5460",
     "02fc1ada31288111",
-    "37471f46bf9504ce",
-    "355e1d8dace31c4f",
-    "cf5ca24720bbe8ef"
+    "2a2106afaeb9aac5",
+    "f35f9b33d226ac97"
   ],
   "sections": {
     "life": [
-      "355e1d8dace31c4f",
-      "c43b12a080c17ece"
+      "e990f28dd2a067f2"
     ],
-    "romance": [
-      "275f782a29061125"
-    ],
+    "romance": [],
     "oddity": [
-      "37471f46bf9504ce",
+      "02fc1ada31288111",
+      "2a2106afaeb9aac5",
       "bd63fc51e393422c"
     ],
     "twist": [],
-    "entertainment": [
-      "a794c158ef1f815f"
-    ],
+    "entertainment": [],
     "overseas": [
-      "cf5ca24720bbe8ef",
-      "4f01ba44cf4c9230",
-      "45610478af139ab0"
+      "f35f9b33d226ac97",
+      "1ccd33523708223a",
+      "efb6b1467802fdfe"
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "id": "ev-d995966722",
+      "title": "独生子女不一定能继承父母全部遗产",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-11-05T12:37:55.368Z",
+          "title": "独生子女不一定能继承父母全部遗产",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%222026110520375543B471E9DA907D3F6B9E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-11-05T12:37:56.216Z",
+          "title": "独生子女不一定能继承父母全部遗产",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "74cfc31424447f9c"
+    }
+  ],
   "items": [
+    {
+      "id": "1d659d7b59cf5460",
+      "title": "张雪拿远低于均薪的预算去招聘，被批评了还要骂“是不是有病”，就是傲慢！",
+      "originalTitle": null,
+      "summary": "编辑一下，发之前我完全没想到一个以学生或者说年轻人为主的论坛会那么支持资本家，帖子里针对批评张雪低薪的谩骂太多了，我都懒得回了，甚至一度怀疑是不是有人花钱买评论了。另外，说一下我自己是20年本科毕业，不是重大那么好的大学，当时年薪是12，不管是以前还是现在，技术研发这类岗位给985研究生10万都太低了，如果有人觉得合理，觉得双向选择，那就祝福这些人今后都拿到这样合理的薪资吧，研发10-12个，进车间的6-7个，打螺丝的3-4个。\n ——————\n 又编辑了一下，加了几张抖音的截图，真的买评论了吗？",
+      "url": "https://bbs.hupu.com/643654106.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-05T12:37:55.443Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 90,
+      "ruleScore": 90,
+      "eventId": "ev-6ce5041605"
+    },
     {
       "id": "02fc1ada31288111",
       "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
@@ -147,7 +210,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T03:34:59.892Z",
+      "publishedAt": "2026-11-05T12:37:55.443Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -172,16 +235,16 @@
       "eventId": "ev-3e9df5a762"
     },
     {
-      "id": "37471f46bf9504ce",
-      "title": "无论走到哪都被精准跟踪，原因竟是它！",
+      "id": "2a2106afaeb9aac5",
+      "title": "采暖消费进入旺季 山西省消协提示：防范风险、明白消费、温暖过冬",
       "originalTitle": null,
-      "summary": "近日，一则不法分子利用技术手段精准定位他人的新闻，再次敲响了网络安全警钟。陈某与周某存在债务纠纷。陈某发现，周某总能掌握他的行踪，即便他外出出差，对方也能精准获知其位置，并持续向他催讨欠款。陈某工作生活受到严重影响，不堪其扰之下，他选择了报警求助。警方调查发现，周某在“极速定位”非法网站付费注册后，把定位页面包装成小程序链接发送给陈某。陈某点击允许获取位置后，周某通过后台即可精准获取陈某的位置信息。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726369.shtml",
+      "summary": "中新网太原11月5日电 (记者 杨杰英)山西已进入冬季供暖期，地暖清洗、壁挂炉维保、电暖器材销售等随之进入旺季，相关消费纠纷也进入多发时段。11月5日，山西省消费者协会发布消费提示，提醒消费者在采暖消费中多留心，做到选得明白、用得放心。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726818.shtml",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-04T23:59:13.000Z",
+      "publishedAt": "2026-11-05T11:49:20.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -201,67 +264,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 83,
-      "ruleScore": 83,
-      "eventId": "ev-1f0da16080"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-648d573bba"
     },
     {
-      "id": "355e1d8dace31c4f",
-      "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
+      "id": "f35f9b33d226ac97",
+      "title": "Guess The Country Singer Flashing Her Peach",
       "originalTitle": null,
-      "summary": "物业是住宅小区消防管理的前哨，依法落实小区电动自行车消防安全管理，既是物业履行消防安全职责的应有之举，也是保障全体业主居住安全的关键环节。然而近期，多地消防部门在检查中发现，一些小区物业对电动自行车停放管理存在不作为等情况。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
+      "summary": "Happy Thursday! Can you guess which country star is choosin' to show off her peach on a snowy day?!? This Alabama peach is on top of the world ... from her hit song that has been topping charts for months ...",
+      "url": "https://www.tmz.com/2026/11/05/ella-langley-hot-booty-picture/",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-04T15:18:45.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-373d701cf8"
-    },
-    {
-      "id": "cf5ca24720bbe8ef",
-      "title": "Chrishell Stause breaks cover for first time since ‘fed up’ partner G Flip called things off",
-      "originalTitle": null,
-      "summary": "Stause and G Flip announced their split in October.",
-      "url": "https://pagesix.com/2026/11/04/celebrity-news/chrishell-stause-spotted-in-los-angeles-after-g-flip-split/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-los-angeles-ca-web-147555343.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T03:09:59.000Z",
+      "publishedAt": "2026-11-05T08:30:24.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -269,31 +298,32 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-4d663f73dc"
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-691d54feca"
     },
     {
-      "id": "c43b12a080c17ece",
-      "title": "笑不活了 邻居都是人才电梯里看到的 ​​​",
+      "id": "e990f28dd2a067f2",
+      "title": "独生子女不一定能继承父母全部遗产",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643609957.html",
+      "url": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7&sa=fyb_news",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-05T03:34:59.892Z",
+      "publishedAt": "2026-11-05T12:37:56.216Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
-        "platformCount": 1,
+        "platformCount": 2,
         "platformSources": [
-          "hupu"
+          "toutiao",
+          "baidu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -303,43 +333,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-9e53039e77"
-    },
-    {
-      "id": "275f782a29061125",
-      "title": "厉娜三个前任都防着许飞",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E4%B8%89%E4%B8%AA%E5%89%8D%E4%BB%BB%E9%83%BD%E9%98%B2%E7%9D%80%E8%AE%B8%E9%A3%9E%23&t=31&band_rank=13&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-05T03:34:59.804Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-4736e1cd02"
+      "score": 62,
+      "ruleScore": 62,
+      "eventId": "ev-d995966722"
     },
     {
       "id": "bd63fc51e393422c",
@@ -351,7 +347,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-05T03:34:59.892Z",
+      "publishedAt": "2026-11-05T12:37:55.443Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -376,50 +372,16 @@
       "eventId": "ev-f2a7b3c9d0"
     },
     {
-      "id": "a794c158ef1f815f",
-      "title": "江西女孩香港看演唱会取消低保后续：家属发声 旧事被扒，官方回应",
+      "id": "1ccd33523708223a",
+      "title": "Tatum O’Neal’s son spills on Oscar-winning actress’ ‘drug problem’: Time to ‘let it rip’",
       "originalTitle": null,
-      "summary": "江西女孩香港看演唱会取消低保后续：家属发声 旧事被扒，官方回应 \n \n 网络平台流传的一则社会事件，把低保制度的现实争议重新推到大众面前。\n 网传江西赣州一名中专在读的女生，利用个人积攒下来的资金前往香港观看演唱会，后续传出全家低保资格遭到取消的消息。\n \n \n 消息一出瞬间引起网友热议，有人骂女孩不懂事，拿全家唯一的经济来源，换一场演唱会。\n \n 也有人替女孩喊冤：难道贫困生连追星的权利都没吗？\n \n \n 根据网络流传的家属爆料信息，涉事女生属于低保共同生活家庭成员，家庭依靠低保补助维持基本生活开支，每月低保补助合计大约两千元。\n \n 是这个家庭重要的收入来源。\n \n \n 而女生的出行资金，主要来源于暑假打零工的劳动报酬。",
-      "url": "https://bbs.hupu.com/643605033.html",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-05T03:34:59.892Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 39,
-      "ruleScore": 39,
-      "eventId": "ev-73e292ddc7"
-    },
-    {
-      "id": "4f01ba44cf4c9230",
-      "title": "‘Breaking Bad’ star Dean Norris’ secret divorce revealed amid $1M bankruptcy filing",
-      "originalTitle": null,
-      "summary": "The actor and the former entertainment lawyer have been married for over 20 years and share five children together.",
-      "url": "https://pagesix.com/2026/11/04/celebrity-news/breaking-bad-star-dean-norris-secret-divorce-revealed-amid-1m-bankruptcy-filing/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fitaly-no-italy-sales-14-147577059.jpg?w%3D681",
+      "summary": "The 62-year-old \"Paper Moon\" star made headlines in 2020 for a drug overdose, which led to a near-fatal stroke and a six-week coma.",
+      "url": "https://pagesix.com/2026/11/05/celebrity-news/tatum-oneals-son-spills-on-oscar-winning-actress-drug-problem-time-to-let-it-rip/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkevin-mcenroe-2026-147628822.jpg?w%3D819",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T02:23:27.000Z",
+      "publishedAt": "2026-11-05T12:26:30.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -441,31 +403,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-97966ac5ac"
+      "eventId": "ev-bd1f82d37e"
     },
     {
-      "id": "45610478af139ab0",
-      "title": "Kim Kardashian and Jennifer Lawrence Wear Matching Pajamas During NYC Outing",
+      "id": "efb6b1467802fdfe",
+      "title": "Hilary Duff shares ‘gross’ revenge act on friend’s ex who mistreated her friend",
       "originalTitle": null,
-      "summary": "Kim Kardashian and Jennifer Lawrence are taking their friendship to a whole new level ... and apparently, that includes coordinating their bedtime looks!",
-      "url": "https://www.tmz.com/2026/11/04/kim-kardashian-and-jennifer-lawrence-wear-matching-pajamas-during-nyc-outing/",
-      "image": "",
+      "summary": "“My spiciest night is kind of evil and a long time ago, pre-children,” Duff said.",
+      "url": "https://pagesix.com/2026/11/05/celebrity-news/hilary-duff-shares-gross-revenge-act-on-friends-ex-who-mistreated-her-friend/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhilary-duff-shares-gross-revenge-147617427.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T03:30:42.000Z",
+      "publishedAt": "2026-11-05T10:32:18.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -475,7 +437,42 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-a36c27fe55"
+      "eventId": "ev-050c3b3cfa"
+    },
+    {
+      "id": "74cfc31424447f9c",
+      "title": "独生子女不一定能继承父母全部遗产",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%222026110520375543B471E9DA907D3F6B9E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c6389bcc576e420793e9b5f427515de5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796428800&x-signature=2gpdPYCPDI8HbF2UKoXk4%2BrGIj4%3D",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-05T12:37:55.368Z",
+      "timeBasis": "fetch",
+      "heat": 11673538,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 62,
+      "ruleScore": 62,
+      "eventId": "ev-d995966722"
     }
   ]
 }
