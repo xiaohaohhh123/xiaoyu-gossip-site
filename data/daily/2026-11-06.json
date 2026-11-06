@@ -1,13 +1,13 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T03:29:45.731Z",
+  "generatedAt": "2026-11-06T12:20:44.665Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 257,
-    "afterFilter": 45,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 263,
+    "afterFilter": 41,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1272
+        "ms": 1623
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 936
+        "ms": 761
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 852
+        "ms": 846
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 618
+        "ms": 274
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 689
+        "ms": 396
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 927
+        "ms": 1134
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 851
+        "ms": 849
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 764
+        "ms": 840
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1171
+        "ms": 1115
       }
     ],
     "ai": {
@@ -108,46 +108,76 @@
     "totalSources": 9
   },
   "mustEat": [
+    "dceca015ebcaa20e",
     "1d659d7b59cf5460",
     "02fc1ada31288111",
-    "3dafaa5ecf16ac14",
-    "023bd1f487d91ab1"
+    "191e374dffa30a46"
   ],
   "sections": {
-    "life": [
-      "3dafaa5ecf16ac14",
-      "74cfc31424447f9c"
-    ],
+    "life": [],
     "romance": [
-      "6b967e6bb4a2b844"
+      "c51ed7e09ea2fa82"
     ],
     "oddity": [
+      "1d659d7b59cf5460",
       "02fc1ada31288111",
-      "e109a0f36f65725f"
+      "8b64cfcabca55470"
     ],
     "twist": [],
-    "entertainment": [
-      "ebbe1526090f1b95"
-    ],
+    "entertainment": [],
     "overseas": [
-      "023bd1f487d91ab1",
-      "438b0f35dd9a227f",
-      "3d32a865f5471d80"
+      "191e374dffa30a46",
+      "56eebd556ad0858d",
+      "438b0f35dd9a227f"
     ]
   },
   "events": [],
   "items": [
     {
+      "id": "dceca015ebcaa20e",
+      "title": "火烧靖国神社的刘强，回国后被单位开除，妻子离婚，如今怎样了？",
+      "originalTitle": null,
+      "summary": "2026 年的短视频深夜场，总有个五十多岁的男人准时开播。\n 不带货，不打 PK，面前摆一杯凉掉的茶，慢悠悠聊几句抗战往事，偶尔哼两首老歌。直播间人数不多，评论区永远吵成两半。一半刷 “致敬英雄”，一半骂 “冲动莽夫”。\n \n \n 他的账号换了一个又一个，主页简介永远是同一句话：我就是烧了靖国神社的刘强。\n 很少有人真的捋明白，这十五年他到底走了一条怎样的路。那把燃在东京深夜的火，是一时上头的莽撞，还是压了三代人的执念？\n \n \n 那不是一时上头，是三代人压不住的火 \n 很多人觉得他是一时热血冲昏头的愤青。根本不是。 事发前他是广州的外语老师，精通英、日、西三门语言，手握心理咨询师资质，收入稳定，家庭和睦，是旁人眼里标准的中产。",
+      "url": "https://bbs.hupu.com/643682643.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T12:20:36.850Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-3e8e1f4934"
+    },
+    {
       "id": "1d659d7b59cf5460",
       "title": "张雪拿远低于均薪的预算去招聘，被批评了还要骂“是不是有病”，就是傲慢！",
       "originalTitle": null,
-      "summary": "编辑一下，发之前我完全没想到一个以学生或者说年轻人为主的论坛会那么支持资本家，帖子里针对批评张雪低薪的谩骂太多了，我都懒得回了，甚至一度怀疑是不是有人花钱买评论了。另外，说一下我自己是20年本科毕业，不是重大那么好的大学，当时年薪是12，不管是以前还是现在，技术研发这类岗位给985研究生10万都太低了，如果有人觉得合理，觉得双向选择，那就祝福这些人今后都拿到这样合理的薪资吧，研发10-12个，进车间的6-7个，打螺丝的3-4个。\n ——————\n 又编辑了一下，加了几张抖音的截图，真的买评论了吗？",
+      "summary": "★编辑一下，发之前我完全没想到一个以学生或者说年轻人为主的论坛会那么支持资本家，帖子里针对批评张雪低薪的谩骂太多了，我都懒得回了，甚至一度怀疑是不是有人花钱买评论了。另外，说一下我自己是20年本科毕业，不是重大那么好的大学，当时年薪是12，不管是以前还是现在，技术研发这类岗位给985研究生10万都太低了，如果有人觉得合理，觉得双向选择，那就祝福这些人今后都拿到这样合理的薪资吧，研发10-12个，进车间的6-7个，打螺丝的3-4个。\n ——————\n ★★又编辑了一下，加了几张抖音的截图，真的买评论了吗？",
       "url": "https://bbs.hupu.com/643654106.html",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T03:29:40.140Z",
+      "publishedAt": "2026-11-06T12:20:36.850Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -181,7 +211,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T03:29:40.140Z",
+      "publishedAt": "2026-11-06T12:20:36.850Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -206,50 +236,16 @@
       "eventId": "ev-3e9df5a762"
     },
     {
-      "id": "3dafaa5ecf16ac14",
-      "title": "公共资源不可以随便倒卖 “房产中介”收集房东信息出售获刑",
+      "id": "191e374dffa30a46",
+      "title": "'Carrie' 'Memba Her?!",
       "originalTitle": null,
-      "summary": "网上公开的房屋租售信息，是否属于个人信息？有针对性地收集后倒卖赚钱，算不算违法？不少人觉得“公开的就不算个人信息”，但是，李女士正是因为这样的个人信息倒卖行为，被境外犯罪分子诈骗巨款，而把她的信息转卖的人正是打着“房产中介”幌子的刘某。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726997.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-05T23:51:24.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 60,
-      "ruleScore": 60,
-      "eventId": "ev-b01cae3676"
-    },
-    {
-      "id": "023bd1f487d91ab1",
-      "title": "Guess The Brazilian Babe Showin' Off Her Coconuts!",
-      "originalTitle": null,
-      "summary": "Your Thirsty Thursday treat is here ... can you guess the babe from Brazil showcasing her coconuts?!? TikTok is her claim to fame ... she is most recognized for her dance videos, beauty, and fashion content ...",
-      "url": "https://www.tmz.com/2026/11/05/guess-the-brazilian-babe/",
+      "summary": "American actress and singer Sissy Spacek was in her mid-20s when she played Carrie -- the shy high school girl with telekinetic powers -- in the 1976 horror/mystery film \"Carrie.\" Joining Sissy on set were John Travolta…",
+      "url": "https://www.tmz.com/2026/11/06/sissy-spacek-in-carrie-movie/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T21:00:33.000Z",
+      "publishedAt": "2026-11-06T08:01:59.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -269,55 +265,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-a6f31cb4cb"
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-2ef723be65"
     },
     {
-      "id": "74cfc31424447f9c",
-      "title": "独生子女不一定能继承父母全部遗产",
+      "id": "c51ed7e09ea2fa82",
+      "title": "许飞只去了厉娜分手那年的超女聚会",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%22202611061129392487D1353316BA63550C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c6389bcc576e420793e9b5f427515de5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796515200&x-signature=V6%2FRNRsEd%2BcRqM%2B0YDO68HxS8cM%3D",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-06T03:29:40.219Z",
-      "timeBasis": "fetch",
-      "heat": 2698450,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-d46fa5ec8d"
-    },
-    {
-      "id": "6b967e6bb4a2b844",
-      "title": "结婚两周年精心打扮却淋雨",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%B2%BE%E5%BF%83%E6%89%93%E6%89%AE%E5%8D%B4%E6%B7%8B%E9%9B%A8&t=31&band_rank=29&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8F%AA%E5%8E%BB%E4%BA%86%E5%8E%89%E5%A8%9C%E5%88%86%E6%89%8B%E9%82%A3%E5%B9%B4%E7%9A%84%E8%B6%85%E5%A5%B3%E8%81%9A%E4%BC%9A&t=31&band_rank=15&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-06T03:29:40.136Z",
+      "publishedAt": "2026-11-06T12:20:36.843Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -339,19 +301,19 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-a913872ba2"
+      "eventId": "ev-ef6ddddf72"
     },
     {
-      "id": "e109a0f36f65725f",
-      "title": "4岁女童患罕见病皮肤一碰就破",
+      "id": "8b64cfcabca55470",
+      "title": "警方通报孙某军因情感纠纷行凶",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%82%A3%E7%BD%95%E8%A7%81%E7%97%85%E7%9A%AE%E8%82%A4%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A0%B4%23&t=31&band_rank=7&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "category": "oddity",
-      "topicClass": "oddity",
+      "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-06T03:29:40.136Z",
+      "publishedAt": "2026-11-06T12:20:36.843Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -371,43 +333,43 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-655a56760f"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-e7426fa36f"
     },
     {
-      "id": "ebbe1526090f1b95",
-      "title": "2026全国医保影像AI识图大赛颁奖大会在南宁举行",
+      "id": "56eebd556ad0858d",
+      "title": "Carson Daly lifts the lid on ‘Today’ show cast’s wild nights out: ‘We have a good time’",
       "originalTitle": null,
-      "summary": "中新网南宁11月6日电(蒋雪林 黄艳梅 俞靖)以“慧眼识图 影领未来”为主题的2026全国医保影像AI识图大赛颁奖大会5日在广西南宁举行。这是中国首个国家级“AI+医学影像识别”专业赛事，共吸引海内外1332支队伍展开角逐。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727142.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
+      "summary": "He shared the tales during an exclusive interview with Page Six on Thursday.",
+      "url": "https://pagesix.com/2026/11/06/entertainment/carson-daly-lifts-the-lid-on-today-show-casts-wild-nights-out-we-have-a-good-time/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcarson-daly-laura-jarrett-interview-147675238.jpg?w%3D722",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T03:19:21.000Z",
+      "publishedAt": "2026-11-06T12:03:38.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "chinanews.com.cn"
+          "pagesix.com"
         ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
       "translated": false,
-      "score": 30,
-      "ruleScore": 30,
-      "eventId": "ev-fa0537f2e4"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-c1ae766d06"
     },
     {
       "id": "438b0f35dd9a227f",
@@ -442,40 +404,6 @@
       "score": 1,
       "ruleScore": 1,
       "eventId": "ev-1aa0926a6d"
-    },
-    {
-      "id": "3d32a865f5471d80",
-      "title": "Soap legend Morgan Fairchild, 76, joins OnlyFans to ‘share more’ with longtime supporters",
-      "originalTitle": null,
-      "summary": "The actress rose to fame on TV's \"Falcon Crest\" in the 1980s.",
-      "url": "https://pagesix.com/2026/11/05/celebrity-news/morgan-fairchild-76-joins-onlyfans/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmorgan-fairchild-seen-heading-2020-147708586.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-06T02:53:50.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-86728e247a"
     }
   ]
 }
