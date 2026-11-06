@@ -1,23 +1,23 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-05T20:12:05.076Z",
+  "generatedAt": "2026-11-06T03:29:45.731Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 261,
-    "afterFilter": 30,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 257,
+    "afterFilter": 45,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1572
+        "ms": 1272
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 839
+        "ms": 936
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 697
+        "ms": 852
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 11,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 341
+        "ms": 618
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 445
+        "ms": 689
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 784
+        "ms": 927
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 802
+        "ms": 851
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 739
+        "ms": 764
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1579
+        "ms": 1171
       }
     ],
     "ai": {
@@ -110,25 +110,29 @@
   "mustEat": [
     "1d659d7b59cf5460",
     "02fc1ada31288111",
-    "2a2106afaeb9aac5",
-    "b9cc36a6a716b7cf"
+    "3dafaa5ecf16ac14",
+    "023bd1f487d91ab1"
   ],
   "sections": {
     "life": [
-      "7e70e94e1f9a6e66"
+      "3dafaa5ecf16ac14",
+      "74cfc31424447f9c"
     ],
-    "romance": [],
+    "romance": [
+      "6b967e6bb4a2b844"
+    ],
     "oddity": [
       "02fc1ada31288111",
-      "b066efa25d652679",
-      "2a2106afaeb9aac5"
+      "e109a0f36f65725f"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "ebbe1526090f1b95"
+    ],
     "overseas": [
-      "b9cc36a6a716b7cf",
-      "7a368c61bdd37361",
-      "5bd8f4ee839cc495"
+      "023bd1f487d91ab1",
+      "438b0f35dd9a227f",
+      "3d32a865f5471d80"
     ]
   },
   "events": [],
@@ -143,7 +147,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T20:11:58.966Z",
+      "publishedAt": "2026-11-06T03:29:40.140Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -177,7 +181,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T20:11:58.966Z",
+      "publishedAt": "2026-11-06T03:29:40.140Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -202,16 +206,16 @@
       "eventId": "ev-3e9df5a762"
     },
     {
-      "id": "2a2106afaeb9aac5",
-      "title": "采暖消费进入旺季 山西省消协提示：防范风险、明白消费、温暖过冬",
+      "id": "3dafaa5ecf16ac14",
+      "title": "公共资源不可以随便倒卖 “房产中介”收集房东信息出售获刑",
       "originalTitle": null,
-      "summary": "中新网太原11月5日电 (记者 杨杰英)山西已进入冬季供暖期，地暖清洗、壁挂炉维保、电暖器材销售等随之进入旺季，相关消费纠纷也进入多发时段。11月5日，山西省消费者协会发布消费提示，提醒消费者在采暖消费中多留心，做到选得明白、用得放心。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726818.shtml",
+      "summary": "网上公开的房屋租售信息，是否属于个人信息？有针对性地收集后倒卖赚钱，算不算违法？不少人觉得“公开的就不算个人信息”，但是，李女士正是因为这样的个人信息倒卖行为，被境外犯罪分子诈骗巨款，而把她的信息转卖的人正是打着“房产中介”幌子的刘某。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726997.shtml",
       "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T11:49:20.000Z",
+      "publishedAt": "2026-11-05T23:51:24.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -231,21 +235,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 75,
-      "ruleScore": 75,
-      "eventId": "ev-648d573bba"
+      "score": 60,
+      "ruleScore": 60,
+      "eventId": "ev-b01cae3676"
     },
     {
-      "id": "b9cc36a6a716b7cf",
-      "title": "Bathtub Babes -- Nicola Peltz Beckham vs. Lea Elui",
+      "id": "023bd1f487d91ab1",
+      "title": "Guess The Brazilian Babe Showin' Off Her Coconuts!",
       "originalTitle": null,
-      "summary": "Scrub a dub dub, who's your leading lady in the tub?!? Actress Nicola Peltz Beckham sprawled out for a sultry snap in the bath, while Lea Elui was surrounded by petals in the tub -- two hotties, one steamy theme -- you d…",
-      "url": "https://www.tmz.com/2026/11/05/nicola-peltz-lea-elui-bathtub-pictures/",
+      "summary": "Your Thirsty Thursday treat is here ... can you guess the babe from Brazil showcasing her coconuts?!? TikTok is her claim to fame ... she is most recognized for her dance videos, beauty, and fashion content ...",
+      "url": "https://www.tmz.com/2026/11/05/guess-the-brazilian-babe/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T19:00:29.000Z",
+      "publishedAt": "2026-11-05T21:00:33.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -265,21 +269,123 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 4,
-      "ruleScore": 4,
-      "eventId": "ev-8cb81db781"
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-a6f31cb4cb"
     },
     {
-      "id": "7e70e94e1f9a6e66",
-      "title": "专盯“一手女房东”！“房产中介”倒卖信息获刑三年半",
+      "id": "74cfc31424447f9c",
+      "title": "独生子女不一定能继承父母全部遗产",
       "originalTitle": null,
-      "summary": "网上公开的房屋租售信息，是否属于个人信息？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726922.shtml",
-      "image": "",
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%22202611061129392487D1353316BA63550C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c6389bcc576e420793e9b5f427515de5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796515200&x-signature=V6%2FRNRsEd%2BcRqM%2B0YDO68HxS8cM%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-05T14:29:29.000Z",
+      "publishedAt": "2026-11-06T03:29:40.219Z",
+      "timeBasis": "fetch",
+      "heat": 2698450,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-d46fa5ec8d"
+    },
+    {
+      "id": "6b967e6bb4a2b844",
+      "title": "结婚两周年精心打扮却淋雨",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%B2%BE%E5%BF%83%E6%89%93%E6%89%AE%E5%8D%B4%E6%B7%8B%E9%9B%A8&t=31&band_rank=29&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-06T03:29:40.136Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-a913872ba2"
+    },
+    {
+      "id": "e109a0f36f65725f",
+      "title": "4岁女童患罕见病皮肤一碰就破",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%82%A3%E7%BD%95%E8%A7%81%E7%97%85%E7%9A%AE%E8%82%A4%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A0%B4%23&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-06T03:29:40.136Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-655a56760f"
+    },
+    {
+      "id": "ebbe1526090f1b95",
+      "title": "2026全国医保影像AI识图大赛颁奖大会在南宁举行",
+      "originalTitle": null,
+      "summary": "中新网南宁11月6日电(蒋雪林 黄艳梅 俞靖)以“慧眼识图 影领未来”为主题的2026全国医保影像AI识图大赛颁奖大会5日在广西南宁举行。这是中国首个国家级“AI+医学影像识别”专业赛事，共吸引海内外1332支队伍展开角逐。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727142.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T03:19:21.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -299,55 +405,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-7abd0d2270"
+      "score": 30,
+      "ruleScore": 30,
+      "eventId": "ev-fa0537f2e4"
     },
     {
-      "id": "b066efa25d652679",
-      "title": "谈了几个月，女友置顶和别人的酒店照片，想听听大家看法",
+      "id": "438b0f35dd9a227f",
+      "title": "Jalen Brunson drops Knicks reference on ‘Law & Order: SVU’ debut with pal Mariska Hargitay",
       "originalTitle": null,
-      "summary": "我和女朋友是今年6月认识的，她是我的高中同学，同时也是我外甥女的英语老师。一开始请她吃饭，本意只是想和孩子老师搞好关系。\n 我们多年没见，那晚吃饭喝酒，喝多之后，她主动邀我去她家，之后发生了关系，没过几天，我们确定了恋爱关系。\n 高中的时候我对她印象一直很好，觉得她踏实实在、大方简单，没什么弯弯绕绕。所以我是带着很深的好感和期待和她相处的，也是真心深情喜欢她，是生理性的心动。可慢慢相处下来才发现，她和我印象里的样子完全不一样。\n 她以前很喜欢发微博，经常分享自己的日常和内心想法。但和我在一起之后，却刻意表现得很冷漠，一副什么都不在乎、什么都不想的样子。",
-      "url": "https://bbs.hupu.com/643666639.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-05T20:11:58.966Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 75,
-      "ruleScore": 75,
-      "eventId": "ev-1dbd9a4399"
-    },
-    {
-      "id": "7a368c61bdd37361",
-      "title": "Sofia Richie Grainge’s new Amazon collab is inspired by a ‘mountain chalet getaway’— but it starts at $15",
-      "originalTitle": null,
-      "summary": "She calls it a “little letter to childhood and all the magic of fall.”",
-      "url": "https://pagesix.com/2026/11/05/style/sofia-richie-grainge-cozy-new-amazon-essentials-collection-starts-at-15/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F147676517.jpg?quality%3D90%26strip%3Dall",
+      "summary": "While the MVP shouldn’t quit his day job for Hollywood, it’s a playful pop culture meeting of the minds for two Big Apple icons: Jalen Brunson and Mariska Hargitay.",
+      "url": "https://pagesix.com/2026/11/05/entertainment/jalen-brunson-drops-knicks-reference-on-law-order-svu-debut-with-pal-mariska-hargitay/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fspecial-victims-unit-forsaken-episode-147645711.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T20:11:15.000Z",
+      "publishedAt": "2026-11-06T03:00:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,19 +441,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-56adf135e4"
+      "eventId": "ev-1aa0926a6d"
     },
     {
-      "id": "5bd8f4ee839cc495",
-      "title": "‘Mormon Wives’ star Jen Affleck’s estranged husband blindsided by divorce filing — which he learned about on the news",
+      "id": "3d32a865f5471d80",
+      "title": "Soap legend Morgan Fairchild, 76, joins OnlyFans to ‘share more’ with longtime supporters",
       "originalTitle": null,
-      "summary": "Jen is currently pregnant with their fourth child.",
-      "url": "https://pagesix.com/2026/11/05/entertainment/mormon-wives-star-jen-afflecks-estranged-husband-blindsided-by-divorce-filing-which-he-learned-about-on-the-news/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhost-stassi-schroeder-reunites-momtok-147664294.jpg?w%3D683",
+      "summary": "The actress rose to fame on TV's \"Falcon Crest\" in the 1980s.",
+      "url": "https://pagesix.com/2026/11/05/celebrity-news/morgan-fairchild-76-joins-onlyfans/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmorgan-fairchild-seen-heading-2020-147708586.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-05T19:34:52.000Z",
+      "publishedAt": "2026-11-06T02:53:50.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -403,7 +475,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d9cefcd163"
+      "eventId": "ev-86728e247a"
     }
   ]
 }
