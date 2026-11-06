@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T12:20:44.665Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T19:37:52.450Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 263,
-    "afterFilter": 41,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 262,
+    "afterFilter": 39,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1623
+        "ms": 1464
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 761
+        "ms": 1103
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 846
+        "ms": 1356
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 274
+        "ms": 823
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 396
+        "ms": 916
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1134
+        "ms": 1337
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 849
+        "ms": 1357
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 840
+        "ms": 1373
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1115
+        "ms": 1979
       }
     ],
     "ai": {
@@ -110,25 +110,21 @@
   "mustEat": [
     "dceca015ebcaa20e",
     "1d659d7b59cf5460",
-    "02fc1ada31288111",
-    "191e374dffa30a46"
+    "6fb9fe62195b5039"
   ],
   "sections": {
     "life": [],
-    "romance": [
-      "c51ed7e09ea2fa82"
-    ],
+    "romance": [],
     "oddity": [
       "1d659d7b59cf5460",
-      "02fc1ada31288111",
-      "8b64cfcabca55470"
+      "de46442a93825ecb"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "191e374dffa30a46",
-      "56eebd556ad0858d",
-      "438b0f35dd9a227f"
+      "6fb9fe62195b5039",
+      "3b0f7eb1a8ff54cb",
+      "869e6b7cf042996c"
     ]
   },
   "events": [],
@@ -143,7 +139,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T12:20:36.850Z",
+      "publishedAt": "2026-11-06T19:37:46.100Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -177,7 +173,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T12:20:36.850Z",
+      "publishedAt": "2026-11-06T19:37:46.100Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -202,26 +198,60 @@
       "eventId": "ev-6ce5041605"
     },
     {
-      "id": "02fc1ada31288111",
-      "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
+      "id": "6fb9fe62195b5039",
+      "title": "This ‘easy’ moisturizer is the secret to Kendall Jenner’s ‘fresh, dewy’ look",
       "originalTitle": null,
-      "summary": "最近 张雪 在重庆搞校招，结果因为薪资在网上引起了争议。\n 张雪这次计划招 100 个人左右，七成是研发岗。\n 面向 985 、 211 高校的应届生，研发岗开出的年薪是 12 万到 15 万，非研发岗 10 万到 12 万；普通院校研发岗 10 万到 13 万，非研发岗 9 万到 12 万，加班费另算。\n 交六险一金，有食堂，研发买自家摩托车打半价，实习期免费住双人间宿舍，转正后每个月房租 200 块钱。\n \n 可待遇传到网上， 遭到了不少人的嘲讽 ：“这点钱谁去啊？”“去普通一本问问吧，211硕士谁看得上？”\n 紧接着，《都市现场》 发表评论 ，批评他“别拿十年后的期权宽慰现在的年轻人”， 称其 “透着一种错位的傲慢”。",
-      "url": "https://bbs.hupu.com/643640844.html",
+      "summary": "“I want my skin to feel hydrated and comfortable.\"",
+      "url": "https://pagesix.com/2026/11/06/style/kendall-jenner-uses-this-anua-cream-for-a-fresh-dewy-look/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-de13kl8m4oj-147789921.jpg?quality%3D90%26strip%3Dall",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T19:29:17.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-2b70b371e0"
+    },
+    {
+      "id": "de46442a93825ecb",
+      "title": "张萌老公简历居然这么厉害",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=7&Refer=top",
       "image": "",
       "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-06T12:20:36.850Z",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-06T19:37:46.096Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -231,21 +261,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 87,
-      "ruleScore": 87,
-      "eventId": "ev-3e9df5a762"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-f186916b3f"
     },
     {
-      "id": "191e374dffa30a46",
-      "title": "'Carrie' 'Memba Her?!",
+      "id": "3b0f7eb1a8ff54cb",
+      "title": "‘DWTS’ partners Julia Stiles and Ezra Sosa show off matching tattoos — and share emotional meaning behind them",
       "originalTitle": null,
-      "summary": "American actress and singer Sissy Spacek was in her mid-20s when she played Carrie -- the shy high school girl with telekinetic powers -- in the 1976 horror/mystery film \"Carrie.\" Joining Sissy on set were John Travolta…",
-      "url": "https://www.tmz.com/2026/11/06/sissy-spacek-in-carrie-movie/",
+      "summary": "The \"10 Things I Hate About You\" actress and her pro partner were axed from Season 35 of the ABC competition series Tuesday evening.",
+      "url": "https://pagesix.com/2026/11/06/style/dwts-partners-julia-stiles-and-ezra-sosa-show-off-matching-tattoos/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjulia-stiles-ezra-sosa-show-147787390.jpg?w%3D939",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T19:26:31.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-53a630722e"
+    },
+    {
+      "id": "869e6b7cf042996c",
+      "title": "Chris Brown & Usher Get Into Argument Backstage at Atlanta Show",
+      "originalTitle": null,
+      "summary": "Usher and Chris Brown got into a verbal argument last night, which delayed their Atlanta show by nearly three hours … and sources say issues between them remain unresolved. Sources close to the situation tell TMZ ...",
+      "url": "https://www.tmz.com/2026/11/06/chris-brown-usher-argument-caused-concert-delay/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T08:01:59.000Z",
+      "publishedAt": "2026-11-06T18:26:31.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -265,145 +329,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-2ef723be65"
-    },
-    {
-      "id": "c51ed7e09ea2fa82",
-      "title": "许飞只去了厉娜分手那年的超女聚会",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8F%AA%E5%8E%BB%E4%BA%86%E5%8E%89%E5%A8%9C%E5%88%86%E6%89%8B%E9%82%A3%E5%B9%B4%E7%9A%84%E8%B6%85%E5%A5%B3%E8%81%9A%E4%BC%9A&t=31&band_rank=15&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-06T12:20:36.843Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-ef6ddddf72"
-    },
-    {
-      "id": "8b64cfcabca55470",
-      "title": "警方通报孙某军因情感纠纷行凶",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6%23&t=31&band_rank=9&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-06T12:20:36.843Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-e7426fa36f"
-    },
-    {
-      "id": "56eebd556ad0858d",
-      "title": "Carson Daly lifts the lid on ‘Today’ show cast’s wild nights out: ‘We have a good time’",
-      "originalTitle": null,
-      "summary": "He shared the tales during an exclusive interview with Page Six on Thursday.",
-      "url": "https://pagesix.com/2026/11/06/entertainment/carson-daly-lifts-the-lid-on-today-show-casts-wild-nights-out-we-have-a-good-time/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcarson-daly-laura-jarrett-interview-147675238.jpg?w%3D722",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-06T12:03:38.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-c1ae766d06"
-    },
-    {
-      "id": "438b0f35dd9a227f",
-      "title": "Jalen Brunson drops Knicks reference on ‘Law & Order: SVU’ debut with pal Mariska Hargitay",
-      "originalTitle": null,
-      "summary": "While the MVP shouldn’t quit his day job for Hollywood, it’s a playful pop culture meeting of the minds for two Big Apple icons: Jalen Brunson and Mariska Hargitay.",
-      "url": "https://pagesix.com/2026/11/05/entertainment/jalen-brunson-drops-knicks-reference-on-law-order-svu-debut-with-pal-mariska-hargitay/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fspecial-victims-unit-forsaken-episode-147645711.jpg?w%3D1024",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-06T03:00:00.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-1aa0926a6d"
+      "eventId": "ev-39d21459c0"
     }
   ]
 }

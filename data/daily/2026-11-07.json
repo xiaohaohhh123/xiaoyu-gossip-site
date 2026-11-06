@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T19:37:52.450Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 262,
+    "afterFilter": 39,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1464
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1103
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1356
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 823
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 916
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1337
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1357
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1373
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1979
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "dceca015ebcaa20e",
+    "1d659d7b59cf5460",
+    "6fb9fe62195b5039"
+  ],
+  "sections": {
+    "life": [],
+    "romance": [],
+    "oddity": [
+      "1d659d7b59cf5460",
+      "de46442a93825ecb"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "6fb9fe62195b5039",
+      "3b0f7eb1a8ff54cb",
+      "869e6b7cf042996c"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "dceca015ebcaa20e",
+      "title": "火烧靖国神社的刘强，回国后被单位开除，妻子离婚，如今怎样了？",
+      "originalTitle": null,
+      "summary": "2026 年的短视频深夜场，总有个五十多岁的男人准时开播。\n 不带货，不打 PK，面前摆一杯凉掉的茶，慢悠悠聊几句抗战往事，偶尔哼两首老歌。直播间人数不多，评论区永远吵成两半。一半刷 “致敬英雄”，一半骂 “冲动莽夫”。\n \n \n 他的账号换了一个又一个，主页简介永远是同一句话：我就是烧了靖国神社的刘强。\n 很少有人真的捋明白，这十五年他到底走了一条怎样的路。那把燃在东京深夜的火，是一时上头的莽撞，还是压了三代人的执念？\n \n \n 那不是一时上头，是三代人压不住的火 \n 很多人觉得他是一时热血冲昏头的愤青。根本不是。 事发前他是广州的外语老师，精通英、日、西三门语言，手握心理咨询师资质，收入稳定，家庭和睦，是旁人眼里标准的中产。",
+      "url": "https://bbs.hupu.com/643682643.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T19:37:46.100Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-3e8e1f4934"
+    },
+    {
+      "id": "1d659d7b59cf5460",
+      "title": "张雪拿远低于均薪的预算去招聘，被批评了还要骂“是不是有病”，就是傲慢！",
+      "originalTitle": null,
+      "summary": "★编辑一下，发之前我完全没想到一个以学生或者说年轻人为主的论坛会那么支持资本家，帖子里针对批评张雪低薪的谩骂太多了，我都懒得回了，甚至一度怀疑是不是有人花钱买评论了。另外，说一下我自己是20年本科毕业，不是重大那么好的大学，当时年薪是12，不管是以前还是现在，技术研发这类岗位给985研究生10万都太低了，如果有人觉得合理，觉得双向选择，那就祝福这些人今后都拿到这样合理的薪资吧，研发10-12个，进车间的6-7个，打螺丝的3-4个。\n ——————\n ★★又编辑了一下，加了几张抖音的截图，真的买评论了吗？",
+      "url": "https://bbs.hupu.com/643654106.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T19:37:46.100Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 90,
+      "ruleScore": 90,
+      "eventId": "ev-6ce5041605"
+    },
+    {
+      "id": "6fb9fe62195b5039",
+      "title": "This ‘easy’ moisturizer is the secret to Kendall Jenner’s ‘fresh, dewy’ look",
+      "originalTitle": null,
+      "summary": "“I want my skin to feel hydrated and comfortable.\"",
+      "url": "https://pagesix.com/2026/11/06/style/kendall-jenner-uses-this-anua-cream-for-a-fresh-dewy-look/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-de13kl8m4oj-147789921.jpg?quality%3D90%26strip%3Dall",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T19:29:17.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-2b70b371e0"
+    },
+    {
+      "id": "de46442a93825ecb",
+      "title": "张萌老公简历居然这么厉害",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-06T19:37:46.096Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-f186916b3f"
+    },
+    {
+      "id": "3b0f7eb1a8ff54cb",
+      "title": "‘DWTS’ partners Julia Stiles and Ezra Sosa show off matching tattoos — and share emotional meaning behind them",
+      "originalTitle": null,
+      "summary": "The \"10 Things I Hate About You\" actress and her pro partner were axed from Season 35 of the ABC competition series Tuesday evening.",
+      "url": "https://pagesix.com/2026/11/06/style/dwts-partners-julia-stiles-and-ezra-sosa-show-off-matching-tattoos/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjulia-stiles-ezra-sosa-show-147787390.jpg?w%3D939",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T19:26:31.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-53a630722e"
+    },
+    {
+      "id": "869e6b7cf042996c",
+      "title": "Chris Brown & Usher Get Into Argument Backstage at Atlanta Show",
+      "originalTitle": null,
+      "summary": "Usher and Chris Brown got into a verbal argument last night, which delayed their Atlanta show by nearly three hours … and sources say issues between them remain unresolved. Sources close to the situation tell TMZ ...",
+      "url": "https://www.tmz.com/2026/11/06/chris-brown-usher-argument-caused-concert-delay/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-06T18:26:31.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-39d21459c0"
+    }
+  ]
+}
