@@ -1,13 +1,13 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T02:57:49.008Z",
+  "generatedAt": "2026-11-07T11:14:14.621Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 249,
-    "afterFilter": 28,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 262,
+    "afterFilter": 40,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1333
+        "ms": 2798
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1702
+        "ms": 1098
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 733
+        "ms": 991
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 7,
         "error": null,
         "httpStatus": 200,
-        "ms": 913
+        "ms": 808
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 605
+        "ms": 816
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 780
+        "ms": 1071
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 733
+        "ms": 1051
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 732
+        "ms": 1037
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1569
+        "ms": 1770
       }
     ],
     "ai": {
@@ -108,73 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "dceca015ebcaa20e",
-    "1d659d7b59cf5460",
-    "052d3118589ed6b5",
-    "b077038fb9908e50"
+    "4612a5194bfc7842",
+    "02fc1ada31288111",
+    "678484506d5f04bb"
   ],
   "sections": {
     "life": [],
-    "romance": [],
+    "romance": [
+      "1636f434dca06eb2"
+    ],
     "oddity": [
-      "1d659d7b59cf5460",
-      "052d3118589ed6b5",
-      "de46442a93825ecb"
+      "02fc1ada31288111",
+      "fa6c872276e87034"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "880ee3965d80389a"
+    ],
     "overseas": [
-      "b077038fb9908e50",
-      "ff014f8e4db00617",
-      "9e7c3f88a6573d14"
+      "678484506d5f04bb",
+      "9800514196fc08d2",
+      "b077038fb9908e50"
     ]
   },
-  "events": [
-    {
-      "id": "ev-c54002e317",
-      "title": "张萌老公简历居然这么厉害",
-      "sources": [
-        "weibo",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-11-06T19:37:46.096Z",
-          "title": "张萌老公简历居然这么厉害",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=7&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-07T02:57:42.595Z",
-          "title": "张萌老公简历居然这么厉害",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "de46442a93825ecb"
-    }
-  ],
+  "events": [],
   "items": [
     {
-      "id": "dceca015ebcaa20e",
-      "title": "火烧靖国神社的刘强，回国后被单位开除，妻子离婚，如今怎样了？",
+      "id": "4612a5194bfc7842",
+      "title": "离婚了，也没孩子，感觉人生好失败，求各位jrs未来方向",
       "originalTitle": null,
-      "summary": "2026 年的短视频深夜场，总有个五十多岁的男人准时开播。\n 不带货，不打 PK，面前摆一杯凉掉的茶，慢悠悠聊几句抗战往事，偶尔哼两首老歌。直播间人数不多，评论区永远吵成两半。一半刷 “致敬英雄”，一半骂 “冲动莽夫”。\n \n \n 他的账号换了一个又一个，主页简介永远是同一句话：我就是烧了靖国神社的刘强。\n 很少有人真的捋明白，这十五年他到底走了一条怎样的路。那把燃在东京深夜的火，是一时上头的莽撞，还是压了三代人的执念？\n \n \n 那不是一时上头，是三代人压不住的火 \n 很多人觉得他是一时热血冲昏头的愤青。根本不是。 事发前他是广州的外语老师，精通英、日、西三门语言，手握心理咨询师资质，收入稳定，家庭和睦，是旁人眼里标准的中产。",
-      "url": "https://bbs.hupu.com/643682643.html",
+      "summary": "楼主35岁， 博士，重庆体制内工作，总的收入还行30+，现在无房无车，早年投资了好几套房子在看到形势变化后都卖了，存款大几百个，工作可闲可忙。\n 前妻也是公务员，33岁，主业收入不高，但是她有合法副业，也赚的不少，整体存款也不少，她很优秀，也很有才华，做事情能力特别强，比我优秀，我当时跟她在一起是崇拜她的，但是她生活能力一般，从小都是父母给照顾的，所以家里的基本家务都是我来做。\n 楼主和前妻21年恋爱，23年出国做博后前领证，25年初回国，今年8月冷静期，后续领证了，没孩子。",
+      "url": "https://bbs.hupu.com/643705452.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T02:57:42.028Z",
+      "publishedAt": "2026-11-07T11:14:06.318Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -194,21 +163,123 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 93,
-      "ruleScore": 93,
-      "eventId": "ev-3e8e1f4934"
+      "score": 91,
+      "ruleScore": 91,
+      "eventId": "ev-dd7813cf48"
     },
     {
-      "id": "1d659d7b59cf5460",
-      "title": "张雪拿远低于均薪的预算去招聘，被批评了还要骂“是不是有病”，就是傲慢！",
+      "id": "02fc1ada31288111",
+      "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
       "originalTitle": null,
-      "summary": "★编辑一下，发之前我完全没想到一个以学生或者说年轻人为主的论坛会那么支持资本家，帖子里针对批评张雪低薪的谩骂太多了，我都懒得回了，甚至一度怀疑是不是有人花钱买评论了。另外，说一下我自己是20年本科毕业，不是重大那么好的大学，当时年薪是12，不管是以前还是现在，技术研发这类岗位给985研究生10万都太低了，如果有人觉得合理，觉得双向选择，那就祝福这些人今后都拿到这样合理的薪资吧，研发10-12个，进车间的6-7个，打螺丝的3-4个。\n ——————\n ★★又编辑了一下，加了几张抖音的截图，真的买评论了吗？",
-      "url": "https://bbs.hupu.com/643654106.html",
+      "summary": "最近 张雪 在重庆搞校招，结果因为薪资在网上引起了争议。\n 张雪这次计划招 100 个人左右，七成是研发岗。\n 面向 985 、 211 高校的应届生，研发岗开出的年薪是 12 万到 15 万，非研发岗 10 万到 12 万；普通院校研发岗 10 万到 13 万，非研发岗 9 万到 12 万，加班费另算。\n 交六险一金，有食堂，研发买自家摩托车打半价，实习期免费住双人间宿舍，转正后每个月房租 200 块钱。\n \n 可待遇传到网上， 遭到了不少人的嘲讽 ：“这点钱谁去啊？”“去普通一本问问吧，211硕士谁看得上？”\n 紧接着，《都市现场》 发表评论 ，批评他“别拿十年后的期权宽慰现在的年轻人”， 称其 “透着一种错位的傲慢”。",
+      "url": "https://bbs.hupu.com/643640844.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T11:14:06.318Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 87,
+      "ruleScore": 87,
+      "eventId": "ev-3e9df5a762"
+    },
+    {
+      "id": "678484506d5f04bb",
+      "title": "Stars and Scars -- You Be the Judge",
+      "originalTitle": null,
+      "summary": "Russell Brand's guilty and going away for a long time, the \"Trump Arch\" hits a legal hurdle, but will it stop Prez Trump? Plus, new beefs for Taylor Swift and the Knicks, and Chris Brown vs. Usher. So, we gotta ask ...",
+      "url": "https://www.tmz.com/2026/11/07/polls-you-be-the-judge/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T08:25:40.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-e02ddacd89"
+    },
+    {
+      "id": "1636f434dca06eb2",
+      "title": "俞灏明现身好友婚礼吃席",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%BF%9E%E7%81%8F%E6%98%8E%E7%8E%B0%E8%BA%AB%E5%A5%BD%E5%8F%8B%E5%A9%9A%E7%A4%BC%E5%90%83%E5%B8%AD&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-07T11:14:08.021Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-27d52fde6d"
+    },
+    {
+      "id": "fa6c872276e87034",
+      "title": "没想到啊，庾澄庆背景这么强大",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643675980.html",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T02:57:42.028Z",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-07T11:14:06.318Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -228,43 +299,77 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 90,
-      "ruleScore": 90,
-      "eventId": "ev-6ce5041605"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-70dfcc316e"
     },
     {
-      "id": "052d3118589ed6b5",
-      "title": "库里老婆这波是不是赚到了",
+      "id": "880ee3965d80389a",
+      "title": "四川阿坝：“95后”唐卡“守艺人”公益传艺 助古老非遗焕新",
       "originalTitle": null,
-      "summary": "这男主挺帅的啊，阿耶纱放黑女里颜值都不算高的了，居然能和帅白男组cp。就是不知道这是不是错位",
-      "url": "https://bbs.hupu.com/643684570.html",
+      "summary": "中新网阿坝11月7日电 题：四川阿坝：“95后”唐卡“守艺人”公益传艺 助古老非遗焕新",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727981.shtml",
       "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
+      "category": "entertainment",
+      "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T02:57:42.028Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-07T09:45:39.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-1dd6c7db0d"
+      "score": 24,
+      "ruleScore": 24,
+      "eventId": "ev-c66f0ef4ca"
+    },
+    {
+      "id": "9800514196fc08d2",
+      "title": "Sydney Sweeney Cozies Up To Michele Morrone On Set",
+      "originalTitle": null,
+      "summary": "Did these PDA pics raise a brow?! Pipe down y'all ... it's just acting! Earlier this week in New York City, Sydney Sweeney embraced Michele Morrone on the set of \"The Housemaid's Secret.\" Can you unzip the discreet chang…",
+      "url": "https://www.tmz.com/2026/11/07/sydney-sweeney-michele-morrone-movie-set-photo/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T08:01:29.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-a21305c00a"
     },
     {
       "id": "b077038fb9908e50",
@@ -299,109 +404,6 @@
       "score": 1,
       "ruleScore": 1,
       "eventId": "ev-873ceb75f2"
-    },
-    {
-      "id": "de46442a93825ecb",
-      "title": "张萌老公简历居然这么厉害",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=11&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-07T02:57:42.023Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "weibo",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-c54002e317"
-    },
-    {
-      "id": "ff014f8e4db00617",
-      "title": "Why Jane Seymour refuses to leave Malibu despite multiple emergency evacuations",
-      "originalTitle": null,
-      "summary": "Seymour most recently had to evacuate her home in December 2024 with the clothes on her back and a few keepsakes.",
-      "url": "https://pagesix.com/2026/11/06/celebrity-news/why-jane-seymour-refuses-to-leave-malibu-despite-multiple-emergency-evacuations/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fqvc-x-jane-seymour-collab-147775752.jpg?w%3D1024",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T01:42:07.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-6dd4d649d5"
-    },
-    {
-      "id": "9e7c3f88a6573d14",
-      "title": "Chrishell Stause's 'Traitors' Costar Chanel Ayan Flies In From Dubai After G Flip Split",
-      "originalTitle": null,
-      "summary": "Chrishell Stause is getting some much-needed support from her former \"Traitors\" costar Chanel Ayan following her split from G Flip ...",
-      "url": "https://www.tmz.com/2026/11/06/chanel-ayan-supporting-chrishell-stause-after-g-flip-split/",
-      "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T02:15:23.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-5e64379320"
     }
   ]
 }
