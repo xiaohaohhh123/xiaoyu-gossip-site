@@ -1,13 +1,13 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-06T19:37:52.450Z",
+  "generatedAt": "2026-11-07T02:57:49.008Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 262,
-    "afterFilter": 39,
-    "selected": 6,
-    "domesticSelected": 3,
-    "domesticRatio": 50,
+    "totalCollected": 249,
+    "afterFilter": 28,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1464
+        "ms": 1333
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1103
+        "ms": 1702
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1356
+        "ms": 733
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 7,
         "error": null,
         "httpStatus": 200,
-        "ms": 823
+        "ms": 913
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 916
+        "ms": 605
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1337
+        "ms": 780
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1357
+        "ms": 733
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1373
+        "ms": 732
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1979
+        "ms": 1569
       }
     ],
     "ai": {
@@ -110,24 +110,59 @@
   "mustEat": [
     "dceca015ebcaa20e",
     "1d659d7b59cf5460",
-    "6fb9fe62195b5039"
+    "052d3118589ed6b5",
+    "b077038fb9908e50"
   ],
   "sections": {
     "life": [],
     "romance": [],
     "oddity": [
       "1d659d7b59cf5460",
+      "052d3118589ed6b5",
       "de46442a93825ecb"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "6fb9fe62195b5039",
-      "3b0f7eb1a8ff54cb",
-      "869e6b7cf042996c"
+      "b077038fb9908e50",
+      "ff014f8e4db00617",
+      "9e7c3f88a6573d14"
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "id": "ev-c54002e317",
+      "title": "张萌老公简历居然这么厉害",
+      "sources": [
+        "weibo",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-11-06T19:37:46.096Z",
+          "title": "张萌老公简历居然这么厉害",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=7&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-11-07T02:57:42.595Z",
+          "title": "张萌老公简历居然这么厉害",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "de46442a93825ecb"
+    }
+  ],
   "items": [
     {
       "id": "dceca015ebcaa20e",
@@ -139,7 +174,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T19:37:46.100Z",
+      "publishedAt": "2026-11-07T02:57:42.028Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -173,7 +208,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T19:37:46.100Z",
+      "publishedAt": "2026-11-07T02:57:42.028Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -198,60 +233,26 @@
       "eventId": "ev-6ce5041605"
     },
     {
-      "id": "6fb9fe62195b5039",
-      "title": "This ‘easy’ moisturizer is the secret to Kendall Jenner’s ‘fresh, dewy’ look",
+      "id": "052d3118589ed6b5",
+      "title": "库里老婆这波是不是赚到了",
       "originalTitle": null,
-      "summary": "“I want my skin to feel hydrated and comfortable.\"",
-      "url": "https://pagesix.com/2026/11/06/style/kendall-jenner-uses-this-anua-cream-for-a-fresh-dewy-look/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-de13kl8m4oj-147789921.jpg?quality%3D90%26strip%3Dall",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-06T19:29:17.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-2b70b371e0"
-    },
-    {
-      "id": "de46442a93825ecb",
-      "title": "张萌老公简历居然这么厉害",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=7&Refer=top",
+      "summary": "这男主挺帅的啊，阿耶纱放黑女里颜值都不算高的了，居然能和帅白男组cp。就是不知道这是不是错位",
+      "url": "https://bbs.hupu.com/643684570.html",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-06T19:37:46.096Z",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T02:57:42.028Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -261,21 +262,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-f186916b3f"
+      "score": 76,
+      "ruleScore": 76,
+      "eventId": "ev-1dd6c7db0d"
     },
     {
-      "id": "3b0f7eb1a8ff54cb",
-      "title": "‘DWTS’ partners Julia Stiles and Ezra Sosa show off matching tattoos — and share emotional meaning behind them",
+      "id": "b077038fb9908e50",
+      "title": "Russell Brand’s jail hell revealed: Vermin-infested cells, violent inmates and drug searches",
       "originalTitle": null,
-      "summary": "The \"10 Things I Hate About You\" actress and her pro partner were axed from Season 35 of the ABC competition series Tuesday evening.",
-      "url": "https://pagesix.com/2026/11/06/style/dwts-partners-julia-stiles-and-ezra-sosa-show-off-matching-tattoos/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjulia-stiles-ezra-sosa-show-147787390.jpg?w%3D939",
+      "summary": "The comedian’s new reality behind bars comes with cramped living quarters, rampant violence, and a strict rules for loved ones hoping to see him.",
+      "url": "https://pagesix.com/2026/11/06/celebrity-news/russell-brands-jail-hell-vermin-infested-cells-violent-inmates-and-drug-searches/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frussell-brand-photos-supplied-metropolitan-147667316_adc7b2.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T19:26:31.000Z",
+      "publishedAt": "2026-11-07T02:51:37.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -297,19 +298,88 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-53a630722e"
+      "eventId": "ev-873ceb75f2"
     },
     {
-      "id": "869e6b7cf042996c",
-      "title": "Chris Brown & Usher Get Into Argument Backstage at Atlanta Show",
+      "id": "de46442a93825ecb",
+      "title": "张萌老公简历居然这么厉害",
       "originalTitle": null,
-      "summary": "Usher and Chris Brown got into a verbal argument last night, which delayed their Atlanta show by nearly three hours … and sources say issues between them remain unresolved. Sources close to the situation tell TMZ ...",
-      "url": "https://www.tmz.com/2026/11/06/chris-brown-usher-argument-caused-concert-delay/",
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=11&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-07T02:57:42.023Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "weibo",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-c54002e317"
+    },
+    {
+      "id": "ff014f8e4db00617",
+      "title": "Why Jane Seymour refuses to leave Malibu despite multiple emergency evacuations",
+      "originalTitle": null,
+      "summary": "Seymour most recently had to evacuate her home in December 2024 with the clothes on her back and a few keepsakes.",
+      "url": "https://pagesix.com/2026/11/06/celebrity-news/why-jane-seymour-refuses-to-leave-malibu-despite-multiple-emergency-evacuations/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fqvc-x-jane-seymour-collab-147775752.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T01:42:07.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-6dd4d649d5"
+    },
+    {
+      "id": "9e7c3f88a6573d14",
+      "title": "Chrishell Stause's 'Traitors' Costar Chanel Ayan Flies In From Dubai After G Flip Split",
+      "originalTitle": null,
+      "summary": "Chrishell Stause is getting some much-needed support from her former \"Traitors\" costar Chanel Ayan following her split from G Flip ...",
+      "url": "https://www.tmz.com/2026/11/06/chanel-ayan-supporting-chrishell-stause-after-g-flip-split/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-06T18:26:31.000Z",
+      "publishedAt": "2026-11-07T02:15:23.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -331,7 +401,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-39d21459c0"
+      "eventId": "ev-5e64379320"
     }
   ]
 }
