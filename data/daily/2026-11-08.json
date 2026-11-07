@@ -1,0 +1,481 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-07T17:49:25.686Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 264,
+    "afterFilter": 52,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1830
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1001
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 28,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 831
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 8,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 648
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 665
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 991
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 933
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 965
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1278
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "10ebce0a07f3a05b",
+    "ac56002ed5eac660",
+    "1f54a7117a5143a6",
+    "678484506d5f04bb"
+  ],
+  "sections": {
+    "life": [
+      "1f54a7117a5143a6"
+    ],
+    "romance": [
+      "4612a5194bfc7842"
+    ],
+    "oddity": [
+      "ac56002ed5eac660",
+      "fa6c872276e87034"
+    ],
+    "twist": [],
+    "entertainment": [
+      "5f57eefbf99e158d",
+      "e0c9d991521af608"
+    ],
+    "overseas": [
+      "678484506d5f04bb",
+      "9800514196fc08d2",
+      "3f1709e514727bc7"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "10ebce0a07f3a05b",
+      "title": "网上学生感觉对财富没有一点认识",
+      "originalTitle": null,
+      "summary": "26年5月和老婆订婚，\n 老婆自掏腰包陪了25款雅阁和英诗派各一台，\n 都是1.5T配CVT的高配，总车价三十万出头，\n 咱真心觉得单刘车辆配置方面，\n 咱家凭这两台燃油合资B级车，\n 绝对超越90%的中国家庭，\n 单看车咱自称“咱家正式进入中国社会10%的富裕阶层”丝毫不违和，\n 网上发帖炫耀结果被群喷了，最亮的评论是\n “你家这两台车也就小康水平，扣除10%的困难家庭，90%的中国家庭都买得起”",
+      "url": "https://bbs.hupu.com/643711168.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 88,
+      "ruleScore": 88,
+      "eventId": "ev-290c8199c2"
+    },
+    {
+      "id": "ac56002ed5eac660",
+      "title": "山西男子收到河南网友1.98万元误转账，怕遇到洗钱等约去派出所归还，遭起诉“设置不合理障碍”，法院认定不当得利冻结其账户资金",
+      "originalTitle": null,
+      "summary": "刘先生反映称，去年11月底，他收到了一笔来自网友的19800元不明转账，与对方相约在公安局见面退还，没想到却被起诉并败诉，账户资金也被冻结。\n \n \n 支付宝夜间收到游戏群友19800元转账\n 对方加微信后称错转要求退回\n \n 刘先生是山西吕梁人，今年38岁，在太原做装修工作。2025年11月28日晚，他收到了一笔19800元的转账。\n \n “这笔钱直接转到了我的支付宝里，无需我确认收款，收到钱的时候我没有发觉。”刘先生说，到了第二天，他看到一个游戏群聊中，大家正在议论有人转错账的事情。与此同时，群里有一人也试图添加刘先生的微信，称其将钱错转给了他。\n \n 刘先生回忆，当时他觉得十分蹊跷，认为这种离谱的事情不可能发生到他的身上。",
+      "url": "https://bbs.hupu.com/643718650.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-212f7cb429"
+    },
+    {
+      "id": "1f54a7117a5143a6",
+      "title": "“免费鉴宝、高价回收” 起底专盯老人的直播诈骗链",
+      "originalTitle": null,
+      "summary": "“免费鉴宝、高价回收”，这样的广告您见到过吗？回收者开出高于市场价好几倍的价格，声称要回收您手里的文玩、字画、古钱币等藏品，还可以先打钱、后上门。看到这些，您会心动吗？近段时间，一个特大“免费鉴宝引流、直播抽奖诈骗”犯罪团伙浮出水面，涉案金额超千万元，受害者多达上千人。而这些受害者当中，多数都是老年人。随着AI等新技术应用，犯罪分子的诈骗花样不断翻新，这次，又有什么新套路？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728182.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T14:45:37.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-c77d731c7b"
+    },
+    {
+      "id": "678484506d5f04bb",
+      "title": "Stars and Scars -- You Be the Judge",
+      "originalTitle": null,
+      "summary": "Russell Brand's guilty and going away for a long time, the \"Trump Arch\" hits a legal hurdle, but will it stop Prez Trump? Plus, new beefs for Taylor Swift and the Knicks, and Chris Brown vs. Usher. So, we gotta ask ...",
+      "url": "https://www.tmz.com/2026/11/07/polls-you-be-the-judge/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T08:25:40.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-e02ddacd89"
+    },
+    {
+      "id": "4612a5194bfc7842",
+      "title": "离婚了，也没孩子，感觉人生好失败，求各位jrs未来方向",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643705452.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-dd7813cf48"
+    },
+    {
+      "id": "fa6c872276e87034",
+      "title": "没想到啊，庾澄庆背景这么强大",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643675980.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-70dfcc316e"
+    },
+    {
+      "id": "5f57eefbf99e158d",
+      "title": "第三届网络文学品牌榜揭晓 《藏海传》《诛仙》等IP上榜",
+      "originalTitle": null,
+      "summary": "中新网长沙11月7日电 (记者 邓霞)11月7日，第三届网络文学品牌榜颁奖典礼在长沙举行，网络作家、网络小说、网络文学IP、网络文学海外传播四大榜单一一揭晓。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728065.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T11:51:59.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-2dcdea62da"
+    },
+    {
+      "id": "e0c9d991521af608",
+      "title": "广西柳州举办友城画展 促进中外青少年交流",
+      "originalTitle": null,
+      "summary": "中新网柳州11月7日电(林馨)11月7日，广西柳州市举行第四届国际友城及国际友好交流城市青少年绘画展暨颁奖仪式。中外学生以画为媒，增进理解、共创未来。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728060.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T11:47:55.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-c9021586ac"
+    },
+    {
+      "id": "9800514196fc08d2",
+      "title": "Sydney Sweeney Cozies Up To Michele Morrone On Set",
+      "originalTitle": null,
+      "summary": "Did these PDA pics raise a brow?! Pipe down y'all ... it's just acting! Earlier this week in New York City, Sydney Sweeney embraced Michele Morrone on the set of \"The Housemaid's Secret.\" Can you unzip the discreet chang…",
+      "url": "https://www.tmz.com/2026/11/07/sydney-sweeney-michele-morrone-movie-set-photo/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T08:01:29.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-a21305c00a"
+    },
+    {
+      "id": "3f1709e514727bc7",
+      "title": "Robert Pattinson and Nicholas Hoult join James Bond casting rumors, audition to play the new 007",
+      "originalTitle": null,
+      "summary": "The search for the next James Bond is heating up.",
+      "url": "https://pagesix.com/2026/11/07/entertainment/robert-pattinson-and-nicholas-hoult-join-james-bond-casting-rumors-audition-to-play-the-new-007/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frobert-pattinson-attends-primetime-screening-147872161.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T16:07:14.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-500962fa4a"
+    }
+  ]
+}

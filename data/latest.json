@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T11:14:14.621Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-07T17:49:25.686Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 262,
-    "afterFilter": 40,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 264,
+    "afterFilter": 52,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2798
+        "ms": 1830
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1098
+        "ms": 1001
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 991
+        "ms": 831
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 7,
+        "count": 8,
         "error": null,
         "httpStatus": 200,
-        "ms": 808
+        "ms": 648
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 816
+        "ms": 665
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1071
+        "ms": 991
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1051
+        "ms": 933
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1037
+        "ms": 965
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1770
+        "ms": 1278
       }
     ],
     "ai": {
@@ -108,42 +108,46 @@
     "totalSources": 9
   },
   "mustEat": [
-    "4612a5194bfc7842",
-    "02fc1ada31288111",
+    "10ebce0a07f3a05b",
+    "ac56002ed5eac660",
+    "1f54a7117a5143a6",
     "678484506d5f04bb"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "1f54a7117a5143a6"
+    ],
     "romance": [
-      "1636f434dca06eb2"
+      "4612a5194bfc7842"
     ],
     "oddity": [
-      "02fc1ada31288111",
+      "ac56002ed5eac660",
       "fa6c872276e87034"
     ],
     "twist": [],
     "entertainment": [
-      "880ee3965d80389a"
+      "5f57eefbf99e158d",
+      "e0c9d991521af608"
     ],
     "overseas": [
       "678484506d5f04bb",
       "9800514196fc08d2",
-      "b077038fb9908e50"
+      "3f1709e514727bc7"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "4612a5194bfc7842",
-      "title": "离婚了，也没孩子，感觉人生好失败，求各位jrs未来方向",
+      "id": "10ebce0a07f3a05b",
+      "title": "网上学生感觉对财富没有一点认识",
       "originalTitle": null,
-      "summary": "楼主35岁， 博士，重庆体制内工作，总的收入还行30+，现在无房无车，早年投资了好几套房子在看到形势变化后都卖了，存款大几百个，工作可闲可忙。\n 前妻也是公务员，33岁，主业收入不高，但是她有合法副业，也赚的不少，整体存款也不少，她很优秀，也很有才华，做事情能力特别强，比我优秀，我当时跟她在一起是崇拜她的，但是她生活能力一般，从小都是父母给照顾的，所以家里的基本家务都是我来做。\n 楼主和前妻21年恋爱，23年出国做博后前领证，25年初回国，今年8月冷静期，后续领证了，没孩子。",
-      "url": "https://bbs.hupu.com/643705452.html",
+      "summary": "26年5月和老婆订婚，\n 老婆自掏腰包陪了25款雅阁和英诗派各一台，\n 都是1.5T配CVT的高配，总车价三十万出头，\n 咱真心觉得单刘车辆配置方面，\n 咱家凭这两台燃油合资B级车，\n 绝对超越90%的中国家庭，\n 单看车咱自称“咱家正式进入中国社会10%的富裕阶层”丝毫不违和，\n 网上发帖炫耀结果被群喷了，最亮的评论是\n “你家这两台车也就小康水平，扣除10%的困难家庭，90%的中国家庭都买得起”",
+      "url": "https://bbs.hupu.com/643711168.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T11:14:06.318Z",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -163,21 +167,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 91,
-      "ruleScore": 91,
-      "eventId": "ev-dd7813cf48"
+      "score": 88,
+      "ruleScore": 88,
+      "eventId": "ev-290c8199c2"
     },
     {
-      "id": "02fc1ada31288111",
-      "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
+      "id": "ac56002ed5eac660",
+      "title": "山西男子收到河南网友1.98万元误转账，怕遇到洗钱等约去派出所归还，遭起诉“设置不合理障碍”，法院认定不当得利冻结其账户资金",
       "originalTitle": null,
-      "summary": "最近 张雪 在重庆搞校招，结果因为薪资在网上引起了争议。\n 张雪这次计划招 100 个人左右，七成是研发岗。\n 面向 985 、 211 高校的应届生，研发岗开出的年薪是 12 万到 15 万，非研发岗 10 万到 12 万；普通院校研发岗 10 万到 13 万，非研发岗 9 万到 12 万，加班费另算。\n 交六险一金，有食堂，研发买自家摩托车打半价，实习期免费住双人间宿舍，转正后每个月房租 200 块钱。\n \n 可待遇传到网上， 遭到了不少人的嘲讽 ：“这点钱谁去啊？”“去普通一本问问吧，211硕士谁看得上？”\n 紧接着，《都市现场》 发表评论 ，批评他“别拿十年后的期权宽慰现在的年轻人”， 称其 “透着一种错位的傲慢”。",
-      "url": "https://bbs.hupu.com/643640844.html",
+      "summary": "刘先生反映称，去年11月底，他收到了一笔来自网友的19800元不明转账，与对方相约在公安局见面退还，没想到却被起诉并败诉，账户资金也被冻结。\n \n \n 支付宝夜间收到游戏群友19800元转账\n 对方加微信后称错转要求退回\n \n 刘先生是山西吕梁人，今年38岁，在太原做装修工作。2025年11月28日晚，他收到了一笔19800元的转账。\n \n “这笔钱直接转到了我的支付宝里，无需我确认收款，收到钱的时候我没有发觉。”刘先生说，到了第二天，他看到一个游戏群聊中，大家正在议论有人转错账的事情。与此同时，群里有一人也试图添加刘先生的微信，称其将钱错转给了他。\n \n 刘先生回忆，当时他觉得十分蹊跷，认为这种离谱的事情不可能发生到他的身上。",
+      "url": "https://bbs.hupu.com/643718650.html",
       "image": "",
       "category": "oddity",
-      "topicClass": "scene",
+      "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T11:14:06.318Z",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -197,9 +201,43 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 87,
-      "ruleScore": 87,
-      "eventId": "ev-3e9df5a762"
+      "score": 68,
+      "ruleScore": 68,
+      "eventId": "ev-212f7cb429"
+    },
+    {
+      "id": "1f54a7117a5143a6",
+      "title": "“免费鉴宝、高价回收” 起底专盯老人的直播诈骗链",
+      "originalTitle": null,
+      "summary": "“免费鉴宝、高价回收”，这样的广告您见到过吗？回收者开出高于市场价好几倍的价格，声称要回收您手里的文玩、字画、古钱币等藏品，还可以先打钱、后上门。看到这些，您会心动吗？近段时间，一个特大“免费鉴宝引流、直播抽奖诈骗”犯罪团伙浮出水面，涉案金额超千万元，受害者多达上千人。而这些受害者当中，多数都是老年人。随着AI等新技术应用，犯罪分子的诈骗花样不断翻新，这次，又有什么新套路？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728182.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T14:45:37.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-c77d731c7b"
     },
     {
       "id": "678484506d5f04bb",
@@ -231,31 +269,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 4,
-      "ruleScore": 4,
+      "score": 2,
+      "ruleScore": 2,
       "eventId": "ev-e02ddacd89"
     },
     {
-      "id": "1636f434dca06eb2",
-      "title": "俞灏明现身好友婚礼吃席",
+      "id": "4612a5194bfc7842",
+      "title": "离婚了，也没孩子，感觉人生好失败，求各位jrs未来方向",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%BF%9E%E7%81%8F%E6%98%8E%E7%8E%B0%E8%BA%AB%E5%A5%BD%E5%8F%8B%E5%A9%9A%E7%A4%BC%E5%90%83%E5%B8%AD&sa=fyb_news",
+      "url": "https://bbs.hupu.com/643705452.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-07T11:14:08.021Z",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,9 +303,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-27d52fde6d"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-dd7813cf48"
     },
     {
       "id": "fa6c872276e87034",
@@ -279,7 +317,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-07T11:14:06.318Z",
+      "publishedAt": "2026-11-07T17:49:18.597Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -304,16 +342,16 @@
       "eventId": "ev-70dfcc316e"
     },
     {
-      "id": "880ee3965d80389a",
-      "title": "四川阿坝：“95后”唐卡“守艺人”公益传艺 助古老非遗焕新",
+      "id": "5f57eefbf99e158d",
+      "title": "第三届网络文学品牌榜揭晓 《藏海传》《诛仙》等IP上榜",
       "originalTitle": null,
-      "summary": "中新网阿坝11月7日电 题：四川阿坝：“95后”唐卡“守艺人”公益传艺 助古老非遗焕新",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727981.shtml",
+      "summary": "中新网长沙11月7日电 (记者 邓霞)11月7日，第三届网络文学品牌榜颁奖典礼在长沙举行，网络作家、网络小说、网络文学IP、网络文学海外传播四大榜单一一揭晓。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728065.shtml",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T09:45:39.000Z",
+      "publishedAt": "2026-11-07T11:51:59.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -333,9 +371,43 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 24,
-      "ruleScore": 24,
-      "eventId": "ev-c66f0ef4ca"
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-2dcdea62da"
+    },
+    {
+      "id": "e0c9d991521af608",
+      "title": "广西柳州举办友城画展 促进中外青少年交流",
+      "originalTitle": null,
+      "summary": "中新网柳州11月7日电(林馨)11月7日，广西柳州市举行第四届国际友城及国际友好交流城市青少年绘画展暨颁奖仪式。中外学生以画为媒，增进理解、共创未来。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728060.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T11:47:55.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-c9021586ac"
     },
     {
       "id": "9800514196fc08d2",
@@ -367,21 +439,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 4,
-      "ruleScore": 4,
+      "score": 2,
+      "ruleScore": 2,
       "eventId": "ev-a21305c00a"
     },
     {
-      "id": "b077038fb9908e50",
-      "title": "Russell Brand’s jail hell revealed: Vermin-infested cells, violent inmates and drug searches",
+      "id": "3f1709e514727bc7",
+      "title": "Robert Pattinson and Nicholas Hoult join James Bond casting rumors, audition to play the new 007",
       "originalTitle": null,
-      "summary": "The comedian’s new reality behind bars comes with cramped living quarters, rampant violence, and a strict rules for loved ones hoping to see him.",
-      "url": "https://pagesix.com/2026/11/06/celebrity-news/russell-brands-jail-hell-vermin-infested-cells-violent-inmates-and-drug-searches/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frussell-brand-photos-supplied-metropolitan-147667316_adc7b2.jpg",
+      "summary": "The search for the next James Bond is heating up.",
+      "url": "https://pagesix.com/2026/11/07/entertainment/robert-pattinson-and-nicholas-hoult-join-james-bond-casting-rumors-audition-to-play-the-new-007/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frobert-pattinson-attends-primetime-screening-147872161.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T02:51:37.000Z",
+      "publishedAt": "2026-11-07T16:07:14.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -403,7 +475,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-873ceb75f2"
+      "eventId": "ev-500962fa4a"
     }
   ]
 }
