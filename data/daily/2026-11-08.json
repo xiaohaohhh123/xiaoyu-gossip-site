@@ -1,13 +1,13 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-07T17:49:25.686Z",
+  "generatedAt": "2026-11-08T02:35:01.343Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 264,
-    "afterFilter": 52,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 268,
+    "afterFilter": 48,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1830
+        "ms": 1394
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1001
+        "ms": 1571
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 831
+        "ms": 837
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 8,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 648
+        "ms": 510
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 665
+        "ms": 562
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 991
+        "ms": 891
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 933
+        "ms": 860
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 965
+        "ms": 850
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1278
+        "ms": 843
       }
     ],
     "ai": {
@@ -108,69 +108,33 @@
     "totalSources": 9
   },
   "mustEat": [
-    "10ebce0a07f3a05b",
     "ac56002ed5eac660",
     "1f54a7117a5143a6",
-    "678484506d5f04bb"
+    "0835f8dca480b9d9"
   ],
   "sections": {
     "life": [
-      "1f54a7117a5143a6"
+      "1f54a7117a5143a6",
+      "294e2e6ef69ea056"
     ],
     "romance": [
-      "4612a5194bfc7842"
+      "a6fab0b991cba521"
     ],
     "oddity": [
-      "ac56002ed5eac660",
-      "fa6c872276e87034"
+      "2c4e2f5b15cadbf7"
     ],
     "twist": [],
     "entertainment": [
-      "5f57eefbf99e158d",
-      "e0c9d991521af608"
+      "90f1d9ff2842b2d6"
     ],
     "overseas": [
-      "678484506d5f04bb",
-      "9800514196fc08d2",
-      "3f1709e514727bc7"
+      "0835f8dca480b9d9",
+      "e45053031852338e",
+      "a8c2fe714a9457b3"
     ]
   },
   "events": [],
   "items": [
-    {
-      "id": "10ebce0a07f3a05b",
-      "title": "网上学生感觉对财富没有一点认识",
-      "originalTitle": null,
-      "summary": "26年5月和老婆订婚，\n 老婆自掏腰包陪了25款雅阁和英诗派各一台，\n 都是1.5T配CVT的高配，总车价三十万出头，\n 咱真心觉得单刘车辆配置方面，\n 咱家凭这两台燃油合资B级车，\n 绝对超越90%的中国家庭，\n 单看车咱自称“咱家正式进入中国社会10%的富裕阶层”丝毫不违和，\n 网上发帖炫耀结果被群喷了，最亮的评论是\n “你家这两台车也就小康水平，扣除10%的困难家庭，90%的中国家庭都买得起”",
-      "url": "https://bbs.hupu.com/643711168.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T17:49:18.597Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 88,
-      "ruleScore": 88,
-      "eventId": "ev-290c8199c2"
-    },
     {
       "id": "ac56002ed5eac660",
       "title": "山西男子收到河南网友1.98万元误转账，怕遇到洗钱等约去派出所归还，遭起诉“设置不合理障碍”，法院认定不当得利冻结其账户资金",
@@ -181,7 +145,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T17:49:18.597Z",
+      "publishedAt": "2026-11-08T02:34:54.968Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -235,225 +199,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
+      "score": 62,
+      "ruleScore": 62,
       "eventId": "ev-c77d731c7b"
     },
     {
-      "id": "678484506d5f04bb",
-      "title": "Stars and Scars -- You Be the Judge",
+      "id": "0835f8dca480b9d9",
+      "title": "Candace Cameron Bure sets surprise return to ‘The View’ after previously turning down invite",
       "originalTitle": null,
-      "summary": "Russell Brand's guilty and going away for a long time, the \"Trump Arch\" hits a legal hurdle, but will it stop Prez Trump? Plus, new beefs for Taylor Swift and the Knicks, and Chris Brown vs. Usher. So, we gotta ask ...",
-      "url": "https://www.tmz.com/2026/11/07/polls-you-be-the-judge/",
-      "image": "",
+      "summary": "Bure was a co-host on the talk show from 2015 to 2016.",
+      "url": "https://pagesix.com/2026/11/07/entertainment/candace-cameron-bure-sets-surprise-return-to-the-view/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcandace-cameron-bure-attends-26th-147903093.jpg?w%3D717",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-07T08:25:40.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-e02ddacd89"
-    },
-    {
-      "id": "4612a5194bfc7842",
-      "title": "离婚了，也没孩子，感觉人生好失败，求各位jrs未来方向",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643705452.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-07T17:49:18.597Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-dd7813cf48"
-    },
-    {
-      "id": "fa6c872276e87034",
-      "title": "没想到啊，庾澄庆背景这么强大",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643675980.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-07T17:49:18.597Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-70dfcc316e"
-    },
-    {
-      "id": "5f57eefbf99e158d",
-      "title": "第三届网络文学品牌榜揭晓 《藏海传》《诛仙》等IP上榜",
-      "originalTitle": null,
-      "summary": "中新网长沙11月7日电 (记者 邓霞)11月7日，第三届网络文学品牌榜颁奖典礼在长沙举行，网络作家、网络小说、网络文学IP、网络文学海外传播四大榜单一一揭晓。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728065.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T11:51:59.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 25,
-      "ruleScore": 25,
-      "eventId": "ev-2dcdea62da"
-    },
-    {
-      "id": "e0c9d991521af608",
-      "title": "广西柳州举办友城画展 促进中外青少年交流",
-      "originalTitle": null,
-      "summary": "中新网柳州11月7日电(林馨)11月7日，广西柳州市举行第四届国际友城及国际友好交流城市青少年绘画展暨颁奖仪式。中外学生以画为媒，增进理解、共创未来。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728060.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T11:47:55.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 25,
-      "ruleScore": 25,
-      "eventId": "ev-c9021586ac"
-    },
-    {
-      "id": "9800514196fc08d2",
-      "title": "Sydney Sweeney Cozies Up To Michele Morrone On Set",
-      "originalTitle": null,
-      "summary": "Did these PDA pics raise a brow?! Pipe down y'all ... it's just acting! Earlier this week in New York City, Sydney Sweeney embraced Michele Morrone on the set of \"The Housemaid's Secret.\" Can you unzip the discreet chang…",
-      "url": "https://www.tmz.com/2026/11/07/sydney-sweeney-michele-morrone-movie-set-photo/",
-      "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T08:01:29.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-a21305c00a"
-    },
-    {
-      "id": "3f1709e514727bc7",
-      "title": "Robert Pattinson and Nicholas Hoult join James Bond casting rumors, audition to play the new 007",
-      "originalTitle": null,
-      "summary": "The search for the next James Bond is heating up.",
-      "url": "https://pagesix.com/2026/11/07/entertainment/robert-pattinson-and-nicholas-hoult-join-james-bond-casting-rumors-audition-to-play-the-new-007/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frobert-pattinson-attends-primetime-screening-147872161.jpg?w%3D683",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-07T16:07:14.000Z",
+      "publishedAt": "2026-11-08T01:59:30.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -475,7 +235,211 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-500962fa4a"
+      "eventId": "ev-e1a0802604"
+    },
+    {
+      "id": "294e2e6ef69ea056",
+      "title": "如何看待部分家长让孩子「只上半天学」，下午接回家自主安排？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2102358744822702515",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-08T02:34:54.998Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-f8f7e96203"
+    },
+    {
+      "id": "a6fab0b991cba521",
+      "title": "文吉儿结婚前必须要解决和王子璇的事",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E7%BB%93%E5%A9%9A%E5%89%8D%E5%BF%85%E9%A1%BB%E8%A6%81%E8%A7%A3%E5%86%B3%E5%92%8C%E7%8E%8B%E5%AD%90%E7%92%87%E7%9A%84%E4%BA%8B%23&t=31&band_rank=5&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-08T02:34:54.942Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-f6ccd200fd"
+    },
+    {
+      "id": "2c4e2f5b15cadbf7",
+      "title": "小区地库“离谱转角”9个月连撞11次",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E5%9C%B0%E5%BA%93%E2%80%9C%E7%A6%BB%E8%B0%B1%E8%BD%AC%E8%A7%92%E2%80%9D9%E4%B8%AA%E6%9C%88%E8%BF%9E%E6%92%9E11%E6%AC%A1&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-08T02:34:55.470Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-7d08854132"
+    },
+    {
+      "id": "90f1d9ff2842b2d6",
+      "title": "“光影聚智·两岸共生”影视文化沙龙分享会在厦门举办",
+      "originalTitle": null,
+      "summary": "中新网厦门11月8日电 (吴冠标)11月7日，“光影聚智·两岸共生”影视文化沙龙分享会在厦门举办，汇聚两岸影视行业大咖、高校学者与青年创作者，聚焦闽台影视题材融合、AIGC影视创新等议题展开对话交流。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728213.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-08T00:21:59.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-2e7328370e"
+    },
+    {
+      "id": "e45053031852338e",
+      "title": "Josh Brolin shows off ripped physique while renewing vows with wife Kathryn in Vegas for 10th wedding anniversary",
+      "originalTitle": null,
+      "summary": "The \"Whalefall\" star tied the knot with Kathryn back in 2016.",
+      "url": "https://pagesix.com/2026/11/07/celebrity-news/josh-brolin-renews-vows-with-wife-kathryn-in-vegas-for-10th-anniversary/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjosh-brolin-shows-off-ripped-147918022.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-08T01:13:00.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-ffad67a174"
+    },
+    {
+      "id": "a8c2fe714a9457b3",
+      "title": "Adult Star Lisa Ann & Comedian Matt Rife Feud Over Viral 2023 Radio City Music Hall Incident",
+      "originalTitle": null,
+      "summary": "Adult star Lisa Ann and comedian Matt Rife have started up a bitter feud three years after she was removed from his Radio City Music Hall show in handcuffs. On a recent episode of \"Veterans Minimum\" ...",
+      "url": "https://www.tmz.com/2026/11/07/adult-star-lisa-ann-comedian-matt-rife-feud-over-viral-2023-incident/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-07T22:06:13.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-8d46cea9bb"
     }
   ]
 }
