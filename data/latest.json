@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T11:25:46.118Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-08T18:00:27.420Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 256,
-    "afterFilter": 45,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 265,
+    "afterFilter": 39,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
         "name": "百度热搜",
         "group": "cn",
         "ok": true,
-        "count": 50,
+        "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1524
+        "ms": 1324
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1382
+        "ms": 1013
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1079
+        "ms": 1703
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 792
+        "ms": 552
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 923
+        "ms": 577
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1134
+        "ms": 1687
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 19,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1115
+        "ms": 1682
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1099
+        "ms": 1652
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1483
+        "ms": 1246
       }
     ],
     "ai": {
@@ -108,99 +108,27 @@
     "totalSources": 9
   },
   "mustEat": [
-    "ac56002ed5eac660",
-    "224d63856552877b",
     "ae3d90b05d3f17e7",
-    "cb9a1095d60d0691"
+    "62e1c640279779da"
   ],
   "sections": {
     "life": [
-      "4bf997633e209f15"
+      "7dddb3953cb28957"
     ],
     "romance": [
-      "224d63856552877b",
-      "ae3d90b05d3f17e7",
-      "b560df8a8891204e"
+      "dceca015ebcaa20e"
     ],
     "oddity": [],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "cb9a1095d60d0691",
-      "0835f8dca480b9d9",
-      "ccfaa8de26fcdf66"
+      "62e1c640279779da",
+      "9111d8bd0321229c",
+      "58c6488be2d9cac3"
     ]
   },
   "events": [],
   "items": [
-    {
-      "id": "ac56002ed5eac660",
-      "title": "山西男子收到河南网友1.98万元误转账，怕遇到洗钱等约去派出所归还，遭起诉“设置不合理障碍”，法院认定不当得利冻结其账户资金",
-      "originalTitle": null,
-      "summary": "刘先生反映称，去年11月底，他收到了一笔来自网友的19800元不明转账，与对方相约在公安局见面退还，没想到却被起诉并败诉，账户资金也被冻结。\n \n \n 支付宝夜间收到游戏群友19800元转账\n 对方加微信后称错转要求退回\n \n 刘先生是山西吕梁人，今年38岁，在太原做装修工作。2025年11月28日晚，他收到了一笔19800元的转账。\n \n “这笔钱直接转到了我的支付宝里，无需我确认收款，收到钱的时候我没有发觉。”刘先生说，到了第二天，他看到一个游戏群聊中，大家正在议论有人转错账的事情。与此同时，群里有一人也试图添加刘先生的微信，称其将钱错转给了他。\n \n 刘先生回忆，当时他觉得十分蹊跷，认为这种离谱的事情不可能发生到他的身上。",
-      "url": "https://bbs.hupu.com/643718650.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-08T11:25:39.995Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 68,
-      "ruleScore": 68,
-      "eventId": "ev-212f7cb429"
-    },
-    {
-      "id": "224d63856552877b",
-      "title": "厦金“小三通”客运航线今年客流量已创通航以来年度新高",
-      "originalTitle": null,
-      "summary": "中新社厦门11月8日电 (吴冠标)厦门边检总站高崎边检站8日通报，截至当天上午10时，今年以来厦金“小三通”客运航线出入境旅客量突破182.3万人次，刷新该航线2001年通航以来单年度客流最高纪录。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728310.shtml",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-08T05:34:07.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-95001c57a5"
-    },
     {
       "id": "ae3d90b05d3f17e7",
       "title": "受气象条件影响 “两马”航线9日双向停航",
@@ -231,21 +159,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 60,
-      "ruleScore": 60,
+      "score": 57,
+      "ruleScore": 57,
       "eventId": "ev-e47a3a0425"
     },
     {
-      "id": "cb9a1095d60d0691",
-      "title": "Future of ‘Heated Rivalry’ revealed ahead of wildly popular gay hockey romance’s hotly anticipated second season",
+      "id": "62e1c640279779da",
+      "title": "Gisele Bündchen shares loving birthday tribute to husband Joaquim Valente: ‘How lucky I am’",
       "originalTitle": null,
-      "summary": "\"Heated Rivalry\" fans, your stay at the cottage has been extended.",
-      "url": "https://pagesix.com/2026/11/07/entertainment/future-of-heated-rivalry-revealed-ahead-of-highly-anticipated-season-2/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fconnor-storrie-ilya-rozanov-hudson-129500246.jpg?w%3D1024",
+      "summary": "The supermodel and the Brazilian jiu-jitsu instructor tied the knot last year.",
+      "url": "https://pagesix.com/2026/11/08/celebrity-news/gisele-bundchen-shares-loving-birthday-tribute-to-husband-joaquim-valente/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fgisele-b-ndchen-shares-loving-148012148.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-08T03:47:03.000Z",
+      "publishedAt": "2026-11-08T17:40:14.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -267,63 +195,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-dab199a135"
+      "eventId": "ev-e77997e901"
     },
     {
-      "id": "4bf997633e209f15",
-      "title": "住宅楼起火如何正确逃生？2个避险误区要警惕",
+      "id": "7dddb3953cb28957",
+      "title": "女子打轻薄针后脸垮得像老人",
       "originalTitle": null,
-      "summary": "居民住宅楼起火如何逃生？许多人认为应该往楼下跑，跑到室外才安全，真是这样的吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728344.shtml",
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E8%BD%BB%E8%96%84%E9%92%88%E5%90%8E%E8%84%B8%E5%9E%AE%E5%BE%97%E5%83%8F%E8%80%81%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-08T06:30:49.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-3d07b5abcc"
-    },
-    {
-      "id": "b560df8a8891204e",
-      "title": "只有聊到交友恋爱 学生才会抬起头",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%8F%AA%E6%9C%89%E8%81%8A%E5%88%B0%E4%BA%A4%E5%8F%8B%E6%81%8B%E7%88%B1+%E5%AD%A6%E7%94%9F%E6%89%8D%E4%BC%9A%E6%8A%AC%E8%B5%B7%E5%A4%B4&sa=fyb_news",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-08T11:25:40.378Z",
+      "publishedAt": "2026-11-08T18:00:21.111Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -333,21 +227,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-27b6a745fb"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-67e01d1a68"
     },
     {
-      "id": "0835f8dca480b9d9",
-      "title": "Candace Cameron Bure sets surprise return to ‘The View’ after previously turning down invite",
+      "id": "dceca015ebcaa20e",
+      "title": "火烧靖国神社的刘强，回国后被单位开除，妻子离婚，如今怎样了？",
       "originalTitle": null,
-      "summary": "Bure was a co-host on the talk show from 2015 to 2016.",
-      "url": "https://pagesix.com/2026/11/07/entertainment/candace-cameron-bure-sets-surprise-return-to-the-view/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcandace-cameron-bure-attends-26th-147903093.jpg?w%3D717",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643682643.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-08T18:00:21.094Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-3e8e1f4934"
+    },
+    {
+      "id": "9111d8bd0321229c",
+      "title": "Druski channels fraudster Elizabeth Holmes in ‘You Can See Everything’ spoof for ‘SNL’ debut",
+      "originalTitle": null,
+      "summary": "The comedian and influencer turned himself into the convicted fraudster \"You Can See Everything\" parody trailer.",
+      "url": "https://pagesix.com/2026/11/08/celebrity-news/druski-channels-elizabeth-holmes-in-you-can-see-everything-spoof-for-snl-debut/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fdruski-channels-elizabeth-holmes-see-148008429.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-08T01:59:30.000Z",
+      "publishedAt": "2026-11-08T17:10:42.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,19 +297,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-e1a0802604"
+      "eventId": "ev-4540ef1f5f"
     },
     {
-      "id": "ccfaa8de26fcdf66",
-      "title": "'90 Day Fiancé' Star Shekinah Garner Wants Spousal Support in Bitter Divorce From Ex Sarper",
+      "id": "58c6488be2d9cac3",
+      "title": "Adrien Broner Seemingly Unresponsive, Attended by EMS Workers Before Carried Out of Concert",
       "originalTitle": null,
-      "summary": "Shekinah Garner wants Sarper Güven to pay up in their divorce … she's asking the judge to order him to pay for spousal support and attorney fees ... TMZ has learned.",
-      "url": "https://www.tmz.com/2026/11/08/shekinah-garner-wants-spousal-support-in-divorce/",
+      "summary": "Former boxer Adrien Broner had to be carried down a flight of stairs and placed into a wheelchair at a concert last night ... after he was seemingly unresponsive.",
+      "url": "https://www.tmz.com/2026/11/08/adrien-broner-receives-medical-attention-at-concert/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-08T09:00:45.000Z",
+      "publishedAt": "2026-11-08T14:12:26.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -403,7 +331,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-795275cf21"
+      "eventId": "ev-34916d9266"
     }
   ]
 }
