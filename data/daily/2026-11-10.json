@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-09T22:38:40.375Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 260,
+    "afterFilter": 52,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 3395
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 828
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 736
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 9,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 443
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 559
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 852
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 828
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 808
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1613
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "878fe5d3eb5a1f4f",
+    "3f56f9900d79d150"
+  ],
+  "sections": {
+    "life": [
+      "bec78f67a5485b6d"
+    ],
+    "romance": [
+      "47233dc77d4c739a"
+    ],
+    "oddity": [
+      "2b713fd9cd69a928"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "3f56f9900d79d150",
+      "57dd939398f2faef",
+      "e05c4f39daa7a7cd"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-973a865f83",
+      "title": "老人将6亿遗产留给再婚妻子",
+      "sources": [
+        "weibo",
+        "toutiao"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-11-09T22:38:31.435Z",
+          "title": "老人将6亿遗产留给再婚妻子",
+          "source": "微博热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23&t=31&band_rank=2&Refer=top",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-11-09T22:38:31.526Z",
+          "title": "老人立遗嘱将6亿遗产留给再婚妻子",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7706132006567968804/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706132006567968804%22%2C%22hot_board_impr_id%22%3A%2220261110063831491009F9BDFE13E99BB3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E4%BA%BA%E7%AB%8B%E9%81%97%E5%98%B1%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%22%7D&rank=&style_id=40132&topic_id=7706132006567968804",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "bec78f67a5485b6d"
+    }
+  ],
+  "items": [
+    {
+      "id": "878fe5d3eb5a1f4f",
+      "title": "黄仁勋女朋友曝光，粉裙长发美女！若离婚，妻子或分走5000亿",
+      "originalTitle": null,
+      "summary": "11月8日，英伟达CEO黄仁勋发布 全员信。 \n 信中，他承认对妻子不忠，自己的行为伤害到她和孩子们，并表示自己欠家人和你们所有人一个道歉，愿意承担全部责任并接受批评。 \n \n 随后，英伟达董事会也作出回应，称将启动独立调查，由独立董事会组成的委员会负责，并聘请外部法律顾问协助。 \n 董事会表示，对黄仁勋及公司管理团队保持信心。 \n 全员信中，黄仁勋并没有透露自己的绯闻对象是谁，但据《纽约时报》和《金融时报》披露，黄仁勋与一名叫黄乐（Alice Huang，与黄仁勋无亲属关系）的女士关系密切。 \n \n 有网友曝光了黄乐的朋友圈截图。 \n 个人背景图里女方留着黑色中长发，身着简约白T恤搭配牛仔裤，嘴角带着酒窝，笑容温柔自信。",
+      "url": "https://bbs.hupu.com/643797092.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-09T22:38:31.531Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-a84766a976"
+    },
+    {
+      "id": "3f56f9900d79d150",
+      "title": "Dustin Hoffman confesses he was held at gunpoint while in bed with married woman: ‘I’m gonna die’",
+      "originalTitle": null,
+      "summary": "The Oscar winner vividly remembered the harrowing experience, believing he was a goner.",
+      "url": "https://pagesix.com/2026/11/09/celebrity-news/dustin-hoffman-confesses-he-was-held-at-gunpoint-while-in-bed-with-married-woman/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fi-m-gonna-die-dustin-148136239.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-09T22:37:09.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-0ea7f98159"
+    },
+    {
+      "id": "bec78f67a5485b6d",
+      "title": "老人将6亿遗产留给再婚妻子",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23&t=31&band_rank=2&Refer=top",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-09T22:38:31.435Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "weibo",
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 64,
+      "ruleScore": 64,
+      "eventId": "ev-973a865f83"
+    },
+    {
+      "id": "47233dc77d4c739a",
+      "title": "黄仁勋的恋爱脑伤到了哪些硅谷大佬",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E4%BC%A4%E5%88%B0%E4%BA%86%E5%93%AA%E4%BA%9B%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%23&t=31&band_rank=11&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-09T22:38:31.435Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-576c70e975"
+    },
+    {
+      "id": "2b713fd9cd69a928",
+      "title": "美国人回国后，变身“中国宣传大使”，和家人分享在中国的所见所闻，都惊呆了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643735915.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-09T22:38:31.531Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-bd03106bce"
+    },
+    {
+      "id": "57dd939398f2faef",
+      "title": "Blake Lively swipes Ryan Reynolds’ $990 shirt: ‘Find a husband who you can share clothes with’",
+      "originalTitle": null,
+      "summary": "Who needs a stylist when you have a stylish spouse?",
+      "url": "https://pagesix.com/2026/11/09/style/blake-lively-wears-husband-ryan-reynolds-thom-browne-shirt/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F990-shirt-self-styled-pic-148130642.jpg?w%3D593",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-09T22:03:03.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-20d5114e4d"
+    },
+    {
+      "id": "e05c4f39daa7a7cd",
+      "title": "Rashee Rice’s 5-Figure Weekly NFL Salary Revealed in Bankruptcy",
+      "originalTitle": null,
+      "summary": "Kansas City Chiefs star Rashee Rice revealed how much he earns weekly from the NFL. TMZ obtained court docs in which Rashee filed copies of his pay stubs from the team in his ongoing bankruptcy battle.",
+      "url": "https://www.tmz.com/2026/11/09/rashee-rice-salary-revealed/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-09T22:10:42.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-f181633789"
+    }
+  ]
+}
