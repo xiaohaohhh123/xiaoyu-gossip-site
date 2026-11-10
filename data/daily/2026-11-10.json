@@ -1,13 +1,13 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T04:41:59.976Z",
+  "generatedAt": "2026-11-10T12:52:13.167Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
-    "afterFilter": 42,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 262,
+    "afterFilter": 50,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1304
+        "ms": 3136
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 908
+        "ms": 965
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 814
+        "ms": 774
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 7,
+        "count": 4,
         "error": null,
         "httpStatus": 200,
-        "ms": 628
+        "ms": 443
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 694
+        "ms": 570
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 927
+        "ms": 880
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 900
+        "ms": 877
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 865
+        "ms": 925
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1112
+        "ms": 1575
       }
     ],
     "ai": {
@@ -108,62 +108,134 @@
     "totalSources": 9
   },
   "mustEat": [
-    "878fe5d3eb5a1f4f",
+    "aacb8fc56f917745",
+    "187a3d2d1092dba5",
+    "c08e9b4f195cfc2c",
     "b103a2a1072c809b"
   ],
   "sections": {
-    "life": [
-      "ca0f6a6075d48d4e"
-    ],
+    "life": [],
     "romance": [
-      "c4d2089106faf5c5"
+      "878fe5d3eb5a1f4f"
     ],
     "oddity": [
-      "146a6f07e7f43811"
+      "187a3d2d1092dba5",
+      "c08e9b4f195cfc2c",
+      "f6b0c67dcfd4cbc9"
     ],
-    "twist": [],
+    "twist": [
+      "f594ad721bc6914a"
+    ],
     "entertainment": [],
     "overseas": [
       "b103a2a1072c809b",
-      "96c4a4b2e6ee1246",
-      "bd5692d07f29084b"
+      "bc8bf97788f96c37",
+      "e4940e908438b52d"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "878fe5d3eb5a1f4f",
-      "title": "黄仁勋女朋友曝光，粉裙长发美女！若离婚，妻子或分走5000亿",
+      "id": "aacb8fc56f917745",
+      "title": "甘肃民勤：沙乡产业“微工厂”成农民就业“容纳器”",
       "originalTitle": null,
-      "summary": "11月8日，英伟达CEO黄仁勋发布 全员信。 \n 信中，他承认对妻子不忠，自己的行为伤害到她和孩子们，并表示自己欠家人和你们所有人一个道歉，愿意承担全部责任并接受批评。 \n \n 随后，英伟达董事会也作出回应，称将启动独立调查，由独立董事会组成的委员会负责，并聘请外部法律顾问协助。 \n 董事会表示，对黄仁勋及公司管理团队保持信心。 \n 全员信中，黄仁勋并没有透露自己的绯闻对象是谁，但据《纽约时报》和《金融时报》披露，黄仁勋与一名叫黄乐（Alice Huang，与黄仁勋无亲属关系）的女士关系密切。 \n \n 有网友曝光了黄乐的朋友圈截图。 \n 个人背景图里女方留着黑色中长发，身着简约白T恤搭配牛仔裤，嘴角带着酒窝，笑容温柔自信。",
-      "url": "https://bbs.hupu.com/643797092.html",
+      "summary": "中新网兰州11月10日电 (马爱彬)“外出务工，往往劳动强度大、收入不稳定，没想到重拾熟悉的棚室管护手艺，在家门口成了抢手的技术能手。”初冬时节，甘肃省武威市民勤县，有着二十余年设施种植经验的刘雪琴，依托智能管控体系，统筹四座温室大棚，负责智能雾化、水肥一体化等数字化管护工作，把实操经验融入数字化管护，精准调控育苗条件，保障脱毒种苗培育质量，实现家门口稳定就业增收。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729552.shtml",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "oddity",
+      "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-10T04:41:54.195Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-10T09:35:17.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
-      "score": 93,
-      "ruleScore": 93,
-      "eventId": "ev-a84766a976"
+      "score": 85,
+      "ruleScore": 85,
+      "eventId": "ev-175ccc31f2"
+    },
+    {
+      "id": "187a3d2d1092dba5",
+      "title": "共叙“一叶同源” 海峡两岸茶文化交流活动在福建安溪举办",
+      "originalTitle": null,
+      "summary": "中新网福建安溪11月10日电 (孙虹 吴圣超 黄如莹)以“茶和天下 香飘四海”为主题，海峡两岸茶文化交流活动启动仪式10日在中国乌龙茶之乡、名茶铁观音发源地福建安溪县举办，汇聚两岸约400名茶企、茶商、茶人代表，叙茶缘、话发展。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729542.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-10T09:26:41.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-633bf66f61"
+    },
+    {
+      "id": "c08e9b4f195cfc2c",
+      "title": "黑龙江鸡西市民账户突现200万元 报警核实后全额返还原主",
+      "originalTitle": null,
+      "summary": "中新网鸡西11月10日电 (张方洲 李洪田)记者10日从黑龙江出入境边防检查总站鸡西边境管理支队获悉，鸡西边境管理支队当壁镇边境派出所近日接到辖区居民丁某求助，其银行卡在未发生任何交易的情况下，收到一笔200万元的不明转账。丁某担心资金存在风险，随即前往派出所说明情况。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729671.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-10T11:30:13.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-a9e2e4169d"
     },
     {
       "id": "b103a2a1072c809b",
@@ -200,50 +272,16 @@
       "eventId": "ev-3e5e4654a4"
     },
     {
-      "id": "ca0f6a6075d48d4e",
-      "title": "女子设置失误，5 年给邻居充了近 6000 元话费，发觉后要求返还被拒，法院判定应全部返还，如何看待此事？",
+      "id": "878fe5d3eb5a1f4f",
+      "title": "黄仁勋女朋友曝光，粉裙长发美女！若离婚，妻子或分走5000亿",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/2100595201832116526",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-10T04:41:54.221Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 53,
-      "ruleScore": 53,
-      "eventId": "ev-ce402863ec"
-    },
-    {
-      "id": "c4d2089106faf5c5",
-      "title": "相亲对象聊掰了",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643797601.html",
+      "url": "https://bbs.hupu.com/643797092.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-10T04:41:54.195Z",
+      "publishedAt": "2026-11-10T12:52:05.136Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -265,87 +303,87 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-be7d3567a9"
+      "eventId": "ev-a84766a976"
     },
     {
-      "id": "146a6f07e7f43811",
-      "title": "“消费入座”，如何让商家不必两难？",
+      "id": "f6b0c67dcfd4cbc9",
+      "title": "特厨隋坡:探店这么多年，没想到还是会震惊！",
       "originalTitle": null,
-      "summary": "既要劝导未消费客人，又怕催促引发冲突",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729193.shtml",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643818100.html",
       "image": "",
       "category": "oddity",
-      "topicClass": "scene",
+      "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-10T00:17:01.000Z",
-      "timeBasis": "source",
+      "publishedAt": "2026-11-10T12:52:05.136Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
         ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
       "reversal": false,
       "translated": false,
-      "score": 60,
-      "ruleScore": 60,
-      "eventId": "ev-0ab8ea9a97"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-24bbe7115a"
     },
     {
-      "id": "96c4a4b2e6ee1246",
-      "title": "Rachel Zegler and ‘Hot Javert’ Bradley Jaden are officially dating",
+      "id": "f594ad721bc6914a",
+      "title": "“墙倒众人扶”，曾被人民网点名表扬的李维刚，没成想如今更牛了",
       "originalTitle": null,
-      "summary": "The source tells us, “Rachel was calling and introducing him as her boyfriend,” around the party that drew Ben Vereen, Gayle King, and Billy Porter.",
-      "url": "https://pagesix.com/2026/11/09/celebrity-news/rachel-zegler-and-hot-javert-bradley-jaden-are-officially-dating/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-coverage-rachel-zegler-bradley-148094539_63ac91.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "summary": "2025年1月，李维刚在助农直播里卖原切牛肉卷，货到手成了合成肉，还夹着AB货和套牌。\n 事发不到一周，他公开道歉，自己先掏钱按假一赔十赔给买家，赔出去约750万。别人翻车是掉粉凉掉，他这一赔，粉丝从700万涨到2200多万。这中间到底发生了什么，得从头讲。\n 翻车经过 \n 2025年1月2日，呼和浩特市农牧局发了一份邀请函，请李维刚和团队到当地做助农溯源直播。他是受邀去的，不是自己找的货源。\n 直播里卖的是一批原切肥牛卷，标签上写着生产商是内蒙古额尔古纳市的金牛食品有限责任公司。\n \n \n 货卖出去没几天，有买家把牛肉卷下锅煮，发现煮出来没有牛肉的纹理，口感也不对，就把视频发到网上，怀疑是合成肉。评论区跟着冒出一批同样质疑的人。",
+      "url": "https://bbs.hupu.com/643811793.html",
+      "image": "",
+      "category": "twist",
+      "topicClass": "twist",
       "contentLevel": "story",
-      "publishedAt": "2026-11-09T23:55:55.000Z",
-      "timeBasis": "source",
+      "publishedAt": "2026-11-10T12:52:05.136Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
         ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-59d50f1901"
+      "score": 72,
+      "ruleScore": 72,
+      "eventId": "ev-7e8d84149d"
     },
     {
-      "id": "bd5692d07f29084b",
-      "title": "'Deadliest Catch' Boat F/V Wizard Will Not Be Featured on Upcoming Season",
+      "id": "bc8bf97788f96c37",
+      "title": "UK Celebrity Who Fought to Hide Sex Misconduct Allegations Unmasked",
       "originalTitle": null,
-      "summary": "It's time for the F/V Wizard to cast off ... because the iconic vessel won't be featured in the upcoming season of \"Deadliest Catch,\" TMZ has learned. Sources familiar with the situation tell TMZ ...",
-      "url": "https://www.tmz.com/2026/11/09/fv-wizard-will-not-be-on-deadliest-catch/",
+      "summary": "The mystery celebrity who spent weeks fighting to keep his name secret amid explosive sexual misconduct allegations has finally been unmasked ... and it's author David Walliams!",
+      "url": "https://www.tmz.com/2026/11/10/mystery-uk-star-sex-allegations-identified/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-10T01:50:42.000Z",
+      "publishedAt": "2026-11-10T12:32:09.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -367,7 +405,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-73a3b1ece0"
+      "eventId": "ev-e8d8af4a1e"
+    },
+    {
+      "id": "e4940e908438b52d",
+      "title": "Gypsy Rose Given Ken Urker's Ashes After Cremation",
+      "originalTitle": null,
+      "summary": "Ken Urker will always be with Gypsy Rose Blanchard ... because she was given some of his ashes after his cremation, TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/10/ken-urker-cremated-gyspy-rose-gets-ashes/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-10T09:00:05.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-3d7d3f8dd2"
     }
   ]
 }
