@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-09T22:38:40.375Z",
+  "generatedAt": "2026-11-10T04:41:59.976Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 260,
-    "afterFilter": 52,
+    "totalCollected": 266,
+    "afterFilter": 42,
     "selected": 7,
     "domesticSelected": 4,
     "domesticRatio": 57,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 3395
+        "ms": 1304
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 828
+        "ms": 908
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 736
+        "ms": 814
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 7,
         "error": null,
         "httpStatus": 200,
-        "ms": 443
+        "ms": 628
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 559
+        "ms": 694
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 852
+        "ms": 927
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 828
+        "ms": 900
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 808
+        "ms": 865
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1613
+        "ms": 1112
       }
     ],
     "ai": {
@@ -109,60 +109,27 @@
   },
   "mustEat": [
     "878fe5d3eb5a1f4f",
-    "3f56f9900d79d150"
+    "b103a2a1072c809b"
   ],
   "sections": {
     "life": [
-      "bec78f67a5485b6d"
+      "ca0f6a6075d48d4e"
     ],
     "romance": [
-      "47233dc77d4c739a"
+      "c4d2089106faf5c5"
     ],
     "oddity": [
-      "2b713fd9cd69a928"
+      "146a6f07e7f43811"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "3f56f9900d79d150",
-      "57dd939398f2faef",
-      "e05c4f39daa7a7cd"
+      "b103a2a1072c809b",
+      "96c4a4b2e6ee1246",
+      "bd5692d07f29084b"
     ]
   },
-  "events": [
-    {
-      "id": "ev-973a865f83",
-      "title": "老人将6亿遗产留给再婚妻子",
-      "sources": [
-        "weibo",
-        "toutiao"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-11-09T22:38:31.435Z",
-          "title": "老人将6亿遗产留给再婚妻子",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23&t=31&band_rank=2&Refer=top",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-09T22:38:31.526Z",
-          "title": "老人立遗嘱将6亿遗产留给再婚妻子",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7706132006567968804/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706132006567968804%22%2C%22hot_board_impr_id%22%3A%2220261110063831491009F9BDFE13E99BB3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E4%BA%BA%E7%AB%8B%E9%81%97%E5%98%B1%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%22%7D&rank=&style_id=40132&topic_id=7706132006567968804",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "bec78f67a5485b6d"
-    }
-  ],
+  "events": [],
   "items": [
     {
       "id": "878fe5d3eb5a1f4f",
@@ -174,7 +141,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-09T22:38:31.531Z",
+      "publishedAt": "2026-11-10T04:41:54.195Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -199,16 +166,16 @@
       "eventId": "ev-a84766a976"
     },
     {
-      "id": "3f56f9900d79d150",
-      "title": "Dustin Hoffman confesses he was held at gunpoint while in bed with married woman: ‘I’m gonna die’",
+      "id": "b103a2a1072c809b",
+      "title": "Billy Joel announces return to stage after doctors told him he can’t perform anymore",
       "originalTitle": null,
-      "summary": "The Oscar winner vividly remembered the harrowing experience, believing he was a goner.",
-      "url": "https://pagesix.com/2026/11/09/celebrity-news/dustin-hoffman-confesses-he-was-held-at-gunpoint-while-in-bed-with-married-woman/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fi-m-gonna-die-dustin-148136239.jpg?w%3D1024",
+      "summary": "The legendary musician revealed last month that doctors told him not to drive or perform anymore after getting diagnosed with a rare brain disorder in 2025.",
+      "url": "https://pagesix.com/2026/11/09/celebrity-news/billy-joel-announces-return-to-stage-after-doctors-told-him-he-cant-perform-anymore/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fbilly-joel-performs-stage-mcg-148155185.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-09T22:37:09.000Z",
+      "publishedAt": "2026-11-10T02:09:41.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -230,30 +197,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-0ea7f98159"
+      "eventId": "ev-3e5e4654a4"
     },
     {
-      "id": "bec78f67a5485b6d",
-      "title": "老人将6亿遗产留给再婚妻子",
+      "id": "ca0f6a6075d48d4e",
+      "title": "女子设置失误，5 年给邻居充了近 6000 元话费，发觉后要求返还被拒，法院判定应全部返还，如何看待此事？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23&t=31&band_rank=2&Refer=top",
+      "url": "https://www.zhihu.com/question/2100595201832116526",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-09T22:38:31.435Z",
+      "publishedAt": "2026-11-10T04:41:54.221Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://www.zhihu.com/hot",
       "fact": {
-        "platformCount": 2,
+        "platformCount": 1,
         "platformSources": [
-          "weibo",
-          "toutiao"
+          "zhihu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -263,55 +229,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 64,
-      "ruleScore": 64,
-      "eventId": "ev-973a865f83"
+      "score": 53,
+      "ruleScore": 53,
+      "eventId": "ev-ce402863ec"
     },
     {
-      "id": "47233dc77d4c739a",
-      "title": "黄仁勋的恋爱脑伤到了哪些硅谷大佬",
+      "id": "c4d2089106faf5c5",
+      "title": "相亲对象聊掰了",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E4%BC%A4%E5%88%B0%E4%BA%86%E5%93%AA%E4%BA%9B%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%23&t=31&band_rank=11&Refer=top",
+      "url": "https://bbs.hupu.com/643797601.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-09T22:38:31.435Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-576c70e975"
-    },
-    {
-      "id": "2b713fd9cd69a928",
-      "title": "美国人回国后，变身“中国宣传大使”，和家人分享在中国的所见所闻，都惊呆了",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643735915.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-09T22:38:31.531Z",
+      "publishedAt": "2026-11-10T04:41:54.195Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -331,21 +263,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-bd03106bce"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-be7d3567a9"
     },
     {
-      "id": "57dd939398f2faef",
-      "title": "Blake Lively swipes Ryan Reynolds’ $990 shirt: ‘Find a husband who you can share clothes with’",
+      "id": "146a6f07e7f43811",
+      "title": "“消费入座”，如何让商家不必两难？",
       "originalTitle": null,
-      "summary": "Who needs a stylist when you have a stylish spouse?",
-      "url": "https://pagesix.com/2026/11/09/style/blake-lively-wears-husband-ryan-reynolds-thom-browne-shirt/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F990-shirt-self-styled-pic-148130642.jpg?w%3D593",
+      "summary": "既要劝导未消费客人，又怕催促引发冲突",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729193.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-10T00:17:01.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 60,
+      "ruleScore": 60,
+      "eventId": "ev-0ab8ea9a97"
+    },
+    {
+      "id": "96c4a4b2e6ee1246",
+      "title": "Rachel Zegler and ‘Hot Javert’ Bradley Jaden are officially dating",
+      "originalTitle": null,
+      "summary": "The source tells us, “Rachel was calling and introducing him as her boyfriend,” around the party that drew Ben Vereen, Gayle King, and Billy Porter.",
+      "url": "https://pagesix.com/2026/11/09/celebrity-news/rachel-zegler-and-hot-javert-bradley-jaden-are-officially-dating/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-coverage-rachel-zegler-bradley-148094539_63ac91.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-09T22:03:03.000Z",
+      "publishedAt": "2026-11-09T23:55:55.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -367,19 +333,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-20d5114e4d"
+      "eventId": "ev-59d50f1901"
     },
     {
-      "id": "e05c4f39daa7a7cd",
-      "title": "Rashee Rice’s 5-Figure Weekly NFL Salary Revealed in Bankruptcy",
+      "id": "bd5692d07f29084b",
+      "title": "'Deadliest Catch' Boat F/V Wizard Will Not Be Featured on Upcoming Season",
       "originalTitle": null,
-      "summary": "Kansas City Chiefs star Rashee Rice revealed how much he earns weekly from the NFL. TMZ obtained court docs in which Rashee filed copies of his pay stubs from the team in his ongoing bankruptcy battle.",
-      "url": "https://www.tmz.com/2026/11/09/rashee-rice-salary-revealed/",
+      "summary": "It's time for the F/V Wizard to cast off ... because the iconic vessel won't be featured in the upcoming season of \"Deadliest Catch,\" TMZ has learned. Sources familiar with the situation tell TMZ ...",
+      "url": "https://www.tmz.com/2026/11/09/fv-wizard-will-not-be-on-deadliest-catch/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-09T22:10:42.000Z",
+      "publishedAt": "2026-11-10T01:50:42.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -401,7 +367,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f181633789"
+      "eventId": "ev-73a3b1ece0"
     }
   ]
 }
