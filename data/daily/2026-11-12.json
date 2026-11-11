@@ -1,0 +1,406 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-11T19:48:03.046Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 266,
+    "afterFilter": 47,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1663
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 683
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 695
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 7,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 835
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 507
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 756
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 801
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 767
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 909
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "0e5d79aa4e17a460",
+    "40432c3c0e7e533e"
+  ],
+  "sections": {
+    "life": [],
+    "romance": [
+      "e170d852eca327cd"
+    ],
+    "oddity": [
+      "f6b0c67dcfd4cbc9"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "40432c3c0e7e533e",
+      "e6008719691097e4",
+      "098bb1d207f360f7"
+    ]
+  },
+  "events": [
+    {
+      "id": "ev-a2385feeee",
+      "title": "港媒曝霍启山娜然婚礼请柬",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-11-11T19:47:55.802Z",
+          "title": "港媒曝霍启山娜然婚礼请柬",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7706824016128098825/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706824016128098825%22%2C%22hot_board_impr_id%22%3A%2220261112034755014EA727FFC1E340BFDD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B8%AF%E5%AA%92%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%A9%9A%E7%A4%BC%E8%AF%B7%E6%9F%AC%22%7D&rank=&style_id=40132&topic_id=7706824016128098825",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-11-11T19:47:56.721Z",
+          "title": "霍启山娜然婚礼请柬疑似曝光",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%A9%9A%E7%A4%BC%E8%AF%B7%E6%9F%AC%E7%96%91%E4%BC%BC%E6%9B%9D%E5%85%89&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "d39c4d69b592bf53"
+    }
+  ],
+  "items": [
+    {
+      "id": "0e5d79aa4e17a460",
+      "title": "罕见病纪录片放映引关注 血友病患者讲述“活在热爱里”",
+      "originalTitle": null,
+      "summary": "中新网北京11月11日电 题：罕见病纪录片放映引关注 血友病患者讲述“活在热爱里”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730442.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-11T12:24:53.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 74,
+      "ruleScore": 74,
+      "eventId": "ev-95f019315d"
+    },
+    {
+      "id": "40432c3c0e7e533e",
+      "title": "Amy Schumer reveals gory injury after suffering ‘freak accident’ while tending to pet fish",
+      "originalTitle": null,
+      "summary": "The Emmy-nominated comedian joked via Instagram Stories on Wednesday that, \"yes, [she] blames the fish\" for her gruesome injury.",
+      "url": "https://pagesix.com/2026/11/11/celebrity-news/amy-schumer-reveals-gory-injury-after-suffering-freak-accident-while-tending-to-pet-fish/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-drqexqijiiy-116477531.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-11T19:34:34.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-e5675340ec"
+    },
+    {
+      "id": "e170d852eca327cd",
+      "title": "霍启山娜然婚礼请柬疑似曝光",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%A9%9A%E7%A4%BC%E8%AF%B7%E6%9F%AC%E7%96%91%E4%BC%BC%E6%9B%9D%E5%85%89&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-11T19:47:56.721Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-a2385feeee"
+    },
+    {
+      "id": "f6b0c67dcfd4cbc9",
+      "title": "特厨隋坡:探店这么多年，没想到还是会震惊！",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643818100.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-11T19:47:55.928Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-24bbe7115a"
+    },
+    {
+      "id": "e6008719691097e4",
+      "title": "Dave Portnoy addresses rumors he ‘had sex’ with Alex Cooper as he blasts Sofia Franklyn’s book",
+      "originalTitle": null,
+      "summary": "In Franklyn's \"Daddy Issues\" memoir, which hit bookshelves Tuesday, she implied her former \"Call Her Daddy\" co-host had a fling with Portnoy.",
+      "url": "https://pagesix.com/2026/11/11/celebrity-news/dave-portnoy-responds-to-sofia-franklyns-shocking-claim-he-hooked-up-with-alex-cooper/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-youtube-com-watch-v-148364644.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-11T19:16:16.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-8bba10458f"
+    },
+    {
+      "id": "098bb1d207f360f7",
+      "title": "Giant Bunnie XO Pin-Up Removed From Jelly Roll's Nashville Bar After Divorce Drama",
+      "originalTitle": null,
+      "summary": "Bunnie XO has officially been booted from Jelly Roll's Nashville establishment ... or at least a massive pin-up poster of her has. Here's the deal ...",
+      "url": "https://www.tmz.com/2026/11/11/bunnie-xo-art-figure-removed-from-jelly-roll-bar/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-11T18:50:27.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-4244b2975a"
+    },
+    {
+      "id": "d39c4d69b592bf53",
+      "title": "港媒曝霍启山娜然婚礼请柬",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7706824016128098825/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706824016128098825%22%2C%22hot_board_impr_id%22%3A%2220261112034755014EA727FFC1E340BFDD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B8%AF%E5%AA%92%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%A9%9A%E7%A4%BC%E8%AF%B7%E6%9F%AC%22%7D&rank=&style_id=40132&topic_id=7706824016128098825",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/cac616405a114df58136a6417a7349f4~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1796947200&x-signature=RRn3JRqZVeDoE%2F1SflPF4gL8z1w%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-11T19:47:55.802Z",
+      "timeBasis": "fetch",
+      "heat": 2451555,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 66,
+      "ruleScore": 66,
+      "eventId": "ev-a2385feeee"
+    }
+  ]
+}
