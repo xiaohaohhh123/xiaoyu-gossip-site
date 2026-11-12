@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T20:16:59.248Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 265,
+    "afterFilter": 35,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1266
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 610
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 843
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 9,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 459
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 588
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 887
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 822
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 820
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1401
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "f6529618736da0d2",
+    "194f928d693464b8",
+    "6b29678b3669dae6"
+  ],
+  "sections": {
+    "life": [
+      "9c49451db46a05f5"
+    ],
+    "romance": [
+      "4c2f6ac7ad9b6e98"
+    ],
+    "oddity": [
+      "194f928d693464b8"
+    ],
+    "twist": [],
+    "entertainment": [
+      "39642ba4f52a859a",
+      "f3422c1697608c80"
+    ],
+    "overseas": [
+      "6b29678b3669dae6",
+      "4d405a39cab940a7",
+      "a0dc6b2b9ed556b4"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "f6529618736da0d2",
+      "title": "退休铁路工人拍摄30余万张照片 为百年滇越铁路“留影”",
+      "originalTitle": null,
+      "summary": "中新网昆明11月12日电 (黄欣媛)“南盘江记——刘红波拍摄的滇越铁路照片12年工业遗产公开课”12日在云南昆明举行。滇越铁路研究者刘红波分享其十余年来拍摄的铁路影像，带领公众回望百年滇越铁路的历史变迁，探讨工业遗产保护与活化利用的更多可能。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731199.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T13:50:28.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-021e53140b"
+    },
+    {
+      "id": "194f928d693464b8",
+      "title": "台湾各界人士在台北举办“两岸和平倡议大会”",
+      "originalTitle": null,
+      "summary": "中新社台北11月12日电 (记者 路梅)台湾各界人士12日在台北举办“两岸和平倡议大会”，呼吁加强对话交流，以合作增进共同利益，逐步降低敌意与冲突风险，进而共同协商最终政治安排，共创两岸繁荣发展、长期和平。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731072.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T12:01:28.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 74,
+      "ruleScore": 74,
+      "eventId": "ev-f87922e680"
+    },
+    {
+      "id": "6b29678b3669dae6",
+      "title": "Tyra Banks confirms split from longtime boyfriend Louis Bélanger-Martin after 7 years together",
+      "originalTitle": null,
+      "summary": "Page Six broke the news that the two were dating back in 2019.",
+      "url": "https://pagesix.com/2026/11/12/celebrity-news/tyra-banks-confirms-split-from-longtime-boyfriend-louis-belanger-martin-after-7-years-together/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnew-york-city-ny-former-148476539.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T19:57:13.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-bafb8a3133"
+    },
+    {
+      "id": "9c49451db46a05f5",
+      "title": "你支持小区取消物业，实行业主自治管理吗？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2089365159668093568",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-12T20:16:53.573Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-98420c0bdc"
+    },
+    {
+      "id": "4c2f6ac7ad9b6e98",
+      "title": "港媒曝霍启山与娜然喜帖，二人 12 月 12 日将在香港办婚礼，哪些细节值得关注？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2103921611434939660",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-12T20:16:53.573Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 60,
+      "ruleScore": 60,
+      "eventId": "ev-060b0ba6b3"
+    },
+    {
+      "id": "39642ba4f52a859a",
+      "title": "央媒怒批！大脑空空、目不识丁，难怪金鸡奖从不颁给“流量明星”",
+      "originalTitle": null,
+      "summary": "第39届金鸡奖圆满落幕。\n 一众实力派演员同台较量。 \n 看的让人惊心动魄。\n \n \n 放眼获奖名单。\n 全是清一色的实力派演员。 \n \n \n 而那些靠流量刷脸的明星。\n 却“集体隐身”，无一人上榜。 \n \n \n 直到看到央媒曾亲自下场。\n 怒批这些流量明星为“绝望的文盲”。 \n \n \n 才明白这些主流奖项。\n 为何从不颁给“流量明星”。\n \n \n 01 \n 10月19日晚，金鸡奖公布了所有奖项的获得者。\n 作为国内电影界极具影响力的奖项。\n \n \n 金鸡奖被视为华语电影对演员专业实力最权威的认可。\n 每一座奖杯，都要经得起镜头、经得起观众的推敲。 \n \n \n 它只认扎实的演技，从不认热搜和粉丝的追捧。",
+      "url": "https://bbs.hupu.com/643863036.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T20:16:53.509Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-6449c595d8"
+    },
+    {
+      "id": "f3422c1697608c80",
+      "title": "\"妲己\"终入霍家门！43岁中国香港足总主席霍启山，将迎娶29岁女星",
+      "originalTitle": null,
+      "summary": "一张请柬，今天把整个娱乐圈炸了。\n \n \n 喜帖上印着：12月12日，星期六，香港君悦酒店宴会大礼堂。署名的人是霍震霆和朱玲玲。对娜然的称呼，写的是\"长女娜然\"——这仨字的含金量，懂的人自然懂。不是\"小姐\"，不是\"女士\"，是\"长女\"，跟叫自家闺女没区别了。 \n 下午四点半到六点开放媒体拍照，六点半酒会加切蛋糕。连流程都白纸黑字列好了。\n \n \n 消息从上午开始往外冒，到晚上各平台热搜全挂上了。评论区炸得跟过年一样，有人说\"妲己这回真嫁进豪门了\"，有人翻老黄历感慨\"章子怡当年怎么就没修成正果\"，还有人拿放大镜研究请柬字体——行了行了，字体能看出啥来。\n 可截到现在，当事人这边静得出奇。",
+      "url": "https://bbs.hupu.com/643862829.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T20:16:53.509Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-25fabb33c2"
+    },
+    {
+      "id": "4d405a39cab940a7",
+      "title": "Mariska Hargitay’s staggering ‘Law & Order: SVU’ salary revealed",
+      "originalTitle": null,
+      "summary": "Hargitay has played Olivia Benson since the show's premiere in 1999.",
+      "url": "https://pagesix.com/2026/11/12/entertainment/mariska-hargitays-staggering-law-order-svu-salary-revealed/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmariska-hargitay-capt-olivia-benson-148497297.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T19:51:51.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-3d7a858c5c"
+    },
+    {
+      "id": "a0dc6b2b9ed556b4",
+      "title": "'Married to Medicine' Star LaTeasha Lunceford Files for Divorce from Dr. Gregory",
+      "originalTitle": null,
+      "summary": "There’s apparently no amount of CPR that can save LaTeasha Lunceford’s marriage … because she’s filed for divorce from Dr. Gregory Lunceford ... TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/12/lateasha-lunceford-files-divorce-gregory/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T20:03:08.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5077ebcf80"
+    }
+  ]
+}

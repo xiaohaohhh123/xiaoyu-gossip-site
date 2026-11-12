@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T13:02:21.253Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T20:16:59.248Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
-    "afterFilter": 39,
+    "totalCollected": 265,
+    "afterFilter": 35,
     "selected": 9,
     "domesticSelected": 6,
     "domesticRatio": 67,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1337
+        "ms": 1266
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 853
+        "ms": 610
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 700
+        "ms": 843
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 407
+        "ms": 459
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 563
+        "ms": 588
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 845
+        "ms": 887
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 807
+        "ms": 822
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 817
+        "ms": 820
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1299
+        "ms": 1401
       }
     ],
     "ai": {
@@ -108,65 +108,66 @@
     "totalSources": 9
   },
   "mustEat": [
-    "c8b3d8bd53fe6cbd",
+    "f6529618736da0d2",
     "194f928d693464b8",
-    "9bf5aa8e0e90db64"
+    "6b29678b3669dae6"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "9c49451db46a05f5"
+    ],
     "romance": [
-      "475021086cf74e6c"
+      "4c2f6ac7ad9b6e98"
     ],
     "oddity": [
-      "194f928d693464b8",
-      "8d08346d9268c054"
+      "194f928d693464b8"
     ],
     "twist": [],
     "entertainment": [
-      "a0d1a0fd4ddd1003",
-      "39642ba4f52a859a"
+      "39642ba4f52a859a",
+      "f3422c1697608c80"
     ],
     "overseas": [
-      "9bf5aa8e0e90db64",
-      "68a1e4d3de205829",
-      "551dddf88e0ab501"
+      "6b29678b3669dae6",
+      "4d405a39cab940a7",
+      "a0dc6b2b9ed556b4"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "c8b3d8bd53fe6cbd",
-      "title": "聊聊你认为值得钦佩的一位普通人",
+      "id": "f6529618736da0d2",
+      "title": "退休铁路工人拍摄30余万张照片 为百年滇越铁路“留影”",
       "originalTitle": null,
-      "summary": "你身边有没有出现过令人钦佩的普通人？\n 可能是你身边的朋友。\n 可能是你楼下天天晨练的大爷。\n 可能是你只在视频里刷到过、这辈子都不会认识的人...\n \n 他做过什么？\n 你为什么钦佩他？\n 和JRs一起聊聊你最欣赏的普通人故事！",
-      "url": "https://bbs.hupu.com/643851044.html",
+      "summary": "中新网昆明11月12日电 (黄欣媛)“南盘江记——刘红波拍摄的滇越铁路照片12年工业遗产公开课”12日在云南昆明举行。滇越铁路研究者刘红波分享其十余年来拍摄的铁路影像，带领公众回望百年滇越铁路的历史变迁，探讨工业遗产保护与活化利用的更多可能。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731199.shtml",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T13:02:15.607Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-12T13:50:28.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-5ddceccccc"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-021e53140b"
     },
     {
       "id": "194f928d693464b8",
@@ -198,33 +199,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 77,
-      "ruleScore": 77,
+      "score": 74,
+      "ruleScore": 74,
       "eventId": "ev-f87922e680"
     },
     {
-      "id": "9bf5aa8e0e90db64",
-      "title": "Patty In 'Diary Of A Wimpy Kid' 'Memba Her?!",
+      "id": "6b29678b3669dae6",
+      "title": "Tyra Banks confirms split from longtime boyfriend Louis Bélanger-Martin after 7 years together",
       "originalTitle": null,
-      "summary": "Canadian actress Laine MacNeil was just 13 years old when she played Patty Farrell -- the mean, competitive teacher's pet and Greg Heffley's bully -- in the 2010 family/comedy film \"Diary of A Wimpy Kid.\" Patty hit the b…",
-      "url": "https://www.tmz.com/2026/11/12/laine-macneil-patty-in-diary-of-a-wimpy-kid/",
-      "image": "",
+      "summary": "Page Six broke the news that the two were dating back in 2019.",
+      "url": "https://pagesix.com/2026/11/12/celebrity-news/tyra-banks-confirms-split-from-longtime-boyfriend-louis-belanger-martin-after-7-years-together/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnew-york-city-ny-former-148476539.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T08:01:20.000Z",
+      "publishedAt": "2026-11-12T19:57:13.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -232,99 +233,30 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-871bec309c"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-bafb8a3133"
     },
     {
-      "id": "475021086cf74e6c",
-      "title": "白衣女子是新娘的闺蜜，本来结婚是个喜庆的日子，但这个闺蜜看见新郎给的“喜钱”比较少，当场就发飙了",
+      "id": "9c49451db46a05f5",
+      "title": "你支持小区取消物业，实行业主自治管理吗？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643837492.html",
+      "url": "https://www.zhihu.com/question/2089365159668093568",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-12T13:02:15.607Z",
+      "publishedAt": "2026-11-12T20:16:53.573Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.zhihu.com/hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-699dde84df"
-    },
-    {
-      "id": "8d08346d9268c054",
-      "title": "花少8被曝后期抓马似花少2",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E8%A2%AB%E6%9B%9D%E5%90%8E%E6%9C%9F%E6%8A%93%E9%A9%AC%E4%BC%BC%E8%8A%B1%E5%B0%912%23&t=31&band_rank=29&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-12T13:02:15.496Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-d9d849371a"
-    },
-    {
-      "id": "a0d1a0fd4ddd1003",
-      "title": "赵丽颖起诉红果短剧！",
-      "originalTitle": null,
-      "summary": "企查查公开信息显示，近日，北京笔墨留香科技有限公司新增开庭公告，案由涉及肖像权纠纷，原告方为赵丽颖，被告方包括北京笔墨留香科技有限公司、史某伦等。\n 赵丽颖因肖像权纠纷起诉维权不止一起。企查查APP此前还显示，近日，赵丽颖诉另两家公司侵权案新增法院公告信息。详情显示，赵丽颖诉请判令被告停止生产、销售涉案侵权产品，全面停止侵权行为，并公开赔礼道歉，同时要求赔偿经济损失及维权合理开支共计81万元。该案将定于举证期满后的第3日上午9时30分在法院公开开庭审理，逾期将依法判决。（综合封面新闻等）",
-      "url": "https://bbs.hupu.com/643862529.html",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-12T13:02:15.607Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "hupu",
           "zhihu"
         ],
         "mediaCount": 0,
@@ -333,11 +265,45 @@
         "label": "平台热榜",
         "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
-      "score": 41,
-      "ruleScore": 41,
-      "eventId": "ev-0703125559"
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-98420c0bdc"
+    },
+    {
+      "id": "4c2f6ac7ad9b6e98",
+      "title": "港媒曝霍启山与娜然喜帖，二人 12 月 12 日将在香港办婚礼，哪些细节值得关注？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2103921611434939660",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-12T20:16:53.573Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 60,
+      "ruleScore": 60,
+      "eventId": "ev-060b0ba6b3"
     },
     {
       "id": "39642ba4f52a859a",
@@ -349,7 +315,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T13:02:15.607Z",
+      "publishedAt": "2026-11-12T20:16:53.509Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -374,50 +340,50 @@
       "eventId": "ev-6449c595d8"
     },
     {
-      "id": "68a1e4d3de205829",
-      "title": "Jen Affleck reveals the shocking final straw that led to Zac divorce: ‘The money’s gone’",
+      "id": "f3422c1697608c80",
+      "title": "\"妲己\"终入霍家门！43岁中国香港足总主席霍启山，将迎娶29岁女星",
       "originalTitle": null,
-      "summary": "The \"Secret Lives of Mormon Wives: Orange County\" star opened up about what motivated her to initiate the split.",
-      "url": "https://pagesix.com/2026/11/12/entertainment/jen-affleck-reveals-the-shocking-final-straw-that-led-to-zac-divorce/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmomtok-back-damaging-revelations-allegations-148118936_26f8ea.jpg?w%3D1024",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "summary": "一张请柬，今天把整个娱乐圈炸了。\n \n \n 喜帖上印着：12月12日，星期六，香港君悦酒店宴会大礼堂。署名的人是霍震霆和朱玲玲。对娜然的称呼，写的是\"长女娜然\"——这仨字的含金量，懂的人自然懂。不是\"小姐\"，不是\"女士\"，是\"长女\"，跟叫自家闺女没区别了。 \n 下午四点半到六点开放媒体拍照，六点半酒会加切蛋糕。连流程都白纸黑字列好了。\n \n \n 消息从上午开始往外冒，到晚上各平台热搜全挂上了。评论区炸得跟过年一样，有人说\"妲己这回真嫁进豪门了\"，有人翻老黄历感慨\"章子怡当年怎么就没修成正果\"，还有人拿放大镜研究请柬字体——行了行了，字体能看出啥来。\n 可截到现在，当事人这边静得出奇。",
+      "url": "https://bbs.hupu.com/643862829.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T13:00:00.000Z",
-      "timeBasis": "source",
+      "publishedAt": "2026-11-12T20:16:53.509Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
         ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-c3d584b350"
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-25fabb33c2"
     },
     {
-      "id": "551dddf88e0ab501",
-      "title": "9 celebrity book club picks to read this month from Reese Witherspoon, Jenna Bush Hager and more",
+      "id": "4d405a39cab940a7",
+      "title": "Mariska Hargitay’s staggering ‘Law & Order: SVU’ salary revealed",
       "originalTitle": null,
-      "summary": "See all the celebrity book club picks for November.",
-      "url": "https://pagesix.com/lifestyle/celebrity-book-club-monthly-picks/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F148105253.jpg?quality%3D90%26strip%3Dall",
+      "summary": "Hargitay has played Olivia Benson since the show's premiere in 1999.",
+      "url": "https://pagesix.com/2026/11/12/entertainment/mariska-hargitays-staggering-law-order-svu-salary-revealed/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmariska-hargitay-capt-olivia-benson-148497297.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T03:49:52.000Z",
+      "publishedAt": "2026-11-12T19:51:51.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -439,7 +405,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-8b2720b9a4"
+      "eventId": "ev-3d7a858c5c"
+    },
+    {
+      "id": "a0dc6b2b9ed556b4",
+      "title": "'Married to Medicine' Star LaTeasha Lunceford Files for Divorce from Dr. Gregory",
+      "originalTitle": null,
+      "summary": "There’s apparently no amount of CPR that can save LaTeasha Lunceford’s marriage … because she’s filed for divorce from Dr. Gregory Lunceford ... TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/12/lateasha-lunceford-files-divorce-gregory/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-12T20:03:08.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5077ebcf80"
     }
   ]
 }
