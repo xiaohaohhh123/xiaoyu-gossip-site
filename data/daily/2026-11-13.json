@@ -1,13 +1,13 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-12T20:16:59.248Z",
+  "generatedAt": "2026-11-13T03:28:17.750Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 265,
-    "afterFilter": 35,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 255,
+    "afterFilter": 40,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1266
+        "ms": 2529
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 610
+        "ms": 992
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 843
+        "ms": 1144
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 7,
         "error": null,
         "httpStatus": 200,
-        "ms": 459
+        "ms": 835
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 588
+        "ms": 936
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 887
+        "ms": 1293
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 822
+        "ms": 1276
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 820
+        "ms": 1289
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1401
+        "ms": 1425
       }
     ],
     "ai": {
@@ -109,28 +109,25 @@
   },
   "mustEat": [
     "f6529618736da0d2",
-    "194f928d693464b8",
-    "6b29678b3669dae6"
+    "11af34d874b62662"
   ],
   "sections": {
     "life": [
-      "9c49451db46a05f5"
+      "d065effe7dd03acf"
     ],
     "romance": [
-      "4c2f6ac7ad9b6e98"
+      "6991a7e209a5c967"
     ],
-    "oddity": [
-      "194f928d693464b8"
-    ],
+    "oddity": [],
     "twist": [],
     "entertainment": [
       "39642ba4f52a859a",
-      "f3422c1697608c80"
+      "a0d1a0fd4ddd1003"
     ],
     "overseas": [
-      "6b29678b3669dae6",
-      "4d405a39cab940a7",
-      "a0dc6b2b9ed556b4"
+      "11af34d874b62662",
+      "1ae51d62e3b7b5b6",
+      "4ee7774023e37b2a"
     ]
   },
   "events": [],
@@ -165,55 +162,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 78,
-      "ruleScore": 78,
+      "score": 76,
+      "ruleScore": 76,
       "eventId": "ev-021e53140b"
     },
     {
-      "id": "194f928d693464b8",
-      "title": "台湾各界人士在台北举办“两岸和平倡议大会”",
+      "id": "11af34d874b62662",
+      "title": "Libbie Mugrabi’s mom gets served at beauty event by former assistant disguised in burqa",
       "originalTitle": null,
-      "summary": "中新社台北11月12日电 (记者 路梅)台湾各界人士12日在台北举办“两岸和平倡议大会”，呼吁加强对话交流，以合作增进共同利益，逐步降低敌意与冲突风险，进而共同协商最终政治安排，共创两岸繁荣发展、长期和平。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731072.shtml",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-12T12:01:28.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 74,
-      "ruleScore": 74,
-      "eventId": "ev-f87922e680"
-    },
-    {
-      "id": "6b29678b3669dae6",
-      "title": "Tyra Banks confirms split from longtime boyfriend Louis Bélanger-Martin after 7 years together",
-      "originalTitle": null,
-      "summary": "Page Six broke the news that the two were dating back in 2019.",
-      "url": "https://pagesix.com/2026/11/12/celebrity-news/tyra-banks-confirms-split-from-longtime-boyfriend-louis-belanger-martin-after-7-years-together/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnew-york-city-ny-former-148476539.jpg?w%3D683",
+      "summary": "Ex-assistant Francis Urrutia claims she served Jane Scher with a $50K unpaid-wages suit during a beauty event.",
+      "url": "https://pagesix.com/2026/11/12/society/libbie-mugrabis-mom-gets-served-at-beauty-event-by-her-former-assistant-wearing-religious-garb/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F000-owes-bills-wazoo-told-148505983.png?w%3D641",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T19:57:13.000Z",
+      "publishedAt": "2026-11-13T01:49:32.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -235,63 +198,63 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-bafb8a3133"
+      "eventId": "ev-b40e81f5e0"
     },
     {
-      "id": "9c49451db46a05f5",
-      "title": "你支持小区取消物业，实行业主自治管理吗？",
+      "id": "d065effe7dd03acf",
+      "title": "打造富豪人设，找人假扮父母 一男子以婚恋为名骗了近200万元",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://www.zhihu.com/question/2089365159668093568",
+      "summary": "本报全媒体记者 张鹏 通讯员 张鹏飞 张业森",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731332.shtml",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-12T20:16:53.573Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-13T02:16:57.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-98420c0bdc"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-eaba4733c1"
     },
     {
-      "id": "4c2f6ac7ad9b6e98",
-      "title": "港媒曝霍启山与娜然喜帖，二人 12 月 12 日将在香港办婚礼，哪些细节值得关注？",
+      "id": "6991a7e209a5c967",
+      "title": "林生斌已故妻子朱小贞父母称女儿生前遭出轨家暴",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/2103921611434939660",
+      "url": "https://bbs.hupu.com/643876368.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-12T20:16:53.573Z",
+      "publishedAt": "2026-11-13T03:28:10.810Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "zhihu"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -301,9 +264,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 60,
-      "ruleScore": 60,
-      "eventId": "ev-060b0ba6b3"
+      "score": 46,
+      "ruleScore": 46,
+      "eventId": "ev-485f58bf15"
     },
     {
       "id": "39642ba4f52a859a",
@@ -315,7 +278,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T20:16:53.509Z",
+      "publishedAt": "2026-11-13T03:28:10.810Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -340,16 +303,16 @@
       "eventId": "ev-6449c595d8"
     },
     {
-      "id": "f3422c1697608c80",
-      "title": "\"妲己\"终入霍家门！43岁中国香港足总主席霍启山，将迎娶29岁女星",
+      "id": "a0d1a0fd4ddd1003",
+      "title": "赵丽颖起诉红果短剧！",
       "originalTitle": null,
-      "summary": "一张请柬，今天把整个娱乐圈炸了。\n \n \n 喜帖上印着：12月12日，星期六，香港君悦酒店宴会大礼堂。署名的人是霍震霆和朱玲玲。对娜然的称呼，写的是\"长女娜然\"——这仨字的含金量，懂的人自然懂。不是\"小姐\"，不是\"女士\"，是\"长女\"，跟叫自家闺女没区别了。 \n 下午四点半到六点开放媒体拍照，六点半酒会加切蛋糕。连流程都白纸黑字列好了。\n \n \n 消息从上午开始往外冒，到晚上各平台热搜全挂上了。评论区炸得跟过年一样，有人说\"妲己这回真嫁进豪门了\"，有人翻老黄历感慨\"章子怡当年怎么就没修成正果\"，还有人拿放大镜研究请柬字体——行了行了，字体能看出啥来。\n 可截到现在，当事人这边静得出奇。",
-      "url": "https://bbs.hupu.com/643862829.html",
+      "summary": "企查查公开信息显示，近日，北京笔墨留香科技有限公司新增开庭公告，案由涉及肖像权纠纷，原告方为赵丽颖，被告方包括北京笔墨留香科技有限公司、史某伦等。\n 赵丽颖因肖像权纠纷起诉维权不止一起。企查查APP此前还显示，近日，赵丽颖诉另两家公司侵权案新增法院公告信息。详情显示，赵丽颖诉请判令被告停止生产、销售涉案侵权产品，全面停止侵权行为，并公开赔礼道歉，同时要求赔偿经济损失及维权合理开支共计81万元。该案将定于举证期满后的第3日上午9时30分在法院公开开庭审理，逾期将依法判决。（综合封面新闻等）",
+      "url": "https://bbs.hupu.com/643862529.html",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T20:16:53.509Z",
+      "publishedAt": "2026-11-13T03:28:10.810Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -367,23 +330,23 @@
         "label": "平台热榜",
         "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
-      "score": 39,
-      "ruleScore": 39,
-      "eventId": "ev-25fabb33c2"
+      "score": 38,
+      "ruleScore": 38,
+      "eventId": "ev-4754f4e30b"
     },
     {
-      "id": "4d405a39cab940a7",
-      "title": "Mariska Hargitay’s staggering ‘Law & Order: SVU’ salary revealed",
+      "id": "1ae51d62e3b7b5b6",
+      "title": "Lin-Manuel Miranda turns piano where he wrote ‘In the Heights’ hits over to aspiring artists",
       "originalTitle": null,
-      "summary": "Hargitay has played Olivia Benson since the show's premiere in 1999.",
-      "url": "https://pagesix.com/2026/11/12/entertainment/mariska-hargitays-staggering-law-order-svu-salary-revealed/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmariska-hargitay-capt-olivia-benson-148497297.jpg",
+      "summary": "A once-dingy basement on West 39th Street has been transformed into a black box theater.",
+      "url": "https://pagesix.com/2026/11/12/society/lin-manuel-miranda-turns-piano-where-he-wrote-in-the-heights-hits-over-to-aspiring-artists/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FLin-Manuel-Miranda-and-Thomas-Kail-at-the-Gilbert-Parker-Studio-Credit_-Tricia-Baron.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T19:51:51.000Z",
+      "publishedAt": "2026-11-13T01:03:52.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,19 +368,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-3d7a858c5c"
+      "eventId": "ev-e83d87e47f"
     },
     {
-      "id": "a0dc6b2b9ed556b4",
-      "title": "'Married to Medicine' Star LaTeasha Lunceford Files for Divorce from Dr. Gregory",
+      "id": "4ee7774023e37b2a",
+      "title": "Camgirl's Screams During Live Stream Help Expose Alleged Abuse, TMZ Doc Reveals",
       "originalTitle": null,
-      "summary": "There’s apparently no amount of CPR that can save LaTeasha Lunceford’s marriage … because she’s filed for divorce from Dr. Gregory Lunceford ... TMZ has learned.",
-      "url": "https://www.tmz.com/2026/11/12/lateasha-lunceford-files-divorce-gregory/",
+      "summary": "A disturbing scream was heard during a camgirl live stream ... and it was one of the chilling moments that helped expose an alleged criminal operation.",
+      "url": "https://www.tmz.com/2026/11/12/nikita-tyukalo-camgirl-abuse-exposed/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T20:03:08.000Z",
+      "publishedAt": "2026-11-12T20:00:32.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -439,7 +402,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5077ebcf80"
+      "eventId": "ev-adb0425bd7"
     }
   ]
 }
