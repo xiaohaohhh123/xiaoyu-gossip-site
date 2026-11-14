@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T11:39:47.501Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-14T18:24:51.602Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
-    "afterFilter": 41,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 265,
+    "afterFilter": 40,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1619
+        "ms": 1432
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1009
+        "ms": 966
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 803
+        "ms": 687
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 11,
         "error": null,
         "httpStatus": 200,
-        "ms": 607
+        "ms": 418
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 711
+        "ms": 569
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 926
+        "ms": 848
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 942
+        "ms": 819
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 900
+        "ms": 796
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1703
+        "ms": 1818
       }
     ],
     "ai": {
@@ -109,25 +109,27 @@
   },
   "mustEat": [
     "cda7f78b20e54835",
-    "6a0e4a68b726d732"
+    "b4b864c061311791"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "b416824621356acb"
+    ],
     "romance": [
-      "49bc055cecc62e8b"
+      "61355a28de938e1c"
     ],
     "oddity": [
-      "5daced07026e17d9"
+      "485372a8a112c1e0"
     ],
     "twist": [],
     "entertainment": [
       "a02aa39fa225700a",
-      "910b64168cc3de6a"
+      "b828b46c8f9af950"
     ],
     "overseas": [
-      "6a0e4a68b726d732",
-      "f455ec46e66e5212",
-      "e3f3b4451c656d91"
+      "b4b864c061311791",
+      "1b6905b634d828a0",
+      "a9815d824a79ce50"
     ]
   },
   "events": [],
@@ -162,21 +164,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 83,
-      "ruleScore": 83,
+      "score": 81,
+      "ruleScore": 81,
       "eventId": "ev-788cb9a12c"
     },
     {
-      "id": "6a0e4a68b726d732",
-      "title": "Aaron Rodgers reunites with brother Jordan in rare photo after years-long family feud: ‘Really proud’",
+      "id": "b4b864c061311791",
+      "title": "Prince William, Kate Middleton celebrate King Charles’ 78th birthday with surprising Elton John tribute",
       "originalTitle": null,
-      "summary": "The Pittsburgh Steelers quarterback, 42, met up with Jordan, 38, on Friday at Acrisure Stadium.",
-      "url": "https://pagesix.com/2026/11/14/celebrity-news/steelers-aaron-rodgers-reunites-with-brother-jordan-in-rare-photo-after-years-long-family-feud/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dftgx-148717505.jpg?w%3D956",
+      "summary": "The King celebrated his 78th birthday on Saturday.",
+      "url": "https://pagesix.com/2026/11/14/royal-family/prince-william-kate-middleton-celebrate-king-charles-78th-birthday/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-stories-148751193.jpg?w%3D582",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T08:55:55.000Z",
+      "publishedAt": "2026-11-14T18:16:48.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -198,19 +200,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-e73abfeb24"
+      "eventId": "ev-a85339d9bf"
     },
     {
-      "id": "49bc055cecc62e8b",
-      "title": "大美曾直播跟婆婆哭诉高迪不回家",
+      "id": "b416824621356acb",
+      "title": "孩子觉得打包丢人被老师扣分引热议",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%9B%BE%E7%9B%B4%E6%92%AD%E8%B7%9F%E5%A9%86%E5%A9%86%E5%93%AD%E8%AF%89%E9%AB%98%E8%BF%AA%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=25&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A7%89%E5%BE%97%E6%89%93%E5%8C%85%E4%B8%A2%E4%BA%BA%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%A3%E5%88%86%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=15&Refer=top",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-14T11:39:41.295Z",
+      "publishedAt": "2026-11-14T18:24:44.866Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -230,31 +232,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-6067d070f5"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-197b68112f"
     },
     {
-      "id": "5daced07026e17d9",
-      "title": "中纪委罕见通报高官一把手职权腐败",
+      "id": "61355a28de938e1c",
+      "title": "孙悦婚礼孙卓落泪拥抱姐姐",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
+      "url": "https://www.toutiao.com/trending/7707640615219806217/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707640615219806217%22%2C%22hot_board_impr_id%22%3A%22202611150224442DBA76FAA458EAFC2F33%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%99%E6%82%A6%E5%A9%9A%E7%A4%BC%E5%AD%99%E5%8D%93%E8%90%BD%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%A7%90%E5%A7%90%22%7D&rank=&style_id=40132&topic_id=7707640615219806217",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b60959dea8f943d285d522267d92349a~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797206400&x-signature=OPCd6TNgH%2FSLyNDT633rSbqQIvI%3D",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-14T11:39:42.088Z",
+      "publishedAt": "2026-11-14T18:24:45.144Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "heat": 21868425,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -264,9 +266,43 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-798178528d"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-1867655140"
+    },
+    {
+      "id": "485372a8a112c1e0",
+      "title": "白小纯居然是来报恩的",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%B1%85%E7%84%B6%E6%98%AF%E6%9D%A5%E6%8A%A5%E6%81%A9%E7%9A%84&t=31&band_rank=4&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-14T18:24:44.866Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-2397822da3"
     },
     {
       "id": "a02aa39fa225700a",
@@ -278,7 +314,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T11:39:41.436Z",
+      "publishedAt": "2026-11-14T18:24:45.002Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -303,16 +339,16 @@
       "eventId": "ev-7bcedce373"
     },
     {
-      "id": "910b64168cc3de6a",
-      "title": "甘肃临夏厨房里兴起“浪漫经济”：养眼又养味",
+      "id": "b828b46c8f9af950",
+      "title": "第五届“陈伯吹新儿童文学创作大赛”获奖名单揭晓",
       "originalTitle": null,
-      "summary": "中新网兰州11月14日电 (韩学科)以玫瑰花瓣作为配饰，装点手抓羊肉等传统菜品；本地三文鱼等食材被雕塑成玫瑰形态，从色泽、风味到视觉造型，全方位打造玫瑰主题宴席。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732043.shtml",
+      "summary": "中新网上海11月14日电 (记者 王笈)第五届“陈伯吹新儿童文学创作大赛”颁奖典礼14日在上海举行，《闪闪发光的故事》获桂冠奖，《树洞来信》《爷爷的月球基地》《一碗冬去春来饭》《望归泉》获佳作奖。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732146.shtml",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T08:30:28.000Z",
+      "publishedAt": "2026-11-14T12:33:03.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -332,21 +368,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 26,
-      "ruleScore": 26,
-      "eventId": "ev-da32d6fea0"
+      "score": 27,
+      "ruleScore": 27,
+      "eventId": "ev-772f00db80"
     },
     {
-      "id": "f455ec46e66e5212",
-      "title": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
+      "id": "1b6905b634d828a0",
+      "title": "Lucy Hale and Ian Harding reveal wild ‘Pretty Little Liars’ fan encounters ahead of new on-screen reunion",
       "originalTitle": null,
-      "summary": "Thiessen claimed her flexibility as a child, which helped her to dance, might have caused her hip issues.",
-      "url": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-youtube-com-watch-v-148718831.png",
+      "summary": "They really loved the way they lied. Former \"Pretty Little Liars\" co-stars Lucy Hale and Ian Harding, who reunited on screen in the Hulu rom-com \"The 12 Dates of Christmas,\" spilled the truth on their most memorable enco…",
+      "url": "https://nypost.com/2026/11/14/entertainment/lucy-hale-and-ian-harding-reveal-wild-pretty-little-liars-fan-encounters/",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F12-dates-christmas-lucy-hale-148356421.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T08:13:37.000Z",
+      "publishedAt": "2026-11-14T17:01:01.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -358,7 +394,7 @@
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "nypost.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -368,19 +404,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-ca47fadc42"
+      "eventId": "ev-07cf7e9963"
     },
     {
-      "id": "e3f3b4451c656d91",
-      "title": "'Mormon Wives' Star Taylor Frankie Paul's Ex Dakota Mortensen Sues Hulu for Defamation",
+      "id": "a9815d824a79ce50",
+      "title": "Shane Gillis Breaks Silence on Controversial 'SNL' Monologue & 'Whore' Joke",
       "originalTitle": null,
-      "summary": "Dakota Mortensen is slamming \"Mormon Wives\" producers ... claiming they staged scenes and faked storylines to make him appear as a serial cheater and abuser.",
-      "url": "https://www.tmz.com/2026/11/13/mormon-wives-taylor-frankie-pauls-ex-dakota-mortensen-sues-hulu-for-defamation/",
+      "summary": "Shane Gillis is finally speaking out about the wave of backlash he received from his controversial \"SNL\" monologue ... admitting he doesn't have an issue with women's attire at the gym.",
+      "url": "https://www.tmz.com/2026/11/14/shane-gillis-talks-about-controversial-snl-monologue-with-joe-rogan/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T03:34:48.000Z",
+      "publishedAt": "2026-11-14T13:29:15.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -398,11 +434,11 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-2e66311e1d"
+      "eventId": "ev-f02dc7c3ed"
     }
   ]
 }
