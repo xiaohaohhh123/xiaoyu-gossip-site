@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T03:28:17.750Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:39:47.501Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 255,
-    "afterFilter": 40,
+    "totalCollected": 266,
+    "afterFilter": 41,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2529
+        "ms": 1619
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 992
+        "ms": 1009
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1144
+        "ms": 803
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 7,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 835
+        "ms": 607
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 936
+        "ms": 711
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1293
+        "ms": 926
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1276
+        "ms": 942
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1289
+        "ms": 900
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1425
+        "ms": 1703
       }
     ],
     "ai": {
@@ -108,41 +108,41 @@
     "totalSources": 9
   },
   "mustEat": [
-    "f6529618736da0d2",
-    "11af34d874b62662"
+    "cda7f78b20e54835",
+    "6a0e4a68b726d732"
   ],
   "sections": {
-    "life": [
-      "d065effe7dd03acf"
-    ],
+    "life": [],
     "romance": [
-      "6991a7e209a5c967"
+      "49bc055cecc62e8b"
     ],
-    "oddity": [],
+    "oddity": [
+      "5daced07026e17d9"
+    ],
     "twist": [],
     "entertainment": [
-      "39642ba4f52a859a",
-      "a0d1a0fd4ddd1003"
+      "a02aa39fa225700a",
+      "910b64168cc3de6a"
     ],
     "overseas": [
-      "11af34d874b62662",
-      "1ae51d62e3b7b5b6",
-      "4ee7774023e37b2a"
+      "6a0e4a68b726d732",
+      "f455ec46e66e5212",
+      "e3f3b4451c656d91"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "f6529618736da0d2",
-      "title": "退休铁路工人拍摄30余万张照片 为百年滇越铁路“留影”",
+      "id": "cda7f78b20e54835",
+      "title": "易中天：文博场景的数字化清晰不如实地“接地气”",
       "originalTitle": null,
-      "summary": "中新网昆明11月12日电 (黄欣媛)“南盘江记——刘红波拍摄的滇越铁路照片12年工业遗产公开课”12日在云南昆明举行。滇越铁路研究者刘红波分享其十余年来拍摄的铁路影像，带领公众回望百年滇越铁路的历史变迁，探讨工业遗产保护与活化利用的更多可能。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731199.shtml",
+      "summary": "中新网海口11月14日电 (记者 王晓斌)数字化能让人更清晰细致观察文物细节，还有必要去博物馆隔着玻璃围观实物吗？11月14日，学者易中天在十一届“博博会”讲座上给出自己的答案。他认为，数字化虽然方便，但无法营造出博物馆特有的“体感”。东西放在展柜里、上面打着灯，这种物理上的距离感恰恰“产生了美”。哪怕去探访的历史遗址是一片空地，站在那里想象历史的“气”，也比在电脑上看数字化模型有意义得多。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732118.shtml",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "oddity",
+      "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T13:50:28.000Z",
+      "publishedAt": "2026-11-14T11:34:16.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -162,21 +162,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-021e53140b"
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-788cb9a12c"
     },
     {
-      "id": "11af34d874b62662",
-      "title": "Libbie Mugrabi’s mom gets served at beauty event by former assistant disguised in burqa",
+      "id": "6a0e4a68b726d732",
+      "title": "Aaron Rodgers reunites with brother Jordan in rare photo after years-long family feud: ‘Really proud’",
       "originalTitle": null,
-      "summary": "Ex-assistant Francis Urrutia claims she served Jane Scher with a $50K unpaid-wages suit during a beauty event.",
-      "url": "https://pagesix.com/2026/11/12/society/libbie-mugrabis-mom-gets-served-at-beauty-event-by-her-former-assistant-wearing-religious-garb/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F000-owes-bills-wazoo-told-148505983.png?w%3D641",
+      "summary": "The Pittsburgh Steelers quarterback, 42, met up with Jordan, 38, on Friday at Acrisure Stadium.",
+      "url": "https://pagesix.com/2026/11/14/celebrity-news/steelers-aaron-rodgers-reunites-with-brother-jordan-in-rare-photo-after-years-long-family-feud/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dftgx-148717505.jpg?w%3D956",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-13T01:49:32.000Z",
+      "publishedAt": "2026-11-14T08:55:55.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -198,63 +198,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-b40e81f5e0"
+      "eventId": "ev-e73abfeb24"
     },
     {
-      "id": "d065effe7dd03acf",
-      "title": "打造富豪人设，找人假扮父母 一男子以婚恋为名骗了近200万元",
-      "originalTitle": null,
-      "summary": "本报全媒体记者 张鹏 通讯员 张鹏飞 张业森",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731332.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-13T02:16:57.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-eaba4733c1"
-    },
-    {
-      "id": "6991a7e209a5c967",
-      "title": "林生斌已故妻子朱小贞父母称女儿生前遭出轨家暴",
+      "id": "49bc055cecc62e8b",
+      "title": "大美曾直播跟婆婆哭诉高迪不回家",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643876368.html",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%9B%BE%E7%9B%B4%E6%92%AD%E8%B7%9F%E5%A9%86%E5%A9%86%E5%93%AD%E8%AF%89%E9%AB%98%E8%BF%AA%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=25&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-13T03:28:10.810Z",
+      "publishedAt": "2026-11-14T11:39:41.295Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -264,21 +230,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 46,
-      "ruleScore": 46,
-      "eventId": "ev-485f58bf15"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-6067d070f5"
     },
     {
-      "id": "39642ba4f52a859a",
-      "title": "央媒怒批！大脑空空、目不识丁，难怪金鸡奖从不颁给“流量明星”",
+      "id": "5daced07026e17d9",
+      "title": "中纪委罕见通报高官一把手职权腐败",
       "originalTitle": null,
-      "summary": "第39届金鸡奖圆满落幕。\n 一众实力派演员同台较量。 \n 看的让人惊心动魄。\n \n \n 放眼获奖名单。\n 全是清一色的实力派演员。 \n \n \n 而那些靠流量刷脸的明星。\n 却“集体隐身”，无一人上榜。 \n \n \n 直到看到央媒曾亲自下场。\n 怒批这些流量明星为“绝望的文盲”。 \n \n \n 才明白这些主流奖项。\n 为何从不颁给“流量明星”。\n \n \n 01 \n 10月19日晚，金鸡奖公布了所有奖项的获得者。\n 作为国内电影界极具影响力的奖项。\n \n \n 金鸡奖被视为华语电影对演员专业实力最权威的认可。\n 每一座奖杯，都要经得起镜头、经得起观众的推敲。 \n \n \n 它只认扎实的演技，从不认热搜和粉丝的追捧。",
-      "url": "https://bbs.hupu.com/643863036.html",
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-14T11:39:42.088Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-798178528d"
+    },
+    {
+      "id": "a02aa39fa225700a",
+      "title": "郭德纲现场认亲！高调拜马志明为“干爹”，妻子王惠穿搭惹争议",
+      "originalTitle": null,
+      "summary": "天津一场西河门收徒摆知仪式上，一个临时环节引爆了整个曲艺圈。\n 谁也没想到，一向重视规矩的郭德纲，竟当场临时向81岁的马志明行礼拜认义父。\n 消息传出后，迅速在网上发酵。\n \n \n 而与郭德纲一同登台的妻子王惠，当天的一身穿搭，也随之引发了不少网友的讨论。\n 这又是怎么一回事呢？\n 11月11日，郭德纲西河门收徒摆知仪式在天津举行。\n 主角本来是他和新收的西河门弟子，台下坐的是马志明、杨威、韩宝利等津门曲艺界的老先生。\n 谁也没料到，仪式进行到中途，马志明临时加了一个环节。\n \n \n 据现场主持人高峰透露，这个环节事先没有安排，连大屏幕字幕都来不及改，栾云平是临时小跑着去把王惠请上台的。",
+      "url": "https://bbs.hupu.com/643891525.html",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-13T03:28:10.810Z",
+      "publishedAt": "2026-11-14T11:39:41.436Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -300,53 +300,53 @@
       "translated": false,
       "score": 39,
       "ruleScore": 39,
-      "eventId": "ev-6449c595d8"
+      "eventId": "ev-7bcedce373"
     },
     {
-      "id": "a0d1a0fd4ddd1003",
-      "title": "赵丽颖起诉红果短剧！",
+      "id": "910b64168cc3de6a",
+      "title": "甘肃临夏厨房里兴起“浪漫经济”：养眼又养味",
       "originalTitle": null,
-      "summary": "企查查公开信息显示，近日，北京笔墨留香科技有限公司新增开庭公告，案由涉及肖像权纠纷，原告方为赵丽颖，被告方包括北京笔墨留香科技有限公司、史某伦等。\n 赵丽颖因肖像权纠纷起诉维权不止一起。企查查APP此前还显示，近日，赵丽颖诉另两家公司侵权案新增法院公告信息。详情显示，赵丽颖诉请判令被告停止生产、销售涉案侵权产品，全面停止侵权行为，并公开赔礼道歉，同时要求赔偿经济损失及维权合理开支共计81万元。该案将定于举证期满后的第3日上午9时30分在法院公开开庭审理，逾期将依法判决。（综合封面新闻等）",
-      "url": "https://bbs.hupu.com/643862529.html",
+      "summary": "中新网兰州11月14日电 (韩学科)以玫瑰花瓣作为配饰，装点手抓羊肉等传统菜品；本地三文鱼等食材被雕塑成玫瑰形态，从色泽、风味到视觉造型，全方位打造玫瑰主题宴席。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732043.shtml",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-13T03:28:10.810Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-14T08:30:28.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
-      "score": 38,
-      "ruleScore": 38,
-      "eventId": "ev-4754f4e30b"
+      "score": 26,
+      "ruleScore": 26,
+      "eventId": "ev-da32d6fea0"
     },
     {
-      "id": "1ae51d62e3b7b5b6",
-      "title": "Lin-Manuel Miranda turns piano where he wrote ‘In the Heights’ hits over to aspiring artists",
+      "id": "f455ec46e66e5212",
+      "title": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
       "originalTitle": null,
-      "summary": "A once-dingy basement on West 39th Street has been transformed into a black box theater.",
-      "url": "https://pagesix.com/2026/11/12/society/lin-manuel-miranda-turns-piano-where-he-wrote-in-the-heights-hits-over-to-aspiring-artists/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FLin-Manuel-Miranda-and-Thomas-Kail-at-the-Gilbert-Parker-Studio-Credit_-Tricia-Baron.jpg",
+      "summary": "Thiessen claimed her flexibility as a child, which helped her to dance, might have caused her hip issues.",
+      "url": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-youtube-com-watch-v-148718831.png",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-13T01:03:52.000Z",
+      "publishedAt": "2026-11-14T08:13:37.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -368,19 +368,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-e83d87e47f"
+      "eventId": "ev-ca47fadc42"
     },
     {
-      "id": "4ee7774023e37b2a",
-      "title": "Camgirl's Screams During Live Stream Help Expose Alleged Abuse, TMZ Doc Reveals",
+      "id": "e3f3b4451c656d91",
+      "title": "'Mormon Wives' Star Taylor Frankie Paul's Ex Dakota Mortensen Sues Hulu for Defamation",
       "originalTitle": null,
-      "summary": "A disturbing scream was heard during a camgirl live stream ... and it was one of the chilling moments that helped expose an alleged criminal operation.",
-      "url": "https://www.tmz.com/2026/11/12/nikita-tyukalo-camgirl-abuse-exposed/",
+      "summary": "Dakota Mortensen is slamming \"Mormon Wives\" producers ... claiming they staged scenes and faked storylines to make him appear as a serial cheater and abuser.",
+      "url": "https://www.tmz.com/2026/11/13/mormon-wives-taylor-frankie-pauls-ex-dakota-mortensen-sues-hulu-for-defamation/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-12T20:00:32.000Z",
+      "publishedAt": "2026-11-14T03:34:48.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -402,7 +402,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-adb0425bd7"
+      "eventId": "ev-2e66311e1d"
     }
   ]
 }

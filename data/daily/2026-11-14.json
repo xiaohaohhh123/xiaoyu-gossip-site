@@ -1,0 +1,408 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:39:47.501Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 266,
+    "afterFilter": 41,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1619
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1009
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 803
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 607
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 711
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 926
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 942
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 900
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1703
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "cda7f78b20e54835",
+    "6a0e4a68b726d732"
+  ],
+  "sections": {
+    "life": [],
+    "romance": [
+      "49bc055cecc62e8b"
+    ],
+    "oddity": [
+      "5daced07026e17d9"
+    ],
+    "twist": [],
+    "entertainment": [
+      "a02aa39fa225700a",
+      "910b64168cc3de6a"
+    ],
+    "overseas": [
+      "6a0e4a68b726d732",
+      "f455ec46e66e5212",
+      "e3f3b4451c656d91"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "cda7f78b20e54835",
+      "title": "易中天：文博场景的数字化清晰不如实地“接地气”",
+      "originalTitle": null,
+      "summary": "中新网海口11月14日电 (记者 王晓斌)数字化能让人更清晰细致观察文物细节，还有必要去博物馆隔着玻璃围观实物吗？11月14日，学者易中天在十一届“博博会”讲座上给出自己的答案。他认为，数字化虽然方便，但无法营造出博物馆特有的“体感”。东西放在展柜里、上面打着灯，这种物理上的距离感恰恰“产生了美”。哪怕去探访的历史遗址是一片空地，站在那里想象历史的“气”，也比在电脑上看数字化模型有意义得多。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732118.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T11:34:16.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-788cb9a12c"
+    },
+    {
+      "id": "6a0e4a68b726d732",
+      "title": "Aaron Rodgers reunites with brother Jordan in rare photo after years-long family feud: ‘Really proud’",
+      "originalTitle": null,
+      "summary": "The Pittsburgh Steelers quarterback, 42, met up with Jordan, 38, on Friday at Acrisure Stadium.",
+      "url": "https://pagesix.com/2026/11/14/celebrity-news/steelers-aaron-rodgers-reunites-with-brother-jordan-in-rare-photo-after-years-long-family-feud/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dftgx-148717505.jpg?w%3D956",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T08:55:55.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-e73abfeb24"
+    },
+    {
+      "id": "49bc055cecc62e8b",
+      "title": "大美曾直播跟婆婆哭诉高迪不回家",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%9B%BE%E7%9B%B4%E6%92%AD%E8%B7%9F%E5%A9%86%E5%A9%86%E5%93%AD%E8%AF%89%E9%AB%98%E8%BF%AA%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=25&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-14T11:39:41.295Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-6067d070f5"
+    },
+    {
+      "id": "5daced07026e17d9",
+      "title": "中纪委罕见通报高官一把手职权腐败",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-14T11:39:42.088Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-798178528d"
+    },
+    {
+      "id": "a02aa39fa225700a",
+      "title": "郭德纲现场认亲！高调拜马志明为“干爹”，妻子王惠穿搭惹争议",
+      "originalTitle": null,
+      "summary": "天津一场西河门收徒摆知仪式上，一个临时环节引爆了整个曲艺圈。\n 谁也没想到，一向重视规矩的郭德纲，竟当场临时向81岁的马志明行礼拜认义父。\n 消息传出后，迅速在网上发酵。\n \n \n 而与郭德纲一同登台的妻子王惠，当天的一身穿搭，也随之引发了不少网友的讨论。\n 这又是怎么一回事呢？\n 11月11日，郭德纲西河门收徒摆知仪式在天津举行。\n 主角本来是他和新收的西河门弟子，台下坐的是马志明、杨威、韩宝利等津门曲艺界的老先生。\n 谁也没料到，仪式进行到中途，马志明临时加了一个环节。\n \n \n 据现场主持人高峰透露，这个环节事先没有安排，连大屏幕字幕都来不及改，栾云平是临时小跑着去把王惠请上台的。",
+      "url": "https://bbs.hupu.com/643891525.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T11:39:41.436Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-7bcedce373"
+    },
+    {
+      "id": "910b64168cc3de6a",
+      "title": "甘肃临夏厨房里兴起“浪漫经济”：养眼又养味",
+      "originalTitle": null,
+      "summary": "中新网兰州11月14日电 (韩学科)以玫瑰花瓣作为配饰，装点手抓羊肉等传统菜品；本地三文鱼等食材被雕塑成玫瑰形态，从色泽、风味到视觉造型，全方位打造玫瑰主题宴席。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732043.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T08:30:28.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 26,
+      "ruleScore": 26,
+      "eventId": "ev-da32d6fea0"
+    },
+    {
+      "id": "f455ec46e66e5212",
+      "title": "‘Saved by the Bell’ star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
+      "originalTitle": null,
+      "summary": "Thiessen claimed her flexibility as a child, which helped her to dance, might have caused her hip issues.",
+      "url": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-youtube-com-watch-v-148718831.png",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T08:13:37.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-ca47fadc42"
+    },
+    {
+      "id": "e3f3b4451c656d91",
+      "title": "'Mormon Wives' Star Taylor Frankie Paul's Ex Dakota Mortensen Sues Hulu for Defamation",
+      "originalTitle": null,
+      "summary": "Dakota Mortensen is slamming \"Mormon Wives\" producers ... claiming they staged scenes and faked storylines to make him appear as a serial cheater and abuser.",
+      "url": "https://www.tmz.com/2026/11/13/mormon-wives-taylor-frankie-pauls-ex-dakota-mortensen-sues-hulu-for-defamation/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T03:34:48.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-2e66311e1d"
+    }
+  ]
+}
