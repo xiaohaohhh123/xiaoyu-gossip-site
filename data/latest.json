@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T02:53:16.938Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T19:01:53.144Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 269,
-    "afterFilter": 34,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 266,
+    "afterFilter": 45,
+    "selected": 11,
+    "domesticSelected": 8,
+    "domesticRatio": 73,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1582
+        "ms": 1776
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1100
+        "ms": 849
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1191
+        "ms": 938
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 814
+        "ms": 699
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 870
+        "ms": 821
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1137
+        "ms": 1042
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1166
+        "ms": 1019
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1167
+        "ms": 1017
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1629
+        "ms": 1482
       }
     ],
     "ai": {
@@ -108,247 +108,47 @@
     "totalSources": 9
   },
   "mustEat": [
-    "cda7f78b20e54835",
-    "08d3a2734b1f8517"
+    "d7cad78161eeea75",
+    "b2722141418f2a69",
+    "92a692180b89e2d7",
+    "4bcde4cfa70c1fa9"
   ],
   "sections": {
     "life": [
-      "b416824621356acb"
+      "92a692180b89e2d7",
+      "5aa347ce9a7a2dc5"
     ],
     "romance": [
-      "98eca1c7a95a352d"
+      "ab734c09c1308b5e"
     ],
     "oddity": [
-      "09cd2e143040497a"
+      "b2722141418f2a69",
+      "e2eebe7dc1ad42ff"
     ],
     "twist": [],
     "entertainment": [
-      "3029ba248302f528",
-      "b828b46c8f9af950"
+      "3b7e6b72c121f288",
+      "47c3064b315fe818"
     ],
     "overseas": [
-      "08d3a2734b1f8517",
-      "ad31817f958a69eb",
+      "4bcde4cfa70c1fa9",
+      "d7ab67d21f0df992",
       "100586b32796aa24"
     ]
   },
-  "events": [
-    {
-      "id": "ev-f40408c4d8",
-      "title": "孙悦婚礼孙卓落泪拥抱姐姐",
-      "sources": [
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-11-14T18:24:45.144Z",
-          "title": "孙悦婚礼孙卓落泪拥抱姐姐",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7707640615219806217/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707640615219806217%22%2C%22hot_board_impr_id%22%3A%22202611150224442DBA76FAA458EAFC2F33%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%99%E6%82%A6%E5%A9%9A%E7%A4%BC%E5%AD%99%E5%8D%93%E8%90%BD%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%A7%90%E5%A7%90%22%7D&rank=&style_id=40132&topic_id=7707640615219806217",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-15T02:53:11.589Z",
-          "title": "孙悦婚礼孙卓落泪拥抱姐姐",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%AD%99%E6%82%A6%E5%A9%9A%E7%A4%BC%E5%AD%99%E5%8D%93%E8%90%BD%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%A7%90%E5%A7%90&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "61355a28de938e1c"
-    }
-  ],
+  "events": [],
   "items": [
     {
-      "id": "cda7f78b20e54835",
-      "title": "易中天：文博场景的数字化清晰不如实地“接地气”",
+      "id": "d7cad78161eeea75",
+      "title": "斯图尔特发表争议言论：詹姆斯打球赃？！",
       "originalTitle": null,
-      "summary": "中新网海口11月14日电 (记者 王晓斌)数字化能让人更清晰细致观察文物细节，还有必要去博物馆隔着玻璃围观实物吗？11月14日，学者易中天在十一届“博博会”讲座上给出自己的答案。他认为，数字化虽然方便，但无法营造出博物馆特有的“体感”。东西放在展柜里、上面打着灯，这种物理上的距离感恰恰“产生了美”。哪怕去探访的历史遗址是一片空地，站在那里想象历史的“气”，也比在电脑上看数字化模型有意义得多。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732118.shtml",
+      "summary": "虎扑11月14日讯 昨日，球员斯图尔特在节目《Out The Mud》中回忆了2021年与发生的冲突，坚称詹姆斯当时是故意击打自己的面部\n 斯图尔特表示：“直到今天，我仍然百分之百认为那是故意的，我知道那是针对我个人的”\n “他挥动手臂打中了我，而且打得很重，我当时都疼的不行，我看过他后来接受采访，说自己不是故意的，但我绝对认为那是故意的！",
+      "url": "https://bbs.hupu.com/643949377.html",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T11:34:16.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-788cb9a12c"
-    },
-    {
-      "id": "08d3a2734b1f8517",
-      "title": "Kathy Ireland reveals husband’s terrifying rescue from exploding boat inferno: ‘My heart is both heavy and full’",
-      "originalTitle": null,
-      "summary": "The supermodel and her husband, Greg Olsen, have been married since 1988.",
-      "url": "https://pagesix.com/2026/11/14/celebrity-news/kathy-ireland-reveals-husbands-rescue-from-exploding-boat/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fkathy-ireland-reveals-husband-s-148785380.jpg?w%3D576",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-15T00:42:48.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-6a41d347b8"
-    },
-    {
-      "id": "b416824621356acb",
-      "title": "孩子觉得打包丢人被老师扣分引热议",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A7%89%E5%BE%97%E6%89%93%E5%8C%85%E4%B8%A2%E4%BA%BA%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%A3%E5%88%86%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=7&Refer=top",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-15T02:53:11.224Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-197b68112f"
-    },
-    {
-      "id": "98eca1c7a95a352d",
-      "title": "孙悦婚礼孙卓落泪拥抱姐姐",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%99%E6%82%A6%E5%A9%9A%E7%A4%BC%E5%AD%99%E5%8D%93%E8%90%BD%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%A7%90%E5%A7%90&sa=fyb_news",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-15T02:53:11.589Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-f40408c4d8"
-    },
-    {
-      "id": "09cd2e143040497a",
-      "title": "近30头一级保护动物罕见集体出行",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E8%BF%9130%E5%A4%B4%E4%B8%80%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%E7%BD%95%E8%A7%81%E9%9B%86%E4%BD%93%E5%87%BA%E8%A1%8C&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-15T02:53:11.589Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-c2083d061b"
-    },
-    {
-      "id": "3029ba248302f528",
-      "title": "内娱进入“大怀孕”时代，孩子都藏不住了",
-      "originalTitle": null,
-      "summary": "这两年，内娱似乎悄悄进入了一个“大怀孕”时代。\n 去年吴谨言被曝生女；今年年中王鸥发文称“正在独自育儿”；到了10月份，一直对生子话题闭口不谈的黄子韬和徐艺洋夫妇突然放出一家三口合照，照片里的孩子看起来都能打酱油了。\n \n \n \n \n 网友们这才后知后觉地发现，原来镜头之外，明星们早已当上了爸妈，银幕上依旧光鲜亮丽，现实里可能天天在研究奶粉和尿不湿。\n \n 更有意思的是，不只是忙着结婚生娃，内娱明星们似乎集体开始“不务正业”了。 \n \n 前脚金晨跑去洛杉矶学英语，分享语言学校的上课日常；后脚35岁的张艺兴宣布托福上岸，成为一名留美大学生。明星们社交媒体上的日常，也从赶通告变成了赶作业。\n \n 放在过去，这样的画风多少有些难以想象。",
-      "url": "https://bbs.hupu.com/643862918.html",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-15T02:53:11.202Z",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -368,21 +168,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 39,
-      "ruleScore": 39,
-      "eventId": "ev-2f8eaa1094"
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-400d9c998d"
     },
     {
-      "id": "b828b46c8f9af950",
-      "title": "第五届“陈伯吹新儿童文学创作大赛”获奖名单揭晓",
+      "id": "b2722141418f2a69",
+      "title": "哪些营销事件让你的印象最深刻？",
       "originalTitle": null,
-      "summary": "中新网上海11月14日电 (记者 王笈)第五届“陈伯吹新儿童文学创作大赛”颁奖典礼14日在上海举行，《闪闪发光的故事》获桂冠奖，《树洞来信》《爷爷的月球基地》《一碗冬去春来饭》《望归泉》获佳作奖。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732146.shtml",
+      "summary": "近年各品牌的营销越来越“放飞自我”，跨界联名、新品联动层出不穷。\n 有没有你心中印象很深刻的一次营销事件？\n \n 可能是一个小品牌的骚操作。\n 可能是一次翻车翻出圈的公关。\n 可能是一个已经成为梗的广告...\n 和JRs一起聊聊吧！",
+      "url": "https://bbs.hupu.com/643902439.html",
       "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
+      "category": "oddity",
+      "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T12:33:03.000Z",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 77,
+      "ruleScore": 77,
+      "eventId": "ev-c4ecf50452"
+    },
+    {
+      "id": "92a692180b89e2d7",
+      "title": "把服务阵地建到群众家门口 福建漳州持续推进民生综合体建设",
+      "originalTitle": null,
+      "summary": "中新网漳州11月15日电 (记者 张金川)11月15日，福建省漳州市芗城区瑞民新苑“好客邻里中心”正式投入使用，这是芗城区投用的第四个民生综合体。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732496.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T12:51:27.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -402,21 +236,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 24,
-      "ruleScore": 24,
-      "eventId": "ev-772f00db80"
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-aaeb955d66"
     },
     {
-      "id": "ad31817f958a69eb",
-      "title": "John Mulaney hosts ‘SNL’ tonight–Here’s where and when to watch for free",
+      "id": "4bcde4cfa70c1fa9",
+      "title": "Michael J. Fox supported by wife Tracy Pollan and three daughters at actor’s Parkinson’s gala",
       "originalTitle": null,
-      "summary": "After becoming a five-timer in 2022, Mulaney joins an even more exclusive club tonight: the seven-timers.",
-      "url": "https://pagesix.com/2026/11/14/entertainment/john-mulaney-hosts-snl-tonightheres-where-to-watch-for-free/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F148516727.jpg?quality%3D90%26strip%3Dall",
+      "summary": "The \"Back to the Future\" star founded the organization in 2000, nine years after he was diagnosed with Parkinson's.",
+      "url": "https://pagesix.com/2026/11/15/celebrity-news/michael-j-fox-supported-by-wife-tracy-pollan-and-three-daughters-at-actors-parkinsons-gala/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F2026-funny-thing-happened-way-148817697.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T00:30:52.000Z",
+      "publishedAt": "2026-11-15T16:52:42.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -438,7 +272,211 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-88d6d1cd3e"
+      "eventId": "ev-89039d85d2"
+    },
+    {
+      "id": "5aa347ce9a7a2dc5",
+      "title": "职场小白求助，我发现有同事偷偷用公司打印机打印孩子作业，已经好几次了。我该怎么办？应该举报他吗？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643957526.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-5113adce1b"
+    },
+    {
+      "id": "ab734c09c1308b5e",
+      "title": "江苏女网友： 男朋友看SQ网址就是出轨！我很难调理。",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643899757.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 46,
+      "ruleScore": 46,
+      "eventId": "ev-9dd78aa9ff"
+    },
+    {
+      "id": "e2eebe7dc1ad42ff",
+      "title": "东南亚骑手收入竟然追上我国了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643948395.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-d88ab9e05e"
+    },
+    {
+      "id": "3b7e6b72c121f288",
+      "title": "西藏第二届大学生艺术展演暨颁奖晚会在拉萨举办",
+      "originalTitle": null,
+      "summary": "中新网拉萨11月15日电 (贡嘎来松)15日，以“美育浸润高原·青春艺彩飞扬”为主题的西藏自治区第二届大学生艺术展演暨颁奖晚会在西藏自治区群众艺术馆(区非遗保护中心)举行，西藏高校学子以艺为媒，共赴一场高原美育盛宴。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732499.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T13:07:59.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 27,
+      "ruleScore": 27,
+      "eventId": "ev-34949b9cbc"
+    },
+    {
+      "id": "47c3064b315fe818",
+      "title": "广州官宣“入秋” 今年夏季长达235天",
+      "originalTitle": null,
+      "summary": "中新网广州11月15日电 (记者 王坚)广州市气象局15日晚宣布，基于前期气象资料判定，确定今年广州进入气候学上的秋季的时间是11月9日。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732508.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T13:06:39.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-ac4ab4919e"
+    },
+    {
+      "id": "d7ab67d21f0df992",
+      "title": "Will Ferrell’s ‘SNL’ pal Harper Steele reveals what ‘still surprises’ her after transitioning",
+      "originalTitle": null,
+      "summary": "The comedy writer starred in the documentary \"Will & Harper\" with her comedy pal, Will Ferrell.",
+      "url": "https://pagesix.com/2026/11/15/celebrity-news/harper-steele-reveals-what-still-surprises-her-after-transitioning/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fferrells-snl-pal-harper-steele-148479808.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T14:00:00.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-62dd4da8f8"
     },
     {
       "id": "100586b32796aa24",
@@ -473,41 +511,6 @@
       "score": 1,
       "ruleScore": 1,
       "eventId": "ev-1ae0b41abc"
-    },
-    {
-      "id": "61355a28de938e1c",
-      "title": "孙悦婚礼孙卓落泪拥抱姐姐",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7707640615219806217/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707640615219806217%22%2C%22hot_board_impr_id%22%3A%2220261115105310BB9DE1FB0CEDDEE8EFBA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%99%E6%82%A6%E5%A9%9A%E7%A4%BC%E5%AD%99%E5%8D%93%E8%90%BD%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%A7%90%E5%A7%90%22%7D&rank=&style_id=40132&topic_id=7707640615219806217",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b60959dea8f943d285d522267d92349a~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797292800&x-signature=Ajf3X9b8mnWahq56eI6l2a7X2ZA%3D",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-15T02:53:11.132Z",
-      "timeBasis": "fetch",
-      "heat": 13324289,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 66,
-      "ruleScore": 66,
-      "eventId": "ev-f40408c4d8"
     }
   ]
 }

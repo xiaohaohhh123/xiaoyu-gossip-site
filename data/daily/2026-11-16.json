@@ -1,0 +1,516 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T19:01:53.144Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 266,
+    "afterFilter": 45,
+    "selected": 11,
+    "domesticSelected": 8,
+    "domesticRatio": 73,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1776
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 849
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 938
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 699
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 821
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1042
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1019
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1017
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1482
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "d7cad78161eeea75",
+    "b2722141418f2a69",
+    "92a692180b89e2d7",
+    "4bcde4cfa70c1fa9"
+  ],
+  "sections": {
+    "life": [
+      "92a692180b89e2d7",
+      "5aa347ce9a7a2dc5"
+    ],
+    "romance": [
+      "ab734c09c1308b5e"
+    ],
+    "oddity": [
+      "b2722141418f2a69",
+      "e2eebe7dc1ad42ff"
+    ],
+    "twist": [],
+    "entertainment": [
+      "3b7e6b72c121f288",
+      "47c3064b315fe818"
+    ],
+    "overseas": [
+      "4bcde4cfa70c1fa9",
+      "d7ab67d21f0df992",
+      "100586b32796aa24"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "d7cad78161eeea75",
+      "title": "斯图尔特发表争议言论：詹姆斯打球赃？！",
+      "originalTitle": null,
+      "summary": "虎扑11月14日讯 昨日，球员斯图尔特在节目《Out The Mud》中回忆了2021年与发生的冲突，坚称詹姆斯当时是故意击打自己的面部\n 斯图尔特表示：“直到今天，我仍然百分之百认为那是故意的，我知道那是针对我个人的”\n “他挥动手臂打中了我，而且打得很重，我当时都疼的不行，我看过他后来接受采访，说自己不是故意的，但我绝对认为那是故意的！",
+      "url": "https://bbs.hupu.com/643949377.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-400d9c998d"
+    },
+    {
+      "id": "b2722141418f2a69",
+      "title": "哪些营销事件让你的印象最深刻？",
+      "originalTitle": null,
+      "summary": "近年各品牌的营销越来越“放飞自我”，跨界联名、新品联动层出不穷。\n 有没有你心中印象很深刻的一次营销事件？\n \n 可能是一个小品牌的骚操作。\n 可能是一次翻车翻出圈的公关。\n 可能是一个已经成为梗的广告...\n 和JRs一起聊聊吧！",
+      "url": "https://bbs.hupu.com/643902439.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 77,
+      "ruleScore": 77,
+      "eventId": "ev-c4ecf50452"
+    },
+    {
+      "id": "92a692180b89e2d7",
+      "title": "把服务阵地建到群众家门口 福建漳州持续推进民生综合体建设",
+      "originalTitle": null,
+      "summary": "中新网漳州11月15日电 (记者 张金川)11月15日，福建省漳州市芗城区瑞民新苑“好客邻里中心”正式投入使用，这是芗城区投用的第四个民生综合体。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732496.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T12:51:27.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-aaeb955d66"
+    },
+    {
+      "id": "4bcde4cfa70c1fa9",
+      "title": "Michael J. Fox supported by wife Tracy Pollan and three daughters at actor’s Parkinson’s gala",
+      "originalTitle": null,
+      "summary": "The \"Back to the Future\" star founded the organization in 2000, nine years after he was diagnosed with Parkinson's.",
+      "url": "https://pagesix.com/2026/11/15/celebrity-news/michael-j-fox-supported-by-wife-tracy-pollan-and-three-daughters-at-actors-parkinsons-gala/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F2026-funny-thing-happened-way-148817697.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T16:52:42.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-89039d85d2"
+    },
+    {
+      "id": "5aa347ce9a7a2dc5",
+      "title": "职场小白求助，我发现有同事偷偷用公司打印机打印孩子作业，已经好几次了。我该怎么办？应该举报他吗？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643957526.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-5113adce1b"
+    },
+    {
+      "id": "ab734c09c1308b5e",
+      "title": "江苏女网友： 男朋友看SQ网址就是出轨！我很难调理。",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643899757.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 46,
+      "ruleScore": 46,
+      "eventId": "ev-9dd78aa9ff"
+    },
+    {
+      "id": "e2eebe7dc1ad42ff",
+      "title": "东南亚骑手收入竟然追上我国了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643948395.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-d88ab9e05e"
+    },
+    {
+      "id": "3b7e6b72c121f288",
+      "title": "西藏第二届大学生艺术展演暨颁奖晚会在拉萨举办",
+      "originalTitle": null,
+      "summary": "中新网拉萨11月15日电 (贡嘎来松)15日，以“美育浸润高原·青春艺彩飞扬”为主题的西藏自治区第二届大学生艺术展演暨颁奖晚会在西藏自治区群众艺术馆(区非遗保护中心)举行，西藏高校学子以艺为媒，共赴一场高原美育盛宴。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732499.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T13:07:59.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 27,
+      "ruleScore": 27,
+      "eventId": "ev-34949b9cbc"
+    },
+    {
+      "id": "47c3064b315fe818",
+      "title": "广州官宣“入秋” 今年夏季长达235天",
+      "originalTitle": null,
+      "summary": "中新网广州11月15日电 (记者 王坚)广州市气象局15日晚宣布，基于前期气象资料判定，确定今年广州进入气候学上的秋季的时间是11月9日。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732508.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T13:06:39.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-ac4ab4919e"
+    },
+    {
+      "id": "d7ab67d21f0df992",
+      "title": "Will Ferrell’s ‘SNL’ pal Harper Steele reveals what ‘still surprises’ her after transitioning",
+      "originalTitle": null,
+      "summary": "The comedy writer starred in the documentary \"Will & Harper\" with her comedy pal, Will Ferrell.",
+      "url": "https://pagesix.com/2026/11/15/celebrity-news/harper-steele-reveals-what-still-surprises-her-after-transitioning/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fferrells-snl-pal-harper-steele-148479808.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-15T14:00:00.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-62dd4da8f8"
+    },
+    {
+      "id": "100586b32796aa24",
+      "title": "Camgirl Mastermind Allegedly Controlled Earnings, Locked Accounts",
+      "originalTitle": null,
+      "summary": "Nikita Tyukalo allegedly lured young women into his camgirl empire with promises of fame and fortune ... only to take control of their accounts and leave them with little to none of the cash they were bringing in.",
+      "url": "https://www.tmz.com/2026/11/14/camgirl-criminal-empire-false-promises/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-14T20:00:13.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-1ae0b41abc"
+    }
+  ]
+}
