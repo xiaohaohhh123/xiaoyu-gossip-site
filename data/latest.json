@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T13:01:26.796Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-16T22:25:55.656Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 258,
-    "afterFilter": 39,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 266,
+    "afterFilter": 37,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1663
+        "ms": 1544
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 901
+        "ms": 629
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 3112
+        "ms": 589
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 448
+        "ms": 362
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 546
+        "ms": 444
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 3123
+        "ms": 885
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 3110
+        "ms": 779
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 3106
+        "ms": 872
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1293
+        "ms": 938
       }
     ],
     "ai": {
@@ -108,105 +108,27 @@
     "totalSources": 9
   },
   "mustEat": [
-    "d7cad78161eeea75",
     "3a6a49229d46fd07",
-    "6ff0f29d7ccc5c90"
+    "7489c02b1d6d95ba"
   ],
   "sections": {
     "life": [
       "5aa347ce9a7a2dc5"
     ],
     "romance": [
-      "eb457e550d200168"
+      "c10edb057466a4cf"
     ],
-    "oddity": [
-      "3a6a49229d46fd07",
-      "a2207195cf04b228"
-    ],
+    "oddity": [],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "6ff0f29d7ccc5c90",
-      "539aad5b4705610d",
-      "9b2c714a17de4769"
+      "7489c02b1d6d95ba",
+      "f41ffdd38986484c",
+      "7e0c8412cbfc1494"
     ]
   },
-  "events": [
-    {
-      "id": "ev-a0add93507",
-      "title": "厉娜回应卷入借贷纠纷",
-      "sources": [
-        "toutiao",
-        "baidu"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-11-16T13:01:19.117Z",
-          "title": "厉娜回应卷入借贷纠纷",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7708678930912281115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708678930912281115%22%2C%22hot_board_impr_id%22%3A%222026111621011816DA5FDA67E745DEBEB2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7%22%7D&rank=&style_id=40132&topic_id=7708678930912281115",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-16T13:01:19.849Z",
-          "title": "厉娜回应卷入借贷纠纷",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&sa=fyb_news",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-16T13:01:19.849Z",
-          "title": "曝厉娜卷入借贷纠纷",
-          "source": "百度热搜",
-          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&sa=fyb_news",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "2b303a71d3899626"
-    }
-  ],
+  "events": [],
   "items": [
-    {
-      "id": "d7cad78161eeea75",
-      "title": "斯图尔特发表争议言论：詹姆斯打球赃？！",
-      "originalTitle": null,
-      "summary": "虎扑11月14日讯 昨日，球员斯图尔特在节目《Out The Mud》中回忆了2021年与发生的冲突，坚称詹姆斯当时是故意击打自己的面部\n 斯图尔特表示：“直到今天，我仍然百分之百认为那是故意的，我知道那是针对我个人的”\n “他挥动手臂打中了我的眼睛，而且打得很重，我当时都疼的不行，我看过他后来接受采访，无辜地说自己不是故意的，但我认为那绝对是故意的！",
-      "url": "https://bbs.hupu.com/643949377.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-16T13:01:21.332Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 81,
-      "ruleScore": 81,
-      "eventId": "ev-400d9c998d"
-    },
     {
       "id": "3a6a49229d46fd07",
       "title": "江西德兴山林“追鸟人”：罕见记录到蓝冠噪鹛集群活动",
@@ -237,21 +159,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 81,
-      "ruleScore": 81,
+      "score": 78,
+      "ruleScore": 78,
       "eventId": "ev-b3d6788bce"
     },
     {
-      "id": "6ff0f29d7ccc5c90",
-      "title": "‘Today’ star Willie Geist announces major new career move: ‘Bittersweet goodbye’",
+      "id": "7489c02b1d6d95ba",
+      "title": "We did the math–Here’s which Pink Vegas Sphere concert has cheapest tickets",
       "originalTitle": null,
-      "summary": "The 51-year-old, who joined the \"Today\" crew in 2012, gushed about how \"thrilled\" he is in a press release Monday morning.",
-      "url": "https://pagesix.com/2026/11/16/entertainment/today-star-willie-geist-announces-major-new-career-move/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwillie-geist-announcment-2026-148957662.jpg?w%3D1024",
+      "summary": "The party-starting hitmaker will swing into Sin City in September and October 2027.",
+      "url": "https://pagesix.com/2026/11/16/entertainment/heres-which-pink-vegas-sphere-concert-has-the-cheapest-tickets/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FPINK.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-16T12:22:23.000Z",
+      "publishedAt": "2026-11-16T22:19:49.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -273,7 +195,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-2b548ffe5d"
+      "eventId": "ev-f8d839ca88"
     },
     {
       "id": "5aa347ce9a7a2dc5",
@@ -285,7 +207,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-16T13:01:21.332Z",
+      "publishedAt": "2026-11-16T22:25:48.944Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -310,16 +232,16 @@
       "eventId": "ev-5113adce1b"
     },
     {
-      "id": "eb457e550d200168",
-      "title": "许飞自曝参加浪姐期间被分手了",
+      "id": "c10edb057466a4cf",
+      "title": "6年恋爱因一枚戒指分手",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-16T13:01:21.330Z",
+      "publishedAt": "2026-11-16T22:25:48.749Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -341,53 +263,19 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-6d48609945"
+      "eventId": "ev-0573fe19f0"
     },
     {
-      "id": "a2207195cf04b228",
-      "title": "女子健身半年 竟然两次真菌感染",
+      "id": "f41ffdd38986484c",
+      "title": "‘Survivor 51’ star Kilby reveals wild way he lost all of his possessions while filming in Fiji: ‘So that sucks’",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%8D%8A%E5%B9%B4+%E7%AB%9F%E7%84%B6%E4%B8%A4%E6%AC%A1%E7%9C%9F%E8%8F%8C%E6%84%9F%E6%9F%93&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-16T13:01:19.849Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-fc00b0a129"
-    },
-    {
-      "id": "539aad5b4705610d",
-      "title": "Clive Davis’ friends scoff at the late music mogul’s $11 million apartment listing",
-      "originalTitle": null,
-      "summary": "Pals of the late music mogul say the staging does not reflect Davis' personal style at all.",
-      "url": "https://pagesix.com/2026/11/16/society/clive-davis-friends-scoff-at-late-moguls-apartment-listing/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fclive-davis-attends-pre-grammy-11925677.jpg?w%3D717",
+      "summary": "The media personality lost all of his belongings after failing to pay for his storage unit while filming the reality series in April.",
+      "url": "https://pagesix.com/2026/11/16/celebrity-news/survivor-51-star-kilby-reveals-wild-way-he-lost-all-of-his-possessions-while-filming-in-fiji/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fsurvivor-51-star-kilby-reveals-148991524.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "publishedAt": "2026-11-16T22:11:08.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -409,19 +297,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-78c7916089"
+      "eventId": "ev-996b49a989"
     },
     {
-      "id": "9b2c714a17de4769",
-      "title": "OJ Simpson's Vegas Robbery Partner Recalls His Reaction After First Name Used in 'If I Did It'",
+      "id": "7e0c8412cbfc1494",
+      "title": "Coco Gauff and Tyriq Withers Dance Together at Camp Flog Gnaw, on Video",
       "originalTitle": null,
-      "summary": "Charlie Ehrlich -- O.J. Simpson's accomplice in his 2007 Las Vegas sports memorabilia armed robbery -- is sharing how OJ informed him his first name would be used in \"If I Did It.\" In a preview clip for Peacock's \"OJ's A…",
-      "url": "https://www.tmz.com/2026/11/16/ojs-accomplice-reacts-to-when-he-used-his-name/",
+      "summary": "It looks like Tyriq Withers found a party pal in Coco Gauff ... because they were caught on camera dancing together at Camp Flog Gnaw.",
+      "url": "https://www.tmz.com/2026/11/16/coco-gauff-dances-with-tyriq-withers-camp-flog-gnaw/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-16T09:00:32.000Z",
+      "publishedAt": "2026-11-16T22:15:44.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -443,42 +331,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-1325aae07a"
-    },
-    {
-      "id": "2b303a71d3899626",
-      "title": "厉娜回应卷入借贷纠纷",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7708678930912281115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708678930912281115%22%2C%22hot_board_impr_id%22%3A%222026111621011816DA5FDA67E745DEBEB2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7%22%7D&rank=&style_id=40132&topic_id=7708678930912281115",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9de54ae12f834f6e8bdcc1f4fcf54166~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797379200&x-signature=CyalNnK9KgK9huWpVZKVqPQLNEk%3D",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-16T13:01:19.117Z",
-      "timeBasis": "fetch",
-      "heat": 4365195,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 12,
-      "ruleScore": 12,
-      "eventId": "ev-a0add93507"
+      "eventId": "ev-24c2a2b852"
     }
   ]
 }
