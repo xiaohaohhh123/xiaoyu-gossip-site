@@ -1,13 +1,13 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T02:54:15.034Z",
+  "generatedAt": "2026-11-16T13:01:26.796Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 254,
-    "afterFilter": 30,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 258,
+    "afterFilter": 39,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1558
+        "ms": 1663
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 598
+        "ms": 901
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 659
+        "ms": 3112
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 371
+        "ms": 448
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 473
+        "ms": 546
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 760
+        "ms": 3123
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 766
+        "ms": 3110
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 836
+        "ms": 3106
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1705
+        "ms": 1293
       }
     ],
     "ai": {
@@ -109,44 +109,81 @@
   },
   "mustEat": [
     "d7cad78161eeea75",
-    "03e5efc201575fa0",
-    "92a692180b89e2d7",
-    "f69884676ba5e1cb"
+    "3a6a49229d46fd07",
+    "6ff0f29d7ccc5c90"
   ],
   "sections": {
     "life": [
-      "03e5efc201575fa0",
-      "92a692180b89e2d7",
       "5aa347ce9a7a2dc5"
     ],
-    "romance": [],
+    "romance": [
+      "eb457e550d200168"
+    ],
     "oddity": [
+      "3a6a49229d46fd07",
       "a2207195cf04b228"
     ],
     "twist": [],
-    "entertainment": [
-      "3b7e6b72c121f288",
-      "47c3064b315fe818"
-    ],
+    "entertainment": [],
     "overseas": [
-      "f69884676ba5e1cb",
-      "0fbaa1a5bde6f7c2",
-      "100586b32796aa24"
+      "6ff0f29d7ccc5c90",
+      "539aad5b4705610d",
+      "9b2c714a17de4769"
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "id": "ev-a0add93507",
+      "title": "厉娜回应卷入借贷纠纷",
+      "sources": [
+        "toutiao",
+        "baidu"
+      ],
+      "fact": {
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
+        "mediaCount": 0,
+        "platformCount": 2
+      },
+      "timeline": [
+        {
+          "at": "2026-11-16T13:01:19.117Z",
+          "title": "厉娜回应卷入借贷纠纷",
+          "source": "今日头条·热榜",
+          "url": "https://www.toutiao.com/trending/7708678930912281115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708678930912281115%22%2C%22hot_board_impr_id%22%3A%222026111621011816DA5FDA67E745DEBEB2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7%22%7D&rank=&style_id=40132&topic_id=7708678930912281115",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-11-16T13:01:19.849Z",
+          "title": "厉娜回应卷入借贷纠纷",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&sa=fyb_news",
+          "kind": "platform"
+        },
+        {
+          "at": "2026-11-16T13:01:19.849Z",
+          "title": "曝厉娜卷入借贷纠纷",
+          "source": "百度热搜",
+          "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&sa=fyb_news",
+          "kind": "platform"
+        }
+      ],
+      "itemId": "2b303a71d3899626"
+    }
+  ],
   "items": [
     {
       "id": "d7cad78161eeea75",
       "title": "斯图尔特发表争议言论：詹姆斯打球赃？！",
       "originalTitle": null,
-      "summary": "虎扑11月14日讯 昨日，球员斯图尔特在节目《Out The Mud》中回忆了2021年与发生的冲突，坚称詹姆斯当时是故意击打自己的面部\n 斯图尔特表示：“直到今天，我仍然百分之百认为那是故意的，我知道那是针对我个人的”\n “他挥动手臂打中了我，而且打得很重，我当时都疼的不行，我看过他后来接受采访，说自己不是故意的，但我绝对认为那是故意的！",
+      "summary": "虎扑11月14日讯 昨日，球员斯图尔特在节目《Out The Mud》中回忆了2021年与发生的冲突，坚称詹姆斯当时是故意击打自己的面部\n 斯图尔特表示：“直到今天，我仍然百分之百认为那是故意的，我知道那是针对我个人的”\n “他挥动手臂打中了我的眼睛，而且打得很重，我当时都疼的不行，我看过他后来接受采访，无辜地说自己不是故意的，但我认为那绝对是故意的！",
       "url": "https://bbs.hupu.com/643949377.html",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-16T02:54:08.840Z",
+      "publishedAt": "2026-11-16T13:01:21.332Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -171,16 +208,16 @@
       "eventId": "ev-400d9c998d"
     },
     {
-      "id": "03e5efc201575fa0",
-      "title": "老龄陪伴式服务正从社区试点走向家庭场景 如何让陪伴服务更可持续？",
+      "id": "3a6a49229d46fd07",
+      "title": "江西德兴山林“追鸟人”：罕见记录到蓝冠噪鹛集群活动",
       "originalTitle": null,
-      "summary": "人口老龄化是当前和今后较长时期我国的基本国情，空巢、独居老人已经成为一个不可忽视的群体，不少异地打拼的子女难以时常陪伴在长辈身边，老人精神慰藉缺口凸显，于是，多地出现了老龄陪伴式服务。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732545.shtml",
+      "summary": "中新网江西德兴11月16日电 (王成前 邵德初)江南山区，早晚寒气渐浓，但白天暖意尚存。在江西上饶德兴市新岗山镇板桥村下涯田，山风穿林，枝叶轻摇，清亮婉转的鸟鸣隐约传来。循声望去，几只羽色艳丽的蓝冠噪鹛正在树梢翩跹。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733056.shtml",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "oddity",
+      "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T23:46:39.000Z",
+      "publishedAt": "2026-11-16T12:55:29.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -200,55 +237,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 77,
-      "ruleScore": 77,
-      "eventId": "ev-0e2cb0f34f"
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-b3d6788bce"
     },
     {
-      "id": "92a692180b89e2d7",
-      "title": "把服务阵地建到群众家门口 福建漳州持续推进民生综合体建设",
+      "id": "6ff0f29d7ccc5c90",
+      "title": "‘Today’ star Willie Geist announces major new career move: ‘Bittersweet goodbye’",
       "originalTitle": null,
-      "summary": "中新网漳州11月15日电 (记者 张金川)11月15日，福建省漳州市芗城区瑞民新苑“好客邻里中心”正式投入使用，这是芗城区投用的第四个民生综合体。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732496.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-15T12:51:27.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 72,
-      "ruleScore": 72,
-      "eventId": "ev-aaeb955d66"
-    },
-    {
-      "id": "f69884676ba5e1cb",
-      "title": "Andrew Shue and Marilee Fiebig share first glimpse at their wedding: ‘A beautiful new beginning’",
-      "originalTitle": null,
-      "summary": "The \"Melrose Place\" alum and his new wife shared a photo of their wedding day, which took place shortly after their respective exes Amy Robach and T.J. Holmes got married.",
-      "url": "https://pagesix.com/2026/11/15/celebrity-news/andrew-shue-and-marilee-fiebig-share-first-glimpse-at-their-wedding/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fphoto-cindy-ord-getty-images-148544346.jpg",
+      "summary": "The 51-year-old, who joined the \"Today\" crew in 2012, gushed about how \"thrilled\" he is in a press release Monday morning.",
+      "url": "https://pagesix.com/2026/11/16/entertainment/today-star-willie-geist-announces-major-new-career-move/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwillie-geist-announcment-2026-148957662.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-16T01:17:39.000Z",
+      "publishedAt": "2026-11-16T12:22:23.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -270,7 +273,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-52ddaffa1e"
+      "eventId": "ev-2b548ffe5d"
     },
     {
       "id": "5aa347ce9a7a2dc5",
@@ -282,7 +285,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-16T02:54:08.840Z",
+      "publishedAt": "2026-11-16T13:01:21.332Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -307,6 +310,40 @@
       "eventId": "ev-5113adce1b"
     },
     {
+      "id": "eb457e550d200168",
+      "title": "许飞自曝参加浪姐期间被分手了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-16T13:01:21.330Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-6d48609945"
+    },
+    {
       "id": "a2207195cf04b228",
       "title": "女子健身半年 竟然两次真菌感染",
       "originalTitle": null,
@@ -316,7 +353,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-16T02:54:09.603Z",
+      "publishedAt": "2026-11-16T13:01:19.849Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -341,84 +378,16 @@
       "eventId": "ev-fc00b0a129"
     },
     {
-      "id": "3b7e6b72c121f288",
-      "title": "西藏第二届大学生艺术展演暨颁奖晚会在拉萨举办",
+      "id": "539aad5b4705610d",
+      "title": "Clive Davis’ friends scoff at the late music mogul’s $11 million apartment listing",
       "originalTitle": null,
-      "summary": "中新网拉萨11月15日电 (贡嘎来松)15日，以“美育浸润高原·青春艺彩飞扬”为主题的西藏自治区第二届大学生艺术展演暨颁奖晚会在西藏自治区群众艺术馆(区非遗保护中心)举行，西藏高校学子以艺为媒，共赴一场高原美育盛宴。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732499.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-15T13:07:59.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 25,
-      "ruleScore": 25,
-      "eventId": "ev-34949b9cbc"
-    },
-    {
-      "id": "47c3064b315fe818",
-      "title": "广州官宣“入秋” 今年夏季长达235天",
-      "originalTitle": null,
-      "summary": "中新网广州11月15日电 (记者 王坚)广州市气象局15日晚宣布，基于前期气象资料判定，确定今年广州进入气候学上的秋季的时间是11月9日。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732508.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-15T13:06:39.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 22,
-      "ruleScore": 22,
-      "eventId": "ev-ac4ab4919e"
-    },
-    {
-      "id": "0fbaa1a5bde6f7c2",
-      "title": "Queen Latifah celebrated female empowerment during her Rock & Roll Hall of Fame induction",
-      "originalTitle": null,
-      "summary": "The hip-hop pioneer told Page Six she was blown away by the amount of love she received at the ceremony.",
-      "url": "https://pagesix.com/2026/11/15/entertainment/queen-latifah-celebrates-womens-empowerment-with-rhof-induction/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fl-r-megan-thee-stallion-148823710.jpg",
+      "summary": "Pals of the late music mogul say the staging does not reflect Davis' personal style at all.",
+      "url": "https://pagesix.com/2026/11/16/society/clive-davis-friends-scoff-at-late-moguls-apartment-listing/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fclive-davis-attends-pre-grammy-11925677.jpg?w%3D717",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T23:47:36.000Z",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -440,19 +409,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-1e65877718"
+      "eventId": "ev-78c7916089"
     },
     {
-      "id": "100586b32796aa24",
-      "title": "Camgirl Mastermind Allegedly Controlled Earnings, Locked Accounts",
+      "id": "9b2c714a17de4769",
+      "title": "OJ Simpson's Vegas Robbery Partner Recalls His Reaction After First Name Used in 'If I Did It'",
       "originalTitle": null,
-      "summary": "Nikita Tyukalo allegedly lured young women into his camgirl empire with promises of fame and fortune ... only to take control of their accounts and leave them with little to none of the cash they were bringing in.",
-      "url": "https://www.tmz.com/2026/11/14/camgirl-criminal-empire-false-promises/",
+      "summary": "Charlie Ehrlich -- O.J. Simpson's accomplice in his 2007 Las Vegas sports memorabilia armed robbery -- is sharing how OJ informed him his first name would be used in \"If I Did It.\" In a preview clip for Peacock's \"OJ's A…",
+      "url": "https://www.tmz.com/2026/11/16/ojs-accomplice-reacts-to-when-he-used-his-name/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-14T20:00:13.000Z",
+      "publishedAt": "2026-11-16T09:00:32.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -474,7 +443,42 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-1ae0b41abc"
+      "eventId": "ev-1325aae07a"
+    },
+    {
+      "id": "2b303a71d3899626",
+      "title": "厉娜回应卷入借贷纠纷",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708678930912281115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708678930912281115%22%2C%22hot_board_impr_id%22%3A%222026111621011816DA5FDA67E745DEBEB2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7%22%7D&rank=&style_id=40132&topic_id=7708678930912281115",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9de54ae12f834f6e8bdcc1f4fcf54166~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797379200&x-signature=CyalNnK9KgK9huWpVZKVqPQLNEk%3D",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-16T13:01:19.117Z",
+      "timeBasis": "fetch",
+      "heat": 4365195,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 2,
+        "platformSources": [
+          "toutiao",
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 12,
+      "ruleScore": 12,
+      "eventId": "ev-a0add93507"
     }
   ]
 }
