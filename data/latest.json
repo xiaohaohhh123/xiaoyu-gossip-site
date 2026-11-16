@@ -1,13 +1,13 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-15T19:01:53.144Z",
+  "generatedAt": "2026-11-16T02:54:15.034Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 266,
-    "afterFilter": 45,
-    "selected": 11,
-    "domesticSelected": 8,
-    "domesticRatio": 73,
+    "totalCollected": 254,
+    "afterFilter": 30,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1776
+        "ms": 1558
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 849
+        "ms": 598
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 938
+        "ms": 659
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 699
+        "ms": 371
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 821
+        "ms": 473
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1042
+        "ms": 760
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1019
+        "ms": 766
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1017
+        "ms": 836
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1482
+        "ms": 1705
       }
     ],
     "ai": {
@@ -109,21 +109,19 @@
   },
   "mustEat": [
     "d7cad78161eeea75",
-    "b2722141418f2a69",
+    "03e5efc201575fa0",
     "92a692180b89e2d7",
-    "4bcde4cfa70c1fa9"
+    "f69884676ba5e1cb"
   ],
   "sections": {
     "life": [
+      "03e5efc201575fa0",
       "92a692180b89e2d7",
       "5aa347ce9a7a2dc5"
     ],
-    "romance": [
-      "ab734c09c1308b5e"
-    ],
+    "romance": [],
     "oddity": [
-      "b2722141418f2a69",
-      "e2eebe7dc1ad42ff"
+      "a2207195cf04b228"
     ],
     "twist": [],
     "entertainment": [
@@ -131,8 +129,8 @@
       "47c3064b315fe818"
     ],
     "overseas": [
-      "4bcde4cfa70c1fa9",
-      "d7ab67d21f0df992",
+      "f69884676ba5e1cb",
+      "0fbaa1a5bde6f7c2",
       "100586b32796aa24"
     ]
   },
@@ -148,7 +146,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "publishedAt": "2026-11-16T02:54:08.840Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -173,38 +171,38 @@
       "eventId": "ev-400d9c998d"
     },
     {
-      "id": "b2722141418f2a69",
-      "title": "哪些营销事件让你的印象最深刻？",
+      "id": "03e5efc201575fa0",
+      "title": "老龄陪伴式服务正从社区试点走向家庭场景 如何让陪伴服务更可持续？",
       "originalTitle": null,
-      "summary": "近年各品牌的营销越来越“放飞自我”，跨界联名、新品联动层出不穷。\n 有没有你心中印象很深刻的一次营销事件？\n \n 可能是一个小品牌的骚操作。\n 可能是一次翻车翻出圈的公关。\n 可能是一个已经成为梗的广告...\n 和JRs一起聊聊吧！",
-      "url": "https://bbs.hupu.com/643902439.html",
+      "summary": "人口老龄化是当前和今后较长时期我国的基本国情，空巢、独居老人已经成为一个不可忽视的群体，不少异地打拼的子女难以时常陪伴在长辈身边，老人精神慰藉缺口凸显，于是，多地出现了老龄陪伴式服务。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732545.shtml",
       "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T19:01:46.835Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-15T23:46:39.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
       "score": 77,
       "ruleScore": 77,
-      "eventId": "ev-c4ecf50452"
+      "eventId": "ev-0e2cb0f34f"
     },
     {
       "id": "92a692180b89e2d7",
@@ -236,21 +234,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 75,
-      "ruleScore": 75,
+      "score": 72,
+      "ruleScore": 72,
       "eventId": "ev-aaeb955d66"
     },
     {
-      "id": "4bcde4cfa70c1fa9",
-      "title": "Michael J. Fox supported by wife Tracy Pollan and three daughters at actor’s Parkinson’s gala",
+      "id": "f69884676ba5e1cb",
+      "title": "Andrew Shue and Marilee Fiebig share first glimpse at their wedding: ‘A beautiful new beginning’",
       "originalTitle": null,
-      "summary": "The \"Back to the Future\" star founded the organization in 2000, nine years after he was diagnosed with Parkinson's.",
-      "url": "https://pagesix.com/2026/11/15/celebrity-news/michael-j-fox-supported-by-wife-tracy-pollan-and-three-daughters-at-actors-parkinsons-gala/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F2026-funny-thing-happened-way-148817697.jpg",
+      "summary": "The \"Melrose Place\" alum and his new wife shared a photo of their wedding day, which took place shortly after their respective exes Amy Robach and T.J. Holmes got married.",
+      "url": "https://pagesix.com/2026/11/15/celebrity-news/andrew-shue-and-marilee-fiebig-share-first-glimpse-at-their-wedding/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fphoto-cindy-ord-getty-images-148544346.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T16:52:42.000Z",
+      "publishedAt": "2026-11-16T01:17:39.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -272,7 +270,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-89039d85d2"
+      "eventId": "ev-52ddaffa1e"
     },
     {
       "id": "5aa347ce9a7a2dc5",
@@ -284,7 +282,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "publishedAt": "2026-11-16T02:54:08.840Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -309,60 +307,26 @@
       "eventId": "ev-5113adce1b"
     },
     {
-      "id": "ab734c09c1308b5e",
-      "title": "江苏女网友： 男朋友看SQ网址就是出轨！我很难调理。",
+      "id": "a2207195cf04b228",
+      "title": "女子健身半年 竟然两次真菌感染",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/643899757.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-15T19:01:46.835Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 46,
-      "ruleScore": 46,
-      "eventId": "ev-9dd78aa9ff"
-    },
-    {
-      "id": "e2eebe7dc1ad42ff",
-      "title": "东南亚骑手收入竟然追上我国了",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643948395.html",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%8D%8A%E5%B9%B4+%E7%AB%9F%E7%84%B6%E4%B8%A4%E6%AC%A1%E7%9C%9F%E8%8F%8C%E6%84%9F%E6%9F%93&sa=fyb_news",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-15T19:01:46.835Z",
+      "publishedAt": "2026-11-16T02:54:09.603Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "baidu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -372,9 +336,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-d88ab9e05e"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-fc00b0a129"
     },
     {
       "id": "3b7e6b72c121f288",
@@ -406,8 +370,8 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 27,
-      "ruleScore": 27,
+      "score": 25,
+      "ruleScore": 25,
       "eventId": "ev-34949b9cbc"
     },
     {
@@ -440,21 +404,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 25,
-      "ruleScore": 25,
+      "score": 22,
+      "ruleScore": 22,
       "eventId": "ev-ac4ab4919e"
     },
     {
-      "id": "d7ab67d21f0df992",
-      "title": "Will Ferrell’s ‘SNL’ pal Harper Steele reveals what ‘still surprises’ her after transitioning",
+      "id": "0fbaa1a5bde6f7c2",
+      "title": "Queen Latifah celebrated female empowerment during her Rock & Roll Hall of Fame induction",
       "originalTitle": null,
-      "summary": "The comedy writer starred in the documentary \"Will & Harper\" with her comedy pal, Will Ferrell.",
-      "url": "https://pagesix.com/2026/11/15/celebrity-news/harper-steele-reveals-what-still-surprises-her-after-transitioning/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fferrells-snl-pal-harper-steele-148479808.jpg",
+      "summary": "The hip-hop pioneer told Page Six she was blown away by the amount of love she received at the ceremony.",
+      "url": "https://pagesix.com/2026/11/15/entertainment/queen-latifah-celebrates-womens-empowerment-with-rhof-induction/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fl-r-megan-thee-stallion-148823710.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-15T14:00:00.000Z",
+      "publishedAt": "2026-11-15T23:47:36.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -476,7 +440,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-62dd4da8f8"
+      "eventId": "ev-1e65877718"
     },
     {
       "id": "100586b32796aa24",
