@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-17T21:14:16.714Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 269,
+    "afterFilter": 44,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2880
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1645
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1786
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 11,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1510
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1586
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1863
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1844
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1835
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2157
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "b8cc069a303492e3",
+    "6ff113c152f92a31",
+    "6ae85c6cf5398e6b"
+  ],
+  "sections": {
+    "life": [
+      "6ff113c152f92a31",
+      "dd035c3f81fe9089"
+    ],
+    "romance": [
+      "5eb666d9dec5734d"
+    ],
+    "oddity": [],
+    "twist": [
+      "902c88f3e2c20a4c"
+    ],
+    "entertainment": [],
+    "overseas": [
+      "6ae85c6cf5398e6b",
+      "48889117f3434aca",
+      "a4ee357a58f4ddd4"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "b8cc069a303492e3",
+      "title": "聊找到白女以后的感受",
+      "originalTitle": null,
+      "summary": "找了澳洲女朋友以后的一些感受\n 接触过国内女生和澳洲本地女生，感觉两边对女权和恋爱的理解还是挺不一样的。\n 我在国内没谈过恋爱，来澳洲1年后找到的\n 我比较喜欢澳洲女生的一点是，她们普遍比较独立，恋爱里也更强调双方平等。约会不觉得男生必须买单，喜欢就主动表达，也不会觉得男生就应该承担所有责任。不需要一直说要给她情绪价值\n 国内女生让我欣赏的是比较重视感情和家庭，也更懂得照顾人。但不太喜欢部分人一边强调男女平等，一边又觉得男生必须主动、买单、提供经济条件。同时一再强调要给情绪价值。要把她当公主一样照顾，宠着，给足情绪价值。但是拜托，我不是找女儿，我可以当你的queen，但是我也是你的king。\n 当然哪里都有不同的人，不能一概而论。",
+      "url": "https://bbs.hupu.com/643975554.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T21:14:08.624Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-3b1913c2a6"
+    },
+    {
+      "id": "6ff113c152f92a31",
+      "title": "听到一个很让人惊讶的事，现在女大学生都已经进化到这个程度了吗？",
+      "originalTitle": null,
+      "summary": "邻居家的女娃，今年刚上大一，一个宿舍6个女生，入学整整2天，互相之间没有说过话，第三天才偶尔有点交流，至今快3个月了，回到宿舍要么坐在自己凳子上，要么躲在自己的床上，默默刷手机，PS.床都是用大包围蚊帐围起来，密不透光的。\n \n 该女娃说，不仅女生之间交流少，男生女生之间现在也是基本不搭话。\n \n 卧槽",
+      "url": "https://bbs.hupu.com/644006673.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T21:14:08.624Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-d01cbdcde9"
+    },
+    {
+      "id": "6ae85c6cf5398e6b",
+      "title": "Vanna White, 69, shares surprising reason she was chosen to star on ‘Wheel of Fortune’ out of 200 other women",
+      "originalTitle": null,
+      "summary": "White began her journey on the beloved game show in 1982.",
+      "url": "https://pagesix.com/2026/11/17/entertainment/vanna-white-69-shares-surprising-reason-she-was-chosen-to-star-on-wheel-of-fortune/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Ftelevision-personality-vanna-white-interview-149122123.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T21:13:30.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-108976a3c7"
+    },
+    {
+      "id": "dd035c3f81fe9089",
+      "title": "业主拖欠842.48元物业费被起诉",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7708393396322615359/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708393396322615359%22%2C%22hot_board_impr_id%22%3A%22202611180514086CE5ED9A74304467E7F1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%9A%E4%B8%BB%E6%8B%96%E6%AC%A0842.48%E5%85%83%E7%89%A9%E4%B8%9A%E8%B4%B9%E8%A2%AB%E8%B5%B7%E8%AF%89%22%7D&rank=&style_id=40132&topic_id=7708393396322615359",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/5c0a642abf664222a68ac70c87f3d1b5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797465600&x-signature=hGVrJl0OFxZZU%2BdsIiI%2BZ5%2BjB90%3D",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-17T21:14:08.420Z",
+      "timeBasis": "fetch",
+      "heat": 7801567,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-7c0ffb2bb9"
+    },
+    {
+      "id": "5eb666d9dec5734d",
+      "title": "已婚jrs进，你们当初结婚娶媳妇给了多少彩礼？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/643988321.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-17T21:14:08.624Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-bbe2464bf3"
+    },
+    {
+      "id": "902c88f3e2c20a4c",
+      "title": "土耳其网友不信中國造船占全球77%，親自去问AI，結果光速被打脸",
+      "originalTitle": null,
+      "summary": "土耳其网友吹韩国造船业像印钞一样简单，结果中国网友给他科普，韩国造船只占全球15%份额，而中国占77%份额。\n 土耳其网友还不信，立马问AI，结果光速被打脸🤣",
+      "url": "https://bbs.hupu.com/643989059.html",
+      "image": "",
+      "category": "twist",
+      "topicClass": "twist",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T21:14:08.624Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-d8c69d9760"
+    },
+    {
+      "id": "48889117f3434aca",
+      "title": "What sparked Aaron Rodgers and brother Jordan’s shocking reunion after bitter family feud",
+      "originalTitle": null,
+      "summary": "The brothers posted a photo together for the first time ever after their decade-long estrangement.",
+      "url": "https://pagesix.com/2026/11/17/celebrity-news/what-sparked-aaron-rodgers-and-brother-jordans-shocking-reunion-after-bitter-family-feud/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dftgx-148717505_cfd0e0.jpg?w%3D956",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T20:45:42.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5890dd1023"
+    },
+    {
+      "id": "a4ee357a58f4ddd4",
+      "title": "Baby Buried Alive: Father's Domestic Violence, Gun Arrests Revealed",
+      "originalTitle": null,
+      "summary": "The father accused of burying his 11-month-old son alive in a dog crate has a disturbing criminal history ... including a domestic violence conviction and a separate run-in with the law that involves a firearm.",
+      "url": "https://www.tmz.com/2026/11/17/baby-buried-alive-dad-criminal-record/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T20:53:54.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-a7c12232d1"
+    }
+  ]
+}
