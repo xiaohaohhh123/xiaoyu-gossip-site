@@ -1,13 +1,13 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T05:08:44.611Z",
+  "generatedAt": "2026-11-17T13:43:07.464Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 259,
-    "afterFilter": 39,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 270,
+    "afterFilter": 41,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1490
+        "ms": 2744
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 375
+        "ms": 581
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2611
+        "ms": 1217
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 239
+        "ms": 338
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 391
+        "ms": 436
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 715
+        "ms": 786
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 592
+        "ms": 749
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2783
+        "ms": 722
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1482
+        "ms": 1347
       }
     ],
     "ai": {
@@ -110,28 +110,24 @@
   "mustEat": [
     "b8cc069a303492e3",
     "d7cad78161eeea75",
-    "3a6a49229d46fd07",
-    "e6ce97a2e44c0f8b"
+    "7ccbc5e50e689757"
   ],
   "sections": {
-    "life": [
-      "dd035c3f81fe9089"
-    ],
+    "life": [],
     "romance": [
-      "e91e1e2db4d00c31"
+      "5eb666d9dec5734d"
     ],
     "oddity": [
-      "d7cad78161eeea75",
-      "3a6a49229d46fd07"
+      "d7cad78161eeea75"
     ],
     "twist": [
       "902c88f3e2c20a4c"
     ],
     "entertainment": [],
     "overseas": [
-      "e6ce97a2e44c0f8b",
-      "d9a531156ed06dee",
-      "4344ed402a66a789"
+      "7ccbc5e50e689757",
+      "3ff26293ab8d5f1e",
+      "43e9ba440ad9483d"
     ]
   },
   "events": [],
@@ -146,7 +142,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-17T05:08:36.365Z",
+      "publishedAt": "2026-11-17T13:42:58.725Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -180,7 +176,7 @@
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-17T05:08:36.365Z",
+      "publishedAt": "2026-11-17T13:42:58.725Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -205,62 +201,28 @@
       "eventId": "ev-400d9c998d"
     },
     {
-      "id": "3a6a49229d46fd07",
-      "title": "江西德兴山林“追鸟人”：罕见记录到蓝冠噪鹛集群活动",
+      "id": "7ccbc5e50e689757",
+      "title": "‘GMA’ correspondent Gio Benitez, 41, reveals ‘shocking’ health diagnosis: ‘Is this the night my heart stops?’",
       "originalTitle": null,
-      "summary": "中新网江西德兴11月16日电 (王成前 邵德初)江南山区，早晚寒气渐浓，但白天暖意尚存。在江西上饶德兴市新岗山镇板桥村下涯田，山风穿林，枝叶轻摇，清亮婉转的鸟鸣隐约传来。循声望去，几只羽色艳丽的蓝冠噪鹛正在树梢翩跹。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733056.shtml",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-16T12:55:29.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-b3d6788bce"
-    },
-    {
-      "id": "e6ce97a2e44c0f8b",
-      "title": "Guess Which 'Syrn' These Booty Creases Belong To",
-      "originalTitle": null,
-      "summary": "Feeling a little down on this Monday?! This sexy star's perky booty will perk you right up! Can you guess the TV temptress who is making us \"Euphoric\" with her booty creases on full display? We'll give you a hint ...",
-      "url": "https://www.tmz.com/2026/11/16/sydney-sweeney-hot-sexy-booty-pic-with-creases/",
-      "image": "",
+      "summary": "The 41-year-old said his \"diagnosis shocked [him] and everyone who knows\" him since he \"works out,\" \"watches what [he] eats\" and \"takes care\" of his body.",
+      "url": "https://pagesix.com/2026/11/17/entertainment/gma-correspondent-gio-benitez-reveals-shocking-health-diagnosis/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fgio-benitez-2026-149085250.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-17T01:42:08.000Z",
+      "publishedAt": "2026-11-17T12:44:47.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -268,65 +230,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-c754165308"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-605d0a0e9c"
     },
     {
-      "id": "dd035c3f81fe9089",
-      "title": "业主拖欠842.48元物业费被起诉",
+      "id": "5eb666d9dec5734d",
+      "title": "已婚jrs进，你们当初结婚娶媳妇给了多少彩礼？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7708393396322615359/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708393396322615359%22%2C%22hot_board_impr_id%22%3A%22202611171308358D93E056E5EAB966F50D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%9A%E4%B8%BB%E6%8B%96%E6%AC%A0842.48%E5%85%83%E7%89%A9%E4%B8%9A%E8%B4%B9%E8%A2%AB%E8%B5%B7%E8%AF%89%22%7D&rank=&style_id=40132&topic_id=7708393396322615359",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/5c0a642abf664222a68ac70c87f3d1b5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797465600&x-signature=hGVrJl0OFxZZU%2BdsIiI%2BZ5%2BjB90%3D",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-17T05:08:36.140Z",
-      "timeBasis": "fetch",
-      "heat": 6297558,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-7c0ffb2bb9"
-    },
-    {
-      "id": "e91e1e2db4d00c31",
-      "title": "太阳雨陈砚周求婚郑雨",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E9%9B%A8%E9%99%88%E7%A0%9A%E5%91%A8%E6%B1%82%E5%A9%9A%E9%83%91%E9%9B%A8%23&t=31&band_rank=25&Refer=top",
+      "url": "https://bbs.hupu.com/643988321.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-17T05:08:38.377Z",
+      "publishedAt": "2026-11-17T13:42:58.725Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -338,7 +266,7 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-7f70677f3f"
+      "eventId": "ev-bbe2464bf3"
     },
     {
       "id": "902c88f3e2c20a4c",
@@ -350,7 +278,7 @@
       "category": "twist",
       "topicClass": "twist",
       "contentLevel": "story",
-      "publishedAt": "2026-11-17T05:08:36.365Z",
+      "publishedAt": "2026-11-17T13:42:58.725Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -375,50 +303,16 @@
       "eventId": "ev-d8c69d9760"
     },
     {
-      "id": "d9a531156ed06dee",
-      "title": "Guess The Shredded Singer With The Washboard Abs!",
+      "id": "3ff26293ab8d5f1e",
+      "title": "Teresa Giudice recalls ‘rude’ interaction with A-list celebrity: ‘You think you’re such a big deal!’",
       "originalTitle": null,
-      "summary": "Here's a fun one for y'all -- this handsome fella is a singer who's snagged multiple Grammy Awards and isn't afraid to push boundaries. He's no stranger to making bold fashion statements on and off the red carpet.",
-      "url": "https://www.tmz.com/2026/11/16/lil-nas-x-sexy-abs-picture/",
-      "image": "",
+      "summary": "The Bravo star writes about the \"rude\" encounter — and the awkward run-in the pair had years later — in her new memoir, \"The Queen of New Jersey,\" out now.",
+      "url": "https://pagesix.com/2026/11/17/celebrity-news/teresa-giudice-recalls-rude-interaction-with-a-list-celebrity/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fteresa-giudice-real-housewives-new-97509127.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-16T22:25:34.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-147e0c9f72"
-    },
-    {
-      "id": "4344ed402a66a789",
-      "title": "Russell Brand facing ‘punishment’ for ‘taunting’ victims with illicit message from behind bars",
-      "originalTitle": null,
-      "summary": "The letter was read by the comedian's wife, Laura Gallacher, on Sunday's eepisode of their “Sunday Service with the Brands\" podcast.",
-      "url": "https://pagesix.com/2026/11/16/celebrity-news/russell-brand-facing-punishment-for-taunting-victims-with-illicit-message-from-behind-bars/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frussell-brand-daniel-radcliffe-ref-148748929_e4bcab.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-17T01:36:07.000Z",
+      "publishedAt": "2026-11-17T07:01:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -440,7 +334,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-3a9b12b39a"
+      "eventId": "ev-7cf10ea7f6"
+    },
+    {
+      "id": "43e9ba440ad9483d",
+      "title": "Kid Rock's Nashville Bar Sued By Man Who Claims Security Guards Beat Him Up",
+      "originalTitle": null,
+      "summary": "Kid Rock's honky tonk has been dealing with some legal drama all summer long ... because the controversial rock star's Nashville bar is being sued by a man who claims security guards went overboard and beat him senseless…",
+      "url": "https://www.tmz.com/2026/11/17/kid-rocks-bar-sued-security-guards-beat-up-patron/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-17T09:00:37.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-e2bdf69fb9"
     }
   ]
 }
