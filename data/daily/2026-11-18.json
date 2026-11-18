@@ -1,13 +1,13 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T04:36:14.737Z",
+  "generatedAt": "2026-11-18T13:17:56.862Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 257,
-    "afterFilter": 46,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 258,
+    "afterFilter": 39,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1763
+        "ms": 2560
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 679
+        "ms": 1035
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 27,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 778
+        "ms": 774
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 8,
         "error": null,
         "httpStatus": 200,
-        "ms": 518
+        "ms": 465
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 624
+        "ms": 535
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 877
+        "ms": 854
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 836
+        "ms": 846
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 815
+        "ms": 859
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1179
+        "ms": 996
       }
     ],
     "ai": {
@@ -109,28 +109,27 @@
   },
   "mustEat": [
     "7e71dc18bf9bd5a4",
-    "6ff113c152f92a31",
-    "775aa1876e03454d"
+    "254b7a00a2180d8e",
+    "d8ceed0171248c2c"
   ],
   "sections": {
     "life": [
-      "6ff113c152f92a31",
-      "bbc0673d331f730c"
+      "254b7a00a2180d8e"
     ],
     "romance": [
-      "5eb666d9dec5734d"
+      "0b7538abb5974c42"
     ],
     "oddity": [
-      "4432d66a7d0009ee"
+      "e9d03e8adceab07a"
     ],
-    "twist": [
-      "902c88f3e2c20a4c"
+    "twist": [],
+    "entertainment": [
+      "a23929d86f23d773"
     ],
-    "entertainment": [],
     "overseas": [
-      "775aa1876e03454d",
-      "2126f1c532c7253c",
-      "6e593bcd048d0347"
+      "d8ceed0171248c2c",
+      "cdf1b9497f222494",
+      "839bdc513a5fa0b7"
     ]
   },
   "events": [],
@@ -145,7 +144,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T04:36:08.030Z",
+      "publishedAt": "2026-11-18T13:17:49.137Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -170,16 +169,16 @@
       "eventId": "ev-eea13be5ae"
     },
     {
-      "id": "6ff113c152f92a31",
-      "title": "听到一个很让人惊讶的事，现在女大学生都已经进化到这个程度了吗？",
+      "id": "254b7a00a2180d8e",
+      "title": "家人们，这种情况我能冲吗？",
       "originalTitle": null,
-      "summary": "邻居家的女娃，今年刚上大一，一个宿舍6个女生，入学整整2天，互相之间没有说过话，第三天才偶尔有点交流，至今快3个月了，回到宿舍要么坐在自己凳子上，要么躲在自己的床上，默默刷手机，PS.床都是用大包围蚊帐围起来，密不透光的。\n \n 该女娃说，不仅女生之间交流少，男生女生之间现在也是基本不搭话。\n \n 卧槽",
-      "url": "https://bbs.hupu.com/644006673.html",
+      "summary": "我和她是亲戚介绍认识的，她在外地工作生活，明年有回来的打算，陆陆续续聊了有一个多月了，感觉还不错，上周她回来了一趟，我们一起吃了饭，打了台球，看了电影，还喝了杯小酒。\n 然后这周五我准备去她的城市玩，她一个人住，对话如下，我能不能直接冲？",
+      "url": "https://bbs.hupu.com/644023335.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T04:36:08.030Z",
+      "publishedAt": "2026-11-18T13:17:49.137Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -199,21 +198,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 81,
-      "ruleScore": 81,
-      "eventId": "ev-d01cbdcde9"
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-18dbdd5614"
     },
     {
-      "id": "775aa1876e03454d",
-      "title": "‘Dancing With the Stars’ sends another fan-favorite couple home during shocking Semi-Finals elimination",
+      "id": "d8ceed0171248c2c",
+      "title": "Fate of ‘SNL’ star Heidi Gardner’s late boyfriend Ray Tintori’s podcast revealed by ‘extremely sad’ co-host",
       "originalTitle": null,
-      "summary": "The five remaining contestants will move on to the Season 35 finale, airing next Tuesday at 8 p.m. ET/5 p.m. PT on ABC and Disney+.",
-      "url": "https://pagesix.com/2026/11/17/entertainment/dancing-with-the-stars-sends-harry-shum-jr-and-jenna-johnson-home-during-shocking-semi-finals-elimination/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fabcs-dancing-stars-stars-harry-149104168.jpg?w%3D768",
+      "summary": "Tintori's \"To the White Sea\" podcast co-host, Jordan Fish, released a statement on his \"fallen comrade\" via Discord on Monday.",
+      "url": "https://pagesix.com/2026/11/18/celebrity-news/fate-of-snl-star-heidi-gardners-late-boyfriend-ray-tintoris-podcast-revealed-by-co-host/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fheidi-gardner-r-seen-west-149008925_dee575.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T03:03:48.000Z",
+      "publishedAt": "2026-11-18T13:07:22.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -235,63 +234,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-8013b8e1da"
+      "eventId": "ev-e224d6a1f9"
     },
     {
-      "id": "bbc0673d331f730c",
-      "title": "小孩耍脾气躺地不起，家长撒手离去，随后孩子被轿车碾压，在孩子闹情绪时，家长如何引导才有效又解决问题？",
+      "id": "0b7538abb5974c42",
+      "title": "女生当众求婚男生拂袖离开",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/664242324",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-18T04:36:08.070Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-03a67da2be"
-    },
-    {
-      "id": "5eb666d9dec5734d",
-      "title": "已婚jrs进，你们当初结婚娶媳妇给了多少彩礼？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/643988321.html",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%BD%93%E4%BC%97%E6%B1%82%E5%A9%9A%E7%94%B7%E7%94%9F%E6%8B%82%E8%A2%96%E7%A6%BB%E5%BC%80&t=31&band_rank=15&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-18T04:36:08.030Z",
+      "publishedAt": "2026-11-18T13:17:49.061Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -303,29 +268,29 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-bbe2464bf3"
+      "eventId": "ev-d607fa0942"
     },
     {
-      "id": "4432d66a7d0009ee",
-      "title": "中足联重罚中青赛冲突",
+      "id": "e9d03e8adceab07a",
+      "title": "特朗普谈俄乌冲突：乌克兰正在输",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E8%B6%B3%E8%81%94%E9%87%8D%E7%BD%9A%E4%B8%AD%E9%9D%92%E8%B5%9B%E5%86%B2%E7%AA%81&sa=fyb_news",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7709023114491101747/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709023114491101747%22%2C%22hot_board_impr_id%22%3A%22202611182117485E4A620256DB1914452E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A3%E5%9C%A8%E8%BE%93%22%7D&rank=&style_id=40132&topic_id=7709023114491101747",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/43c153d411274f4183acea311477b842~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797552000&x-signature=Fa%2FvLVsWI2BZ6I7k6hWYyVE9Fr4%3D",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-18T04:36:08.929Z",
+      "publishedAt": "2026-11-18T13:17:49.320Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "heat": 1187897,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -337,19 +302,19 @@
       "translated": false,
       "score": 57,
       "ruleScore": 57,
-      "eventId": "ev-7f6481d504"
+      "eventId": "ev-6e13632452"
     },
     {
-      "id": "902c88f3e2c20a4c",
-      "title": "土耳其网友不信中國造船占全球77%，親自去问AI，結果光速被打脸",
+      "id": "a23929d86f23d773",
+      "title": "向老詹的粉丝提个问",
       "originalTitle": null,
-      "summary": "土耳其网友吹韩国造船业像印钞一样简单，结果中国网友给他科普，韩国造船只占全球15%份额，而中国占77%份额。\n 土耳其网友还不信，立马问AI，结果光速被打脸🤣",
-      "url": "https://bbs.hupu.com/643989059.html",
+      "summary": "为什么张蜜这么不自信，老是要去跟科蜜争论老张科比谁更强？老张比科比多3mvp，2fmvp，9一阵，17000分，奥尼尔比格林也就多这么多，看看人家奥尼尔粉丝会来跟格林粉丝争论么？",
+      "url": "https://bbs.hupu.com/644025209.html",
       "image": "",
-      "category": "twist",
-      "topicClass": "twist",
+      "category": "entertainment",
+      "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T04:36:08.030Z",
+      "publishedAt": "2026-11-18T13:17:49.137Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -367,23 +332,23 @@
         "label": "平台热榜",
         "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-d8c69d9760"
+      "score": 27,
+      "ruleScore": 27,
+      "eventId": "ev-7c28005619"
     },
     {
-      "id": "2126f1c532c7253c",
-      "title": "Patrick and Brittany Mahomes reveal sex of baby No. 4",
+      "id": "cdf1b9497f222494",
+      "title": "The major A-list star set for billionaire status thanks to Anthropic IPO",
       "originalTitle": null,
-      "summary": "The couple announced the impending arrival of their fourth child earlier this month.",
-      "url": "https://pagesix.com/2026/11/17/parents/patrick-and-brittany-mahomes-reveal-sex-of-baby-no-4/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fpatrick-mahomes-brittany-mahomes-sports-148274209_03b716.jpg",
+      "summary": "The Hollywood star is best known for their on-screen work, but — thanks to early investments — their net worth could skyrocket when Anthropic goes public today.",
+      "url": "https://pagesix.com/2026/11/18/celebrity-news/ashton-kutcher-is-about-to-hit-billionaire-status-heres-why/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fashton-kutcher-attends-red-carpet-149207384.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T02:55:49.000Z",
+      "publishedAt": "2026-11-18T12:56:40.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,19 +370,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f69a0c0dfc"
+      "eventId": "ev-38b28123ac"
     },
     {
-      "id": "6e593bcd048d0347",
-      "title": "Rod Wave Indicted on Drug Possession, Gun Charges",
+      "id": "839bdc513a5fa0b7",
+      "title": "Anne Hathaway Welcomes New Baby, Spotted With Newborn in NYC",
       "originalTitle": null,
-      "summary": "Rod Wave has been indicted on drug and gun charges ... after he was arrested last year for allegedly blowing through a stop sign.",
-      "url": "https://www.tmz.com/2026/11/17/rod-wave-indicted/",
+      "summary": "Anne Hathaway has a new addition to the family ... and she's already showing off her little bundle of joy in the Big Apple!",
+      "url": "https://www.tmz.com/2026/11/17/anne-hathaway-seen-with-new-baby/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T00:00:20.000Z",
+      "publishedAt": "2026-11-17T21:36:25.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -439,7 +404,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-77c4e15c73"
+      "eventId": "ev-4614108134"
     }
   ]
 }
