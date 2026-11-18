@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T13:17:56.862Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-18T20:48:51.880Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 258,
-    "afterFilter": 39,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 270,
+    "afterFilter": 46,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2560
+        "ms": 1569
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1035
+        "ms": 1166
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 774
+        "ms": 1131
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 8,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 465
+        "ms": 783
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 535
+        "ms": 883
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 854
+        "ms": 1186
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 846
+        "ms": 1160
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 859
+        "ms": 1150
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 996
+        "ms": 1582
       }
     ],
     "ai": {
@@ -108,32 +108,68 @@
     "totalSources": 9
   },
   "mustEat": [
+    "07879085de8259ea",
     "7e71dc18bf9bd5a4",
-    "254b7a00a2180d8e",
-    "d8ceed0171248c2c"
+    "6ff113c152f92a31",
+    "e0c98bd7c698c4e9"
   ],
   "sections": {
     "life": [
-      "254b7a00a2180d8e"
+      "7e71dc18bf9bd5a4",
+      "6ff113c152f92a31"
     ],
     "romance": [
-      "0b7538abb5974c42"
+      "79040e94c5b4b053"
     ],
     "oddity": [
-      "e9d03e8adceab07a"
+      "7b5d5171925cb183"
     ],
     "twist": [],
     "entertainment": [
       "a23929d86f23d773"
     ],
     "overseas": [
-      "d8ceed0171248c2c",
-      "cdf1b9497f222494",
-      "839bdc513a5fa0b7"
+      "e0c98bd7c698c4e9",
+      "e901b48c473a5899",
+      "c61bb3b53a6c54e2"
     ]
   },
   "events": [],
   "items": [
+    {
+      "id": "07879085de8259ea",
+      "title": "分享一下今晚的事…",
+      "originalTitle": null,
+      "summary": "兄弟们 真没想到三十出头了 还会碰到这样的事情…\n 一切都要从几个月前说起:\n 那时候从某社交平台认识了一个女生（都说在社交软件上认识的人都不靠谱，但是我觉得我自己也挺不靠谱的，会在这样的平台去找对象），本来也是打算往恋爱到结婚这个方向去走的，但是是异地，100多公里吧也不算很远，我去找她的次数多 但是她偶尔也会来找我，大概见了4次的样子 表白成功了，当时还是挺开心的，就这么谈着谈着，基本上每个星期都会见面\n 我记得有一次晚上下了班之后，她就一直没有理我，一直到第二天的下午才理我 无论我怎么给她发消息 打电话 都不接 就很反常 我第二天下午就买了票去找她 也没通知她 但是在我坐高铁的时候 她才回的我 问她什么原因 她也只是说不想回消…",
+      "url": "https://bbs.hupu.com/644017826.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-18T20:48:46.033Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 91,
+      "ruleScore": 91,
+      "eventId": "ev-b1a12cb134"
+    },
     {
       "id": "7e71dc18bf9bd5a4",
       "title": "胖东来搬走后，新乡房东把租金从2400万降到400万，可楼依旧空置",
@@ -144,7 +180,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T13:17:49.137Z",
+      "publishedAt": "2026-11-18T20:48:46.033Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -169,16 +205,16 @@
       "eventId": "ev-eea13be5ae"
     },
     {
-      "id": "254b7a00a2180d8e",
-      "title": "家人们，这种情况我能冲吗？",
+      "id": "6ff113c152f92a31",
+      "title": "听到一个很让人惊讶的事，现在女大学生都已经进化到这个程度了吗？",
       "originalTitle": null,
-      "summary": "我和她是亲戚介绍认识的，她在外地工作生活，明年有回来的打算，陆陆续续聊了有一个多月了，感觉还不错，上周她回来了一趟，我们一起吃了饭，打了台球，看了电影，还喝了杯小酒。\n 然后这周五我准备去她的城市玩，她一个人住，对话如下，我能不能直接冲？",
-      "url": "https://bbs.hupu.com/644023335.html",
+      "summary": "邻居家的女娃，今年刚上大一，一个宿舍6个女生，入学整整2天，互相之间没有说过话，第三天才偶尔有点交流，至今快3个月了，回到宿舍要么坐在自己凳子上，要么躲在自己的床上，默默刷手机，PS.床都是用大包围蚊帐围起来，密不透光的。\n \n 该女娃说，不仅女生之间交流少，男生女生之间现在也是基本不搭话。\n \n 卧槽",
+      "url": "https://bbs.hupu.com/644006673.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T13:17:49.137Z",
+      "publishedAt": "2026-11-18T20:48:46.033Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -198,21 +234,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-18dbdd5614"
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-d01cbdcde9"
     },
     {
-      "id": "d8ceed0171248c2c",
-      "title": "Fate of ‘SNL’ star Heidi Gardner’s late boyfriend Ray Tintori’s podcast revealed by ‘extremely sad’ co-host",
+      "id": "e0c98bd7c698c4e9",
+      "title": "Alix Earle goes for gold in chainmail top and itty-bitty miniskirt",
       "originalTitle": null,
-      "summary": "Tintori's \"To the White Sea\" podcast co-host, Jordan Fish, released a statement on his \"fallen comrade\" via Discord on Monday.",
-      "url": "https://pagesix.com/2026/11/18/celebrity-news/fate-of-snl-star-heidi-gardners-late-boyfriend-ray-tintoris-podcast-revealed-by-co-host/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fheidi-gardner-r-seen-west-149008925_dee575.jpg?w%3D683",
+      "summary": "The skincare founder showed off miles of legs while promoting her Bumble partnership.",
+      "url": "https://pagesix.com/2026/11/18/style/alix-earle-goes-for-gold-in-chainmail-top-and-itty-bitty-miniskirt/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Falix-earle-attends-bumble-x-149221492.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T13:07:22.000Z",
+      "publishedAt": "2026-11-18T20:40:46.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -234,29 +270,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-e224d6a1f9"
+      "eventId": "ev-c6796f9300"
     },
     {
-      "id": "0b7538abb5974c42",
-      "title": "女生当众求婚男生拂袖离开",
+      "id": "79040e94c5b4b053",
+      "title": "找了澳洲女朋友以后的一些感受-2（恋爱细节篇）",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%BD%93%E4%BC%97%E6%B1%82%E5%A9%9A%E7%94%B7%E7%94%9F%E6%8B%82%E8%A2%96%E7%A6%BB%E5%BC%80&t=31&band_rank=15&Refer=top",
+      "url": "https://bbs.hupu.com/644024057.html",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-18T13:17:49.061Z",
+      "publishedAt": "2026-11-18T20:48:46.033Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -268,29 +304,29 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-d607fa0942"
+      "eventId": "ev-9d420f70ca"
     },
     {
-      "id": "e9d03e8adceab07a",
-      "title": "特朗普谈俄乌冲突：乌克兰正在输",
+      "id": "7b5d5171925cb183",
+      "title": "深圳市民路边热情围观特朗普座驾",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709023114491101747/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709023114491101747%22%2C%22hot_board_impr_id%22%3A%22202611182117485E4A620256DB1914452E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A3%E5%9C%A8%E8%BE%93%22%7D&rank=&style_id=40132&topic_id=7709023114491101747",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/43c153d411274f4183acea311477b842~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797552000&x-signature=Fa%2FvLVsWI2BZ6I7k6hWYyVE9Fr4%3D",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E8%B7%AF%E8%BE%B9%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%A7%E9%A9%BE&sa=fyb_news",
+      "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-18T13:17:49.320Z",
+      "publishedAt": "2026-11-18T20:48:46.416Z",
       "timeBasis": "fetch",
-      "heat": 1187897,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "toutiao"
+          "baidu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -302,7 +338,7 @@
       "translated": false,
       "score": 57,
       "ruleScore": 57,
-      "eventId": "ev-6e13632452"
+      "eventId": "ev-9d108940c7"
     },
     {
       "id": "a23929d86f23d773",
@@ -314,7 +350,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T13:17:49.137Z",
+      "publishedAt": "2026-11-18T20:48:46.033Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -339,16 +375,16 @@
       "eventId": "ev-7c28005619"
     },
     {
-      "id": "cdf1b9497f222494",
-      "title": "The major A-list star set for billionaire status thanks to Anthropic IPO",
+      "id": "e901b48c473a5899",
+      "title": "Hoka’s Marni collab just made our favorite sneakers even better",
       "originalTitle": null,
-      "summary": "The Hollywood star is best known for their on-screen work, but — thanks to early investments — their net worth could skyrocket when Anthropic goes public today.",
-      "url": "https://pagesix.com/2026/11/18/celebrity-news/ashton-kutcher-is-about-to-hit-billionaire-status-heres-why/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fashton-kutcher-attends-red-carpet-149207384.jpg",
+      "summary": "The two brands' first collab sold out for good over a year ago.",
+      "url": "https://pagesix.com/2026/11/18/style/the-marni-x-hoka-clifton-is-out-now-and-selling-out-fast/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnewspress-collage-awy4rn03m-1794951580808.jpg?quality%3D90%26strip%3Dall%261794933728%261794933728",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T12:56:40.000Z",
+      "publishedAt": "2026-11-18T20:28:17.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -370,19 +406,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-38b28123ac"
+      "eventId": "ev-fba7c5adc4"
     },
     {
-      "id": "839bdc513a5fa0b7",
-      "title": "Anne Hathaway Welcomes New Baby, Spotted With Newborn in NYC",
+      "id": "c61bb3b53a6c54e2",
+      "title": "Former ESPN Personality Bonnie-Jill Laflin Sued for Fraud Over Dog Rescue, Rep Denies",
       "originalTitle": null,
-      "summary": "Anne Hathaway has a new addition to the family ... and she's already showing off her little bundle of joy in the Big Apple!",
-      "url": "https://www.tmz.com/2026/11/17/anne-hathaway-seen-with-new-baby/",
+      "summary": "ESPN personality Bonnie-Jill Laflin is getting dragged into court after a dog daycare claims her animal rescue dropped off over a dozen dogs and \"essentially abandoned\" them there.",
+      "url": "https://www.tmz.com/2026/11/18/bonnie-jill-laflin-sued-over-dog-rescue/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-17T21:36:25.000Z",
+      "publishedAt": "2026-11-18T20:45:28.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -400,11 +436,11 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-4614108134"
+      "eventId": "ev-5d3c9526ed"
     }
   ]
 }
