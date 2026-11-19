@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-19T20:53:42.254Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 268,
+    "afterFilter": 35,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 2939
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 699
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 627
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 369
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 478
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 756
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 731
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 790
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1097
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "35b16d9d84f21565",
+    "d3f34a991bfee9c7"
+  ],
+  "sections": {
+    "life": [
+      "7e71dc18bf9bd5a4"
+    ],
+    "romance": [
+      "9377e7f9b8271d5b"
+    ],
+    "oddity": [
+      "4e884dcc9d0c954c"
+    ],
+    "twist": [],
+    "entertainment": [
+      "bb1d3e9b58618151"
+    ],
+    "overseas": [
+      "d3f34a991bfee9c7",
+      "eb0d5663d4eab6ac",
+      "0b487ae3d048156c"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "35b16d9d84f21565",
+      "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
+      "originalTitle": null,
+      "summary": "中新网丽水11月19日电(林波)浙江省丽水市景宁畲族自治县综合高级中学高二学生钟林涛至今记得高一那堂数控实训体验课。老师让他上手操作，发现这个瘦瘦的男生动手能力“出乎意料地强”。那一刻，从小觉得自己“手比较巧”的钟林涛，第一次认真地把“数控”和“未来”连在了一起。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T10:22:33.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 76,
+      "ruleScore": 76,
+      "eventId": "ev-b3e9980291"
+    },
+    {
+      "id": "d3f34a991bfee9c7",
+      "title": "6 Must-Haves for Your Cold Weather Wardrobe!",
+      "originalTitle": null,
+      "summary": "TMZ may collect a share of sales or other compensation from links on this page. Now that the temps are dropping and you have to say so long to short sleeves, your cold weather wardrobe could probably use a refresh.",
+      "url": "https://www.tmz.com/2026/11/19/fall-and-winter-fashion-must-haves/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T19:30:03.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-fbf3522f21"
+    },
+    {
+      "id": "7e71dc18bf9bd5a4",
+      "title": "胖东来搬走后，新乡房东把租金从2400万降到400万，可楼依旧空置",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/644020575.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-19T20:53:34.139Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-eea13be5ae"
+    },
+    {
+      "id": "9377e7f9b8271d5b",
+      "title": "离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.zhihu.com/question/2106406907846182253",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-19T20:53:34.163Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.zhihu.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "zhihu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-65196a6246"
+    },
+    {
+      "id": "4e884dcc9d0c954c",
+      "title": "伪史论为什么越离谱越有人信",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.douyin.com/hot/2754433",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-19T20:53:34.198Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "douyin",
+      "sourceName": "抖音热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.douyin.com/hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "douyin"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 56,
+      "ruleScore": 56,
+      "eventId": "ev-5ab935c4a7"
+    },
+    {
+      "id": "bb1d3e9b58618151",
+      "title": "硬刚到底，演出被举报后，曹云金再回应，没给郭德纲留“体面”",
+      "originalTitle": null,
+      "summary": "相声圈的师徒恩怨，吵了十几年，本来很多人以为热度慢慢降下去了，没想到最近一波风波又把旧账翻了出来。 \n 曹云金线下巡演接连遭遇举报，网上各种猜测满天飞，不少网友都劝他低调一点，别再掺和这些是非，安安稳稳把相声演完就行。\n \n 可曹云金没有顺着大家的想法选择沉默，反而接连发声，线上发视频表态。 \n 硬杠到底，演出被举报后，曹云金再回应，没给郭德纲留“体面”。 \n 被举报 \n 曹云金这一轮演出被举报，导火索，要从郭德纲认义父的那场仪式说起。 \n \n 郭德纲在西河门拜马志明为义父的消息传开之后，小曹发布视频被不少人认为他在内涵老郭，这段内容很快在网上发酵，引来大量网友讨论，矛盾一下子就被点燃了。",
+      "url": "https://bbs.hupu.com/644048256.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T20:53:34.139Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-7ac4cf93ac"
+    },
+    {
+      "id": "eb0d5663d4eab6ac",
+      "title": "Kylie Kelce takes one of these lip plumpers everywhere: ‘You can feel it working’",
+      "originalTitle": null,
+      "summary": "\"I love this stuff,\" the podcast host raved.",
+      "url": "https://pagesix.com/2026/11/19/style/kylie-kelce-swears-by-tarte-maracuja-juicy-lip-plump/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149401880.jpg?quality%3D90%26strip%3Dall",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T20:08:18.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-c7651a7b01"
+    },
+    {
+      "id": "0b487ae3d048156c",
+      "title": "Rob Lowe accuses Hollywood of blacklisting Ben Shapiro’s ‘Confession,’ defends decision to star in right-wing movie",
+      "originalTitle": null,
+      "summary": "The actor portrayed Alexei, a former professor taken in as a prisoner in 1938 during Joseph Stalin's Moscow reign.",
+      "url": "https://pagesix.com/2026/11/19/entertainment/rob-lowe-accuses-hollywood-of-blacklisting-ben-shapiros-confession-defends-decision-to-star-in-right-wing-movie/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frob-lowe-2026-149392167.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T19:34:33.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7feb9c577c"
+    }
+  ]
+}

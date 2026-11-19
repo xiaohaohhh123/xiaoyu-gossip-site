@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T13:41:10.819Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-19T20:53:42.254Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 259,
-    "afterFilter": 34,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 268,
+    "afterFilter": 35,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1477
+        "ms": 2939
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1072
+        "ms": 699
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 715
+        "ms": 627
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 399
+        "ms": 369
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 526
+        "ms": 478
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 828
+        "ms": 756
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 807
+        "ms": 731
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 834
+        "ms": 790
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1609
+        "ms": 1097
       }
     ],
     "ai": {
@@ -109,11 +109,11 @@
   },
   "mustEat": [
     "35b16d9d84f21565",
-    "11ddd38586ce3317"
+    "d3f34a991bfee9c7"
   ],
   "sections": {
     "life": [
-      "b71efa174b449dcd"
+      "7e71dc18bf9bd5a4"
     ],
     "romance": [
       "9377e7f9b8271d5b"
@@ -122,11 +122,13 @@
       "4e884dcc9d0c954c"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "bb1d3e9b58618151"
+    ],
     "overseas": [
-      "11ddd38586ce3317",
-      "4bb6c7fe1771a026",
-      "ed14c1948dcb0686"
+      "d3f34a991bfee9c7",
+      "eb0d5663d4eab6ac",
+      "0b487ae3d048156c"
     ]
   },
   "events": [],
@@ -161,33 +163,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 78,
-      "ruleScore": 78,
+      "score": 76,
+      "ruleScore": 76,
       "eventId": "ev-b3e9980291"
     },
     {
-      "id": "11ddd38586ce3317",
-      "title": "‘H3’ podcaster Hila Klein tearfully recalls moment she discovered husband Ethan’s ‘insane’ affair: ‘The final straw’",
+      "id": "d3f34a991bfee9c7",
+      "title": "6 Must-Haves for Your Cold Weather Wardrobe!",
       "originalTitle": null,
-      "summary": "The 38-year-old, who wed Ethan in 2012, broke down the \"timeline of events\" preceding the end of their marriage an emotional YouTube video.",
-      "url": "https://pagesix.com/2026/11/19/celebrity-news/hila-klein-tearfully-recalls-moment-she-discovered-husband-ethans-insane-affair/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhila-klein-ethan-klein-2026-149362562.jpg?w%3D1024",
+      "summary": "TMZ may collect a share of sales or other compensation from links on this page. Now that the temps are dropping and you have to say so long to short sleeves, your cold weather wardrobe could probably use a refresh.",
+      "url": "https://www.tmz.com/2026/11/19/fall-and-winter-fashion-must-haves/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T13:06:28.000Z",
+      "publishedAt": "2026-11-19T19:30:03.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -195,31 +197,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-3c846db180"
+      "score": 4,
+      "ruleScore": 4,
+      "eventId": "ev-fbf3522f21"
     },
     {
-      "id": "b71efa174b449dcd",
-      "title": "妈妈呼喊女儿被骂不准外地人随便叫",
+      "id": "7e71dc18bf9bd5a4",
+      "title": "胖东来搬走后，新乡房东把租金从2400万降到400万，可楼依旧空置",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7709689355291492873/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709689355291492873%22%2C%22hot_board_impr_id%22%3A%22202611192141046FA78024AE1F5E310B7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A6%88%E5%A6%88%E5%91%BC%E5%96%8A%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%AA%82%E4%B8%8D%E5%87%86%E5%A4%96%E5%9C%B0%E4%BA%BA%E9%9A%8F%E4%BE%BF%E5%8F%AB%22%7D&rank=&style_id=40132&topic_id=7709689355291492873",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/85cbfe0dabb2469585e4a0bcc03cc9e7~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797638400&x-signature=aO6xJp3c820OE%2F644UBeKUoBr4I%3D",
+      "url": "https://bbs.hupu.com/644020575.html",
+      "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-19T13:41:04.791Z",
+      "publishedAt": "2026-11-19T20:53:34.139Z",
       "timeBasis": "fetch",
-      "heat": 894255,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "toutiao"
+          "hupu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -229,9 +231,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-ab022cb57a"
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-eea13be5ae"
     },
     {
       "id": "9377e7f9b8271d5b",
@@ -243,7 +245,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-19T13:41:04.552Z",
+      "publishedAt": "2026-11-19T20:53:34.163Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "zhihu",
@@ -277,7 +279,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-19T13:41:04.560Z",
+      "publishedAt": "2026-11-19T20:53:34.198Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "douyin",
@@ -302,16 +304,50 @@
       "eventId": "ev-5ab935c4a7"
     },
     {
-      "id": "4bb6c7fe1771a026",
-      "title": "Chrissy Metz details sex life changes on GLP-1 after 100-lb weight loss",
+      "id": "bb1d3e9b58618151",
+      "title": "硬刚到底，演出被举报后，曹云金再回应，没给郭德纲留“体面”",
       "originalTitle": null,
-      "summary": "Metz shares how her weight loss medication is affecting her life.",
-      "url": "https://pagesix.com/2026/11/19/celebrity-news/chrissy-metz-details-sex-life-changes-on-glp-1-after-100-lb-weight-loss/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dcpf6-149251292.jpg",
+      "summary": "相声圈的师徒恩怨，吵了十几年，本来很多人以为热度慢慢降下去了，没想到最近一波风波又把旧账翻了出来。 \n 曹云金线下巡演接连遭遇举报，网上各种猜测满天飞，不少网友都劝他低调一点，别再掺和这些是非，安安稳稳把相声演完就行。\n \n 可曹云金没有顺着大家的想法选择沉默，反而接连发声，线上发视频表态。 \n 硬杠到底，演出被举报后，曹云金再回应，没给郭德纲留“体面”。 \n 被举报 \n 曹云金这一轮演出被举报，导火索，要从郭德纲认义父的那场仪式说起。 \n \n 郭德纲在西河门拜马志明为义父的消息传开之后，小曹发布视频被不少人认为他在内涵老郭，这段内容很快在网上发酵，引来大量网友讨论，矛盾一下子就被点燃了。",
+      "url": "https://bbs.hupu.com/644048256.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T20:53:34.139Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 39,
+      "ruleScore": 39,
+      "eventId": "ev-7ac4cf93ac"
+    },
+    {
+      "id": "eb0d5663d4eab6ac",
+      "title": "Kylie Kelce takes one of these lip plumpers everywhere: ‘You can feel it working’",
+      "originalTitle": null,
+      "summary": "\"I love this stuff,\" the podcast host raved.",
+      "url": "https://pagesix.com/2026/11/19/style/kylie-kelce-swears-by-tarte-maracuja-juicy-lip-plump/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149401880.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T13:00:00.000Z",
+      "publishedAt": "2026-11-19T20:08:18.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -333,41 +369,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-2ff60bfe61"
+      "eventId": "ev-c7651a7b01"
     },
     {
-      "id": "ed14c1948dcb0686",
-      "title": "Miss North Carolina USA Winner Says She Never Approved N-Word Apology",
+      "id": "0b487ae3d048156c",
+      "title": "Rob Lowe accuses Hollywood of blacklisting Ben Shapiro’s ‘Confession,’ defends decision to star in right-wing movie",
       "originalTitle": null,
-      "summary": "Miss North Carolina USA winner Brittany Boltinhouse is firing back at the organization's attempt to toss her lawsuit ... insisting she never agreed to apologize for using the n-word in old social media posts.",
-      "url": "https://www.tmz.com/2026/11/19/brittany-boltinhouse-denies-n-word-apology/",
-      "image": "",
+      "summary": "The actor portrayed Alexei, a former professor taken in as a prisoner in 1938 during Joseph Stalin's Moscow reign.",
+      "url": "https://pagesix.com/2026/11/19/entertainment/rob-lowe-accuses-hollywood-of-blacklisting-ben-shapiros-confession-defends-decision-to-star-in-right-wing-movie/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frob-lowe-2026-149392167.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T09:00:52.000Z",
+      "publishedAt": "2026-11-19T19:34:33.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d7d118d1bd"
+      "eventId": "ev-7feb9c577c"
     }
   ]
 }
