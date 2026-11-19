@@ -1,13 +1,13 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T04:17:53.865Z",
+  "generatedAt": "2026-11-19T13:41:10.819Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 258,
-    "afterFilter": 37,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 259,
+    "afterFilter": 34,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1785
+        "ms": 1477
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 744
+        "ms": 1072
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 621
+        "ms": 715
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 378
+        "ms": 399
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 450
+        "ms": 526
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 833
+        "ms": 828
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 756
+        "ms": 807
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 784
+        "ms": 834
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 2344
+        "ms": 1609
       }
     ],
     "ai": {
@@ -108,146 +108,74 @@
     "totalSources": 9
   },
   "mustEat": [
-    "7e71dc18bf9bd5a4",
-    "254b7a00a2180d8e",
-    "2b46af24a5460408",
-    "2de15541799d2616"
+    "35b16d9d84f21565",
+    "11ddd38586ce3317"
   ],
   "sections": {
     "life": [
-      "254b7a00a2180d8e",
-      "2b46af24a5460408",
-      "6f5c6ae082fd22b7"
+      "b71efa174b449dcd"
     ],
     "romance": [
-      "79040e94c5b4b053"
+      "9377e7f9b8271d5b"
     ],
-    "oddity": [],
+    "oddity": [
+      "4e884dcc9d0c954c"
+    ],
     "twist": [],
-    "entertainment": [
-      "a23929d86f23d773"
-    ],
+    "entertainment": [],
     "overseas": [
-      "2de15541799d2616",
-      "631777cb9576cd89",
-      "506e656a9eb70672"
+      "11ddd38586ce3317",
+      "4bb6c7fe1771a026",
+      "ed14c1948dcb0686"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "7e71dc18bf9bd5a4",
-      "title": "胖东来搬走后，新乡房东把租金从2400万降到400万，可楼依旧空置",
+      "id": "35b16d9d84f21565",
+      "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
       "originalTitle": null,
-      "summary": "2026年，大名鼎鼎的平原路商圈，却有一栋本该炙手可热的商业大厦连续空置五年。\n 租金一跌再跌，从2400万“跳水”到400万，甚至有说法只要200万就能谈，可主力商家就是不愿意买单。 \n 租金都这么低了，为啥楼还没人接盘？新乡的房东们到底做错了什么？\n \n \n 十年传奇，胖东来点燃城市梦想 \n 2005年，新乡靖业盛世大厦刚刚建成，外观现代但内部却冷清，电梯常年空转，楼内只有少量商家硬撑。\n 此刻，胖东来第一次决定走出许昌，在新乡布局外地首店。\n \n \n 年租800多万，签十年合同，当地不少人都说房东亏掉了。\n 可没过几年，所有人都撞见了这一场商业奇迹。\n 胖东来带来的，不只是超市业务，更是一整套“货真价实、服务至上”的新标准。",
-      "url": "https://bbs.hupu.com/644020575.html",
+      "summary": "中新网丽水11月19日电(林波)浙江省丽水市景宁畲族自治县综合高级中学高二学生钟林涛至今记得高一那堂数控实训体验课。老师让他上手操作，发现这个瘦瘦的男生动手能力“出乎意料地强”。那一刻，从小觉得自己“手比较巧”的钟林涛，第一次认真地把“数控”和“未来”连在了一起。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "oddity",
+      "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T04:17:46.232Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-19T10:22:33.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 89,
-      "ruleScore": 89,
-      "eventId": "ev-eea13be5ae"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-b3e9980291"
     },
     {
-      "id": "254b7a00a2180d8e",
-      "title": "家人们，这种情况我能冲吗？",
+      "id": "11ddd38586ce3317",
+      "title": "‘H3’ podcaster Hila Klein tearfully recalls moment she discovered husband Ethan’s ‘insane’ affair: ‘The final straw’",
       "originalTitle": null,
-      "summary": "我和她是亲戚介绍认识的，她在外地工作生活，明年有回来的打算，陆陆续续聊了有一个多月了，感觉还不错，上周她回来了一趟，我们一起吃了饭，打了台球，看了电影，还喝了杯小酒。\n 然后这周五我准备去她的城市玩，她一个人住，对话如下，我能不能直接冲？",
-      "url": "https://bbs.hupu.com/644023335.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-19T04:17:46.232Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-18dbdd5614"
-    },
-    {
-      "id": "2b46af24a5460408",
-      "title": "才发现老婆全妆比自己想象的还漂亮，对网上的那些网红美女祛魅了",
-      "originalTitle": null,
-      "summary": "以前总觉得老婆长得一般很羡慕网上的那些美女，但现在才发现原来是老婆不会化妆，化妆师帮打扮下也挺美的。",
-      "url": "https://bbs.hupu.com/644023357.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-19T04:17:46.232Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 74,
-      "ruleScore": 74,
-      "eventId": "ev-dea10dc3ab"
-    },
-    {
-      "id": "2de15541799d2616",
-      "title": "Faith Hill supports husband Tim McGraw in rare appearance at 2026 CMA Awards during family night out",
-      "originalTitle": null,
-      "summary": "McGraw and Hill have been married for 30 years and share three daughters.",
-      "url": "https://pagesix.com/2026/11/18/celebrity-news/faith-hill-supports-husband-tim-mcgraw-in-rare-appearance-at-2026-cma-awards/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Feditorial-use-l-r-faith-149287245.jpg?w%3D683",
+      "summary": "The 38-year-old, who wed Ethan in 2012, broke down the \"timeline of events\" preceding the end of their marriage an emotional YouTube video.",
+      "url": "https://pagesix.com/2026/11/19/celebrity-news/hila-klein-tearfully-recalls-moment-she-discovered-husband-ethans-insane-affair/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fhila-klein-ethan-klein-2026-149362562.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T03:44:45.000Z",
+      "publishedAt": "2026-11-19T13:06:28.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -269,29 +197,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f4275925f8"
+      "eventId": "ev-3c846db180"
     },
     {
-      "id": "6f5c6ae082fd22b7",
+      "id": "b71efa174b449dcd",
       "title": "妈妈呼喊女儿被骂不准外地人随便叫",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%91%BC%E5%96%8A%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%AA%82%E4%B8%8D%E5%87%86%E5%A4%96%E5%9C%B0%E4%BA%BA%E9%9A%8F%E4%BE%BF%E5%8F%AB%23&t=31&band_rank=14&Refer=top",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7709689355291492873/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709689355291492873%22%2C%22hot_board_impr_id%22%3A%22202611192141046FA78024AE1F5E310B7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A6%88%E5%A6%88%E5%91%BC%E5%96%8A%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%AA%82%E4%B8%8D%E5%87%86%E5%A4%96%E5%9C%B0%E4%BA%BA%E9%9A%8F%E4%BE%BF%E5%8F%AB%22%7D&rank=&style_id=40132&topic_id=7709689355291492873",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/85cbfe0dabb2469585e4a0bcc03cc9e7~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797638400&x-signature=aO6xJp3c820OE%2F644UBeKUoBr4I%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-19T04:17:46.092Z",
+      "publishedAt": "2026-11-19T13:41:04.791Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "heat": 894255,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -301,31 +229,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-fb6dbc5648"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-ab022cb57a"
     },
     {
-      "id": "79040e94c5b4b053",
-      "title": "找了澳洲女朋友以后的一些感受-2（恋爱细节篇）",
+      "id": "9377e7f9b8271d5b",
+      "title": "离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/644024057.html",
+      "url": "https://www.zhihu.com/question/2106406907846182253",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-19T04:17:46.232Z",
+      "publishedAt": "2026-11-19T13:41:04.552Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.zhihu.com/hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "zhihu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -335,31 +263,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-9d420f70ca"
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-65196a6246"
     },
     {
-      "id": "a23929d86f23d773",
-      "title": "向老詹的粉丝提个问",
+      "id": "4e884dcc9d0c954c",
+      "title": "伪史论为什么越离谱越有人信",
       "originalTitle": null,
-      "summary": "为什么张蜜这么不自信，老是要去跟科蜜争论老张科比谁更强？老张比科比多3mvp，2fmvp，9一阵，17000分，奥尼尔比格林也就多这么多，看看人家奥尼尔粉丝会来跟格林粉丝争论么？",
-      "url": "https://bbs.hupu.com/644025209.html",
+      "summary": "",
+      "url": "https://www.douyin.com/hot/2754433",
       "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-19T04:17:46.232Z",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-19T13:41:04.560Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "douyin",
+      "sourceName": "抖音热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.douyin.com/hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "hupu"
+          "douyin"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -369,21 +297,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 27,
-      "ruleScore": 27,
-      "eventId": "ev-7c28005619"
+      "score": 56,
+      "ruleScore": 56,
+      "eventId": "ev-5ab935c4a7"
     },
     {
-      "id": "631777cb9576cd89",
-      "title": "Pierce Brosnan wishes Robert Pattinson luck as the new James Bond: ‘Magnificent’",
+      "id": "4bb6c7fe1771a026",
+      "title": "Chrissy Metz details sex life changes on GLP-1 after 100-lb weight loss",
       "originalTitle": null,
-      "summary": "Pattinson takes over the legendary role from Daniel Craig.",
-      "url": "https://pagesix.com/2026/11/18/celebrity-news/pierce-brosnan-wishes-robert-pattinson-luck-as-new-james-bond/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Firish-actor-pierce-brosnan-stars-149287989.jpg",
+      "summary": "Metz shares how her weight loss medication is affecting her life.",
+      "url": "https://pagesix.com/2026/11/19/celebrity-news/chrissy-metz-details-sex-life-changes-on-glp-1-after-100-lb-weight-loss/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dcpf6-149251292.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T03:10:12.000Z",
+      "publishedAt": "2026-11-19T13:00:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,19 +333,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-6e9f4cf32f"
+      "eventId": "ev-2ff60bfe61"
     },
     {
-      "id": "506e656a9eb70672",
-      "title": "Dolly Parton’s Niece Honors Late Singer at CMAs with Custom Dress",
+      "id": "ed14c1948dcb0686",
+      "title": "Miss North Carolina USA Winner Says She Never Approved N-Word Apology",
       "originalTitle": null,
-      "summary": "Dolly Parton’s niece brought a personal piece of the country legend to the CMA Awards ... stepping onto the red carpet in an outfit originally created for her late aunt.",
-      "url": "https://www.tmz.com/2026/11/18/dolly-parton-niece-wears-her-dress-to-country-music-awards/",
+      "summary": "Miss North Carolina USA winner Brittany Boltinhouse is firing back at the organization's attempt to toss her lawsuit ... insisting she never agreed to apologize for using the n-word in old social media posts.",
+      "url": "https://www.tmz.com/2026/11/19/brittany-boltinhouse-denies-n-word-apology/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T01:25:55.000Z",
+      "publishedAt": "2026-11-19T09:00:52.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -435,11 +363,11 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-1518abfce5"
+      "eventId": "ev-d7d118d1bd"
     }
   ]
 }
