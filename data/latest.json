@@ -1,10 +1,10 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-18T20:48:51.880Z",
+  "generatedAt": "2026-11-19T04:17:53.865Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 270,
-    "afterFilter": 46,
+    "totalCollected": 258,
+    "afterFilter": 37,
     "selected": 9,
     "domesticSelected": 6,
     "domesticRatio": 67,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1569
+        "ms": 1785
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1166
+        "ms": 744
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1131
+        "ms": 621
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 783
+        "ms": 378
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 883
+        "ms": 450
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1186
+        "ms": 833
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1160
+        "ms": 756
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1150
+        "ms": 784
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1582
+        "ms": 2344
       }
     ],
     "ai": {
@@ -108,68 +108,33 @@
     "totalSources": 9
   },
   "mustEat": [
-    "07879085de8259ea",
     "7e71dc18bf9bd5a4",
-    "6ff113c152f92a31",
-    "e0c98bd7c698c4e9"
+    "254b7a00a2180d8e",
+    "2b46af24a5460408",
+    "2de15541799d2616"
   ],
   "sections": {
     "life": [
-      "7e71dc18bf9bd5a4",
-      "6ff113c152f92a31"
+      "254b7a00a2180d8e",
+      "2b46af24a5460408",
+      "6f5c6ae082fd22b7"
     ],
     "romance": [
       "79040e94c5b4b053"
     ],
-    "oddity": [
-      "7b5d5171925cb183"
-    ],
+    "oddity": [],
     "twist": [],
     "entertainment": [
       "a23929d86f23d773"
     ],
     "overseas": [
-      "e0c98bd7c698c4e9",
-      "e901b48c473a5899",
-      "c61bb3b53a6c54e2"
+      "2de15541799d2616",
+      "631777cb9576cd89",
+      "506e656a9eb70672"
     ]
   },
   "events": [],
   "items": [
-    {
-      "id": "07879085de8259ea",
-      "title": "分享一下今晚的事…",
-      "originalTitle": null,
-      "summary": "兄弟们 真没想到三十出头了 还会碰到这样的事情…\n 一切都要从几个月前说起:\n 那时候从某社交平台认识了一个女生（都说在社交软件上认识的人都不靠谱，但是我觉得我自己也挺不靠谱的，会在这样的平台去找对象），本来也是打算往恋爱到结婚这个方向去走的，但是是异地，100多公里吧也不算很远，我去找她的次数多 但是她偶尔也会来找我，大概见了4次的样子 表白成功了，当时还是挺开心的，就这么谈着谈着，基本上每个星期都会见面\n 我记得有一次晚上下了班之后，她就一直没有理我，一直到第二天的下午才理我 无论我怎么给她发消息 打电话 都不接 就很反常 我第二天下午就买了票去找她 也没通知她 但是在我坐高铁的时候 她才回的我 问她什么原因 她也只是说不想回消…",
-      "url": "https://bbs.hupu.com/644017826.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:48:46.033Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 91,
-      "ruleScore": 91,
-      "eventId": "ev-b1a12cb134"
-    },
     {
       "id": "7e71dc18bf9bd5a4",
       "title": "胖东来搬走后，新乡房东把租金从2400万降到400万，可楼依旧空置",
@@ -180,7 +145,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:48:46.033Z",
+      "publishedAt": "2026-11-19T04:17:46.232Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -205,16 +170,16 @@
       "eventId": "ev-eea13be5ae"
     },
     {
-      "id": "6ff113c152f92a31",
-      "title": "听到一个很让人惊讶的事，现在女大学生都已经进化到这个程度了吗？",
+      "id": "254b7a00a2180d8e",
+      "title": "家人们，这种情况我能冲吗？",
       "originalTitle": null,
-      "summary": "邻居家的女娃，今年刚上大一，一个宿舍6个女生，入学整整2天，互相之间没有说过话，第三天才偶尔有点交流，至今快3个月了，回到宿舍要么坐在自己凳子上，要么躲在自己的床上，默默刷手机，PS.床都是用大包围蚊帐围起来，密不透光的。\n \n 该女娃说，不仅女生之间交流少，男生女生之间现在也是基本不搭话。\n \n 卧槽",
-      "url": "https://bbs.hupu.com/644006673.html",
+      "summary": "我和她是亲戚介绍认识的，她在外地工作生活，明年有回来的打算，陆陆续续聊了有一个多月了，感觉还不错，上周她回来了一趟，我们一起吃了饭，打了台球，看了电影，还喝了杯小酒。\n 然后这周五我准备去她的城市玩，她一个人住，对话如下，我能不能直接冲？",
+      "url": "https://bbs.hupu.com/644023335.html",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:48:46.033Z",
+      "publishedAt": "2026-11-19T04:17:46.232Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -234,21 +199,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 81,
-      "ruleScore": 81,
-      "eventId": "ev-d01cbdcde9"
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-18dbdd5614"
     },
     {
-      "id": "e0c98bd7c698c4e9",
-      "title": "Alix Earle goes for gold in chainmail top and itty-bitty miniskirt",
+      "id": "2b46af24a5460408",
+      "title": "才发现老婆全妆比自己想象的还漂亮，对网上的那些网红美女祛魅了",
       "originalTitle": null,
-      "summary": "The skincare founder showed off miles of legs while promoting her Bumble partnership.",
-      "url": "https://pagesix.com/2026/11/18/style/alix-earle-goes-for-gold-in-chainmail-top-and-itty-bitty-miniskirt/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Falix-earle-attends-bumble-x-149221492.jpg?w%3D683",
+      "summary": "以前总觉得老婆长得一般很羡慕网上的那些美女，但现在才发现原来是老婆不会化妆，化妆师帮打扮下也挺美的。",
+      "url": "https://bbs.hupu.com/644023357.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-19T04:17:46.232Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 74,
+      "ruleScore": 74,
+      "eventId": "ev-dea10dc3ab"
+    },
+    {
+      "id": "2de15541799d2616",
+      "title": "Faith Hill supports husband Tim McGraw in rare appearance at 2026 CMA Awards during family night out",
+      "originalTitle": null,
+      "summary": "McGraw and Hill have been married for 30 years and share three daughters.",
+      "url": "https://pagesix.com/2026/11/18/celebrity-news/faith-hill-supports-husband-tim-mcgraw-in-rare-appearance-at-2026-cma-awards/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Feditorial-use-l-r-faith-149287245.jpg?w%3D683",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:40:46.000Z",
+      "publishedAt": "2026-11-19T03:44:45.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -270,7 +269,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-c6796f9300"
+      "eventId": "ev-f4275925f8"
+    },
+    {
+      "id": "6f5c6ae082fd22b7",
+      "title": "妈妈呼喊女儿被骂不准外地人随便叫",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%91%BC%E5%96%8A%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%AA%82%E4%B8%8D%E5%87%86%E5%A4%96%E5%9C%B0%E4%BA%BA%E9%9A%8F%E4%BE%BF%E5%8F%AB%23&t=31&band_rank=14&Refer=top",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-19T04:17:46.092Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-fb6dbc5648"
     },
     {
       "id": "79040e94c5b4b053",
@@ -282,7 +315,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-18T20:48:46.033Z",
+      "publishedAt": "2026-11-19T04:17:46.232Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -307,40 +340,6 @@
       "eventId": "ev-9d420f70ca"
     },
     {
-      "id": "7b5d5171925cb183",
-      "title": "深圳市民路边热情围观特朗普座驾",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E8%B7%AF%E8%BE%B9%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%A7%E9%A9%BE&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-18T20:48:46.416Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-9d108940c7"
-    },
-    {
       "id": "a23929d86f23d773",
       "title": "向老詹的粉丝提个问",
       "originalTitle": null,
@@ -350,7 +349,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:48:46.033Z",
+      "publishedAt": "2026-11-19T04:17:46.232Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -375,16 +374,16 @@
       "eventId": "ev-7c28005619"
     },
     {
-      "id": "e901b48c473a5899",
-      "title": "Hoka’s Marni collab just made our favorite sneakers even better",
+      "id": "631777cb9576cd89",
+      "title": "Pierce Brosnan wishes Robert Pattinson luck as the new James Bond: ‘Magnificent’",
       "originalTitle": null,
-      "summary": "The two brands' first collab sold out for good over a year ago.",
-      "url": "https://pagesix.com/2026/11/18/style/the-marni-x-hoka-clifton-is-out-now-and-selling-out-fast/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fnewspress-collage-awy4rn03m-1794951580808.jpg?quality%3D90%26strip%3Dall%261794933728%261794933728",
+      "summary": "Pattinson takes over the legendary role from Daniel Craig.",
+      "url": "https://pagesix.com/2026/11/18/celebrity-news/pierce-brosnan-wishes-robert-pattinson-luck-as-new-james-bond/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Firish-actor-pierce-brosnan-stars-149287989.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:28:17.000Z",
+      "publishedAt": "2026-11-19T03:10:12.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -406,19 +405,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-fba7c5adc4"
+      "eventId": "ev-6e9f4cf32f"
     },
     {
-      "id": "c61bb3b53a6c54e2",
-      "title": "Former ESPN Personality Bonnie-Jill Laflin Sued for Fraud Over Dog Rescue, Rep Denies",
+      "id": "506e656a9eb70672",
+      "title": "Dolly Parton’s Niece Honors Late Singer at CMAs with Custom Dress",
       "originalTitle": null,
-      "summary": "ESPN personality Bonnie-Jill Laflin is getting dragged into court after a dog daycare claims her animal rescue dropped off over a dozen dogs and \"essentially abandoned\" them there.",
-      "url": "https://www.tmz.com/2026/11/18/bonnie-jill-laflin-sued-over-dog-rescue/",
+      "summary": "Dolly Parton’s niece brought a personal piece of the country legend to the CMA Awards ... stepping onto the red carpet in an outfit originally created for her late aunt.",
+      "url": "https://www.tmz.com/2026/11/18/dolly-parton-niece-wears-her-dress-to-country-music-awards/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-18T20:45:28.000Z",
+      "publishedAt": "2026-11-19T01:25:55.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -436,11 +435,11 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5d3c9526ed"
+      "eventId": "ev-1518abfce5"
     }
   ]
 }
