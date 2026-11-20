@@ -1,13 +1,13 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T04:05:18.554Z",
+  "generatedAt": "2026-11-20T13:24:11.271Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 254,
+    "totalCollected": 267,
     "afterFilter": 39,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1256
+        "ms": 1347
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 730
+        "ms": 704
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 947
+        "ms": 942
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 523
+        "ms": 676
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 595
+        "ms": 794
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 911
+        "ms": 979
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 829
+        "ms": 935
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 810
+        "ms": 936
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1021
+        "ms": 1232
       }
     ],
     "ai": {
@@ -109,26 +109,29 @@
   },
   "mustEat": [
     "641eb49a8328e7b6",
-    "7757d0b6b266d5ed",
-    "5f91b95c5f132918"
+    "188b81a7ced4c5ab",
+    "0c5c88b75fdc416a",
+    "f35eec393f65e25a"
   ],
   "sections": {
     "life": [
-      "4759faedb0e3bf82"
+      "2b6d38794143ab42"
     ],
     "romance": [
-      "dc40109a738f3339"
+      "188b81a7ced4c5ab",
+      "1d6a59180fdf0586"
     ],
     "oddity": [
-      "7757d0b6b266d5ed",
-      "a2ecdbe13dd0294d"
+      "0c5c88b75fdc416a",
+      "f09cab6bd59d3eae",
+      "40bb6300be719caa"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "5f91b95c5f132918",
-      "5c4c7b844681e435",
-      "1075bcd316ec6a85"
+      "f35eec393f65e25a",
+      "9a38eb720d63d752",
+      "269b875df116ad8c"
     ]
   },
   "events": [],
@@ -143,7 +146,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T04:05:13.125Z",
+      "publishedAt": "2026-11-20T13:24:05.724Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -168,50 +171,84 @@
       "eventId": "ev-7530e99ceb"
     },
     {
-      "id": "7757d0b6b266d5ed",
-      "title": "双十一保价靠谱吗？补贴能否成为拒退理由",
+      "id": "188b81a7ced4c5ab",
+      "title": "几个兄弟失业了，老婆都想离婚",
       "originalTitle": null,
-      "summary": "“双十一”大促刚刚落幕，和“大促”相关的消费纠纷这些天却还在持续。近日，不少消费者反映称，明明下单页面标注了“保价”，同款商品价格变低后，申请退差价却被拒绝。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735098.shtml",
+      "summary": "有一个在北京，C9的硕士，在家3年多了，真是一点工作机会没有，可能也是岁数大的原因，一开始老婆还支持，但是时间一长，也想着离婚。 \n 还有一个是准备要孩子，但是男方失业之后，老婆悬着不给生孩子，也在算着找下家，人性啊，人生最不好的事情、最阴暗的东西都发生了。 \n 第三个是，结婚多年，孩子都上大学了，老公长期在家没上班，女的自己在外面打点零工，但是钱自己花，老公吃饭钱都没有了。 \n 总结：如果女方工作也不行，而且还年轻貌美，男方失业她肯定会有想法",
+      "url": "https://bbs.hupu.com/644062175.html",
       "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T02:25:42.000Z",
-      "timeBasis": "source",
+      "publishedAt": "2026-11-20T13:24:05.724Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
         ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
       "reversal": false,
       "translated": false,
-      "score": 75,
-      "ruleScore": 75,
-      "eventId": "ev-d1d134233d"
+      "score": 90,
+      "ruleScore": 90,
+      "eventId": "ev-9a64f9fba7"
     },
     {
-      "id": "5f91b95c5f132918",
-      "title": "Jennifer Lawrence proudly shows off her ‘new’ breast implants to Andy Cohen: ‘It’s a full C’",
+      "id": "0c5c88b75fdc416a",
+      "title": "GTA6是正宗GTA吗？",
       "originalTitle": null,
-      "summary": "\"They're beautiful!\" the Bravo host gushed.",
-      "url": "https://pagesix.com/2026/11/19/celebrity-news/jennifer-lawrence-proudly-shows-off-her-new-breast-implants-to-andy-cohen/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjennifer-lawrence-talks-lisa-barlow-149448637.jpg?w%3D1024",
+      "summary": "还是绿帽模拟器。你们见过任何一代GTA有现在这种男主吗？没有人格，像是女主的力工工具人，一个挂件，居然逛夜店都和女主一起，满屏的肉蛋目不斜视……",
+      "url": "https://bbs.hupu.com/644071031.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-20T13:24:05.724Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-41a7649d98"
+    },
+    {
+      "id": "f35eec393f65e25a",
+      "title": "Jennifer Lawrence name-drops her worst on-screen kiss as she ranks smooches with A-list actors",
+      "originalTitle": null,
+      "summary": "The \"No Hard Feelings\" actress had to rank five of her famous co-stars' kisses from \"best to worst\" in a game of Plead the Fifth on Thursday's episode of \"Watch What Happens Live.\"",
+      "url": "https://pagesix.com/2026/11/20/entertainment/jennifer-lawrence-calls-chris-pratt-as-her-worst-on-screen-kiss/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjennifer-lawrence-ranks-on-screen-149486197.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T03:53:59.000Z",
+      "publishedAt": "2026-11-20T12:52:01.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -233,97 +270,29 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5e3b4a160a"
+      "eventId": "ev-0dfd853a92"
     },
     {
-      "id": "4759faedb0e3bf82",
-      "title": "纸箱、旧鞋架等堆放在楼道 发现邻居有这一行为请及时劝阻或举报",
+      "id": "2b6d38794143ab42",
+      "title": "父母出门收废品 13岁女孩打赏主播4万",
       "originalTitle": null,
-      "summary": "发现邻居有这一行为#10548;#65039;请及时劝阻或举报",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735053.shtml",
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%88%B6%E6%AF%8D%E5%87%BA%E9%97%A8%E6%94%B6%E5%BA%9F%E5%93%81+13%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD4%E4%B8%87&sa=fyb_news",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-20T01:34:07.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 64,
-      "ruleScore": 64,
-      "eventId": "ev-d14079bf9e"
-    },
-    {
-      "id": "dc40109a738f3339",
-      "title": "同居生孩分手后男方起诉返还百万",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%A9%E5%88%86%E6%89%8B%E5%90%8E%E7%94%B7%E6%96%B9%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98%E7%99%BE%E4%B8%87%23&t=31&band_rank=18&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-20T04:05:13.238Z",
+      "publishedAt": "2026-11-20T13:24:06.083Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-f5571c3f78"
-    },
-    {
-      "id": "a2ecdbe13dd0294d",
-      "title": "马天宇李明德名誉纠纷案已开庭",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%9D%8E%E6%98%8E%E5%BE%B7%E5%90%8D%E8%AA%89%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%B7%B2%E5%BC%80%E5%BA%AD%23&t=31&band_rank=19&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-20T04:05:13.238Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
+          "baidu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -335,19 +304,121 @@
       "translated": false,
       "score": 59,
       "ruleScore": 59,
-      "eventId": "ev-de1a5b218c"
+      "eventId": "ev-4ac02d03dd"
     },
     {
-      "id": "5c4c7b844681e435",
-      "title": "Iconic British rock band pulls plug on tour ‘until further notice’ after frontman’s ‘medical problem’",
+      "id": "1d6a59180fdf0586",
+      "title": "女子晒婆婆带娃前后变化",
       "originalTitle": null,
-      "summary": "The band previously postponed two shows in Germany.",
-      "url": "https://pagesix.com/2026/11/19/entertainment/deep-purple-pulls-plug-on-tour-until-further-notice-after-frontman-ian-gillans-medical-problem/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fian-gillan-deep-purple-performs-147082486.jpg",
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7709489021277422089/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709489021277422089%22%2C%22hot_board_impr_id%22%3A%2220261120212405747B6BD2B6D5C9379CDA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E6%99%92%E5%A9%86%E5%A9%86%E5%B8%A6%E5%A8%83%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%22%7D&rank=&style_id=40132&topic_id=7709489021277422089",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/53b839a204df401cbc51d42bf2528778~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=LHzrGQnOENMAdZwymFs619v8ZRs%3D",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-20T13:24:05.485Z",
+      "timeBasis": "fetch",
+      "heat": 10350048,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-ad08cced3b"
+    },
+    {
+      "id": "f09cab6bd59d3eae",
+      "title": "男人没有技术，40岁后真的可怜",
+      "originalTitle": null,
+      "summary": "表哥四线城市，当地龙头企业基层管理者，但是没技术，被优化了，赔了30万，还有存款应该有一百多万。但是出来一个多月没找到合适工作，也不愿意进厂当保安，管理也不算技术，两个女儿还要养。真的可怜",
+      "url": "https://bbs.hupu.com/644054918.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-20T13:24:05.724Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-269a3415b2"
+    },
+    {
+      "id": "40bb6300be719caa",
+      "title": "荔枝冰酒断货居然是因为没酒瓶了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E6%96%AD%E8%B4%A7%E5%B1%85%E7%84%B6%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E9%85%92%E7%93%B6%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-20T13:24:05.726Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-24bf91fa87"
+    },
+    {
+      "id": "9a38eb720d63d752",
+      "title": "The staggering amount Johnny Depp has earned — and lost — during his decades-long career",
+      "originalTitle": null,
+      "summary": "The \"Pirates of the Caribbean\" star made and lost eye-watering sums of money.",
+      "url": "https://pagesix.com/2026/11/20/entertainment/the-staggering-amount-johnny-depp-has-earned-and-lost-during-his-decades-long-career/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjohnny-depp-poses-portrait-studio-148978190_b2cd3a.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T02:58:06.000Z",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,19 +440,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f7670d97cd"
+      "eventId": "ev-faa864e728"
     },
     {
-      "id": "1075bcd316ec6a85",
-      "title": "Thomas Markle Confuses Meghan and Her Sister During Court-Ordered Psych Evaluation",
+      "id": "269b875df116ad8c",
+      "title": "'Bachelor' Sam Hartman Gets Questionable Advice from NFL Teammates in Search for Wife",
       "originalTitle": null,
-      "summary": "Thomas Markle didn't quite have his info straight during his court-ordered psych evaluation ... because he confused Meghan Markle and his other daughter.",
-      "url": "https://www.tmz.com/2026/11/19/meghan-markle-dad-confuses-her-and-sister-samantha/",
+      "summary": "Sam Hartman says he's looking to find his wife and his \"teammate for life\" as he takes on the role of \"The Bachelor.\" During a press conference Thursday, the Washington Commanders' practice squad quarterback told reporte…",
+      "url": "https://www.tmz.com/2026/11/19/sam-hartman-the-bachelor-talks-about-show/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T00:44:45.000Z",
+      "publishedAt": "2026-11-20T02:00:48.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -403,7 +474,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d05523742f"
+      "eventId": "ev-c819f74c81"
     }
   ]
 }
