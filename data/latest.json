@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-19T20:53:42.254Z",
+  "generatedAt": "2026-11-20T04:05:18.554Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 35,
+    "totalCollected": 254,
+    "afterFilter": 39,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2939
+        "ms": 1256
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 699
+        "ms": 730
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 627
+        "ms": 947
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 369
+        "ms": 523
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 478
+        "ms": 595
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 756
+        "ms": 911
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 731
+        "ms": 829
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 790
+        "ms": 810
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1097
+        "ms": 1021
       }
     ],
     "ai": {
@@ -108,42 +108,76 @@
     "totalSources": 9
   },
   "mustEat": [
-    "35b16d9d84f21565",
-    "d3f34a991bfee9c7"
+    "641eb49a8328e7b6",
+    "7757d0b6b266d5ed",
+    "5f91b95c5f132918"
   ],
   "sections": {
     "life": [
-      "7e71dc18bf9bd5a4"
+      "4759faedb0e3bf82"
     ],
     "romance": [
-      "9377e7f9b8271d5b"
+      "dc40109a738f3339"
     ],
     "oddity": [
-      "4e884dcc9d0c954c"
+      "7757d0b6b266d5ed",
+      "a2ecdbe13dd0294d"
     ],
     "twist": [],
-    "entertainment": [
-      "bb1d3e9b58618151"
-    ],
+    "entertainment": [],
     "overseas": [
-      "d3f34a991bfee9c7",
-      "eb0d5663d4eab6ac",
-      "0b487ae3d048156c"
+      "5f91b95c5f132918",
+      "5c4c7b844681e435",
+      "1075bcd316ec6a85"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "35b16d9d84f21565",
-      "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
+      "id": "641eb49a8328e7b6",
+      "title": "未来想和老婆移民澳大利亚最南部，赚多少钱就能移民办过去了？",
       "originalTitle": null,
-      "summary": "中新网丽水11月19日电(林波)浙江省丽水市景宁畲族自治县综合高级中学高二学生钟林涛至今记得高一那堂数控实训体验课。老师让他上手操作，发现这个瘦瘦的男生动手能力“出乎意料地强”。那一刻，从小觉得自己“手比较巧”的钟林涛，第一次认真地把“数控”和“未来”连在了一起。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
+      "summary": "不喜欢热，巨喜欢澳大利亚最南部，那种热辣辣的澳洲下雪的感觉，很浪漫。去就去浪漫的，过小日子，看鳄鱼。不去堪培拉悉尼啥的。\n 结婚之后，和老婆攒多少万就可以去澳洲了？安安静静地，开个小饭馆一年赚个18万就满足了。\n 澳大利亚南边是南极，这也太浪漫了。\n 攒几百万两个人就能去开个小小饭馆了？\n add：本来就是一个小小的美丽愿望，一个文艺青年憧憬以后的生活，想国内多攒几年钱，去干净的澳洲海畔开个小小的干净又整洁的中餐馆。这只是一个愿望。我在这里也从来没有主动骂人，没想到网上的人这么充满恶意。各种提升到国家高度的，说签证机票英语来压人的，笑，提机票签证你就高傲了？显示了你大学白上。会英语提提签证你就了不起？自不量力。",
+      "url": "https://bbs.hupu.com/644055762.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-20T04:05:13.125Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-7530e99ceb"
+    },
+    {
+      "id": "7757d0b6b266d5ed",
+      "title": "双十一保价靠谱吗？补贴能否成为拒退理由",
+      "originalTitle": null,
+      "summary": "“双十一”大促刚刚落幕，和“大促”相关的消费纠纷这些天却还在持续。近日，不少消费者反映称，明明下单页面标注了“保价”，同款商品价格变低后，申请退差价却被拒绝。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735098.shtml",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T10:22:33.000Z",
+      "publishedAt": "2026-11-20T02:25:42.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -163,21 +197,191 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-b3e9980291"
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-d1d134233d"
     },
     {
-      "id": "d3f34a991bfee9c7",
-      "title": "6 Must-Haves for Your Cold Weather Wardrobe!",
+      "id": "5f91b95c5f132918",
+      "title": "Jennifer Lawrence proudly shows off her ‘new’ breast implants to Andy Cohen: ‘It’s a full C’",
       "originalTitle": null,
-      "summary": "TMZ may collect a share of sales or other compensation from links on this page. Now that the temps are dropping and you have to say so long to short sleeves, your cold weather wardrobe could probably use a refresh.",
-      "url": "https://www.tmz.com/2026/11/19/fall-and-winter-fashion-must-haves/",
+      "summary": "\"They're beautiful!\" the Bravo host gushed.",
+      "url": "https://pagesix.com/2026/11/19/celebrity-news/jennifer-lawrence-proudly-shows-off-her-new-breast-implants-to-andy-cohen/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjennifer-lawrence-talks-lisa-barlow-149448637.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-20T03:53:59.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-5e3b4a160a"
+    },
+    {
+      "id": "4759faedb0e3bf82",
+      "title": "纸箱、旧鞋架等堆放在楼道 发现邻居有这一行为请及时劝阻或举报",
+      "originalTitle": null,
+      "summary": "发现邻居有这一行为#10548;#65039;请及时劝阻或举报",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735053.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-20T01:34:07.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 64,
+      "ruleScore": 64,
+      "eventId": "ev-d14079bf9e"
+    },
+    {
+      "id": "dc40109a738f3339",
+      "title": "同居生孩分手后男方起诉返还百万",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E7%94%9F%E5%AD%A9%E5%88%86%E6%89%8B%E5%90%8E%E7%94%B7%E6%96%B9%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98%E7%99%BE%E4%B8%87%23&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-20T04:05:13.238Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-f5571c3f78"
+    },
+    {
+      "id": "a2ecdbe13dd0294d",
+      "title": "马天宇李明德名誉纠纷案已开庭",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%9D%8E%E6%98%8E%E5%BE%B7%E5%90%8D%E8%AA%89%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%B7%B2%E5%BC%80%E5%BA%AD%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-20T04:05:13.238Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-de1a5b218c"
+    },
+    {
+      "id": "5c4c7b844681e435",
+      "title": "Iconic British rock band pulls plug on tour ‘until further notice’ after frontman’s ‘medical problem’",
+      "originalTitle": null,
+      "summary": "The band previously postponed two shows in Germany.",
+      "url": "https://pagesix.com/2026/11/19/entertainment/deep-purple-pulls-plug-on-tour-until-further-notice-after-frontman-ian-gillans-medical-problem/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fian-gillan-deep-purple-performs-147082486.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-20T02:58:06.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-f7670d97cd"
+    },
+    {
+      "id": "1075bcd316ec6a85",
+      "title": "Thomas Markle Confuses Meghan and Her Sister During Court-Ordered Psych Evaluation",
+      "originalTitle": null,
+      "summary": "Thomas Markle didn't quite have his info straight during his court-ordered psych evaluation ... because he confused Meghan Markle and his other daughter.",
+      "url": "https://www.tmz.com/2026/11/19/meghan-markle-dad-confuses-her-and-sister-samantha/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-19T19:30:03.000Z",
+      "publishedAt": "2026-11-20T00:44:45.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -197,213 +401,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 4,
-      "ruleScore": 4,
-      "eventId": "ev-fbf3522f21"
-    },
-    {
-      "id": "7e71dc18bf9bd5a4",
-      "title": "胖东来搬走后，新乡房东把租金从2400万降到400万，可楼依旧空置",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/644020575.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-19T20:53:34.139Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-eea13be5ae"
-    },
-    {
-      "id": "9377e7f9b8271d5b",
-      "title": "离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.zhihu.com/question/2106406907846182253",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-19T20:53:34.163Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "zhihu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-65196a6246"
-    },
-    {
-      "id": "4e884dcc9d0c954c",
-      "title": "伪史论为什么越离谱越有人信",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.douyin.com/hot/2754433",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-19T20:53:34.198Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "douyin",
-      "sourceName": "抖音热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.douyin.com/hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "douyin"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 56,
-      "ruleScore": 56,
-      "eventId": "ev-5ab935c4a7"
-    },
-    {
-      "id": "bb1d3e9b58618151",
-      "title": "硬刚到底，演出被举报后，曹云金再回应，没给郭德纲留“体面”",
-      "originalTitle": null,
-      "summary": "相声圈的师徒恩怨，吵了十几年，本来很多人以为热度慢慢降下去了，没想到最近一波风波又把旧账翻了出来。 \n 曹云金线下巡演接连遭遇举报，网上各种猜测满天飞，不少网友都劝他低调一点，别再掺和这些是非，安安稳稳把相声演完就行。\n \n 可曹云金没有顺着大家的想法选择沉默，反而接连发声，线上发视频表态。 \n 硬杠到底，演出被举报后，曹云金再回应，没给郭德纲留“体面”。 \n 被举报 \n 曹云金这一轮演出被举报，导火索，要从郭德纲认义父的那场仪式说起。 \n \n 郭德纲在西河门拜马志明为义父的消息传开之后，小曹发布视频被不少人认为他在内涵老郭，这段内容很快在网上发酵，引来大量网友讨论，矛盾一下子就被点燃了。",
-      "url": "https://bbs.hupu.com/644048256.html",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-19T20:53:34.139Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 39,
-      "ruleScore": 39,
-      "eventId": "ev-7ac4cf93ac"
-    },
-    {
-      "id": "eb0d5663d4eab6ac",
-      "title": "Kylie Kelce takes one of these lip plumpers everywhere: ‘You can feel it working’",
-      "originalTitle": null,
-      "summary": "\"I love this stuff,\" the podcast host raved.",
-      "url": "https://pagesix.com/2026/11/19/style/kylie-kelce-swears-by-tarte-maracuja-juicy-lip-plump/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149401880.jpg?quality%3D90%26strip%3Dall",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-19T20:08:18.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-c7651a7b01"
-    },
-    {
-      "id": "0b487ae3d048156c",
-      "title": "Rob Lowe accuses Hollywood of blacklisting Ben Shapiro’s ‘Confession,’ defends decision to star in right-wing movie",
-      "originalTitle": null,
-      "summary": "The actor portrayed Alexei, a former professor taken in as a prisoner in 1938 during Joseph Stalin's Moscow reign.",
-      "url": "https://pagesix.com/2026/11/19/entertainment/rob-lowe-accuses-hollywood-of-blacklisting-ben-shapiros-confession-defends-decision-to-star-in-right-wing-movie/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frob-lowe-2026-149392167.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-19T19:34:33.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-7feb9c577c"
+      "eventId": "ev-d05523742f"
     }
   ]
 }
