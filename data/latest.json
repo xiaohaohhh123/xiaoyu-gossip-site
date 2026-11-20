@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T13:24:11.271Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-20T20:39:01.160Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 267,
-    "afterFilter": 39,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 257,
+    "afterFilter": 43,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1347
+        "ms": 1644
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 704
+        "ms": 1521
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 942
+        "ms": 1096
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 676
+        "ms": 768
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 794
+        "ms": 791
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 979
+        "ms": 1336
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 935
+        "ms": 1120
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 936
+        "ms": 1081
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1232
+        "ms": 1184
       }
     ],
     "ai": {
@@ -108,68 +108,31 @@
     "totalSources": 9
   },
   "mustEat": [
-    "641eb49a8328e7b6",
     "188b81a7ced4c5ab",
     "0c5c88b75fdc416a",
-    "f35eec393f65e25a"
+    "434c578fb410ca8f"
   ],
   "sections": {
     "life": [
-      "2b6d38794143ab42"
+      "59a4eff0469cf48c"
     ],
-    "romance": [
-      "188b81a7ced4c5ab",
-      "1d6a59180fdf0586"
-    ],
+    "romance": [],
     "oddity": [
       "0c5c88b75fdc416a",
-      "f09cab6bd59d3eae",
-      "40bb6300be719caa"
+      "46457763501fbae1"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "73c9405e780a69fd"
+    ],
     "overseas": [
-      "f35eec393f65e25a",
-      "9a38eb720d63d752",
-      "269b875df116ad8c"
+      "434c578fb410ca8f",
+      "171f16756545cb38",
+      "c47184af01933f22"
     ]
   },
   "events": [],
   "items": [
-    {
-      "id": "641eb49a8328e7b6",
-      "title": "未来想和老婆移民澳大利亚最南部，赚多少钱就能移民办过去了？",
-      "originalTitle": null,
-      "summary": "不喜欢热，巨喜欢澳大利亚最南部，那种热辣辣的澳洲下雪的感觉，很浪漫。去就去浪漫的，过小日子，看鳄鱼。不去堪培拉悉尼啥的。\n 结婚之后，和老婆攒多少万就可以去澳洲了？安安静静地，开个小饭馆一年赚个18万就满足了。\n 澳大利亚南边是南极，这也太浪漫了。\n 攒几百万两个人就能去开个小小饭馆了？\n add：本来就是一个小小的美丽愿望，一个文艺青年憧憬以后的生活，想国内多攒几年钱，去干净的澳洲海畔开个小小的干净又整洁的中餐馆。这只是一个愿望。我在这里也从来没有主动骂人，没想到网上的人这么充满恶意。各种提升到国家高度的，说签证机票英语来压人的，笑，提机票签证你就高傲了？显示了你大学白上。会英语提提签证你就了不起？自不量力。",
-      "url": "https://bbs.hupu.com/644055762.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-20T13:24:05.724Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 93,
-      "ruleScore": 93,
-      "eventId": "ev-7530e99ceb"
-    },
     {
       "id": "188b81a7ced4c5ab",
       "title": "几个兄弟失业了，老婆都想离婚",
@@ -180,7 +143,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T13:24:05.724Z",
+      "publishedAt": "2026-11-20T20:38:54.915Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -214,7 +177,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T13:24:05.724Z",
+      "publishedAt": "2026-11-20T20:38:54.915Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -239,16 +202,16 @@
       "eventId": "ev-41a7649d98"
     },
     {
-      "id": "f35eec393f65e25a",
-      "title": "Jennifer Lawrence name-drops her worst on-screen kiss as she ranks smooches with A-list actors",
+      "id": "434c578fb410ca8f",
+      "title": "‘Today’ anchors support Al Roker as he’s honored at swanky NYC charity event",
       "originalTitle": null,
-      "summary": "The \"No Hard Feelings\" actress had to rank five of her famous co-stars' kisses from \"best to worst\" in a game of Plead the Fifth on Thursday's episode of \"Watch What Happens Live.\"",
-      "url": "https://pagesix.com/2026/11/20/entertainment/jennifer-lawrence-calls-chris-pratt-as-her-worst-on-screen-kiss/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjennifer-lawrence-ranks-on-screen-149486197.jpg",
+      "summary": "The event, which took place at the historic Plaza Hotel, raised more than $1.3 million in just a few hours.",
+      "url": "https://pagesix.com/2026/11/20/society/today-anchors-support-al-roker-as-hes-honored-at-citymeals-charity-event/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-df77rclk-149528395.jpg?w%3D869",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T12:52:01.000Z",
+      "publishedAt": "2026-11-20T20:28:02.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -270,55 +233,21 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-0dfd853a92"
+      "eventId": "ev-6e4e66f8ec"
     },
     {
-      "id": "2b6d38794143ab42",
-      "title": "父母出门收废品 13岁女孩打赏主播4万",
+      "id": "59a4eff0469cf48c",
+      "title": "儿子将满18岁消失17年的父亲来求赡养",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%88%B6%E6%AF%8D%E5%87%BA%E9%97%A8%E6%94%B6%E5%BA%9F%E5%93%81+13%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD4%E4%B8%87&sa=fyb_news",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7709655398001918491/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709655398001918491%22%2C%22hot_board_impr_id%22%3A%222026112104385533FAEDBD34ACC4218E71%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%84%BF%E5%AD%90%E5%B0%86%E6%BB%A118%E5%B2%81%E6%B6%88%E5%A4%B117%E5%B9%B4%E7%9A%84%E7%88%B6%E4%BA%B2%E6%9D%A5%E6%B1%82%E8%B5%A1%E5%85%BB%22%7D&rank=&style_id=40132&topic_id=7709655398001918491",
+      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/ea9328c4-ced8-4b7d-b72c-044257783d49~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=s8Ra6cyOPTOJNZdRZmPcTAQO20g%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-20T13:24:06.083Z",
+      "publishedAt": "2026-11-20T20:38:55.311Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-4ac02d03dd"
-    },
-    {
-      "id": "1d6a59180fdf0586",
-      "title": "女子晒婆婆带娃前后变化",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7709489021277422089/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709489021277422089%22%2C%22hot_board_impr_id%22%3A%2220261120212405747B6BD2B6D5C9379CDA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E6%99%92%E5%A9%86%E5%A9%86%E5%B8%A6%E5%A8%83%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%22%7D&rank=&style_id=40132&topic_id=7709489021277422089",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/53b839a204df401cbc51d42bf2528778~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=LHzrGQnOENMAdZwymFs619v8ZRs%3D",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-20T13:24:05.485Z",
-      "timeBasis": "fetch",
-      "heat": 10350048,
+      "heat": 5512655,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -336,55 +265,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-ad08cced3b"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-aceae73b4e"
     },
     {
-      "id": "f09cab6bd59d3eae",
-      "title": "男人没有技术，40岁后真的可怜",
-      "originalTitle": null,
-      "summary": "表哥四线城市，当地龙头企业基层管理者，但是没技术，被优化了，赔了30万，还有存款应该有一百多万。但是出来一个多月没找到合适工作，也不愿意进厂当保安，管理也不算技术，两个女儿还要养。真的可怜",
-      "url": "https://bbs.hupu.com/644054918.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-20T13:24:05.724Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-269a3415b2"
-    },
-    {
-      "id": "40bb6300be719caa",
-      "title": "荔枝冰酒断货居然是因为没酒瓶了",
+      "id": "46457763501fbae1",
+      "title": "金价罕见大跌原因找到了",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E6%96%AD%E8%B4%A7%E5%B1%85%E7%84%B6%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E9%85%92%E7%93%B6%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%BD%95%E8%A7%81%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-20T13:24:05.726Z",
+      "publishedAt": "2026-11-20T20:38:54.887Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -406,19 +301,53 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-24bf91fa87"
+      "eventId": "ev-539b25df8c"
     },
     {
-      "id": "9a38eb720d63d752",
-      "title": "The staggering amount Johnny Depp has earned — and lost — during his decades-long career",
+      "id": "73c9405e780a69fd",
+      "title": "百对新人喜结良缘 福州市2026年集体婚礼举行",
       "originalTitle": null,
-      "summary": "The \"Pirates of the Caribbean\" star made and lost eye-watering sums of money.",
-      "url": "https://pagesix.com/2026/11/20/entertainment/the-staggering-amount-johnny-depp-has-earned-and-lost-during-his-decades-long-career/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjohnny-depp-poses-portrait-studio-148978190_b2cd3a.jpg",
+      "summary": "中新网福州11月20日电 (郑江洛)20日，福州市2026年集体婚礼在福州启幕，百对来自各行各业的新人携手踏上幸福红毯，在亲友、职工代表的共同见证下许下相守承诺。这是福州市总工会持续深耕打造的第十七届集体婚礼，以暖心婚育服务，绘就有福之州的幸福底色。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735580.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-20T14:06:16.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-34f88cc653"
+    },
+    {
+      "id": "171f16756545cb38",
+      "title": "‘SNL’ alum Bowen Yang apologizes for ‘upsetting’ antisemitic slur",
+      "originalTitle": null,
+      "summary": "Yang received backlash using the slur while talking about Jewish singer Regina Spektor.",
+      "url": "https://pagesix.com/2026/11/20/celebrity-news/snl-alum-bowen-yang-apologizes-for-using-an-upsetting-antisemitic-slur/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-df-149531471.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "publishedAt": "2026-11-20T19:54:30.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -436,23 +365,23 @@
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-faa864e728"
+      "eventId": "ev-0481a2e0ce"
     },
     {
-      "id": "269b875df116ad8c",
-      "title": "'Bachelor' Sam Hartman Gets Questionable Advice from NFL Teammates in Search for Wife",
+      "id": "c47184af01933f22",
+      "title": "Kentucky Mom Charged With Incest Being Heavily Monitored In Jail, Officials Say",
       "originalTitle": null,
-      "summary": "Sam Hartman says he's looking to find his wife and his \"teammate for life\" as he takes on the role of \"The Bachelor.\" During a press conference Thursday, the Washington Commanders' practice squad quarterback told reporte…",
-      "url": "https://www.tmz.com/2026/11/19/sam-hartman-the-bachelor-talks-about-show/",
+      "summary": "The Kentucky mom of three charged with incest for repeatedly having sex with an 11-year-old boy is being watched like a hawk by security cameras and correctional officers while she's in jail ... TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/20/kentucky-mom-charged-with-incest-constantly-monitored-in-jail/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-20T02:00:48.000Z",
+      "publishedAt": "2026-11-20T20:30:13.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -474,7 +403,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-c819f74c81"
+      "eventId": "ev-0bdb6a44df"
     }
   ]
 }
