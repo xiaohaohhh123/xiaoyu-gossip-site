@@ -1,13 +1,13 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-21T19:39:12.923Z",
+  "generatedAt": "2026-11-22T03:18:06.459Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 44,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 265,
+    "afterFilter": 47,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1644
+        "ms": 2769
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1335
+        "ms": 879
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 1110
+        "ms": 696
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 900
+        "ms": 383
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 935
+        "ms": 495
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1254
+        "ms": 793
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1211
+        "ms": 770
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1219
+        "ms": 793
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1919
+        "ms": 1241
       }
     ],
     "ai": {
@@ -108,15 +108,19 @@
     "totalSources": 9
   },
   "mustEat": [
-    "c6bcf1f234f7571d",
-    "2f8eccc07ef4a415"
+    "f6d461d0810d6159",
+    "d3d58a62a7025ea7",
+    "ebccea446e6d79cf"
   ],
   "sections": {
-    "life": [],
+    "life": [
+      "7d619cf7bee11db5"
+    ],
     "romance": [
-      "e2008a2e166b8baf"
+      "2c07fa540e208d7f"
     ],
     "oddity": [
+      "d3d58a62a7025ea7",
       "ef93090944f520de"
     ],
     "twist": [],
@@ -125,24 +129,24 @@
       "22132ed5e0c6a46e"
     ],
     "overseas": [
-      "2f8eccc07ef4a415",
-      "860a60103c2c9b1f",
-      "f0c4ebe6cfc7ea5b"
+      "ebccea446e6d79cf",
+      "7c5a8b14835d17a0",
+      "5c7aec697291f6d4"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "c6bcf1f234f7571d",
-      "title": "拉萨市城关区精准监督 破解小区治理难题",
+      "id": "f6d461d0810d6159",
+      "title": "藏在烟火里的大理70年开放记：路通、货畅、人相亲",
       "originalTitle": null,
-      "summary": "中新网拉萨11月21日电 (卢鑫)物业费收得明不明白、公共设施坏了谁来修、小区环境脏乱谁来管、装修拆改会不会破坏承重结构……物业服务看似鸡毛蒜皮，却是市民群众天天有感的“心头事”，也是投诉多发、反映强烈的痛点领域。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735819.shtml",
+      "summary": "中新网云南大理11月22日电 (记者 韩帅南)近日恰逢大理赶集日，新鲜瓜果、扎染布匹、民族服饰铺满长街。大理大学的泰国来华留学生婉淑玥举起手机在人群中拍个不停。一位摊主得知她来自泰国后，将一条手工手串作为礼物相赠。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735993.shtml",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-21T10:44:02.000Z",
+      "publishedAt": "2026-11-22T03:02:33.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -162,33 +166,67 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 76,
-      "ruleScore": 76,
-      "eventId": "ev-9e494b3326"
+      "score": 83,
+      "ruleScore": 83,
+      "eventId": "ev-525223280f"
     },
     {
-      "id": "2f8eccc07ef4a415",
-      "title": "Trump Administration Releases Files On 'Bigfoot'",
+      "id": "d3d58a62a7025ea7",
+      "title": "邮寄假律师函为境外诈骗铺路 兼职代发为何沦为犯罪一环？",
       "originalTitle": null,
-      "summary": "The Trump administration is releasing government files on the age-old debate over the existence of the mysterious Bigfoot -- and you might just be surprised with the findings from a biologist. Here's the deal ...",
-      "url": "https://www.tmz.com/2026/11/21/trump-administration-releases-files-on-the-mystery-behind-bigfoot/",
+      "summary": "“从来没借过钱，哪来的催款通知？”一通来自外省的报警电话，牵出了一条藏在快递包裹里的犯罪链条。近日，上海闵行警方抓获了两名代发虚假律师函实施诈骗的犯罪嫌疑人。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735969.shtml",
       "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "category": "oddity",
+      "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-21T13:31:26.000Z",
+      "publishedAt": "2026-11-22T02:27:35.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 56,
+      "ruleScore": 56,
+      "eventId": "ev-5eb2fe1352"
+    },
+    {
+      "id": "ebccea446e6d79cf",
+      "title": "Miley Cyrus marries Maxx Morando in intimate Palm Springs wedding",
+      "originalTitle": null,
+      "summary": "The lavish nuptials come nearly a year after Page Six confirmed the two were engaged.",
+      "url": "https://pagesix.com/2026/11/21/celebrity-news/miley-cyrus-marries-maxx-morando-in-intimate-palm-springs-wedding/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fpremium-exclusive-palm-springs-ca-149690670.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-22T00:46:15.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -196,31 +234,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-e11ec079de"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-b87fb180df"
     },
     {
-      "id": "e2008a2e166b8baf",
-      "title": "车澈离婚后狂瘦68斤",
+      "id": "7d619cf7bee11db5",
+      "title": "如何看待“老婆嫌老公熬夜打游戏，发「追杀令」求助网友狙击老公 ID，大哥「你们找不到我」被各路玩家围剿？",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710482272021069851/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710482272021069851%22%2C%22hot_board_impr_id%22%3A%22202611220339067EC82B83A529C845F5E0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BD%A6%E6%BE%88%E7%A6%BB%E5%A9%9A%E5%90%8E%E7%8B%82%E7%98%A668%E6%96%A4%22%7D&rank=&style_id=40132&topic_id=7710482272021069851",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b3f78c73c5604280ac751f8f8f340da5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=1QlrYwoRRGOsfx2SG4pqqD26YHw%3D",
-      "category": "romance",
-      "topicClass": "romance",
+      "url": "https://www.zhihu.com/question/2106418067513386152",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-21T19:39:06.891Z",
+      "publishedAt": "2026-11-22T03:17:59.345Z",
       "timeBasis": "fetch",
-      "heat": 343157,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
+      "heat": 0,
+      "sourceId": "zhihu",
+      "sourceName": "知乎热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
+      "sourceHomepage": "https://www.zhihu.com/hot",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "toutiao"
+          "zhihu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -230,21 +268,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-f80818912c"
+      "score": 53,
+      "ruleScore": 53,
+      "eventId": "ev-42a19ce5b9"
+    },
+    {
+      "id": "2c07fa540e208d7f",
+      "title": "王子璇朱正廷好一个乖乖女婚礼路透",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%9C%B1%E6%AD%A3%E5%BB%B7%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3%E5%A9%9A%E7%A4%BC%E8%B7%AF%E9%80%8F&t=31&band_rank=29&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-22T03:17:59.243Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-d1b6027d51"
     },
     {
       "id": "ef93090944f520de",
       "title": "这居然是王子璇",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87%23&t=31&band_rank=4&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87%23&t=31&band_rank=5&Refer=top",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-21T19:39:06.668Z",
+      "publishedAt": "2026-11-22T03:17:59.243Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -298,8 +370,8 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 30,
-      "ruleScore": 30,
+      "score": 27,
+      "ruleScore": 27,
       "eventId": "ev-31230af05a"
     },
     {
@@ -332,21 +404,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 26,
-      "ruleScore": 26,
+      "score": 24,
+      "ruleScore": 24,
       "eventId": "ev-f8450c1b61"
     },
     {
-      "id": "860a60103c2c9b1f",
-      "title": "Jenna Bush Hager reveals bizarre childhood toilet habit that left George W. and Laura Bush ‘worried’",
+      "id": "7c5a8b14835d17a0",
+      "title": "‘The Voice’ winner’s house, belongings destroyed in ‘devastating’ fire: ‘Starting over’",
       "originalTitle": null,
-      "summary": "She made the confession during Friday's episode of \"Today with Jenna & Sheinelle.\"",
-      "url": "https://pagesix.com/2026/11/21/entertainment/jenna-bush-hager-reveals-bizarre-childhood-toilet-habit-that-left-george-w-and-laura-bush-worried/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjenna-bush-hager-reveals-bizarre-149642247.jpg?w%3D1024",
+      "summary": "Alexia Jayy won Season 29 of the NBC singing competition series, becoming the first black woman to do so in the show's history.",
+      "url": "https://pagesix.com/2026/11/21/celebrity-news/the-voice-winner-alexia-jayys-house-destroyed-in-devastating-fire/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fvoice-finale-top-4-episode-149661784.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-21T18:50:35.000Z",
+      "publishedAt": "2026-11-22T00:04:04.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -368,31 +440,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-31973571b5"
+      "eventId": "ev-2bc9f35cda"
     },
     {
-      "id": "f0c4ebe6cfc7ea5b",
-      "title": "Miley Cyrus and fiancé Maxx Morando pictured holding hands after wedding rehearsal dinner with her famous family",
+      "id": "5c7aec697291f6d4",
+      "title": "Tish Cyrus Gets Emotional on Miley’s Big Day as Husband Dominic Purcell Comforts Her",
       "originalTitle": null,
-      "summary": "Cyrus and Morando are set to walk down the aisle in Southern California this weekend.",
-      "url": "https://pagesix.com/2026/11/21/celebrity-news/miley-cyrus-and-maxx-morando-pictured-after-rehearsal-dinner/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmiley-cyrus-arrives-wedding-rehearsal-149634120.jpg?w%3D768",
+      "summary": "Tish Cyrus was spotted having an emotional moment with her husband, Dominic Purcell, on her daughter Miley Cyrus' wedding day ... and we totally get it, your kid getting hitched is a big deal!",
+      "url": "https://www.tmz.com/2026/11/21/tish-cyrus-emotional-miley-wedding-day-video/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-21T16:45:00.000Z",
+      "publishedAt": "2026-11-21T22:36:05.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -402,7 +474,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-589c320358"
+      "eventId": "ev-0851166c8e"
     }
   ]
 }
