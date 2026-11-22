@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-22T19:55:25.396Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 269,
+    "afterFilter": 46,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1840
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 849
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 912
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 9,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 858
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 718
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 992
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1000
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 998
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 799
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "88d8b7aadaa22c21",
+    "7a689d67fc540766"
+  ],
+  "sections": {
+    "life": [
+      "9164fbd03c6a9f1a"
+    ],
+    "romance": [
+      "16ceeac2f2ae6344"
+    ],
+    "oddity": [
+      "8cddd7f7e0d58617"
+    ],
+    "twist": [],
+    "entertainment": [
+      "63df488aed0a7749"
+    ],
+    "overseas": [
+      "7a689d67fc540766",
+      "f0ebc545476dbbec",
+      "6757d96d1509c48e"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "88d8b7aadaa22c21",
+      "title": "山西一工地挖出炮弹紧急排爆 警方提示",
+      "originalTitle": null,
+      "summary": "近日，在山西晋城沁水县十里乡的一处工地，施工人员挖土时发现一枚炮弹，第一时间报警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736107.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-22T09:18:23.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 69,
+      "ruleScore": 69,
+      "eventId": "ev-65bf65fd97"
+    },
+    {
+      "id": "7a689d67fc540766",
+      "title": "Princess Kate enforces simple household rules to keep royal kids grounded: author",
+      "originalTitle": null,
+      "summary": "Kate Middleton's approach to chores echoes Queen Elizabeth, who once insisted on washing up at Balmoral",
+      "url": "https://pagesix.com/2026/11/22/royal-family/princess-kate-enforces-simple-household-rules-to-keep-royal-kids-grounded-author/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149736904.jpg?quality%3D90%26strip%3Dall",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-22T19:39:40.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-6149c1e113"
+    },
+    {
+      "id": "9164fbd03c6a9f1a",
+      "title": "小区277户只有约100家一直交物业费",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7710911150951006771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710911150951006771%22%2C%22hot_board_impr_id%22%3A%2220261123035518C55F109F023BCBA09EE7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%8C%BA277%E6%88%B7%E5%8F%AA%E6%9C%89%E7%BA%A6100%E5%AE%B6%E4%B8%80%E7%9B%B4%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%22%7D&rank=&style_id=40132&topic_id=7710911150951006771",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d3f5e42f422e4a4bb071cf440ca74fc8~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797897600&x-signature=bMOUK8b%2Ff5ZcQtaWTvsluGP3k%2Bo%3D",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-22T19:55:18.606Z",
+      "timeBasis": "fetch",
+      "heat": 4577972,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-57171119f5"
+    },
+    {
+      "id": "16ceeac2f2ae6344",
+      "title": "曝高迪大美已经离婚了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E8%BF%AA%E5%A4%A7%E7%BE%8E%E5%B7%B2%E7%BB%8F%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-22T19:55:18.673Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-90843b542e"
+    },
+    {
+      "id": "8cddd7f7e0d58617",
+      "title": "以为是吹牛皮，没想到是真大哥！",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/644107270.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-22T19:55:18.768Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-cbdd11d75d"
+    },
+    {
+      "id": "63df488aed0a7749",
+      "title": "海峡两岸近400位茶农福建漳州“斗茶”",
+      "originalTitle": null,
+      "summary": "中新社福建漳州11月22日电 (记者 张金川)2026年“天福杯”海峡两岸名茶邀请赛颁奖典礼22日在福建漳州举行。在颁奖典礼现场，来自海峡两岸近400位茶农欢聚一堂，品茗论道。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736104.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-22T09:12:55.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 25,
+      "ruleScore": 25,
+      "eventId": "ev-6d2f065b37"
+    },
+    {
+      "id": "f0ebc545476dbbec",
+      "title": "Taylor Swift wears windbreaker by Erin Andrews to Chiefs vs Cardinals game",
+      "originalTitle": null,
+      "summary": "The singer sported another design from the broadcaster's NFL apparel line to cheer on husband Travis Kelce.",
+      "url": "https://pagesix.com/2026/11/22/style/taylor-swift-wears-windbreaker-by-erin-andrews-to-chiefs-vs-cardinals-game/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fsinger-taylor-swift-seen-kansas-149753201.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-22T19:33:40.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-902248b5e0"
+    },
+    {
+      "id": "6757d96d1509c48e",
+      "title": "Bruce Willis' Daughter Tallulah Apologizes for Sharing 'Too Intimate' Pic Of Her & Dad",
+      "originalTitle": null,
+      "summary": "Bruce Willis' daughter Tallulah Willis is speaking out after she shared a sweet photo of her and her dad ... revealing she now thinks the pic was \"too intimate\" to post. In the photo Tallulah shared yesterday ...",
+      "url": "https://www.tmz.com/2026/11/22/bruce-willis-daughter-tallulah-apologizes-for-posting-picture/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-22T19:33:36.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-4d5a96eade"
+    }
+  ]
+}

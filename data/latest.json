@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T12:45:54.041Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-22T19:55:25.396Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 260,
+    "totalCollected": 269,
     "afterFilter": 46,
     "selected": 8,
     "domesticSelected": 5,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2327
+        "ms": 1840
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1617
+        "ms": 849
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 663
+        "ms": 912
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 372
+        "ms": 858
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 420
+        "ms": 718
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 690
+        "ms": 992
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 653
+        "ms": 1000
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 676
+        "ms": 998
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 700
+        "ms": 799
       }
     ],
     "ai": {
@@ -109,14 +109,14 @@
   },
   "mustEat": [
     "88d8b7aadaa22c21",
-    "a4793f5a88b751e3"
+    "7a689d67fc540766"
   ],
   "sections": {
     "life": [
       "9164fbd03c6a9f1a"
     ],
     "romance": [
-      "ecd968a55bfcd4c0"
+      "16ceeac2f2ae6344"
     ],
     "oddity": [
       "8cddd7f7e0d58617"
@@ -126,9 +126,9 @@
       "63df488aed0a7749"
     ],
     "overseas": [
-      "a4793f5a88b751e3",
-      "7c52b6674c3de9be",
-      "5f245bc425800a20"
+      "7a689d67fc540766",
+      "f0ebc545476dbbec",
+      "6757d96d1509c48e"
     ]
   },
   "events": [],
@@ -163,33 +163,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 72,
-      "ruleScore": 72,
+      "score": 69,
+      "ruleScore": 69,
       "eventId": "ev-65bf65fd97"
     },
     {
-      "id": "a4793f5a88b751e3",
-      "title": "How Many Actors Can You Name In This Cast Photo?",
+      "id": "7a689d67fc540766",
+      "title": "Princess Kate enforces simple household rules to keep royal kids grounded: author",
       "originalTitle": null,
-      "summary": "How many stars can you name in this cast photo? From left to right ... She may look familiar from \"Young Sheldon,\" but this talented star has been stealing scenes in Hollywood since she was just a kid!He's an Aussie acto…",
-      "url": "https://www.tmz.com/2026/11/22/how-many-actors-can-you-guess-in-this-cast-photo/",
-      "image": "",
+      "summary": "Kate Middleton's approach to chores echoes Queen Elizabeth, who once insisted on washing up at Balmoral",
+      "url": "https://pagesix.com/2026/11/22/royal-family/princess-kate-enforces-simple-household-rules-to-keep-royal-kids-grounded-author/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149736904.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T08:01:10.000Z",
+      "publishedAt": "2026-11-22T19:39:40.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -197,23 +197,23 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-381ac6637d"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-6149c1e113"
     },
     {
       "id": "9164fbd03c6a9f1a",
       "title": "小区277户只有约100家一直交物业费",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710911150951006771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710911150951006771%22%2C%22hot_board_impr_id%22%3A%222026112220454504C23F073B598EB1F8D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%8C%BA277%E6%88%B7%E5%8F%AA%E6%9C%89%E7%BA%A6100%E5%AE%B6%E4%B8%80%E7%9B%B4%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%22%7D&rank=&style_id=40132&topic_id=7710911150951006771",
+      "url": "https://www.toutiao.com/trending/7710911150951006771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710911150951006771%22%2C%22hot_board_impr_id%22%3A%2220261123035518C55F109F023BCBA09EE7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%8C%BA277%E6%88%B7%E5%8F%AA%E6%9C%89%E7%BA%A6100%E5%AE%B6%E4%B8%80%E7%9B%B4%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%22%7D&rank=&style_id=40132&topic_id=7710911150951006771",
       "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d3f5e42f422e4a4bb071cf440ca74fc8~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797897600&x-signature=bMOUK8b%2Ff5ZcQtaWTvsluGP3k%2Bo%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T12:45:45.568Z",
+      "publishedAt": "2026-11-22T19:55:18.606Z",
       "timeBasis": "fetch",
-      "heat": 219355,
+      "heat": 4577972,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -236,26 +236,26 @@
       "eventId": "ev-57171119f5"
     },
     {
-      "id": "ecd968a55bfcd4c0",
-      "title": "杭州孕妈结婚8年酒龄几乎同步",
+      "id": "16ceeac2f2ae6344",
+      "title": "曝高迪大美已经离婚了",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%AD%E5%B7%9E%E5%AD%95%E5%A6%88%E7%BB%93%E5%A9%9A8%E5%B9%B4%E9%85%92%E9%BE%84%E5%87%A0%E4%B9%8E%E5%90%8C%E6%AD%A5&sa=fyb_news",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E8%BF%AA%E5%A4%A7%E7%BE%8E%E5%B7%B2%E7%BB%8F%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=19&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T12:45:46.252Z",
+      "publishedAt": "2026-11-22T19:55:18.673Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "baidu"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,9 +265,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-a0fc5d8305"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-90843b542e"
     },
     {
       "id": "8cddd7f7e0d58617",
@@ -279,7 +279,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T12:45:44.610Z",
+      "publishedAt": "2026-11-22T19:55:18.768Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -333,21 +333,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 27,
-      "ruleScore": 27,
+      "score": 25,
+      "ruleScore": 25,
       "eventId": "ev-6d2f065b37"
     },
     {
-      "id": "7c52b6674c3de9be",
-      "title": "Tommy Lee Jones says ‘God loved me’ by putting him in Texas, opens up about life on his 6,000-acre ranch",
+      "id": "f0ebc545476dbbec",
+      "title": "Taylor Swift wears windbreaker by Erin Andrews to Chiefs vs Cardinals game",
       "originalTitle": null,
-      "summary": "\"There came a time when I became aware that I could live anywhere I wanted to,\" Jones said. \"So, in my wisdom, I went home.\"",
-      "url": "https://pagesix.com/2026/11/22/celebrity-news/tommy-lee-jones-says-god-loved-him-for-texas-home/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Ffinestkind-movie-starring-tommy-lee-149722965.jpg",
+      "summary": "The singer sported another design from the broadcaster's NFL apparel line to cheer on husband Travis Kelce.",
+      "url": "https://pagesix.com/2026/11/22/style/taylor-swift-wears-windbreaker-by-erin-andrews-to-chiefs-vs-cardinals-game/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fsinger-taylor-swift-seen-kansas-149753201.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T11:02:58.000Z",
+      "publishedAt": "2026-11-22T19:33:40.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,41 +369,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-798320d384"
+      "eventId": "ev-902248b5e0"
     },
     {
-      "id": "5f245bc425800a20",
-      "title": "HGTV star Ty Pennington calls out ‘excessive’ home renovation trend people do in kitchens",
+      "id": "6757d96d1509c48e",
+      "title": "Bruce Willis' Daughter Tallulah Apologizes for Sharing 'Too Intimate' Pic Of Her & Dad",
       "originalTitle": null,
-      "summary": "The reality star weighed in on where homeowners should and shouldn't put their renovation budgets.",
-      "url": "https://pagesix.com/2026/11/22/celebrity-news/hgtv-star-ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fty-pennington-calls-excessive-home-149722262.jpg?w%3D1024",
+      "summary": "Bruce Willis' daughter Tallulah Willis is speaking out after she shared a sweet photo of her and her dad ... revealing she now thinks the pic was \"too intimate\" to post. In the photo Tallulah shared yesterday ...",
+      "url": "https://www.tmz.com/2026/11/22/bruce-willis-daughter-tallulah-apologizes-for-posting-picture/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T10:49:39.000Z",
+      "publishedAt": "2026-11-22T19:33:36.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": false,
+      "reversal": true,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-6f66b0aa55"
+      "eventId": "ev-4d5a96eade"
     }
   ]
 }
