@@ -1,13 +1,13 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T03:18:06.459Z",
+  "generatedAt": "2026-11-22T12:45:54.041Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 265,
-    "afterFilter": 47,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "totalCollected": 260,
+    "afterFilter": 46,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 2769
+        "ms": 2327
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 879
+        "ms": 1617
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 696
+        "ms": 663
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 383
+        "ms": 372
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 495
+        "ms": 420
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 793
+        "ms": 690
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 770
+        "ms": 653
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 793
+        "ms": 676
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1241
+        "ms": 700
       }
     ],
     "ai": {
@@ -108,79 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "f6d461d0810d6159",
-    "d3d58a62a7025ea7",
-    "ebccea446e6d79cf"
+    "88d8b7aadaa22c21",
+    "a4793f5a88b751e3"
   ],
   "sections": {
     "life": [
-      "7d619cf7bee11db5"
+      "9164fbd03c6a9f1a"
     ],
     "romance": [
-      "2c07fa540e208d7f"
+      "ecd968a55bfcd4c0"
     ],
     "oddity": [
-      "d3d58a62a7025ea7",
-      "ef93090944f520de"
+      "8cddd7f7e0d58617"
     ],
     "twist": [],
     "entertainment": [
-      "65263175f9377a59",
-      "22132ed5e0c6a46e"
+      "63df488aed0a7749"
     ],
     "overseas": [
-      "ebccea446e6d79cf",
-      "7c5a8b14835d17a0",
-      "5c7aec697291f6d4"
+      "a4793f5a88b751e3",
+      "7c52b6674c3de9be",
+      "5f245bc425800a20"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "f6d461d0810d6159",
-      "title": "藏在烟火里的大理70年开放记：路通、货畅、人相亲",
+      "id": "88d8b7aadaa22c21",
+      "title": "山西一工地挖出炮弹紧急排爆 警方提示",
       "originalTitle": null,
-      "summary": "中新网云南大理11月22日电 (记者 韩帅南)近日恰逢大理赶集日，新鲜瓜果、扎染布匹、民族服饰铺满长街。大理大学的泰国来华留学生婉淑玥举起手机在人群中拍个不停。一位摊主得知她来自泰国后，将一条手工手串作为礼物相赠。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735993.shtml",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-22T03:02:33.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 83,
-      "ruleScore": 83,
-      "eventId": "ev-525223280f"
-    },
-    {
-      "id": "d3d58a62a7025ea7",
-      "title": "邮寄假律师函为境外诈骗铺路 兼职代发为何沦为犯罪一环？",
-      "originalTitle": null,
-      "summary": "“从来没借过钱，哪来的催款通知？”一通来自外省的报警电话，牵出了一条藏在快递包裹里的犯罪链条。近日，上海闵行警方抓获了两名代发虚假律师函实施诈骗的犯罪嫌疑人。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735969.shtml",
+      "summary": "近日，在山西晋城沁水县十里乡的一处工地，施工人员挖土时发现一枚炮弹，第一时间报警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736107.shtml",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T02:27:35.000Z",
+      "publishedAt": "2026-11-22T09:18:23.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -200,33 +163,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 56,
-      "ruleScore": 56,
-      "eventId": "ev-5eb2fe1352"
+      "score": 72,
+      "ruleScore": 72,
+      "eventId": "ev-65bf65fd97"
     },
     {
-      "id": "ebccea446e6d79cf",
-      "title": "Miley Cyrus marries Maxx Morando in intimate Palm Springs wedding",
+      "id": "a4793f5a88b751e3",
+      "title": "How Many Actors Can You Name In This Cast Photo?",
       "originalTitle": null,
-      "summary": "The lavish nuptials come nearly a year after Page Six confirmed the two were engaged.",
-      "url": "https://pagesix.com/2026/11/21/celebrity-news/miley-cyrus-marries-maxx-morando-in-intimate-palm-springs-wedding/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fpremium-exclusive-palm-springs-ca-149690670.jpg?w%3D1024",
+      "summary": "How many stars can you name in this cast photo? From left to right ... She may look familiar from \"Young Sheldon,\" but this talented star has been stealing scenes in Hollywood since she was just a kid!He's an Aussie acto…",
+      "url": "https://www.tmz.com/2026/11/22/how-many-actors-can-you-guess-in-this-cast-photo/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T00:46:15.000Z",
+      "publishedAt": "2026-11-22T08:01:10.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -234,31 +197,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-b87fb180df"
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-381ac6637d"
     },
     {
-      "id": "7d619cf7bee11db5",
-      "title": "如何看待“老婆嫌老公熬夜打游戏，发「追杀令」求助网友狙击老公 ID，大哥「你们找不到我」被各路玩家围剿？",
+      "id": "9164fbd03c6a9f1a",
+      "title": "小区277户只有约100家一直交物业费",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.zhihu.com/question/2106418067513386152",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7710911150951006771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710911150951006771%22%2C%22hot_board_impr_id%22%3A%222026112220454504C23F073B598EB1F8D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%8C%BA277%E6%88%B7%E5%8F%AA%E6%9C%89%E7%BA%A6100%E5%AE%B6%E4%B8%80%E7%9B%B4%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%22%7D&rank=&style_id=40132&topic_id=7710911150951006771",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d3f5e42f422e4a4bb071cf440ca74fc8~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797897600&x-signature=bMOUK8b%2Ff5ZcQtaWTvsluGP3k%2Bo%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T03:17:59.345Z",
+      "publishedAt": "2026-11-22T12:45:45.568Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "zhihu",
-      "sourceName": "知乎热榜",
+      "heat": 219355,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.zhihu.com/hot",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "zhihu"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -268,65 +231,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 53,
-      "ruleScore": 53,
-      "eventId": "ev-42a19ce5b9"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-57171119f5"
     },
     {
-      "id": "2c07fa540e208d7f",
-      "title": "王子璇朱正廷好一个乖乖女婚礼路透",
+      "id": "ecd968a55bfcd4c0",
+      "title": "杭州孕妈结婚8年酒龄几乎同步",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%9C%B1%E6%AD%A3%E5%BB%B7%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3%E5%A9%9A%E7%A4%BC%E8%B7%AF%E9%80%8F&t=31&band_rank=29&Refer=top",
+      "url": "https://m.baidu.com/s?word=%E6%9D%AD%E5%B7%9E%E5%AD%95%E5%A6%88%E7%BB%93%E5%A9%9A8%E5%B9%B4%E9%85%92%E9%BE%84%E5%87%A0%E4%B9%8E%E5%90%8C%E6%AD%A5&sa=fyb_news",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T03:17:59.243Z",
+      "publishedAt": "2026-11-22T12:45:46.252Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-d1b6027d51"
-    },
-    {
-      "id": "ef93090944f520de",
-      "title": "这居然是王子璇",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87%23&t=31&band_rank=5&Refer=top",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-22T03:17:59.243Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
+          "baidu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -338,19 +267,53 @@
       "translated": false,
       "score": 63,
       "ruleScore": 63,
-      "eventId": "ev-4965ed4283"
+      "eventId": "ev-a0fc5d8305"
     },
     {
-      "id": "65263175f9377a59",
-      "title": "十六载笔墨传童心 “国寿小画家”颁奖盛典在杭举行",
+      "id": "8cddd7f7e0d58617",
+      "title": "以为是吹牛皮，没想到是真大哥！",
       "originalTitle": null,
-      "summary": "中新网杭州11月21日电(曹丹)画笔为桨，童心作帆。11月21日，2026“国寿小画家”颁奖盛典在浙江杭州钱塘江上举行。浙江省35强小画家及其家庭登上“小画家梦想号”游轮，在江景中迎来属于自己的荣誉时刻。这项已举办16年的少儿书画活动，首次将颁奖盛典搬上游轮，开启了一段流动的艺术之旅。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735907.shtml",
+      "summary": "",
+      "url": "https://bbs.hupu.com/644107270.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-22T12:45:44.610Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-cbdd11d75d"
+    },
+    {
+      "id": "63df488aed0a7749",
+      "title": "海峡两岸近400位茶农福建漳州“斗茶”",
+      "originalTitle": null,
+      "summary": "中新社福建漳州11月22日电 (记者 张金川)2026年“天福杯”海峡两岸名茶邀请赛颁奖典礼22日在福建漳州举行。在颁奖典礼现场，来自海峡两岸近400位茶农欢聚一堂，品茗论道。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736104.shtml",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-21T13:04:31.000Z",
+      "publishedAt": "2026-11-22T09:12:55.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -372,53 +335,19 @@
       "translated": false,
       "score": 27,
       "ruleScore": 27,
-      "eventId": "ev-31230af05a"
+      "eventId": "ev-6d2f065b37"
     },
     {
-      "id": "22132ed5e0c6a46e",
-      "title": "长安大学回应14号面试13号出结果",
+      "id": "7c52b6674c3de9be",
+      "title": "Tommy Lee Jones says ‘God loved me’ by putting him in Texas, opens up about life on his 6,000-acre ranch",
       "originalTitle": null,
-      "summary": "长安大学11月21日发布情况通报：针对近日网络关于长安大学辅导员招聘工作的有关反映，学校高度重视，迅速成立由纪委牵头的专项调查组开展调查。 #8203;#8203;#8203;#8203;",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-21T13:28:19.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 24,
-      "ruleScore": 24,
-      "eventId": "ev-f8450c1b61"
-    },
-    {
-      "id": "7c5a8b14835d17a0",
-      "title": "‘The Voice’ winner’s house, belongings destroyed in ‘devastating’ fire: ‘Starting over’",
-      "originalTitle": null,
-      "summary": "Alexia Jayy won Season 29 of the NBC singing competition series, becoming the first black woman to do so in the show's history.",
-      "url": "https://pagesix.com/2026/11/21/celebrity-news/the-voice-winner-alexia-jayys-house-destroyed-in-devastating-fire/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fvoice-finale-top-4-episode-149661784.jpg?w%3D1024",
+      "summary": "\"There came a time when I became aware that I could live anywhere I wanted to,\" Jones said. \"So, in my wisdom, I went home.\"",
+      "url": "https://pagesix.com/2026/11/22/celebrity-news/tommy-lee-jones-says-god-loved-him-for-texas-home/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Ffinestkind-movie-starring-tommy-lee-149722965.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T00:04:04.000Z",
+      "publishedAt": "2026-11-22T11:02:58.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -440,31 +369,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-2bc9f35cda"
+      "eventId": "ev-798320d384"
     },
     {
-      "id": "5c7aec697291f6d4",
-      "title": "Tish Cyrus Gets Emotional on Miley’s Big Day as Husband Dominic Purcell Comforts Her",
+      "id": "5f245bc425800a20",
+      "title": "HGTV star Ty Pennington calls out ‘excessive’ home renovation trend people do in kitchens",
       "originalTitle": null,
-      "summary": "Tish Cyrus was spotted having an emotional moment with her husband, Dominic Purcell, on her daughter Miley Cyrus' wedding day ... and we totally get it, your kid getting hitched is a big deal!",
-      "url": "https://www.tmz.com/2026/11/21/tish-cyrus-emotional-miley-wedding-day-video/",
-      "image": "",
+      "summary": "The reality star weighed in on where homeowners should and shouldn't put their renovation budgets.",
+      "url": "https://pagesix.com/2026/11/22/celebrity-news/hgtv-star-ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fty-pennington-calls-excessive-home-149722262.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-21T22:36:05.000Z",
+      "publishedAt": "2026-11-22T10:49:39.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -474,7 +403,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-0851166c8e"
+      "eventId": "ev-6f66b0aa55"
     }
   ]
 }
