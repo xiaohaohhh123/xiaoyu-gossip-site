@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
-  "generatedAt": "2026-11-22T19:55:25.396Z",
+  "generatedAt": "2026-11-23T15:07:14.550Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 269,
-    "afterFilter": 46,
+    "totalCollected": 254,
+    "afterFilter": 39,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1840
+        "ms": 1589
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 849
+        "ms": 860
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 912
+        "ms": 802
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 6,
         "error": null,
         "httpStatus": 200,
-        "ms": 858
+        "ms": 505
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 718
+        "ms": 651
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 992
+        "ms": 1035
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1000
+        "ms": 934
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 998
+        "ms": 918
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 799
+        "ms": 1764
       }
     ],
     "ai": {
@@ -108,42 +108,41 @@
     "totalSources": 9
   },
   "mustEat": [
-    "88d8b7aadaa22c21",
-    "7a689d67fc540766"
+    "03e953df2ed52500",
+    "4d78a647f7cd1d8d"
   ],
   "sections": {
-    "life": [
-      "9164fbd03c6a9f1a"
-    ],
+    "life": [],
     "romance": [
-      "16ceeac2f2ae6344"
+      "2526223af7eae7a0"
     ],
     "oddity": [
-      "8cddd7f7e0d58617"
+      "615c8ee33785ec58"
     ],
     "twist": [],
     "entertainment": [
-      "63df488aed0a7749"
+      "47e6b8ea156a4fc1",
+      "3d4c5aaacf284705"
     ],
     "overseas": [
-      "7a689d67fc540766",
-      "f0ebc545476dbbec",
-      "6757d96d1509c48e"
+      "4d78a647f7cd1d8d",
+      "5ea5df92d7224db9",
+      "17f9a9131ca79cd8"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "88d8b7aadaa22c21",
-      "title": "山西一工地挖出炮弹紧急排爆 警方提示",
+      "id": "03e953df2ed52500",
+      "title": "三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空",
       "originalTitle": null,
-      "summary": "近日，在山西晋城沁水县十里乡的一处工地，施工人员挖土时发现一枚炮弹，第一时间报警。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736107.shtml",
+      "summary": "中国天气网讯 明天(11月24日)晚上，超级月亮将现身夜空。今年12月和明年1月还会各出现一次超级月亮，构成十分罕见的跨年度“三连超级月亮”，届时天空中还会上演“月掩昴星团”天象。中国天气网推出全国赏月指数地图，看看明晚哪里能欣赏到这场月色盛宴。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736559.shtml",
       "image": "",
       "category": "oddity",
-      "topicClass": "scene",
+      "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T09:18:23.000Z",
+      "publishedAt": "2026-11-23T09:38:29.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -163,33 +162,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 69,
-      "ruleScore": 69,
-      "eventId": "ev-65bf65fd97"
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-7ba0fa13ab"
     },
     {
-      "id": "7a689d67fc540766",
-      "title": "Princess Kate enforces simple household rules to keep royal kids grounded: author",
+      "id": "4d78a647f7cd1d8d",
+      "title": "Guess The A-List Pop Star This Cutie Turned Into!",
       "originalTitle": null,
-      "summary": "Kate Middleton's approach to chores echoes Queen Elizabeth, who once insisted on washing up at Balmoral",
-      "url": "https://pagesix.com/2026/11/22/royal-family/princess-kate-enforces-simple-household-rules-to-keep-royal-kids-grounded-author/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149736904.jpg?quality%3D90%26strip%3Dall",
+      "summary": "Before this kiddo rockin' a beanie was whippin' through the music industry like a sports car, she was just staying toasty in Canada and rehearsing her moves ... She can sing, she can dance like no one's business ...",
+      "url": "https://www.tmz.com/2026/11/23/tate-mcrae-toddler-picture-guessing-game/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T19:39:40.000Z",
+      "publishedAt": "2026-11-23T08:01:54.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -197,65 +196,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-6149c1e113"
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-5b29a46600"
     },
     {
-      "id": "9164fbd03c6a9f1a",
-      "title": "小区277户只有约100家一直交物业费",
+      "id": "2526223af7eae7a0",
+      "title": "李嘉欣晒夫妻合照纪念结婚18周年",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7710911150951006771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710911150951006771%22%2C%22hot_board_impr_id%22%3A%2220261123035518C55F109F023BCBA09EE7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%8C%BA277%E6%88%B7%E5%8F%AA%E6%9C%89%E7%BA%A6100%E5%AE%B6%E4%B8%80%E7%9B%B4%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%22%7D&rank=&style_id=40132&topic_id=7710911150951006771",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d3f5e42f422e4a4bb071cf440ca74fc8~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797897600&x-signature=bMOUK8b%2Ff5ZcQtaWTvsluGP3k%2Bo%3D",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-22T19:55:18.606Z",
-      "timeBasis": "fetch",
-      "heat": 4577972,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-57171119f5"
-    },
-    {
-      "id": "16ceeac2f2ae6344",
-      "title": "曝高迪大美已经离婚了",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E8%BF%AA%E5%A4%A7%E7%BE%8E%E5%B7%B2%E7%BB%8F%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%98%89%E6%AC%A3%E6%99%92%E5%A4%AB%E5%A6%BB%E5%90%88%E7%85%A7%E7%BA%AA%E5%BF%B5%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4&sa=fyb_news",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T19:55:18.673Z",
+      "publishedAt": "2026-11-23T15:07:08.812Z",
       "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "baidu"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -265,21 +230,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-90843b542e"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-905b32a5ca"
     },
     {
-      "id": "8cddd7f7e0d58617",
-      "title": "以为是吹牛皮，没想到是真大哥！",
+      "id": "615c8ee33785ec58",
+      "title": "我终于知道某鱼为什么被称为国内暗网了",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/644107270.html",
+      "summary": "居然连这都有，神器啊，我终于知道某鱼为什么被成为国内暗网了，",
+      "url": "https://bbs.hupu.com/644135998.html",
       "image": "",
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-22T19:55:18.768Z",
+      "publishedAt": "2026-11-23T15:07:08.193Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -299,21 +264,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-cbdd11d75d"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-2b395754a3"
     },
     {
-      "id": "63df488aed0a7749",
-      "title": "海峡两岸近400位茶农福建漳州“斗茶”",
+      "id": "47e6b8ea156a4fc1",
+      "title": "说唱歌手凭啥这么有钱",
       "originalTitle": null,
-      "summary": "中新社福建漳州11月22日电 (记者 张金川)2026年“天福杯”海峡两岸名茶邀请赛颁奖典礼22日在福建漳州举行。在颁奖典礼现场，来自海峡两岸近400位茶农欢聚一堂，品茗论道。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736104.shtml",
+      "summary": "普通人辛苦读书十几年为什么大部分都是打工拿死工资，月薪几千，两三万已经是算很厉害的了。就算极少部分年薪百万的也是拿没日没夜的加班拿命换的，也不舍得买豪车。\n 为什么中专毕业的说唱歌手，随便台上呦呦切克闹几句，豪车换着开，泡不完的妞，数不清的票子，随便商演几场顶别人打工N年。为什么这么不公平。。\n \n ps:这些都是顶流，资产大都是上亿的。那些混得差点的二三线的，也比一般大学生收入高很多倍。困扰普通人房贷车贷彩礼一辈子的烦恼，这些中专技校说唱精英基本眨眨眼就能拿下。",
+      "url": "https://bbs.hupu.com/644148078.html",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T09:12:55.000Z",
+      "publishedAt": "2026-11-23T15:07:08.193Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 37,
+      "ruleScore": 37,
+      "eventId": "ev-db953ff251"
+    },
+    {
+      "id": "3d4c5aaacf284705",
+      "title": "平台内严肃拒绝 私下里积极接单 AI仿冒名人带货缘何屡禁不止？",
+      "originalTitle": null,
+      "summary": "随着AI换脸、拟声技术日益成熟，打着名人及其家属旗号的仿冒账号频频出现，让网友难辨真假。此前有演员温峥嵘被AI仿冒代言，近期演员吴越也在不知情的情况下被AI代了言。AI换脸、拟声技术门槛不断降低，公众人物的形象和声音更容易被冒用。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736564.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-23T09:43:01.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -333,21 +332,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 25,
-      "ruleScore": 25,
-      "eventId": "ev-6d2f065b37"
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-0e8f018d8f"
     },
     {
-      "id": "f0ebc545476dbbec",
-      "title": "Taylor Swift wears windbreaker by Erin Andrews to Chiefs vs Cardinals game",
+      "id": "5ea5df92d7224db9",
+      "title": "Will Smith 911 audio reveals new details of massive fire at star’s $42 million Calabasas home",
       "originalTitle": null,
-      "summary": "The singer sported another design from the broadcaster's NFL apparel line to cheer on husband Travis Kelce.",
-      "url": "https://pagesix.com/2026/11/22/style/taylor-swift-wears-windbreaker-by-erin-andrews-to-chiefs-vs-cardinals-game/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fsinger-taylor-swift-seen-kansas-149753201.jpg?w%3D1024",
+      "summary": "A call for help was placed around midnight regarding a shack on the 150-acre property catching on fire.",
+      "url": "https://pagesix.com/2026/11/23/celebrity-news/will-smith-911-audio-reveals-new-details-of-massive-fire-at-stars-calabasas-home/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwill-smith.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T19:33:40.000Z",
+      "publishedAt": "2026-11-23T14:46:21.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,41 +368,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-902248b5e0"
+      "eventId": "ev-961de7d082"
     },
     {
-      "id": "6757d96d1509c48e",
-      "title": "Bruce Willis' Daughter Tallulah Apologizes for Sharing 'Too Intimate' Pic Of Her & Dad",
+      "id": "17f9a9131ca79cd8",
+      "title": "Mariah Carey addresses fan concerns after going viral over ‘stiff’ performance",
       "originalTitle": null,
-      "summary": "Bruce Willis' daughter Tallulah Willis is speaking out after she shared a sweet photo of her and her dad ... revealing she now thinks the pic was \"too intimate\" to post. In the photo Tallulah shared yesterday ...",
-      "url": "https://www.tmz.com/2026/11/22/bruce-willis-daughter-tallulah-apologizes-for-posting-picture/",
-      "image": "",
+      "summary": "The superstar singer sparked speculation after she needed constant assistance to move around on stage when she kicked off her 2026 Christmas Time tour in Brazil.",
+      "url": "https://pagesix.com/2026/11/23/celebrity-news/mariah-carey-addresses-fan-concerns-over-stiff-performance-videos/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmariah-carey-addresses-fan-concerns-149813038.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-22T19:33:36.000Z",
+      "publishedAt": "2026-11-23T14:38:55.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
         "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
-      "reversal": true,
+      "reversal": false,
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-4d5a96eade"
+      "eventId": "ev-9976109f95"
     }
   ]
 }
