@@ -1,13 +1,13 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T06:59:46.839Z",
+  "generatedAt": "2026-11-24T15:05:20.384Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 44,
-    "selected": 8,
-    "domesticSelected": 5,
-    "domesticRatio": 63,
+    "totalCollected": 266,
+    "afterFilter": 43,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1744
+        "ms": 1481
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 786
+        "ms": 857
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 937
+        "ms": 712
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 7,
         "error": null,
         "httpStatus": 200,
-        "ms": 684
+        "ms": 392
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 785
+        "ms": 559
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1048
+        "ms": 816
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1050
+        "ms": 825
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1029
+        "ms": 806
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 3479
+        "ms": 3764
       }
     ],
     "ai": {
@@ -108,110 +108,74 @@
     "totalSources": 9
   },
   "mustEat": [
-    "acc2bd1ed237b6b6",
-    "b6f465b6783f66a1",
-    "d5f2cdbcd26f622d"
+    "3a4c214948b622cd",
+    "3e20d15fd5140833"
   ],
   "sections": {
     "life": [
-      "f3d46c99f24fd430"
+      "df68fdcc1d12b171"
     ],
-    "romance": [],
-    "oddity": [
-      "b6f465b6783f66a1",
-      "b5b81d309301272e"
+    "romance": [
+      "3f187cd3c6704c96"
     ],
+    "oddity": [],
     "twist": [],
     "entertainment": [
-      "47e6b8ea156a4fc1"
+      "25608a49cfbb1ee8"
     ],
     "overseas": [
-      "d5f2cdbcd26f622d",
-      "4b36bfb4cdfba2fb",
-      "a44367e027081bd4"
+      "3e20d15fd5140833",
+      "5b1a79d46b188ffe",
+      "f867b8dfebb2c964"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "acc2bd1ed237b6b6",
-      "title": "“一老一小”新政来了！改造2000个养老机构、打造“一刻钟托育服务圈”",
+      "id": "3a4c214948b622cd",
+      "title": "大伙过来评价一下",
       "originalTitle": null,
-      "summary": "家里老人年纪大了，想找个靠谱的养老院却担心设施老旧、照护跟不上；孩子才两三岁，托育班离家远、接送难，双职工父母直呼“带娃焦虑”……这些困扰千家万户的“一老一小”难题，如今有了新的破解方案。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736885.shtml",
+      "summary": "我和我老婆是22年相亲认识的，23年结的婚。感情一直平平淡淡，这几天和老婆关于婚后管钱的事已经吵到不可开交。她说让我找社会上的人来评一评。观点如下:\n 我认为如果我的钱给他管可以，但是她也要把钱一起转到账户里，给我开通短信，给我我知情的权利。\n 她认为她的钱都是她自己支配，不会给我知道，而我的钱则要交家用。\n 我们23年结婚到现在，还没有孩子，没有孩子的原因我就不细说了。所以目前我们双方都有挣钱的能力。\n 我是深圳一家事业单位的合同工，一年收入到手约23万左右，比较稳定。我老婆也是深圳一家小it公司的设计师，一个月到手1万左右，社保公积金什么的都是按最低买的。",
+      "url": "https://bbs.hupu.com/644138406.html",
       "image": "",
-      "category": "family",
-      "topicClass": "family",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-24T04:35:31.000Z",
-      "timeBasis": "source",
+      "publishedAt": "2026-11-24T15:05:11.499Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
         ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
       "reversal": false,
       "translated": false,
-      "score": 78,
-      "ruleScore": 78,
-      "eventId": "ev-0fe453bd46"
+      "score": 93,
+      "ruleScore": 93,
+      "eventId": "ev-3aa3b32baf"
     },
     {
-      "id": "b6f465b6783f66a1",
-      "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发，警惕诱导消费和过度医疗",
+      "id": "3e20d15fd5140833",
+      "title": "Author Ali Hazelwood shares six of her favorite romance books",
       "originalTitle": null,
-      "summary": "中新网11月24日电 据中国消费者协会网站消息，从全国消协智慧315平台接收的医疗服务相关投诉情况看，口腔、生殖健康类投诉较多，消费者反映较为集中的问题包括夸大病情、治疗效果不及预期以及过度医疗等。结合近期舆情事件及投诉热点，中国消费者协会、中国市场监督管理学会作出以下消费提示。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736835.shtml",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-24T03:01:22.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 78,
-      "ruleScore": 78,
-      "eventId": "ev-85963b4ebd"
-    },
-    {
-      "id": "d5f2cdbcd26f622d",
-      "title": "Veteran actor rips Hollywood as ‘boring’ and ‘tedious,’ says he prefers the South",
-      "originalTitle": null,
-      "summary": "\"It was boring to us. It was tedious … it wasn't about anything.\"",
-      "url": "https://pagesix.com/2026/11/24/celebrity-news/veteran-actor-rips-hollywood-as-boring-and-tedious-says-he-prefers-the-south/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fphoto-dan-brinzac-new-york-149858655.jpg?w%3D1024",
+      "summary": "\"The Two-Body Problem\" author says that romance books are her \"happy place.\"",
+      "url": "https://pagesix.com/2026/11/24/lifestyle/author-ali-hazelwood-shares-her-six-favorite-books/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F149370210.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-24T05:03:10.000Z",
+      "publishedAt": "2026-11-24T15:03:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -233,19 +197,53 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-7836994353"
+      "eventId": "ev-951e16ee3d"
     },
     {
-      "id": "f3d46c99f24fd430",
-      "title": "房东“提灯验房”？地方新规来了",
+      "id": "df68fdcc1d12b171",
+      "title": "女子打扫老人发霉房屋后发烧吐血丝",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%88%BF%E4%B8%9C%E2%80%9C%E6%8F%90%E7%81%AF%E9%AA%8C%E6%88%BF%E2%80%9D%EF%BC%9F%E5%9C%B0%E6%96%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E6%89%AB%E8%80%81%E4%BA%BA%E5%8F%91%E9%9C%89%E6%88%BF%E5%B1%8B%E5%90%8E%E5%8F%91%E7%83%A7%E5%90%90%E8%A1%80%E4%B8%9D%23&t=31&band_rank=10&Refer=top",
       "image": "",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-24T06:59:38.800Z",
+      "publishedAt": "2026-11-24T15:05:11.382Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-3b9818d946"
+    },
+    {
+      "id": "3f187cd3c6704c96",
+      "title": "新娘提1341次分手新郎回1342次不行",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%A8%98%E6%8F%901341%E6%AC%A1%E5%88%86%E6%89%8B%E6%96%B0%E9%83%8E%E5%9B%9E1342%E6%AC%A1%E4%B8%8D%E8%A1%8C&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-24T15:05:12.122Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -265,89 +263,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-6a3ed6053a"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-e21458ac6f"
     },
     {
-      "id": "b5b81d309301272e",
-      "title": "两个极品碰到一起了，一个砍价说2000，一个真敢报警说被强迫。。。",
+      "id": "25608a49cfbb1ee8",
+      "title": "“月明如水浸楼台”落进中学课堂：川剧名家讲唱词里的诗意",
       "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/644164289.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-24T06:59:38.148Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-47942e9420"
-    },
-    {
-      "id": "47e6b8ea156a4fc1",
-      "title": "说唱歌手凭啥这么有钱",
-      "originalTitle": null,
-      "summary": "普通人辛苦读书十几年为什么大部分都是打工拿死工资，月薪几千，两三万已经是算很厉害的了。就算极少部分年薪百万的也是拿没日没夜的加班拿命换的，也不舍得买豪车。\n 为什么中专毕业的说唱歌手，随便台上呦呦切克闹几句，豪车换着开，泡不完的妞，数不清的票子，随便商演几场顶别人打工N年。为什么这么不公平。。\n \n ps:这些都是顶流，资产大都是上亿的。那些混得差点的二三线的，也比一般大学生收入高很多倍。困扰普通人房贷车贷彩礼一辈子的烦恼，这些中专技校说唱精英基本眨眨眼就能拿下。",
-      "url": "https://bbs.hupu.com/644148078.html",
+      "summary": "中新网成都11月24日电(单鹏)“更阑静，夜色哀，月明如水浸楼台，透出了凄风一派。”24日，成都市铁路中学立人校区的阶梯教室里，国家一级演员、四川省级非物质文化遗产川剧代表性传承人蔡少波开口第一句，没有讲身段，也没有亮绝活，而是先念了这样一句唱词。他顿了顿，然后说：“你们听，‘月明如水浸楼台’，仄平平仄仄平平，这就是一首诗。”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737217.shtml",
       "image": "",
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-24T06:59:38.148Z",
-      "timeBasis": "fetch",
+      "publishedAt": "2026-11-24T13:15:37.000Z",
+      "timeBasis": "source",
       "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
         ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
       },
       "reversal": false,
       "translated": false,
-      "score": 37,
-      "ruleScore": 37,
-      "eventId": "ev-db953ff251"
+      "score": 33,
+      "ruleScore": 33,
+      "eventId": "ev-d604f717b8"
     },
     {
-      "id": "4b36bfb4cdfba2fb",
-      "title": "‘H3’ podcaster Hila Klein pulls the plug on new show after husband Ethan’s affair and divorce drama",
+      "id": "5b1a79d46b188ffe",
+      "title": "Taylor Swift shut Vanity Fair publisher out of wedding exclusive months before magazine’s takedown",
       "originalTitle": null,
-      "summary": "The fashion designer outed her husband's infidelity last month, resulting in a shocking cheating scandal.",
-      "url": "https://pagesix.com/2026/11/23/celebrity-news/h3-podcaster-hila-klein-pulls-the-plug-on-new-show-after-husband-ethans-affair-and-divorce-drama/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dj4tzkjsnls-149875161.jpg?w%3D821",
+      "summary": "Condé Nast reached out to Swift twice to release her wedding photos.",
+      "url": "https://pagesix.com/2026/11/24/entertainment/taylor-swift-shut-vanity-fair-publisher-out-of-wedding-exclusive/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Ftaylor-swift-travis-kelce-engagement-110107877.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-24T03:05:48.000Z",
+      "publishedAt": "2026-11-24T14:55:51.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,19 +333,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-66eaa620c8"
+      "eventId": "ev-8e94f9b0ec"
     },
     {
-      "id": "a44367e027081bd4",
-      "title": "'Michael' Director Antoine Fuqua and Son Sued for Alleged Gun Attack on Bar Manager",
+      "id": "f867b8dfebb2c964",
+      "title": "Khloé Kardashian's BFF Khadijah Reveals Monthly Income As She Pleads For Child Support",
       "originalTitle": null,
-      "summary": "Antoine Fuqua and his son are accused of turning a night at an Los Angeles bar into a terrifying ordeal ... with a man claiming the famed director pistol-whipped him and threatened to kill him.",
-      "url": "https://www.tmz.com/2026/11/23/antoine-fuqua-accused-of-assault/",
+      "summary": "Reality star Khadijah Haqq revealed her modest monthly income ... as she fights her estranged husband Bobby McCray for child and spousal support in their divorce, TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/24/khadijah-haqq-monthly-income-revealed/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-24T04:20:28.000Z",
+      "publishedAt": "2026-11-24T09:00:41.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -403,7 +367,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-f552b53742"
+      "eventId": "ev-fbe6a5cf37"
     }
   ]
 }
