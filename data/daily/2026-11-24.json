@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T06:59:46.839Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 268,
+    "afterFilter": 44,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1744
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 786
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 937
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 10,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 684
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 785
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1048
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1050
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1029
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 3479
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "acc2bd1ed237b6b6",
+    "b6f465b6783f66a1",
+    "d5f2cdbcd26f622d"
+  ],
+  "sections": {
+    "life": [
+      "f3d46c99f24fd430"
+    ],
+    "romance": [],
+    "oddity": [
+      "b6f465b6783f66a1",
+      "b5b81d309301272e"
+    ],
+    "twist": [],
+    "entertainment": [
+      "47e6b8ea156a4fc1"
+    ],
+    "overseas": [
+      "d5f2cdbcd26f622d",
+      "4b36bfb4cdfba2fb",
+      "a44367e027081bd4"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "acc2bd1ed237b6b6",
+      "title": "“一老一小”新政来了！改造2000个养老机构、打造“一刻钟托育服务圈”",
+      "originalTitle": null,
+      "summary": "家里老人年纪大了，想找个靠谱的养老院却担心设施老旧、照护跟不上；孩子才两三岁，托育班离家远、接送难，双职工父母直呼“带娃焦虑”……这些困扰千家万户的“一老一小”难题，如今有了新的破解方案。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736885.shtml",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T04:35:31.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-0fe453bd46"
+    },
+    {
+      "id": "b6f465b6783f66a1",
+      "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发，警惕诱导消费和过度医疗",
+      "originalTitle": null,
+      "summary": "中新网11月24日电 据中国消费者协会网站消息，从全国消协智慧315平台接收的医疗服务相关投诉情况看，口腔、生殖健康类投诉较多，消费者反映较为集中的问题包括夸大病情、治疗效果不及预期以及过度医疗等。结合近期舆情事件及投诉热点，中国消费者协会、中国市场监督管理学会作出以下消费提示。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736835.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T03:01:22.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-85963b4ebd"
+    },
+    {
+      "id": "d5f2cdbcd26f622d",
+      "title": "Veteran actor rips Hollywood as ‘boring’ and ‘tedious,’ says he prefers the South",
+      "originalTitle": null,
+      "summary": "\"It was boring to us. It was tedious … it wasn't about anything.\"",
+      "url": "https://pagesix.com/2026/11/24/celebrity-news/veteran-actor-rips-hollywood-as-boring-and-tedious-says-he-prefers-the-south/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fphoto-dan-brinzac-new-york-149858655.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T05:03:10.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7836994353"
+    },
+    {
+      "id": "f3d46c99f24fd430",
+      "title": "房东“提灯验房”？地方新规来了",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E6%88%BF%E4%B8%9C%E2%80%9C%E6%8F%90%E7%81%AF%E9%AA%8C%E6%88%BF%E2%80%9D%EF%BC%9F%E5%9C%B0%E6%96%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-24T06:59:38.800Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-6a3ed6053a"
+    },
+    {
+      "id": "b5b81d309301272e",
+      "title": "两个极品碰到一起了，一个砍价说2000，一个真敢报警说被强迫。。。",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/644164289.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-24T06:59:38.148Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-47942e9420"
+    },
+    {
+      "id": "47e6b8ea156a4fc1",
+      "title": "说唱歌手凭啥这么有钱",
+      "originalTitle": null,
+      "summary": "普通人辛苦读书十几年为什么大部分都是打工拿死工资，月薪几千，两三万已经是算很厉害的了。就算极少部分年薪百万的也是拿没日没夜的加班拿命换的，也不舍得买豪车。\n 为什么中专毕业的说唱歌手，随便台上呦呦切克闹几句，豪车换着开，泡不完的妞，数不清的票子，随便商演几场顶别人打工N年。为什么这么不公平。。\n \n ps:这些都是顶流，资产大都是上亿的。那些混得差点的二三线的，也比一般大学生收入高很多倍。困扰普通人房贷车贷彩礼一辈子的烦恼，这些中专技校说唱精英基本眨眨眼就能拿下。",
+      "url": "https://bbs.hupu.com/644148078.html",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T06:59:38.148Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 37,
+      "ruleScore": 37,
+      "eventId": "ev-db953ff251"
+    },
+    {
+      "id": "4b36bfb4cdfba2fb",
+      "title": "‘H3’ podcaster Hila Klein pulls the plug on new show after husband Ethan’s affair and divorce drama",
+      "originalTitle": null,
+      "summary": "The fashion designer outed her husband's infidelity last month, resulting in a shocking cheating scandal.",
+      "url": "https://pagesix.com/2026/11/23/celebrity-news/h3-podcaster-hila-klein-pulls-the-plug-on-new-show-after-husband-ethans-affair-and-divorce-drama/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dj4tzkjsnls-149875161.jpg?w%3D821",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T03:05:48.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-66eaa620c8"
+    },
+    {
+      "id": "a44367e027081bd4",
+      "title": "'Michael' Director Antoine Fuqua and Son Sued for Alleged Gun Attack on Bar Manager",
+      "originalTitle": null,
+      "summary": "Antoine Fuqua and his son are accused of turning a night at an Los Angeles bar into a terrifying ordeal ... with a man claiming the famed director pistol-whipped him and threatened to kill him.",
+      "url": "https://www.tmz.com/2026/11/23/antoine-fuqua-accused-of-assault/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T04:20:28.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-f552b53742"
+    }
+  ]
+}

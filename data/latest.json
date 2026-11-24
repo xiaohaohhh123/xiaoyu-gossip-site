@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T15:07:14.550Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T06:59:46.839Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 254,
-    "afterFilter": 39,
+    "totalCollected": 268,
+    "afterFilter": 44,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1589
+        "ms": 1744
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 860
+        "ms": 786
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 29,
         "error": null,
         "httpStatus": 200,
-        "ms": 802
+        "ms": 937
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 6,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 505
+        "ms": 684
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 651
+        "ms": 785
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1035
+        "ms": 1048
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 934
+        "ms": 1050
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 918
+        "ms": 1029
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1764
+        "ms": 3479
       }
     ],
     "ai": {
@@ -108,41 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "03e953df2ed52500",
-    "4d78a647f7cd1d8d"
+    "acc2bd1ed237b6b6",
+    "b6f465b6783f66a1",
+    "d5f2cdbcd26f622d"
   ],
   "sections": {
-    "life": [],
-    "romance": [
-      "2526223af7eae7a0"
+    "life": [
+      "f3d46c99f24fd430"
     ],
+    "romance": [],
     "oddity": [
-      "615c8ee33785ec58"
+      "b6f465b6783f66a1",
+      "b5b81d309301272e"
     ],
     "twist": [],
     "entertainment": [
-      "47e6b8ea156a4fc1",
-      "3d4c5aaacf284705"
+      "47e6b8ea156a4fc1"
     ],
     "overseas": [
-      "4d78a647f7cd1d8d",
-      "5ea5df92d7224db9",
-      "17f9a9131ca79cd8"
+      "d5f2cdbcd26f622d",
+      "4b36bfb4cdfba2fb",
+      "a44367e027081bd4"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "03e953df2ed52500",
-      "title": "三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空",
+      "id": "acc2bd1ed237b6b6",
+      "title": "“一老一小”新政来了！改造2000个养老机构、打造“一刻钟托育服务圈”",
       "originalTitle": null,
-      "summary": "中国天气网讯 明天(11月24日)晚上，超级月亮将现身夜空。今年12月和明年1月还会各出现一次超级月亮，构成十分罕见的跨年度“三连超级月亮”，届时天空中还会上演“月掩昴星团”天象。中国天气网推出全国赏月指数地图，看看明晚哪里能欣赏到这场月色盛宴。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736559.shtml",
+      "summary": "家里老人年纪大了，想找个靠谱的养老院却担心设施老旧、照护跟不上；孩子才两三岁，托育班离家远、接送难，双职工父母直呼“带娃焦虑”……这些困扰千家万户的“一老一小”难题，如今有了新的破解方案。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736885.shtml",
       "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-23T09:38:29.000Z",
+      "publishedAt": "2026-11-24T04:35:31.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -162,33 +163,67 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 81,
-      "ruleScore": 81,
-      "eventId": "ev-7ba0fa13ab"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-0fe453bd46"
     },
     {
-      "id": "4d78a647f7cd1d8d",
-      "title": "Guess The A-List Pop Star This Cutie Turned Into!",
+      "id": "b6f465b6783f66a1",
+      "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发，警惕诱导消费和过度医疗",
       "originalTitle": null,
-      "summary": "Before this kiddo rockin' a beanie was whippin' through the music industry like a sports car, she was just staying toasty in Canada and rehearsing her moves ... She can sing, she can dance like no one's business ...",
-      "url": "https://www.tmz.com/2026/11/23/tate-mcrae-toddler-picture-guessing-game/",
+      "summary": "中新网11月24日电 据中国消费者协会网站消息，从全国消协智慧315平台接收的医疗服务相关投诉情况看，口腔、生殖健康类投诉较多，消费者反映较为集中的问题包括夸大病情、治疗效果不及预期以及过度医疗等。结合近期舆情事件及投诉热点，中国消费者协会、中国市场监督管理学会作出以下消费提示。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736835.shtml",
       "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
+      "category": "oddity",
+      "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-23T08:01:54.000Z",
+      "publishedAt": "2026-11-24T03:01:22.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-85963b4ebd"
+    },
+    {
+      "id": "d5f2cdbcd26f622d",
+      "title": "Veteran actor rips Hollywood as ‘boring’ and ‘tedious,’ says he prefers the South",
+      "originalTitle": null,
+      "summary": "\"It was boring to us. It was tedious … it wasn't about anything.\"",
+      "url": "https://pagesix.com/2026/11/24/celebrity-news/veteran-actor-rips-hollywood-as-boring-and-tedious-says-he-prefers-the-south/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fphoto-dan-brinzac-new-york-149858655.jpg?w%3D1024",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T05:03:10.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -196,21 +231,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-5b29a46600"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7836994353"
     },
     {
-      "id": "2526223af7eae7a0",
-      "title": "李嘉欣晒夫妻合照纪念结婚18周年",
+      "id": "f3d46c99f24fd430",
+      "title": "房东“提灯验房”？地方新规来了",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%98%89%E6%AC%A3%E6%99%92%E5%A4%AB%E5%A6%BB%E5%90%88%E7%85%A7%E7%BA%AA%E5%BF%B5%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=%E6%88%BF%E4%B8%9C%E2%80%9C%E6%8F%90%E7%81%AF%E9%AA%8C%E6%88%BF%E2%80%9D%EF%BC%9F%E5%9C%B0%E6%96%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news",
       "image": "",
-      "category": "romance",
-      "topicClass": "romance",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-23T15:07:08.812Z",
+      "publishedAt": "2026-11-24T06:59:38.800Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -230,21 +265,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-905b32a5ca"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-6a3ed6053a"
     },
     {
-      "id": "615c8ee33785ec58",
-      "title": "我终于知道某鱼为什么被称为国内暗网了",
+      "id": "b5b81d309301272e",
+      "title": "两个极品碰到一起了，一个砍价说2000，一个真敢报警说被强迫。。。",
       "originalTitle": null,
-      "summary": "居然连这都有，神器啊，我终于知道某鱼为什么被成为国内暗网了，",
-      "url": "https://bbs.hupu.com/644135998.html",
+      "summary": "",
+      "url": "https://bbs.hupu.com/644164289.html",
       "image": "",
       "category": "oddity",
-      "topicClass": "oddity",
+      "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-23T15:07:08.193Z",
+      "publishedAt": "2026-11-24T06:59:38.148Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -264,9 +299,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-2b395754a3"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-47942e9420"
     },
     {
       "id": "47e6b8ea156a4fc1",
@@ -278,7 +313,7 @@
       "category": "entertainment",
       "topicClass": "entertainment",
       "contentLevel": "story",
-      "publishedAt": "2026-11-23T15:07:08.193Z",
+      "publishedAt": "2026-11-24T06:59:38.148Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -303,62 +338,62 @@
       "eventId": "ev-db953ff251"
     },
     {
-      "id": "3d4c5aaacf284705",
-      "title": "平台内严肃拒绝 私下里积极接单 AI仿冒名人带货缘何屡禁不止？",
+      "id": "4b36bfb4cdfba2fb",
+      "title": "‘H3’ podcaster Hila Klein pulls the plug on new show after husband Ethan’s affair and divorce drama",
       "originalTitle": null,
-      "summary": "随着AI换脸、拟声技术日益成熟，打着名人及其家属旗号的仿冒账号频频出现，让网友难辨真假。此前有演员温峥嵘被AI仿冒代言，近期演员吴越也在不知情的情况下被AI代了言。AI换脸、拟声技术门槛不断降低，公众人物的形象和声音更容易被冒用。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736564.shtml",
+      "summary": "The fashion designer outed her husband's infidelity last month, resulting in a shocking cheating scandal.",
+      "url": "https://pagesix.com/2026/11/23/celebrity-news/h3-podcaster-hila-klein-pulls-the-plug-on-new-show-after-husband-ethans-affair-and-divorce-drama/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwww-instagram-com-p-dj4tzkjsnls-149875161.jpg?w%3D821",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-24T03:05:48.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-66eaa620c8"
+    },
+    {
+      "id": "a44367e027081bd4",
+      "title": "'Michael' Director Antoine Fuqua and Son Sued for Alleged Gun Attack on Bar Manager",
+      "originalTitle": null,
+      "summary": "Antoine Fuqua and his son are accused of turning a night at an Los Angeles bar into a terrifying ordeal ... with a man claiming the famed director pistol-whipped him and threatened to kill him.",
+      "url": "https://www.tmz.com/2026/11/23/antoine-fuqua-accused-of-assault/",
       "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-23T09:43:01.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 28,
-      "ruleScore": 28,
-      "eventId": "ev-0e8f018d8f"
-    },
-    {
-      "id": "5ea5df92d7224db9",
-      "title": "Will Smith 911 audio reveals new details of massive fire at star’s $42 million Calabasas home",
-      "originalTitle": null,
-      "summary": "A call for help was placed around midnight regarding a shack on the 150-acre property catching on fire.",
-      "url": "https://pagesix.com/2026/11/23/celebrity-news/will-smith-911-audio-reveals-new-details-of-massive-fire-at-stars-calabasas-home/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwill-smith.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-23T14:46:21.000Z",
+      "publishedAt": "2026-11-24T04:20:28.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -368,41 +403,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-961de7d082"
-    },
-    {
-      "id": "17f9a9131ca79cd8",
-      "title": "Mariah Carey addresses fan concerns after going viral over ‘stiff’ performance",
-      "originalTitle": null,
-      "summary": "The superstar singer sparked speculation after she needed constant assistance to move around on stage when she kicked off her 2026 Christmas Time tour in Brazil.",
-      "url": "https://pagesix.com/2026/11/23/celebrity-news/mariah-carey-addresses-fan-concerns-over-stiff-performance-videos/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fmariah-carey-addresses-fan-concerns-149813038.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-23T14:38:55.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-9976109f95"
+      "eventId": "ev-f552b53742"
     }
   ]
 }
