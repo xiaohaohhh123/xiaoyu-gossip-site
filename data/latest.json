@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T05:31:59.114Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-25T21:55:33.464Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 264,
-    "afterFilter": 50,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 267,
+    "afterFilter": 36,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1833
+        "ms": 1592
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 949
+        "ms": 791
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1071
+        "ms": 984
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 8,
         "error": null,
         "httpStatus": 200,
-        "ms": 783
+        "ms": 661
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 887
+        "ms": 797
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1161
+        "ms": 1113
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1125
+        "ms": 1105
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1070
+        "ms": 1166
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1208
+        "ms": 1587
       }
     ],
     "ai": {
@@ -108,246 +108,40 @@
     "totalSources": 9
   },
   "mustEat": [
-    "a17da99a67b1f816",
-    "a26d78adec25f659"
+    "f8be1d69fdde2e09",
+    "88c3cbdabd6041d8"
   ],
   "sections": {
     "life": [
-      "62b2e5484480f7b2"
+      "2fb53a7709d13662"
     ],
     "romance": [
-      "a95a3e5dfe4be182"
+      "1ae0100c1e51021a"
     ],
     "oddity": [
-      "e648415594ab7633"
+      "ba663cbc65483114"
     ],
     "twist": [],
-    "entertainment": [
-      "4369ef27d7e1e132"
-    ],
+    "entertainment": [],
     "overseas": [
-      "a26d78adec25f659",
-      "7120b9cc0971ec0f",
-      "82bf3fbc8ce34d50"
+      "88c3cbdabd6041d8",
+      "83fcda9b195e5f8d",
+      "633c5e6c0c61e8f4"
     ]
   },
-  "events": [
-    {
-      "id": "ev-9e4eb0003b",
-      "title": "巴基斯坦各界围观神24发射",
-      "sources": [
-        "toutiao",
-        "weibo"
-      ],
-      "fact": {
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准",
-        "mediaCount": 0,
-        "platformCount": 2
-      },
-      "timeline": [
-        {
-          "at": "2026-11-25T05:31:51.618Z",
-          "title": "巴基斯坦各界围观神24发射",
-          "source": "今日头条·热榜",
-          "url": "https://www.toutiao.com/trending/7711945575519948298/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711945575519948298%22%2C%22hot_board_impr_id%22%3A%2220261125133151E6C364961BE53D78D07F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%84%E7%95%8C%E5%9B%B4%E8%A7%82%E7%A5%9E24%E5%8F%91%E5%B0%84%22%7D&rank=&style_id=40132&topic_id=7711945575519948298",
-          "kind": "platform"
-        },
-        {
-          "at": "2026-11-25T05:31:51.740Z",
-          "title": "巴基斯坦航天界全程围观神24发射",
-          "source": "微博热搜",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E7%95%8C%E5%85%A8%E7%A8%8B%E5%9B%B4%E8%A7%82%E7%A5%9E24%E5%8F%91%E5%B0%84%23&t=31&band_rank=19&Refer=top",
-          "kind": "platform"
-        }
-      ],
-      "itemId": "5c4b5a6ed75c98cb"
-    }
-  ],
+  "events": [],
   "items": [
     {
-      "id": "a17da99a67b1f816",
-      "title": "楼上安家楼下务工 湖南新田乡村车间拓宽乡亲增收路",
+      "id": "f8be1d69fdde2e09",
+      "title": "曾经以为诈骗离我身边很遥远，没想到啊",
       "originalTitle": null,
-      "summary": "中新网永州11月25日电 (蒋军君 何燕平)在湖南省新田县骥村镇易地扶贫搬迁安置小区旁的万鑫电子加工二分厂内，端子机“哒哒”作响。52岁的张大姐送完孙子上学，步行三分钟便到工位。掐线、压端子、理顺、捆扎，一束束线束在她手中翻飞。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737430.shtml",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-25T03:34:10.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-559bfa78e4"
-    },
-    {
-      "id": "a26d78adec25f659",
-      "title": "‘Dancing With the Stars’ Season 35 winners revealed — here’s who took home the Mirrorball Trophy",
-      "originalTitle": null,
-      "summary": "Following weeks of intense competition, the hit dance competition series crowned their new ballroom champions Tuesday night during the three-hour finale.",
-      "url": "https://pagesix.com/2026/11/24/entertainment/dancing-with-the-stars-season-35-champions-revealed-heres-who-won-the-mirrorball-trophy/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fabcs-dancing-stars-stars-daniella-149104165_56c803.jpg?w%3D768",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-25T04:00:40.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-75c0965f23"
-    },
-    {
-      "id": "62b2e5484480f7b2",
-      "title": "弟弟为独吞133万遗产翻脸不认姐姐",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90%23&t=31&band_rank=2&Refer=top",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T05:31:51.740Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-d65ae0140f"
-    },
-    {
-      "id": "a95a3e5dfe4be182",
-      "title": "石川佳纯结婚",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%9F%B3%E5%B7%9D%E4%BD%B3%E7%BA%AF%E7%BB%93%E5%A9%9A&t=31&band_rank=13&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T05:31:51.740Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-92ecd5a6ea"
-    },
-    {
-      "id": "e648415594ab7633",
-      "title": "巴基斯坦航天界全程围观神24发射",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E7%95%8C%E5%85%A8%E7%A8%8B%E5%9B%B4%E8%A7%82%E7%A5%9E24%E5%8F%91%E5%B0%84%23&t=31&band_rank=19&Refer=top",
+      "summary": "以前我看那些被诈骗的，心里都在默默的想，怎么会有这么蠢的人啊，这都是些啥人啊，以为这些事离我身边都很遥远，结果这几天给我重磅一击\n 我老婆前两天被诈骗，被骗了将近6万块钱，知道整个过程后，我真的气麻了，整个过程是非常傻比的，无法形容，我也想不通她一个正儿八经的大学毕业生，长年在外上班的人会干这么蠢的事\n \n 大概20多天前，我老婆玩抖音那种不用下载的小游戏，看广告的时候看到一个可以兼职做任务的手动活动，一天说是可以100来块钱，然后就通过这个广告下载了一个APP，然后加到了一个所谓的群聊里面，她刚开始就看那些群里面的人每天发一些做了多少任务，赚了多少钱，前几天就自己联系客服准备做，然后被客服引导下载了另外一个APP\n 在这个新的AP…",
+      "url": "https://bbs.hupu.com/644192590.html",
       "image": "",
       "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T05:31:51.740Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 62,
-      "ruleScore": 62,
-      "eventId": "ev-9e4eb0003b"
-    },
-    {
-      "id": "4369ef27d7e1e132",
-      "title": "至今都让人无法原谅的十大烂片，能坚持看完的都是狠人",
-      "originalTitle": null,
-      "summary": "1、《祖宗十九代》打着穿越喜剧的旗号，其实就是把几段相声硬凑成一部电影，故事之间完全不搭，看着特别散。明星请了一堆，愣是没啥看点，剧情乱七八糟，笑点也尬得不行，全程提不起兴趣。郭导面子是真大，能攒这么多大腕来捧场，但观众不买账啊。说白了就是部标准的贺岁片配置，结果在贺岁档也没掀起啥水花，挺可惜的。\n \n 2、《大闹天竺》打着西游的旗号跑去印度取景，听着挺唬人，结果就剩浮夸表演和稀碎剧情。整部片子从头闹到尾，笑点硬得像石头，尴尬得要命。白客、岳云鹏这些演员本来都有戏，愣是被当成背景板使，全程就为了制造噪音。节奏乱得一塌糊涂，闹剧桥段一个接一个往上堆，看完耳朵嗡嗡的，脑子里啥也没留下。说白了就是个空壳子，闹腾是真闹腾，但故事内核？",
-      "url": "https://bbs.hupu.com/644168864.html",
-      "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
+      "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-25T05:31:51.800Z",
+      "publishedAt": "2026-11-25T21:55:27.298Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -367,21 +161,157 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 39,
-      "ruleScore": 39,
-      "eventId": "ev-0c2287b5fb"
+      "score": 72,
+      "ruleScore": 72,
+      "eventId": "ev-3a08493710"
     },
     {
-      "id": "7120b9cc0971ec0f",
-      "title": "Ezra Frech flawlessly recovers from prosthetic leg falling off mid-‘DWTS’ finale freestyle to land perfect score",
+      "id": "88c3cbdabd6041d8",
+      "title": "Brad Pitt and Angelina Jolie’s years-long legal battle comes to an abrupt — and surprising — end",
       "originalTitle": null,
-      "summary": "The Paralympian and his pro partner, Daniella Karagach, performed a freestyle to Linkin Park's \"Numb.\"",
-      "url": "https://pagesix.com/2026/11/24/entertainment/ezra-frech-flawlessly-recovers-from-prosthetic-leg-falling-off-mid-dwts-finale-freestyle-to-land-perfect-score/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fezra-dwts-149982543.jpg?w%3D1024",
+      "summary": "The exes settled their dispute out of court after an intense legal battle.",
+      "url": "https://pagesix.com/2026/11/25/celebrity-news/brad-pitt-and-angelina-jolies-years-long-legal-battle-comes-to-an-abrupt-and-surprising-end/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwriter-director-producer-actress-angelina-149118704_50cff1.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-25T03:50:25.000Z",
+      "publishedAt": "2026-11-25T21:55:02.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-236c4f5e6e"
+    },
+    {
+      "id": "2fb53a7709d13662",
+      "title": "实际上是办案刑警无意间听到物业说他家用水量异常大，一瞬间起了疑心，才继续侦查的。几千上万条网络评论里办案刑警也不能挨个翻看找灵感啊！",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/644181361.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-25T21:55:27.298Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 57,
+      "ruleScore": 57,
+      "eventId": "ev-dd132cd2a6"
+    },
+    {
+      "id": "1ae0100c1e51021a",
+      "title": "疑似文吉儿朋友圈辟谣办婚礼",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%96%87%E5%90%89%E5%84%BF%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%BE%9F%E8%B0%A3%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=8&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-25T21:55:27.174Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-b512659db3"
+    },
+    {
+      "id": "ba663cbc65483114",
+      "title": "国内月底会暖到离谱",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E6%9C%88%E5%BA%95%E4%BC%9A%E6%9A%96%E5%88%B0%E7%A6%BB%E8%B0%B1&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-25T21:55:27.754Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-131207db9b"
+    },
+    {
+      "id": "83fcda9b195e5f8d",
+      "title": "All the details of Miley Cyrus’ ‘intentional’ wedding makeup, from $9 lipstick to glowy foundation",
+      "originalTitle": null,
+      "summary": "\"Ultimately, I wanted her to feel beautiful, confident and entirely herself,\" her makeup artist, Janice Daoud, told us.",
+      "url": "https://pagesix.com/2026/11/25/style/miley-cyrus-wedding-look-included-maybelline-makeup-starting-at-9/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F150045402.jpg?quality%3D90%26strip%3Dall",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-25T21:51:59.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -403,19 +333,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-32c70229bf"
+      "eventId": "ev-d6110787ec"
     },
     {
-      "id": "82bf3fbc8ce34d50",
-      "title": "Ethan Klein Owns Up to Cheating on Ex Hila as 'H3 Podcast' Ends",
+      "id": "633c5e6c0c61e8f4",
+      "title": "Halle Berry Finds Buyer for $12M Hollywood Hills Home",
       "originalTitle": null,
-      "summary": "Ethan Klein says his affair cost him more than his marriage ... he's taking the blame for the end of the \"H3 Podcast,\" and says the only way the show comes back is if he does it alone.",
-      "url": "https://www.tmz.com/2026/11/24/ethan-klein-admits-to-cheating/",
+      "summary": "Halle Berry has found a buyer for her Hollywood Hills home ... a little more than a month after listing it ... TMZ has learned. We broke the story ...",
+      "url": "https://www.tmz.com/2026/11/25/halle-berry-hollywood-hills-mansion-finds-buyer/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-25T01:27:35.000Z",
+      "publishedAt": "2026-11-25T21:44:42.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -437,42 +367,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-08934812a2"
-    },
-    {
-      "id": "5c4b5a6ed75c98cb",
-      "title": "巴基斯坦各界围观神24发射",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7711945575519948298/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711945575519948298%22%2C%22hot_board_impr_id%22%3A%2220261125133151E6C364961BE53D78D07F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%84%E7%95%8C%E5%9B%B4%E8%A7%82%E7%A5%9E24%E5%8F%91%E5%B0%84%22%7D&rank=&style_id=40132&topic_id=7711945575519948298",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/808f3fbf0215440fbf04cdff749591ca~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798156800&x-signature=Sj20xSgt1O57aBodfvkk3Pca1S0%3D",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T05:31:51.618Z",
-      "timeBasis": "fetch",
-      "heat": 47956625,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 2,
-        "platformSources": [
-          "toutiao",
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 60,
-      "ruleScore": 60,
-      "eventId": "ev-9e4eb0003b"
+      "eventId": "ev-13b16f5eac"
     }
   ]
 }
