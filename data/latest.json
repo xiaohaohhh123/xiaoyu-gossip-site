@@ -1,13 +1,13 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T05:13:43.494Z",
+  "generatedAt": "2026-11-26T14:10:10.868Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 257,
-    "afterFilter": 41,
-    "selected": 9,
-    "domesticSelected": 6,
-    "domesticRatio": 67,
+    "totalCollected": 269,
+    "afterFilter": 51,
+    "selected": 11,
+    "domesticSelected": 8,
+    "domesticRatio": 73,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1759
+        "ms": 1471
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1205
+        "ms": 952
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 28,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1228
+        "ms": 786
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 883
+        "ms": 416
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 893
+        "ms": 545
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1226
+        "ms": 867
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 20,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1191
+        "ms": 868
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1210
+        "ms": 851
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1366
+        "ms": 3388
       }
     ],
     "ai": {
@@ -109,28 +109,31 @@
   },
   "mustEat": [
     "c540e1d8fc6cee3b",
-    "f8be1d69fdde2e09",
-    "d6e7c884c70c0c1f"
+    "dec45d8bc1eb0e13",
+    "b3effd12c4f40735",
+    "241c70760b18899b",
+    "f8be1d69fdde2e09"
   ],
   "sections": {
     "life": [
-      "07d114e1f6ea5b0f"
+      "85a2271a5f1b1f5f"
     ],
     "romance": [
-      "925f299215e4a4e5"
+      "27619487681161e6"
     ],
     "oddity": [
+      "dec45d8bc1eb0e13",
+      "b3effd12c4f40735",
+      "241c70760b18899b",
       "f8be1d69fdde2e09",
-      "50d5d24672f8493c"
+      "c49a5373ad438339"
     ],
     "twist": [],
-    "entertainment": [
-      "d5bbf62e07deb2b3"
-    ],
+    "entertainment": [],
     "overseas": [
-      "d6e7c884c70c0c1f",
-      "afae4bd5ffac734c",
-      "fb24bc68a3aa629d"
+      "f8dd60558a9b896f",
+      "664eaac1b9dea26b",
+      "93bd29216b7b1da8"
     ]
   },
   "events": [],
@@ -145,7 +148,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T05:13:36.892Z",
+      "publishedAt": "2026-11-26T14:10:02.950Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -170,6 +173,108 @@
       "eventId": "ev-1106511531"
     },
     {
+      "id": "dec45d8bc1eb0e13",
+      "title": "“Becoming Chinese”火爆全球，发起博主走访重庆：终于知道中国人为啥活得这么快乐！",
+      "originalTitle": null,
+      "summary": "“我没想到重庆在网红城市的热闹背后，还会有这么宁静的一面。”美籍华裔博主朱溪瑞(网名“sherryxiiruii”)26日在重庆接受媒体专访时，说起近日在北碚金刚碑的游玩经历，“那里的景色像AI生成的画面，美得不得了，你都想象不到”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738406.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T12:59:33.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 81,
+      "ruleScore": 81,
+      "eventId": "ev-ff3db1c01e"
+    },
+    {
+      "id": "b3effd12c4f40735",
+      "title": "中年夫妻生活分享",
+      "originalTitle": null,
+      "summary": "90后夫妻，已经俩娃，睡到半夜突然醒来发现媳妇在看手机，搂过来让她快睡，没想到直接抓住坤哥就往里塞……感觉得有20min……老夫老妻每次就靠这个重新点燃激情……大家现在和爱人一般都怎么维持感情呢？",
+      "url": "https://bbs.hupu.com/644209989.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T14:10:02.950Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-9f4be8738d"
+    },
+    {
+      "id": "241c70760b18899b",
+      "title": "3人自驾前往可可西里失联 青海警方通报：人已找到，身体状况良好",
+      "originalTitle": null,
+      "summary": "11月26日，青海格尔木市公安局发布通报：11月22日19时许，格尔木市公安局110指挥中心接到群众报警求助：“其家人一行三人自驾前往可可西里方向后失联”。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738443.shtml",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "scene",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T13:36:41.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 75,
+      "ruleScore": 75,
+      "eventId": "ev-8f1613eee3"
+    },
+    {
       "id": "f8be1d69fdde2e09",
       "title": "曾经以为诈骗离我身边很遥远，没想到啊",
       "originalTitle": null,
@@ -179,7 +284,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T05:13:36.892Z",
+      "publishedAt": "2026-11-26T14:10:02.950Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -204,60 +309,26 @@
       "eventId": "ev-3a08493710"
     },
     {
-      "id": "d6e7c884c70c0c1f",
-      "title": "Pretty in Pink -- Bikini Babes Guess Who!",
-      "originalTitle": null,
-      "summary": "This influencer in a pink stringy bikini is wicked hot, but can you guess who she is?!? This beauty guru -- who made a name for herself posting makeup tutorials and fashion hauls -- grew up with a famous TV mom.",
-      "url": "https://www.tmz.com/2026/11/25/olivia-jade-sexy-pink-bikini-pictures/",
-      "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-25T22:00:21.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-406387127b"
-    },
-    {
-      "id": "07d114e1f6ea5b0f",
-      "title": "马天宇想分遗产的朋友是谁",
+      "id": "85a2271a5f1b1f5f",
+      "title": "马天宇愿分一部分遗产给一位挚友",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23&t=31&band_rank=22&Refer=top",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7712348653461930523/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712348653461930523%22%2C%22hot_board_impr_id%22%3A%2220261126221002B02BE3BDB9DE574ADC4C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%84%BF%E5%88%86%E4%B8%80%E9%83%A8%E5%88%86%E9%81%97%E4%BA%A7%E7%BB%99%E4%B8%80%E4%BD%8D%E6%8C%9A%E5%8F%8B%22%7D&rank=&style_id=40132&topic_id=7712348653461930523",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/dad33986aff24e2ab34d58a9210b46d3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=uj5ZKDIVLzZB3rJPnPhI9Rap1qM%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-26T05:13:36.926Z",
+      "publishedAt": "2026-11-26T14:10:03.024Z",
       "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
+      "heat": 2245565,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "sourceHomepage": "https://www.toutiao.com/",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "weibo"
+          "toutiao"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -267,21 +338,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-f96e51c2ad"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-a964be47b2"
     },
     {
-      "id": "925f299215e4a4e5",
-      "title": "两个人迟到的婚礼 全村全网都在操心",
+      "id": "27619487681161e6",
+      "title": "新人公交当婚车小院升篝火办婚礼",
       "originalTitle": null,
       "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E5%A9%9A%E7%A4%BC+%E5%85%A8%E6%9D%91%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%93%8D%E5%BF%83&sa=fyb_news",
-      "image": "",
+      "url": "https://www.toutiao.com/trending/7712367710193287690/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712367710193287690%22%2C%22hot_board_impr_id%22%3A%2220261126221002B02BE3BDB9DE574ADC4C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E4%BA%BA%E5%85%AC%E4%BA%A4%E5%BD%93%E5%A9%9A%E8%BD%A6%E5%B0%8F%E9%99%A2%E5%8D%87%E7%AF%9D%E7%81%AB%E5%8A%9E%E5%A9%9A%E7%A4%BC%22%7D&rank=&style_id=40132&topic_id=7712367710193287690",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e9354ed22aee40bdbf1bde8644b03495~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=xUxbe%2BSeNbxNAKUxyVBeqcDGQw8%3D",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-26T05:13:37.426Z",
+      "publishedAt": "2026-11-26T14:10:03.024Z",
+      "timeBasis": "fetch",
+      "heat": 1505247,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-17ef1e206a"
+    },
+    {
+      "id": "c49a5373ad438339",
+      "title": "罕见回暖！这些地方有望穿回短袖",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E7%BD%95%E8%A7%81%E5%9B%9E%E6%9A%96%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%9C%89%E6%9C%9B%E7%A9%BF%E5%9B%9E%E7%9F%AD%E8%A2%96&sa=fyb_news",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-26T14:10:03.478Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -301,89 +406,89 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-06c25d1c32"
-    },
-    {
-      "id": "50d5d24672f8493c",
-      "title": "国内月底会暖到离谱",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://www.toutiao.com/trending/7711682154388701194/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711682154388701194%22%2C%22hot_board_impr_id%22%3A%22202611261313363D3E144F7CF8C7E04903%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%86%85%E6%9C%88%E5%BA%95%E4%BC%9A%E6%9A%96%E5%88%B0%E7%A6%BB%E8%B0%B1%22%7D&rank=&style_id=40132&topic_id=7711682154388701194",
-      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/b3c1a101-4e4a-4855-a608-a626719f5041~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=1C%2Bl14S4BF2f1x%2BKzaPTWwZMBhU%3D",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-26T05:13:36.901Z",
-      "timeBasis": "fetch",
-      "heat": 1539279,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
       "score": 61,
       "ruleScore": 61,
-      "eventId": "ev-7c8173889c"
+      "eventId": "ev-168c74c7e7"
     },
     {
-      "id": "d5bbf62e07deb2b3",
-      "title": "取证难、界定难，AI融脸该守住怎样的边界？",
+      "id": "f8dd60558a9b896f",
+      "title": "Stars With Turkeys -- Happy Thanksgiving!",
       "originalTitle": null,
-      "summary": "近日，有不少博主在社交平台发帖反映：自己没有接过短剧，却在剧集里看到一张和自己高度相像的脸，甚至有时自己的形象还被塑造成负面角色。此外，还有演员提起诉讼，认为平台未经许可，使用AI融脸技术提取了自己的面部特征合成短剧角色。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737917.shtml",
+      "summary": "Not much to say here, folks ... The turkeys are taking center stage this Thanksgiving! Cut open our juicy and succulent photo gallery -- Jennifer Lopez, Hailey Bieber, John Legend, and more hot stars are serving up some…",
+      "url": "https://www.tmz.com/2026/11/26/happy-thanksgiving-stars-with-turkeys/",
       "image": "",
-      "category": "entertainment",
-      "topicClass": "entertainment",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T01:31:54.000Z",
+      "publishedAt": "2026-11-26T08:45:38.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "chinanews.com.cn"
+          "tmz.com"
         ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
       },
       "reversal": false,
       "translated": false,
-      "score": 28,
-      "ruleScore": 28,
-      "eventId": "ev-eef242af9a"
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-998d4a7706"
     },
     {
-      "id": "afae4bd5ffac734c",
-      "title": "Julianne Hough shares cryptic quotes about ‘love’ and ‘trust’ after whiplash fling with Peloton trainer",
+      "id": "664eaac1b9dea26b",
+      "title": "Sabrina On 'Raising Hope' 'Memba Her?!",
       "originalTitle": null,
-      "summary": "The \"Dancing With the Stars\" co-host had a short-lived romance with fitness guru Adrian Williams.",
-      "url": "https://pagesix.com/2026/11/25/celebrity-news/julianne-hough-shares-cryptic-quotes-after-whiplash-fling-with-peloton-trainer/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Flos-angeles-ca-julianne-hough-147608832.jpg?w%3D683",
+      "summary": "American actress Shannon Woodward was 25 years old when she first played Sabrina -- Jimmy’s sharp-witted, sarcastic crush who could dish out the attitude but had a soft heart underneath -- on the sitcom series \"Raising H…",
+      "url": "https://www.tmz.com/2026/11/26/sabrina-on-raising-hope/",
+      "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T03:39:34.000Z",
+      "publishedAt": "2026-11-26T08:01:52.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 3,
+      "ruleScore": 3,
+      "eventId": "ev-ddf4a2d727"
+    },
+    {
+      "id": "93bd29216b7b1da8",
+      "title": "Two-time Oscar nominee claps back at critic slamming his ‘mid’ performance in ‘bad movie’",
+      "originalTitle": null,
+      "summary": "The 56-year-old \"Euphoria\" alum didn't hold back responding to a film critic's \"hot take\"on his work via X on Wednesday.",
+      "url": "https://pagesix.com/2026/11/26/entertainment/colman-domingo-claps-back-at-critic-slamming-mid-performance-in-bad-movie/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Feditorial-use-colman-domingo-attends-150101673.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T13:48:18.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -405,41 +510,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-ec6872c169"
-    },
-    {
-      "id": "fb24bc68a3aa629d",
-      "title": "Britney Spears reunites with estranged family for Thanksgiving following surprise apology after years of feuding",
-      "originalTitle": null,
-      "summary": "The pop star previously blasted her family on social media and in her 2023 memoir, \"The Woman in Me.\"",
-      "url": "https://pagesix.com/2026/11/25/celebrity-news/britney-spears-reuniting-with-estranged-family-for-thanksgiving-after-surprise-apology-following-years-of-feuding/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fbritney-spears-sons-sean-preston-124918215_a66969.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T01:01:18.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": true,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-7b88a15053"
+      "eventId": "ev-5c8625c90e"
     }
   ]
 }
