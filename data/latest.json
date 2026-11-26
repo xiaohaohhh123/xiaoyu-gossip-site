@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T14:10:10.868Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-26T21:49:14.204Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 269,
-    "afterFilter": 51,
-    "selected": 11,
-    "domesticSelected": 8,
-    "domesticRatio": 73,
+    "totalCollected": 270,
+    "afterFilter": 48,
+    "selected": 10,
+    "domesticSelected": 7,
+    "domesticRatio": 70,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1471
+        "ms": 1436
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 952
+        "ms": 830
       },
       {
         "id": "weibo",
@@ -37,17 +37,17 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 786
+        "ms": 660
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 9,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 416
+        "ms": 401
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 545
+        "ms": 538
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 867
+        "ms": 783
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 868
+        "ms": 764
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 851
+        "ms": 741
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 3388
+        "ms": 1292
       }
     ],
     "ai": {
@@ -109,31 +109,29 @@
   },
   "mustEat": [
     "c540e1d8fc6cee3b",
-    "dec45d8bc1eb0e13",
     "b3effd12c4f40735",
-    "241c70760b18899b",
-    "f8be1d69fdde2e09"
+    "dec45d8bc1eb0e13",
+    "241c70760b18899b"
   ],
   "sections": {
     "life": [
-      "85a2271a5f1b1f5f"
+      "6b0ae1b25782145b"
     ],
     "romance": [
-      "27619487681161e6"
+      "a55d6d7313bc30f1"
     ],
     "oddity": [
-      "dec45d8bc1eb0e13",
       "b3effd12c4f40735",
+      "dec45d8bc1eb0e13",
       "241c70760b18899b",
-      "f8be1d69fdde2e09",
-      "c49a5373ad438339"
+      "62c163915421cf08"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "f8dd60558a9b896f",
-      "664eaac1b9dea26b",
-      "93bd29216b7b1da8"
+      "0f4a71d5cd77f70f",
+      "a047ea837746b56c",
+      "9208352041e1711d"
     ]
   },
   "events": [],
@@ -148,7 +146,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T14:10:02.950Z",
+      "publishedAt": "2026-11-26T21:49:08.260Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -171,6 +169,40 @@
       "score": 91,
       "ruleScore": 91,
       "eventId": "ev-1106511531"
+    },
+    {
+      "id": "b3effd12c4f40735",
+      "title": "中年夫妻生活分享",
+      "originalTitle": null,
+      "summary": "90后夫妻，已经俩娃，睡到半夜突然醒来发现媳妇在看手机，搂过来让她快睡，没想到直接抓住坤哥就往里塞……感觉得有20min……老夫老妻每次就靠这个重新点燃激情……大家现在和爱人一般都怎么维持感情呢？",
+      "url": "https://bbs.hupu.com/644209989.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T21:49:08.260Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 79,
+      "ruleScore": 79,
+      "eventId": "ev-9f4be8738d"
     },
     {
       "id": "dec45d8bc1eb0e13",
@@ -202,43 +234,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 81,
-      "ruleScore": 81,
-      "eventId": "ev-ff3db1c01e"
-    },
-    {
-      "id": "b3effd12c4f40735",
-      "title": "中年夫妻生活分享",
-      "originalTitle": null,
-      "summary": "90后夫妻，已经俩娃，睡到半夜突然醒来发现媳妇在看手机，搂过来让她快睡，没想到直接抓住坤哥就往里塞……感觉得有20min……老夫老妻每次就靠这个重新点燃激情……大家现在和爱人一般都怎么维持感情呢？",
-      "url": "https://bbs.hupu.com/644209989.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T14:10:02.950Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
       "score": 79,
       "ruleScore": 79,
-      "eventId": "ev-9f4be8738d"
+      "eventId": "ev-ff3db1c01e"
     },
     {
       "id": "241c70760b18899b",
@@ -270,57 +268,23 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 75,
-      "ruleScore": 75,
+      "score": 73,
+      "ruleScore": 73,
       "eventId": "ev-8f1613eee3"
     },
     {
-      "id": "f8be1d69fdde2e09",
-      "title": "曾经以为诈骗离我身边很遥远，没想到啊",
-      "originalTitle": null,
-      "summary": "以前我看那些被诈骗的，心里都在默默的想，怎么会有这么蠢的人啊，这都是些啥人啊，以为这些事离我身边都很遥远，结果这几天给我重磅一击\n 我老婆前两天被诈骗，被骗了将近6万块钱，知道整个过程后，我真的气麻了，整个过程是非常傻比的，无法形容，我也想不通她一个正儿八经的大学毕业生，长年在外上班的人会干这么蠢的事\n \n 大概20多天前，我老婆玩抖音那种不用下载的小游戏，看广告的时候看到一个可以兼职做任务的手动活动，一天说是可以100来块钱，然后就通过这个广告下载了一个APP，然后加到了一个所谓的群聊里面，她刚开始就看那些群里面的人每天发一些做了多少任务，赚了多少钱，前几天就自己联系客服准备做，然后被客服引导下载了另外一个APP\n 在这个新的AP…",
-      "url": "https://bbs.hupu.com/644192590.html",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T14:10:02.950Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 72,
-      "ruleScore": 72,
-      "eventId": "ev-3a08493710"
-    },
-    {
-      "id": "85a2271a5f1b1f5f",
-      "title": "马天宇愿分一部分遗产给一位挚友",
+      "id": "6b0ae1b25782145b",
+      "title": "向太称向华强女儿翻脸不认人",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712348653461930523/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712348653461930523%22%2C%22hot_board_impr_id%22%3A%2220261126221002B02BE3BDB9DE574ADC4C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%84%BF%E5%88%86%E4%B8%80%E9%83%A8%E5%88%86%E9%81%97%E4%BA%A7%E7%BB%99%E4%B8%80%E4%BD%8D%E6%8C%9A%E5%8F%8B%22%7D&rank=&style_id=40132&topic_id=7712348653461930523",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/dad33986aff24e2ab34d58a9210b46d3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=uj5ZKDIVLzZB3rJPnPhI9Rap1qM%3D",
+      "url": "https://www.toutiao.com/trending/7712382831443952178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712382831443952178%22%2C%22hot_board_impr_id%22%3A%222026112705490815DC432F4D0C249340DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%91%E5%A4%AA%E7%A7%B0%E5%90%91%E5%8D%8E%E5%BC%BA%E5%A5%B3%E5%84%BF%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7712382831443952178",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3cc21ba0800b4700a366f76753ae4cdb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=%2BMK3A%2Bv8WfZeFuB9cW11hfqaL5k%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-26T14:10:03.024Z",
+      "publishedAt": "2026-11-26T21:49:08.321Z",
       "timeBasis": "fetch",
-      "heat": 2245565,
+      "heat": 1677624,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -340,53 +304,19 @@
       "translated": false,
       "score": 59,
       "ruleScore": 59,
-      "eventId": "ev-a964be47b2"
+      "eventId": "ev-b57108527c"
     },
     {
-      "id": "27619487681161e6",
-      "title": "新人公交当婚车小院升篝火办婚礼",
+      "id": "a55d6d7313bc30f1",
+      "title": "两子非亲生女方回应被指出轨丈夫堂哥",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712367710193287690/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712367710193287690%22%2C%22hot_board_impr_id%22%3A%2220261126221002B02BE3BDB9DE574ADC4C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E4%BA%BA%E5%85%AC%E4%BA%A4%E5%BD%93%E5%A9%9A%E8%BD%A6%E5%B0%8F%E9%99%A2%E5%8D%87%E7%AF%9D%E7%81%AB%E5%8A%9E%E5%A9%9A%E7%A4%BC%22%7D&rank=&style_id=40132&topic_id=7712367710193287690",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e9354ed22aee40bdbf1bde8644b03495~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=xUxbe%2BSeNbxNAKUxyVBeqcDGQw8%3D",
+      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E5%A0%82%E5%93%A5&sa=fyb_news",
+      "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-26T14:10:03.024Z",
-      "timeBasis": "fetch",
-      "heat": 1505247,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "toutiao"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-17ef1e206a"
-    },
-    {
-      "id": "c49a5373ad438339",
-      "title": "罕见回暖！这些地方有望穿回短袖",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E7%BD%95%E8%A7%81%E5%9B%9E%E6%9A%96%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%9C%89%E6%9C%9B%E7%A9%BF%E5%9B%9E%E7%9F%AD%E8%A2%96&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-26T14:10:03.478Z",
+      "publishedAt": "2026-11-26T21:49:08.898Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "baidu",
@@ -406,89 +336,55 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-168c74c7e7"
+      "score": 43,
+      "ruleScore": 43,
+      "eventId": "ev-ffdd721335"
     },
     {
-      "id": "f8dd60558a9b896f",
-      "title": "Stars With Turkeys -- Happy Thanksgiving!",
+      "id": "62c163915421cf08",
+      "title": "钱学森的手稿，居然提到了…… ​​​",
       "originalTitle": null,
-      "summary": "Not much to say here, folks ... The turkeys are taking center stage this Thanksgiving! Cut open our juicy and succulent photo gallery -- Jennifer Lopez, Hailey Bieber, John Legend, and more hot stars are serving up some…",
-      "url": "https://www.tmz.com/2026/11/26/happy-thanksgiving-stars-with-turkeys/",
+      "summary": "",
+      "url": "https://bbs.hupu.com/644222336.html",
       "image": "",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T08:45:38.000Z",
-      "timeBasis": "source",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-26T21:49:08.260Z",
+      "timeBasis": "fetch",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
       "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
         ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
       },
       "reversal": false,
       "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-998d4a7706"
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-1195b18762"
     },
     {
-      "id": "664eaac1b9dea26b",
-      "title": "Sabrina On 'Raising Hope' 'Memba Her?!",
+      "id": "0f4a71d5cd77f70f",
+      "title": "Netflix cancels Emmy-winning actor’s comedy after single season",
       "originalTitle": null,
-      "summary": "American actress Shannon Woodward was 25 years old when she first played Sabrina -- Jimmy’s sharp-witted, sarcastic crush who could dish out the attitude but had a soft heart underneath -- on the sitcom series \"Raising H…",
-      "url": "https://www.tmz.com/2026/11/26/sabrina-on-raising-hope/",
-      "image": "",
+      "summary": "Ferrell reportedly made seven figures per episode as star and co-creator of \"The Hawk.\"",
+      "url": "https://pagesix.com/2026/11/26/entertainment/netflix-cancels-emmy-winning-actors-comedy-after-single-season/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcrop-9435813_cb5938.jpg?w%3D1024",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T08:01:52.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "tmz.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 3,
-      "ruleScore": 3,
-      "eventId": "ev-ddf4a2d727"
-    },
-    {
-      "id": "93bd29216b7b1da8",
-      "title": "Two-time Oscar nominee claps back at critic slamming his ‘mid’ performance in ‘bad movie’",
-      "originalTitle": null,
-      "summary": "The 56-year-old \"Euphoria\" alum didn't hold back responding to a film critic's \"hot take\"on his work via X on Wednesday.",
-      "url": "https://pagesix.com/2026/11/26/entertainment/colman-domingo-claps-back-at-critic-slamming-mid-performance-in-bad-movie/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Feditorial-use-colman-domingo-attends-150101673.jpg",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T13:48:18.000Z",
+      "publishedAt": "2026-11-26T21:35:12.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -510,7 +406,75 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-5c8625c90e"
+      "eventId": "ev-8be9ca9aac"
+    },
+    {
+      "id": "a047ea837746b56c",
+      "title": "Jennifer Garner cheers on her 3 kids as they run in annual Turkey Trot on Thanksgiving",
+      "originalTitle": null,
+      "summary": "The family partook in some festive exercise before gobbling up Thanksgiving dinner.",
+      "url": "https://pagesix.com/2026/11/26/parents/jennifer-garner-cheers-on-her-3-kids-as-they-run-in-annual-turkey-trot-on-thanksgiving/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-los-angeles-ca-jennifer-150128031.jpg?w%3D837",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T21:21:38.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-157bd724c7"
+    },
+    {
+      "id": "9208352041e1711d",
+      "title": "Tyrese Gibson Slammed for Domestic Violence Joke After Past Abuse Allegations",
+      "originalTitle": null,
+      "summary": "Tyrese Gibson is catching serious heat over a domestic violence joke ... after posting a video of himself sporting fake injuries that plenty of people aren't finding funny.",
+      "url": "https://www.tmz.com/2026/11/26/tyrese-gibson-domestic-violence-joke-backlash/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T21:18:25.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7bfb0c62af"
     }
   ]
 }
