@@ -1,13 +1,13 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-25T21:55:33.464Z",
+  "generatedAt": "2026-11-26T05:13:43.494Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 267,
-    "afterFilter": 36,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 257,
+    "afterFilter": 41,
+    "selected": 9,
+    "domesticSelected": 6,
+    "domesticRatio": 67,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1592
+        "ms": 1759
       },
       {
         "id": "toutiao",
@@ -27,27 +27,27 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 791
+        "ms": 1205
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 28,
         "error": null,
         "httpStatus": 200,
-        "ms": 984
+        "ms": 1228
       },
       {
         "id": "pagesix",
         "name": "Page Six",
         "group": "overseas",
         "ok": true,
-        "count": 8,
+        "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 661
+        "ms": 883
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 797
+        "ms": 893
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1113
+        "ms": 1226
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 1105
+        "ms": 1191
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1166
+        "ms": 1210
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1587
+        "ms": 1366
       }
     ],
     "ai": {
@@ -108,29 +108,67 @@
     "totalSources": 9
   },
   "mustEat": [
+    "c540e1d8fc6cee3b",
     "f8be1d69fdde2e09",
-    "88c3cbdabd6041d8"
+    "d6e7c884c70c0c1f"
   ],
   "sections": {
     "life": [
-      "2fb53a7709d13662"
+      "07d114e1f6ea5b0f"
     ],
     "romance": [
-      "1ae0100c1e51021a"
+      "925f299215e4a4e5"
     ],
     "oddity": [
-      "ba663cbc65483114"
+      "f8be1d69fdde2e09",
+      "50d5d24672f8493c"
     ],
     "twist": [],
-    "entertainment": [],
+    "entertainment": [
+      "d5bbf62e07deb2b3"
+    ],
     "overseas": [
-      "88c3cbdabd6041d8",
-      "83fcda9b195e5f8d",
-      "633c5e6c0c61e8f4"
+      "d6e7c884c70c0c1f",
+      "afae4bd5ffac734c",
+      "fb24bc68a3aa629d"
     ]
   },
   "events": [],
   "items": [
+    {
+      "id": "c540e1d8fc6cee3b",
+      "title": "科比跟腱撕裂之后的自白在外网再次翻火，值得大家一读，有些感触",
+      "originalTitle": null,
+      "summary": "（要看原文的往下翻，看图3）\n 美国时间2013年4月13日凌晨3：30分，跟腱撕裂之后，科比在脸书上发的一条帖子\n 这简直太荒唐了!所有的训练和牺牲，竟然因为一个我已经做过上百万次的动作，就这样付诸东流了!\n 这种挫败感简直让人无法忍受。愤怒?那简直是暴怒。为什么这种事会发生?!这他妈根本说不通。现在,我竟然还得从这样的打击中重新站起来,在35岁的年纪，想要重新成为原来的那个自己，甚至变得更强，这到底要该怎么样才能做到??\n 我完全不知道。我是否真的拥有足够坚定、持久的意志力去战胜这一切?也许我该搬出那把摇椅，坐下来，回忆回忆自己曾经拥有的职业生涯。也许，这就是我的书该如何结尾。",
+      "url": "https://bbs.hupu.com/644206646.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T05:13:36.892Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 91,
+      "ruleScore": 91,
+      "eventId": "ev-1106511531"
+    },
     {
       "id": "f8be1d69fdde2e09",
       "title": "曾经以为诈骗离我身边很遥远，没想到啊",
@@ -141,7 +179,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-25T21:55:27.298Z",
+      "publishedAt": "2026-11-26T05:13:36.892Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -166,186 +204,16 @@
       "eventId": "ev-3a08493710"
     },
     {
-      "id": "88c3cbdabd6041d8",
-      "title": "Brad Pitt and Angelina Jolie’s years-long legal battle comes to an abrupt — and surprising — end",
+      "id": "d6e7c884c70c0c1f",
+      "title": "Pretty in Pink -- Bikini Babes Guess Who!",
       "originalTitle": null,
-      "summary": "The exes settled their dispute out of court after an intense legal battle.",
-      "url": "https://pagesix.com/2026/11/25/celebrity-news/brad-pitt-and-angelina-jolies-years-long-legal-battle-comes-to-an-abrupt-and-surprising-end/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fwriter-director-producer-actress-angelina-149118704_50cff1.jpg?w%3D1024",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-25T21:55:02.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": true,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-236c4f5e6e"
-    },
-    {
-      "id": "2fb53a7709d13662",
-      "title": "实际上是办案刑警无意间听到物业说他家用水量异常大，一瞬间起了疑心，才继续侦查的。几千上万条网络评论里办案刑警也不能挨个翻看找灵感啊！",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://bbs.hupu.com/644181361.html",
-      "image": "",
-      "category": "family",
-      "topicClass": "family",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T21:55:27.298Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 57,
-      "ruleScore": 57,
-      "eventId": "ev-dd132cd2a6"
-    },
-    {
-      "id": "1ae0100c1e51021a",
-      "title": "疑似文吉儿朋友圈辟谣办婚礼",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%96%87%E5%90%89%E5%84%BF%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%BE%9F%E8%B0%A3%E5%8A%9E%E5%A9%9A%E7%A4%BC&t=31&band_rank=8&Refer=top",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T21:55:27.174Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "weibo",
-      "sourceName": "微博热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://s.weibo.com/top/summary",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "weibo"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": true,
-      "translated": false,
-      "score": 65,
-      "ruleScore": 65,
-      "eventId": "ev-b512659db3"
-    },
-    {
-      "id": "ba663cbc65483114",
-      "title": "国内月底会暖到离谱",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E6%9C%88%E5%BA%95%E4%BC%9A%E6%9A%96%E5%88%B0%E7%A6%BB%E8%B0%B1&sa=fyb_news",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-25T21:55:27.754Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 61,
-      "ruleScore": 61,
-      "eventId": "ev-131207db9b"
-    },
-    {
-      "id": "83fcda9b195e5f8d",
-      "title": "All the details of Miley Cyrus’ ‘intentional’ wedding makeup, from $9 lipstick to glowy foundation",
-      "originalTitle": null,
-      "summary": "\"Ultimately, I wanted her to feel beautiful, confident and entirely herself,\" her makeup artist, Janice Daoud, told us.",
-      "url": "https://pagesix.com/2026/11/25/style/miley-cyrus-wedding-look-included-maybelline-makeup-starting-at-9/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F150045402.jpg?quality%3D90%26strip%3Dall",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-25T21:51:59.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-d6110787ec"
-    },
-    {
-      "id": "633c5e6c0c61e8f4",
-      "title": "Halle Berry Finds Buyer for $12M Hollywood Hills Home",
-      "originalTitle": null,
-      "summary": "Halle Berry has found a buyer for her Hollywood Hills home ... a little more than a month after listing it ... TMZ has learned. We broke the story ...",
-      "url": "https://www.tmz.com/2026/11/25/halle-berry-hollywood-hills-mansion-finds-buyer/",
+      "summary": "This influencer in a pink stringy bikini is wicked hot, but can you guess who she is?!? This beauty guru -- who made a name for herself posting makeup tutorials and fashion hauls -- grew up with a famous TV mom.",
+      "url": "https://www.tmz.com/2026/11/25/olivia-jade-sexy-pink-bikini-pictures/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-25T21:44:42.000Z",
+      "publishedAt": "2026-11-25T22:00:21.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -365,9 +233,213 @@
       },
       "reversal": false,
       "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-406387127b"
+    },
+    {
+      "id": "07d114e1f6ea5b0f",
+      "title": "马天宇想分遗产的朋友是谁",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23&t=31&band_rank=22&Refer=top",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-26T05:13:36.926Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-f96e51c2ad"
+    },
+    {
+      "id": "925f299215e4a4e5",
+      "title": "两个人迟到的婚礼 全村全网都在操心",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E5%A9%9A%E7%A4%BC+%E5%85%A8%E6%9D%91%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%93%8D%E5%BF%83&sa=fyb_news",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-26T05:13:37.426Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "baidu",
+      "sourceName": "百度热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "baidu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-06c25d1c32"
+    },
+    {
+      "id": "50d5d24672f8493c",
+      "title": "国内月底会暖到离谱",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://www.toutiao.com/trending/7711682154388701194/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711682154388701194%22%2C%22hot_board_impr_id%22%3A%22202611261313363D3E144F7CF8C7E04903%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%86%85%E6%9C%88%E5%BA%95%E4%BC%9A%E6%9A%96%E5%88%B0%E7%A6%BB%E8%B0%B1%22%7D&rank=&style_id=40132&topic_id=7711682154388701194",
+      "image": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/b3c1a101-4e4a-4855-a608-a626719f5041~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=1C%2Bl14S4BF2f1x%2BKzaPTWwZMBhU%3D",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-26T05:13:36.901Z",
+      "timeBasis": "fetch",
+      "heat": 1539279,
+      "sourceId": "toutiao",
+      "sourceName": "今日头条·热榜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.toutiao.com/",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "toutiao"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 61,
+      "ruleScore": 61,
+      "eventId": "ev-7c8173889c"
+    },
+    {
+      "id": "d5bbf62e07deb2b3",
+      "title": "取证难、界定难，AI融脸该守住怎样的边界？",
+      "originalTitle": null,
+      "summary": "近日，有不少博主在社交平台发帖反映：自己没有接过短剧，却在剧集里看到一张和自己高度相像的脸，甚至有时自己的形象还被塑造成负面角色。此外，还有演员提起诉讼，认为平台未经许可，使用AI融脸技术提取了自己的面部特征合成短剧角色。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737917.shtml",
+      "image": "",
+      "category": "entertainment",
+      "topicClass": "entertainment",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T01:31:54.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "chinanews-society",
+      "sourceName": "中国新闻网·社会",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://www.chinanews.com.cn/society/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "chinanews.com.cn"
+        ],
+        "key": "media",
+        "label": "单一媒体",
+        "hint": "一家媒体站点报道，未见其他媒体跟进"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 28,
+      "ruleScore": 28,
+      "eventId": "ev-eef242af9a"
+    },
+    {
+      "id": "afae4bd5ffac734c",
+      "title": "Julianne Hough shares cryptic quotes about ‘love’ and ‘trust’ after whiplash fling with Peloton trainer",
+      "originalTitle": null,
+      "summary": "The \"Dancing With the Stars\" co-host had a short-lived romance with fitness guru Adrian Williams.",
+      "url": "https://pagesix.com/2026/11/25/celebrity-news/julianne-hough-shares-cryptic-quotes-after-whiplash-fling-with-peloton-trainer/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Flos-angeles-ca-julianne-hough-147608832.jpg?w%3D683",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T03:39:34.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-13b16f5eac"
+      "eventId": "ev-ec6872c169"
+    },
+    {
+      "id": "fb24bc68a3aa629d",
+      "title": "Britney Spears reunites with estranged family for Thanksgiving following surprise apology after years of feuding",
+      "originalTitle": null,
+      "summary": "The pop star previously blasted her family on social media and in her 2023 memoir, \"The Woman in Me.\"",
+      "url": "https://pagesix.com/2026/11/25/celebrity-news/britney-spears-reuniting-with-estranged-family-for-thanksgiving-after-surprise-apology-following-years-of-feuding/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fbritney-spears-sons-sean-preston-124918215_a66969.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-26T01:01:18.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7b88a15053"
     }
   ]
 }
