@@ -1,0 +1,374 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-27T21:33:16.780Z",
+  "timezone": "Asia/Shanghai",
+  "meta": {
+    "totalCollected": 268,
+    "afterFilter": 47,
+    "selected": 7,
+    "domesticSelected": 4,
+    "domesticRatio": 57,
+    "sources": [
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 51,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 1726
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条·热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 50,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 765
+      },
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 29,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 707
+      },
+      {
+        "id": "pagesix",
+        "name": "Page Six",
+        "group": "overseas",
+        "ok": true,
+        "count": 9,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 522
+      },
+      {
+        "id": "tmz",
+        "name": "TMZ",
+        "group": "overseas",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 529
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "group": "cn",
+        "ok": true,
+        "count": 20,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 810
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑热帖",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 781
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 816
+      },
+      {
+        "id": "chinanews-society",
+        "name": "中国新闻网·社会",
+        "group": "cn",
+        "ok": true,
+        "count": 30,
+        "error": null,
+        "httpStatus": 200,
+        "ms": 870
+      }
+    ],
+    "ai": {
+      "applied": false,
+      "reason": "disabled(no DEEPSEEK_API_KEY)"
+    },
+    "okSources": 9,
+    "totalSources": 9
+  },
+  "mustEat": [
+    "81f0e6905cce0cbc",
+    "b8e9c9115b81f99c",
+    "bea9bf75fad4e04b"
+  ],
+  "sections": {
+    "life": [
+      "b8e9c9115b81f99c"
+    ],
+    "romance": [
+      "0220e7ccc0659d1a"
+    ],
+    "oddity": [
+      "caf75f0f9c7c9d0a"
+    ],
+    "twist": [],
+    "entertainment": [],
+    "overseas": [
+      "bea9bf75fad4e04b",
+      "68f1901a0775294b",
+      "80905078d244af5b"
+    ]
+  },
+  "events": [],
+  "items": [
+    {
+      "id": "81f0e6905cce0cbc",
+      "title": "结婚3年半，正式加入步行街了",
+      "originalTitle": null,
+      "summary": "16年上大学就和现在老婆谈了，大学毕业工作疫情影响一直到23年结婚。之前一直觉得感情稳定，结果最近发生意外加入步行街了。之前老婆是私立大学老师，去年被裁员自己健身当教练了，结果近期自爆说喜欢其他人，然后已经搬出去了，说要搬出去冷静考虑一下。直接打了我一个措手不及，接近1周了，我还处在懵逼状态。经验丰富的老铁指导一下后续该怎么办",
+      "url": "https://bbs.hupu.com/644225498.html",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T21:33:10.110Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 86,
+      "ruleScore": 86,
+      "eventId": "ev-5990a152ef"
+    },
+    {
+      "id": "b8e9c9115b81f99c",
+      "title": "女人真的会30如狼吗",
+      "originalTitle": null,
+      "summary": "我跟老婆都30了，原先一般一周打两三次球，这周不知道怎么了欲望特别强烈，天天晚上找我打球，有点吃不消了。",
+      "url": "https://bbs.hupu.com/644243272.html",
+      "image": "",
+      "category": "family",
+      "topicClass": "family",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T21:33:10.110Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 74,
+      "ruleScore": 74,
+      "eventId": "ev-ef261f8b6c"
+    },
+    {
+      "id": "bea9bf75fad4e04b",
+      "title": "JoJo Siwa and Chris Hughes Break Up",
+      "originalTitle": null,
+      "summary": "JoJo Siwa and Chris Hughes survived 'Celebrity Big Brother' ... but their relationship isn't going to survive the long run -- because TMZ has confirmed they've gone their separate ways.",
+      "url": "https://www.tmz.com/2026/11/27/jojo-siwa-and-chris-hughes-split/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T19:19:59.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-0549154dd5"
+    },
+    {
+      "id": "0220e7ccc0659d1a",
+      "title": "一方不服离婚称仍要追她",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E6%96%B9%E4%B8%8D%E6%9C%8D%E7%A6%BB%E5%A9%9A%E7%A7%B0%E4%BB%8D%E8%A6%81%E8%BF%BD%E5%A5%B9&t=31&band_rank=21&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-27T21:33:10.031Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "weibo"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-2589c9cf72"
+    },
+    {
+      "id": "caf75f0f9c7c9d0a",
+      "title": "这是真的 老破站用户来了没想到长视频的优势居然凸现出来了 ​​​",
+      "originalTitle": null,
+      "summary": "",
+      "url": "https://bbs.hupu.com/644212946.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "headline",
+      "publishedAt": "2026-11-27T21:33:10.110Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 63,
+      "ruleScore": 63,
+      "eventId": "ev-d50ba006df"
+    },
+    {
+      "id": "68f1901a0775294b",
+      "title": "Rumer Willis shares rare photo of dad Bruce amid dementia battle days after sister Tallulah’s public apology",
+      "originalTitle": null,
+      "summary": "Rumer's pic comes on the heels of her sister Tallulah apologizing for sharing a pic of their dad.",
+      "url": "https://pagesix.com/2026/11/27/celebrity-news/rumer-willis-shares-rare-photo-of-dad-bruce-amid-dementia-battle/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frumer-willis-shares-rare-photo-150206243_b6ee2f.jpg",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T21:31:01.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": true,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-732a632323"
+    },
+    {
+      "id": "80905078d244af5b",
+      "title": "Inside Dak Prescott and ex Sarah Jane Ramos’ first Thanksgiving as co-parents since dramatic split",
+      "originalTitle": null,
+      "summary": "Page Six breaks down how the Cowboys quarterback and the wine and spirits specialist spent their holiday weekend following their abrupt split earlier this year.",
+      "url": "https://pagesix.com/2026/11/27/celebrity-news/inside-dak-prescott-and-ex-sarah-jane-ramos-first-thanksgiving-as-co-parents-since-dramatic-split/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fdak-prescott-sarah-jane-ramos-123172036_273a34.jpg?w%3D842",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T21:02:41.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-019fff8fe0"
+    }
+  ]
+}
