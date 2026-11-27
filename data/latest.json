@@ -1,10 +1,10 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T05:12:05.464Z",
+  "generatedAt": "2026-11-27T14:08:23.599Z",
   "timezone": "Asia/Shanghai",
   "meta": {
     "totalCollected": 270,
-    "afterFilter": 44,
+    "afterFilter": 49,
     "selected": 8,
     "domesticSelected": 5,
     "domesticRatio": 63,
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1504
+        "ms": 3156
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 1539
+        "ms": 1153
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 937
+        "ms": 1136
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 596
+        "ms": 893
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 588
+        "ms": 942
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 907
+        "ms": 1367
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 918
+        "ms": 1253
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 938
+        "ms": 1227
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1136
+        "ms": 1898
       }
     ],
     "ai": {
@@ -108,31 +108,66 @@
     "totalSources": 9
   },
   "mustEat": [
+    "c540e1d8fc6cee3b",
     "81f0e6905cce0cbc",
-    "b3effd12c4f40735",
-    "770d00b0e4e4d81c",
-    "9746c8d895dba963"
+    "b8e9c9115b81f99c",
+    "1c3380301edbba25"
   ],
   "sections": {
     "life": [
-      "6b0ae1b25782145b"
+      "b8e9c9115b81f99c"
     ],
-    "romance": [],
+    "romance": [
+      "81f0e6905cce0cbc",
+      "2ace74f4a3bd35e8"
+    ],
     "oddity": [
-      "b3effd12c4f40735",
-      "770d00b0e4e4d81c",
       "62c163915421cf08"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "9746c8d895dba963",
-      "430bf9ccdb4e3de9",
-      "9f357f52f15c5e84"
+      "1c3380301edbba25",
+      "f31aecb0659ce1fb",
+      "ec95491addd418ad"
     ]
   },
   "events": [],
   "items": [
+    {
+      "id": "c540e1d8fc6cee3b",
+      "title": "科比跟腱撕裂之后的自白在外网再次翻火，值得大家一读，有些感触",
+      "originalTitle": null,
+      "summary": "（要看原文的往下翻，看图3）\n 美国时间2013年4月13日凌晨3：30分，跟腱撕裂之后，科比在脸书上发的一条帖子\n 这简直太荒唐了!所有的训练和牺牲，竟然因为一个我已经做过上百万次的动作，就这样付诸东流了!\n 这种挫败感简直让人无法忍受。愤怒?那简直是暴怒。为什么这种事会发生?!这他妈根本说不通。现在,我竟然还得从这样的打击中重新站起来,在35岁的年纪，想要重新成为原来的那个自己，甚至变得更强，这到底要该怎么样才能做到??\n 我完全不知道。我是否真的拥有足够坚定、持久的意志力去战胜这一切?也许我该搬出那把摇椅，坐下来，回忆回忆自己曾经拥有的职业生涯。也许，这就是我的书该如何结尾。",
+      "url": "https://bbs.hupu.com/644206646.html",
+      "image": "",
+      "category": "oddity",
+      "topicClass": "oddity",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T14:08:15.669Z",
+      "timeBasis": "fetch",
+      "heat": 0,
+      "sourceId": "hupu",
+      "sourceName": "虎扑热帖",
+      "sourceGroup": "cn",
+      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
+      "fact": {
+        "platformCount": 1,
+        "platformSources": [
+          "hupu"
+        ],
+        "mediaCount": 0,
+        "mediaDomains": [],
+        "key": "platform",
+        "label": "平台热榜",
+        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 91,
+      "ruleScore": 91,
+      "eventId": "ev-1106511531"
+    },
     {
       "id": "81f0e6905cce0cbc",
       "title": "结婚3年半，正式加入步行街了",
@@ -143,7 +178,7 @@
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T05:11:57.434Z",
+      "publishedAt": "2026-11-27T14:08:15.669Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -168,16 +203,16 @@
       "eventId": "ev-5990a152ef"
     },
     {
-      "id": "b3effd12c4f40735",
-      "title": "中年夫妻生活分享",
+      "id": "b8e9c9115b81f99c",
+      "title": "女人真的会30如狼吗",
       "originalTitle": null,
-      "summary": "90后夫妻，已经俩娃，睡到半夜突然醒来发现媳妇在看手机，搂过来让她快睡，没想到直接抓住坤哥就往里塞……感觉得有20min……老夫老妻每次就靠这个重新点燃激情……大家现在和爱人一般都怎么维持感情呢？",
-      "url": "https://bbs.hupu.com/644209989.html",
+      "summary": "我跟老婆都30了，原先一般一周打两三次球，这周不知道怎么了欲望特别强烈，天天晚上找我打球，有点吃不消了。",
+      "url": "https://bbs.hupu.com/644243272.html",
       "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
+      "category": "family",
+      "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T05:11:57.434Z",
+      "publishedAt": "2026-11-27T14:08:15.669Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -197,67 +232,33 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-9f4be8738d"
+      "score": 74,
+      "ruleScore": 74,
+      "eventId": "ev-ef261f8b6c"
     },
     {
-      "id": "770d00b0e4e4d81c",
-      "title": "智能语音操作烦琐 人工客服“躲猫猫” 热线问题该如何解决？",
+      "id": "1c3380301edbba25",
+      "title": "Guess Who's Getting Naughty In Her Holiday Bra",
       "originalTitle": null,
-      "summary": "对于消费者来说，不管是物流查询还是订单纠纷，拨通企业客服热线，是不少人寻求帮助的第一步。但电话接通之后，语音菜单一层套一层，智能客服一遍遍复述同一句话，最后把消费者推向App、小程序或是提交线上工单。不少网友吐槽，打电话找人工客服，正在变成一件需要技巧的事。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738526.shtml",
+      "summary": "It's a tad bit nippy out there, so heat up with a mystery babe bringing her curves and sass to the feeds ... think you can name her?!? She's been tight with one of Hollywood's most famous families for years ...",
+      "url": "https://www.tmz.com/2026/11/27/stassie-karanikolaou-in-sexy-red-bra/",
       "image": "",
-      "category": "oddity",
-      "topicClass": "scene",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-27T01:24:56.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 78,
-      "ruleScore": 78,
-      "eventId": "ev-6c09dd6402"
-    },
-    {
-      "id": "9746c8d895dba963",
-      "title": "Jen Affleck reunites with estranged husband Zac for Thanksgiving with their kids — weeks after filing for divorce",
-      "originalTitle": null,
-      "summary": "Jen filed for divorce from Zac in Utah on Nov. 3 after seven years of marriage.",
-      "url": "https://pagesix.com/2026/11/26/celebrity-news/jen-affleck-reunites-with-estranged-husband-zac-for-thanksgiving-with-their-kids-weeks-after-filing-for-divorce/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjen-affleck-reunites-estranged-husband-150152719.jpg?w%3D585",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T02:27:12.000Z",
+      "publishedAt": "2026-11-27T09:00:40.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
+      "sourceHomepage": "https://www.tmz.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "pagesix.com"
+          "tmz.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -265,31 +266,31 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-4a3a95b920"
+      "score": 2,
+      "ruleScore": 2,
+      "eventId": "ev-8711330310"
     },
     {
-      "id": "6b0ae1b25782145b",
-      "title": "向太称向华强女儿翻脸不认人",
+      "id": "2ace74f4a3bd35e8",
+      "title": "闪电 还是前任好",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712382831443952178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712382831443952178%22%2C%22hot_board_impr_id%22%3A%222026112713115719D2994D9FE7FA6516EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%91%E5%A4%AA%E7%A7%B0%E5%90%91%E5%8D%8E%E5%BC%BA%E5%A5%B3%E5%84%BF%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7712382831443952178",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3cc21ba0800b4700a366f76753ae4cdb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798329600&x-signature=%2FsCd%2B8HD4ZmkgFNa4mThemGyGLs%3D",
-      "category": "family",
-      "topicClass": "family",
+      "url": "https://s.weibo.com/weibo?q=%E9%97%AA%E7%94%B5%20%E8%BF%98%E6%98%AF%E5%89%8D%E4%BB%BB%E5%A5%BD&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-27T05:11:58.050Z",
+      "publishedAt": "2026-11-27T14:08:15.549Z",
       "timeBasis": "fetch",
-      "heat": 167746,
-      "sourceId": "toutiao",
-      "sourceName": "今日头条·热榜",
+      "heat": 0,
+      "sourceId": "weibo",
+      "sourceName": "微博热搜",
       "sourceGroup": "cn",
-      "sourceHomepage": "https://www.toutiao.com/",
+      "sourceHomepage": "https://s.weibo.com/top/summary",
       "fact": {
         "platformCount": 1,
         "platformSources": [
-          "toutiao"
+          "weibo"
         ],
         "mediaCount": 0,
         "mediaDomains": [],
@@ -299,9 +300,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 59,
-      "ruleScore": 59,
-      "eventId": "ev-b57108527c"
+      "score": 65,
+      "ruleScore": 65,
+      "eventId": "ev-e9b69131d3"
     },
     {
       "id": "62c163915421cf08",
@@ -313,7 +314,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-27T05:11:57.434Z",
+      "publishedAt": "2026-11-27T14:08:15.669Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -338,16 +339,16 @@
       "eventId": "ev-1195b18762"
     },
     {
-      "id": "430bf9ccdb4e3de9",
-      "title": "Courtney Love, 62, shocks fans with ‘insane’ photo showing off ‘skin glass facial’: ‘No filter’",
+      "id": "f31aecb0659ce1fb",
+      "title": "‘90 Day Fiancé: The Other Way’ stars Kenny & Armando give VRT an update on daughter Hannah and more",
       "originalTitle": null,
-      "summary": "The former Hole frontwoman wowed fans with the results from her Korean beauty treatment.",
-      "url": "https://pagesix.com/2026/11/26/celebrity-news/courtney-love-62-shocks-fans-with-filter-free-selfie/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcourtney-love-62-shocks-fans-150148526.jpg",
+      "summary": "Kenny and Armando stopped by VRT to chat with co-hosts Danny Murphy and Evan Real ahead of the season premiere of “90 Day Fiancé: The Other Way” this Sunday.",
+      "url": "https://pagesix.com/video/90-day-fiance-the-other-way-stars-kenny-armando-give-vrt-an-update-on-daughter-hannah-and-more/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2FKEN-ARMANDO-WP.png",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T01:36:15.000Z",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -369,31 +370,31 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-b6cfcfa287"
+      "eventId": "ev-41082f50bb"
     },
     {
-      "id": "9f357f52f15c5e84",
-      "title": "Venomous Sea Snakes Washing Ashore on Southern California Beaches, Officials Warn",
+      "id": "ec95491addd418ad",
+      "title": "Jennifer Lopez reunites with her twins for Thanksgiving after becoming empty nester",
       "originalTitle": null,
-      "summary": "California beachgoers might want to watch where they step ... 'cause venomous sea snakes are washing ashore ... and experts warn more could be on the way.",
-      "url": "https://www.tmz.com/2026/11/26/sea-snakes-washing-ashore-on-southern-california-beaches/",
-      "image": "",
+      "summary": "Lopez expressed her \"gratitude\" in getting to watch her new concert film with her entire family on Thanksgiving.",
+      "url": "https://pagesix.com/2026/11/27/parents/jennifer-lopez-reunites-with-her-twins-for-thanksgiving/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjennifer-lopez-2026-150179915.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T01:00:51.000Z",
+      "publishedAt": "2026-11-27T13:15:35.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -403,7 +404,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-d02729ba1a"
+      "eventId": "ev-2f5aca22e5"
     }
   ]
 }
