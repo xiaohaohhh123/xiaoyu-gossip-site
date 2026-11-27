@@ -1,13 +1,13 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-26T21:49:14.204Z",
+  "generatedAt": "2026-11-27T05:12:05.464Z",
   "timezone": "Asia/Shanghai",
   "meta": {
     "totalCollected": 270,
-    "afterFilter": 48,
-    "selected": 10,
-    "domesticSelected": 7,
-    "domesticRatio": 70,
+    "afterFilter": 44,
+    "selected": 8,
+    "domesticSelected": 5,
+    "domesticRatio": 63,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1436
+        "ms": 1504
       },
       {
         "id": "toutiao",
@@ -27,7 +27,7 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 830
+        "ms": 1539
       },
       {
         "id": "weibo",
@@ -37,7 +37,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 660
+        "ms": 937
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 10,
         "error": null,
         "httpStatus": 200,
-        "ms": 401
+        "ms": 596
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 538
+        "ms": 588
       },
       {
         "id": "zhihu",
@@ -67,7 +67,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 783
+        "ms": 907
       },
       {
         "id": "hupu",
@@ -77,7 +77,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 764
+        "ms": 918
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 741
+        "ms": 938
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 1292
+        "ms": 1136
       }
     ],
     "ai": {
@@ -108,45 +108,42 @@
     "totalSources": 9
   },
   "mustEat": [
-    "c540e1d8fc6cee3b",
+    "81f0e6905cce0cbc",
     "b3effd12c4f40735",
-    "dec45d8bc1eb0e13",
-    "241c70760b18899b"
+    "770d00b0e4e4d81c",
+    "9746c8d895dba963"
   ],
   "sections": {
     "life": [
       "6b0ae1b25782145b"
     ],
-    "romance": [
-      "a55d6d7313bc30f1"
-    ],
+    "romance": [],
     "oddity": [
       "b3effd12c4f40735",
-      "dec45d8bc1eb0e13",
-      "241c70760b18899b",
+      "770d00b0e4e4d81c",
       "62c163915421cf08"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "0f4a71d5cd77f70f",
-      "a047ea837746b56c",
-      "9208352041e1711d"
+      "9746c8d895dba963",
+      "430bf9ccdb4e3de9",
+      "9f357f52f15c5e84"
     ]
   },
   "events": [],
   "items": [
     {
-      "id": "c540e1d8fc6cee3b",
-      "title": "科比跟腱撕裂之后的自白在外网再次翻火，值得大家一读，有些感触",
+      "id": "81f0e6905cce0cbc",
+      "title": "结婚3年半，正式加入步行街了",
       "originalTitle": null,
-      "summary": "（要看原文的往下翻，看图3）\n 美国时间2013年4月13日凌晨3：30分，跟腱撕裂之后，科比在脸书上发的一条帖子\n 这简直太荒唐了!所有的训练和牺牲，竟然因为一个我已经做过上百万次的动作，就这样付诸东流了!\n 这种挫败感简直让人无法忍受。愤怒?那简直是暴怒。为什么这种事会发生?!这他妈根本说不通。现在,我竟然还得从这样的打击中重新站起来,在35岁的年纪，想要重新成为原来的那个自己，甚至变得更强，这到底要该怎么样才能做到??\n 我完全不知道。我是否真的拥有足够坚定、持久的意志力去战胜这一切?也许我该搬出那把摇椅，坐下来，回忆回忆自己曾经拥有的职业生涯。也许，这就是我的书该如何结尾。",
-      "url": "https://bbs.hupu.com/644206646.html",
+      "summary": "16年上大学就和现在老婆谈了，大学毕业工作疫情影响一直到23年结婚。之前一直觉得感情稳定，结果最近发生意外加入步行街了。之前老婆是私立大学老师，去年被裁员自己健身当教练了，结果近期自爆说喜欢其他人，然后已经搬出去了，说要搬出去冷静考虑一下。直接打了我一个措手不及，接近1周了，我还处在懵逼状态。经验丰富的老铁指导一下后续该怎么办",
+      "url": "https://bbs.hupu.com/644225498.html",
       "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
+      "category": "romance",
+      "topicClass": "romance",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T21:49:08.260Z",
+      "publishedAt": "2026-11-27T05:11:57.434Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -166,9 +163,9 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 91,
-      "ruleScore": 91,
-      "eventId": "ev-1106511531"
+      "score": 86,
+      "ruleScore": 86,
+      "eventId": "ev-5990a152ef"
     },
     {
       "id": "b3effd12c4f40735",
@@ -180,7 +177,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T21:49:08.260Z",
+      "publishedAt": "2026-11-27T05:11:57.434Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -205,50 +202,16 @@
       "eventId": "ev-9f4be8738d"
     },
     {
-      "id": "dec45d8bc1eb0e13",
-      "title": "“Becoming Chinese”火爆全球，发起博主走访重庆：终于知道中国人为啥活得这么快乐！",
+      "id": "770d00b0e4e4d81c",
+      "title": "智能语音操作烦琐 人工客服“躲猫猫” 热线问题该如何解决？",
       "originalTitle": null,
-      "summary": "“我没想到重庆在网红城市的热闹背后，还会有这么宁静的一面。”美籍华裔博主朱溪瑞(网名“sherryxiiruii”)26日在重庆接受媒体专访时，说起近日在北碚金刚碑的游玩经历，“那里的景色像AI生成的画面，美得不得了，你都想象不到”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738406.shtml",
-      "image": "",
-      "category": "oddity",
-      "topicClass": "oddity",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T12:59:33.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "chinanews-society",
-      "sourceName": "中国新闻网·社会",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://www.chinanews.com.cn/society/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "chinanews.com.cn"
-        ],
-        "key": "media",
-        "label": "单一媒体",
-        "hint": "一家媒体站点报道，未见其他媒体跟进"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 79,
-      "ruleScore": 79,
-      "eventId": "ev-ff3db1c01e"
-    },
-    {
-      "id": "241c70760b18899b",
-      "title": "3人自驾前往可可西里失联 青海警方通报：人已找到，身体状况良好",
-      "originalTitle": null,
-      "summary": "11月26日，青海格尔木市公安局发布通报：11月22日19时许，格尔木市公安局110指挥中心接到群众报警求助：“其家人一行三人自驾前往可可西里方向后失联”。",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738443.shtml",
+      "summary": "对于消费者来说，不管是物流查询还是订单纠纷，拨通企业客服热线，是不少人寻求帮助的第一步。但电话接通之后，语音菜单一层套一层，智能客服一遍遍复述同一句话，最后把消费者推向App、小程序或是提交线上工单。不少网友吐槽，打电话找人工客服，正在变成一件需要技巧的事。",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738526.shtml",
       "image": "",
       "category": "oddity",
       "topicClass": "scene",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T13:36:41.000Z",
+      "publishedAt": "2026-11-27T01:24:56.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "chinanews-society",
@@ -268,23 +231,57 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 73,
-      "ruleScore": 73,
-      "eventId": "ev-8f1613eee3"
+      "score": 78,
+      "ruleScore": 78,
+      "eventId": "ev-6c09dd6402"
+    },
+    {
+      "id": "9746c8d895dba963",
+      "title": "Jen Affleck reunites with estranged husband Zac for Thanksgiving with their kids — weeks after filing for divorce",
+      "originalTitle": null,
+      "summary": "Jen filed for divorce from Zac in Utah on Nov. 3 after seven years of marriage.",
+      "url": "https://pagesix.com/2026/11/26/celebrity-news/jen-affleck-reunites-with-estranged-husband-zac-for-thanksgiving-with-their-kids-weeks-after-filing-for-divorce/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fjen-affleck-reunites-estranged-husband-150152719.jpg?w%3D585",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T02:27:12.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://pagesix.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "pagesix.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-4a3a95b920"
     },
     {
       "id": "6b0ae1b25782145b",
       "title": "向太称向华强女儿翻脸不认人",
       "originalTitle": null,
       "summary": "",
-      "url": "https://www.toutiao.com/trending/7712382831443952178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712382831443952178%22%2C%22hot_board_impr_id%22%3A%222026112705490815DC432F4D0C249340DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%91%E5%A4%AA%E7%A7%B0%E5%90%91%E5%8D%8E%E5%BC%BA%E5%A5%B3%E5%84%BF%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7712382831443952178",
-      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3cc21ba0800b4700a366f76753ae4cdb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798243200&x-signature=%2BMK3A%2Bv8WfZeFuB9cW11hfqaL5k%3D",
+      "url": "https://www.toutiao.com/trending/7712382831443952178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712382831443952178%22%2C%22hot_board_impr_id%22%3A%222026112713115719D2994D9FE7FA6516EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%91%E5%A4%AA%E7%A7%B0%E5%90%91%E5%8D%8E%E5%BC%BA%E5%A5%B3%E5%84%BF%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7712382831443952178",
+      "image": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3cc21ba0800b4700a366f76753ae4cdb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1798329600&x-signature=%2FsCd%2B8HD4ZmkgFNa4mThemGyGLs%3D",
       "category": "family",
       "topicClass": "family",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-26T21:49:08.321Z",
+      "publishedAt": "2026-11-27T05:11:58.050Z",
       "timeBasis": "fetch",
-      "heat": 1677624,
+      "heat": 167746,
       "sourceId": "toutiao",
       "sourceName": "今日头条·热榜",
       "sourceGroup": "cn",
@@ -307,40 +304,6 @@
       "eventId": "ev-b57108527c"
     },
     {
-      "id": "a55d6d7313bc30f1",
-      "title": "两子非亲生女方回应被指出轨丈夫堂哥",
-      "originalTitle": null,
-      "summary": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E5%A0%82%E5%93%A5&sa=fyb_news",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "headline",
-      "publishedAt": "2026-11-26T21:49:08.898Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "baidu",
-      "sourceName": "百度热搜",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://top.baidu.com/board?tab=realtime",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "baidu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 43,
-      "ruleScore": 43,
-      "eventId": "ev-ffdd721335"
-    },
-    {
       "id": "62c163915421cf08",
       "title": "钱学森的手稿，居然提到了…… ​​​",
       "originalTitle": null,
@@ -350,7 +313,7 @@
       "category": "oddity",
       "topicClass": "oddity",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-26T21:49:08.260Z",
+      "publishedAt": "2026-11-27T05:11:57.434Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -375,16 +338,16 @@
       "eventId": "ev-1195b18762"
     },
     {
-      "id": "0f4a71d5cd77f70f",
-      "title": "Netflix cancels Emmy-winning actor’s comedy after single season",
+      "id": "430bf9ccdb4e3de9",
+      "title": "Courtney Love, 62, shocks fans with ‘insane’ photo showing off ‘skin glass facial’: ‘No filter’",
       "originalTitle": null,
-      "summary": "Ferrell reportedly made seven figures per episode as star and co-creator of \"The Hawk.\"",
-      "url": "https://pagesix.com/2026/11/26/entertainment/netflix-cancels-emmy-winning-actors-comedy-after-single-season/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcrop-9435813_cb5938.jpg?w%3D1024",
+      "summary": "The former Hole frontwoman wowed fans with the results from her Korean beauty treatment.",
+      "url": "https://pagesix.com/2026/11/26/celebrity-news/courtney-love-62-shocks-fans-with-filter-free-selfie/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fcourtney-love-62-shocks-fans-150148526.jpg",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T21:35:12.000Z",
+      "publishedAt": "2026-11-27T01:36:15.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -406,53 +369,19 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-8be9ca9aac"
+      "eventId": "ev-b6cfcfa287"
     },
     {
-      "id": "a047ea837746b56c",
-      "title": "Jennifer Garner cheers on her 3 kids as they run in annual Turkey Trot on Thanksgiving",
+      "id": "9f357f52f15c5e84",
+      "title": "Venomous Sea Snakes Washing Ashore on Southern California Beaches, Officials Warn",
       "originalTitle": null,
-      "summary": "The family partook in some festive exercise before gobbling up Thanksgiving dinner.",
-      "url": "https://pagesix.com/2026/11/26/parents/jennifer-garner-cheers-on-her-3-kids-as-they-run-in-annual-turkey-trot-on-thanksgiving/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fexclusive-los-angeles-ca-jennifer-150128031.jpg?w%3D837",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-26T21:21:38.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-157bd724c7"
-    },
-    {
-      "id": "9208352041e1711d",
-      "title": "Tyrese Gibson Slammed for Domestic Violence Joke After Past Abuse Allegations",
-      "originalTitle": null,
-      "summary": "Tyrese Gibson is catching serious heat over a domestic violence joke ... after posting a video of himself sporting fake injuries that plenty of people aren't finding funny.",
-      "url": "https://www.tmz.com/2026/11/26/tyrese-gibson-domestic-violence-joke-backlash/",
+      "summary": "California beachgoers might want to watch where they step ... 'cause venomous sea snakes are washing ashore ... and experts warn more could be on the way.",
+      "url": "https://www.tmz.com/2026/11/26/sea-snakes-washing-ashore-on-southern-california-beaches/",
       "image": "",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-26T21:18:25.000Z",
+      "publishedAt": "2026-11-27T01:00:51.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "tmz",
@@ -474,7 +403,7 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-7bfb0c62af"
+      "eventId": "ev-d02729ba1a"
     }
   ]
 }
