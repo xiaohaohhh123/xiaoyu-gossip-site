@@ -1,13 +1,13 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-27T21:33:16.780Z",
+  "generatedAt": "2026-11-28T04:47:50.103Z",
   "timezone": "Asia/Shanghai",
   "meta": {
-    "totalCollected": 268,
-    "afterFilter": 47,
-    "selected": 7,
-    "domesticSelected": 4,
-    "domesticRatio": 57,
+    "totalCollected": 259,
+    "afterFilter": 37,
+    "selected": 6,
+    "domesticSelected": 3,
+    "domesticRatio": 50,
     "sources": [
       {
         "id": "baidu",
@@ -17,7 +17,7 @@
         "count": 51,
         "error": null,
         "httpStatus": 200,
-        "ms": 1726
+        "ms": 4524
       },
       {
         "id": "toutiao",
@@ -27,17 +27,17 @@
         "count": 50,
         "error": null,
         "httpStatus": 200,
-        "ms": 765
+        "ms": 779
       },
       {
         "id": "weibo",
         "name": "微博热搜",
         "group": "cn",
         "ok": true,
-        "count": 29,
+        "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 707
+        "ms": 802
       },
       {
         "id": "pagesix",
@@ -47,7 +47,7 @@
         "count": 9,
         "error": null,
         "httpStatus": 200,
-        "ms": 522
+        "ms": 543
       },
       {
         "id": "tmz",
@@ -57,7 +57,7 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 529
+        "ms": 613
       },
       {
         "id": "zhihu",
@@ -67,17 +67,17 @@
         "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 810
+        "ms": 937
       },
       {
         "id": "hupu",
         "name": "虎扑热帖",
         "group": "cn",
         "ok": true,
-        "count": 30,
+        "count": 20,
         "error": null,
         "httpStatus": 200,
-        "ms": 781
+        "ms": 879
       },
       {
         "id": "douyin",
@@ -87,7 +87,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 816
+        "ms": 921
       },
       {
         "id": "chinanews-society",
@@ -97,7 +97,7 @@
         "count": 30,
         "error": null,
         "httpStatus": 200,
-        "ms": 870
+        "ms": 1722
       }
     ],
     "ai": {
@@ -108,64 +108,27 @@
     "totalSources": 9
   },
   "mustEat": [
-    "81f0e6905cce0cbc",
     "b8e9c9115b81f99c",
-    "bea9bf75fad4e04b"
+    "c1e6c760bc0c8b79"
   ],
   "sections": {
-    "life": [
-      "b8e9c9115b81f99c"
-    ],
+    "life": [],
     "romance": [
-      "0220e7ccc0659d1a"
+      "615a5732aa815e63"
     ],
     "oddity": [
-      "caf75f0f9c7c9d0a"
+      "61d10b387c227ff1"
     ],
     "twist": [],
     "entertainment": [],
     "overseas": [
-      "bea9bf75fad4e04b",
-      "68f1901a0775294b",
-      "80905078d244af5b"
+      "c1e6c760bc0c8b79",
+      "d941e6c99f12d15c",
+      "1eb1a7ddd6d3882b"
     ]
   },
   "events": [],
   "items": [
-    {
-      "id": "81f0e6905cce0cbc",
-      "title": "结婚3年半，正式加入步行街了",
-      "originalTitle": null,
-      "summary": "16年上大学就和现在老婆谈了，大学毕业工作疫情影响一直到23年结婚。之前一直觉得感情稳定，结果最近发生意外加入步行街了。之前老婆是私立大学老师，去年被裁员自己健身当教练了，结果近期自爆说喜欢其他人，然后已经搬出去了，说要搬出去冷静考虑一下。直接打了我一个措手不及，接近1周了，我还处在懵逼状态。经验丰富的老铁指导一下后续该怎么办",
-      "url": "https://bbs.hupu.com/644225498.html",
-      "image": "",
-      "category": "romance",
-      "topicClass": "romance",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-27T21:33:10.110Z",
-      "timeBasis": "fetch",
-      "heat": 0,
-      "sourceId": "hupu",
-      "sourceName": "虎扑热帖",
-      "sourceGroup": "cn",
-      "sourceHomepage": "https://bbs.hupu.com/topic-hot",
-      "fact": {
-        "platformCount": 1,
-        "platformSources": [
-          "hupu"
-        ],
-        "mediaCount": 0,
-        "mediaDomains": [],
-        "key": "platform",
-        "label": "平台热榜",
-        "hint": "仅出现在热榜，未经任何媒体核实，请以原文为准"
-      },
-      "reversal": false,
-      "translated": false,
-      "score": 86,
-      "ruleScore": 86,
-      "eventId": "ev-5990a152ef"
-    },
     {
       "id": "b8e9c9115b81f99c",
       "title": "女人真的会30如狼吗",
@@ -176,7 +139,7 @@
       "category": "family",
       "topicClass": "family",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T21:33:10.110Z",
+      "publishedAt": "2026-11-28T04:47:41.102Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -201,28 +164,28 @@
       "eventId": "ev-ef261f8b6c"
     },
     {
-      "id": "bea9bf75fad4e04b",
-      "title": "JoJo Siwa and Chris Hughes Break Up",
+      "id": "c1e6c760bc0c8b79",
+      "title": "Jennifer Lawrence wore over $22,000 in jewelry with this $59 T-shirt",
       "originalTitle": null,
-      "summary": "JoJo Siwa and Chris Hughes survived 'Celebrity Big Brother' ... but their relationship isn't going to survive the long run -- because TMZ has confirmed they've gone their separate ways.",
-      "url": "https://www.tmz.com/2026/11/27/jojo-siwa-and-chris-hughes-split/",
-      "image": "",
+      "summary": "The A-lister's wardrobe essential just got a price slash.",
+      "url": "https://pagesix.com/2026/11/27/style/jennifer-lawrences-leset-margo-tee-is-on-sale-for-black-friday/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2F150229390.jpg?quality%3D90%26strip%3Dall",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T19:19:59.000Z",
+      "publishedAt": "2026-11-28T04:33:16.000Z",
       "timeBasis": "source",
       "heat": 0,
-      "sourceId": "tmz",
-      "sourceName": "TMZ",
+      "sourceId": "pagesix",
+      "sourceName": "Page Six",
       "sourceGroup": "overseas",
-      "sourceHomepage": "https://www.tmz.com/",
+      "sourceHomepage": "https://pagesix.com/",
       "fact": {
         "platformCount": 0,
         "platformSources": [],
         "mediaCount": 1,
         "mediaDomains": [
-          "tmz.com"
+          "pagesix.com"
         ],
         "key": "tabloid",
         "label": "单源爆料",
@@ -230,21 +193,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 2,
-      "ruleScore": 2,
-      "eventId": "ev-0549154dd5"
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-7771a111af"
     },
     {
-      "id": "0220e7ccc0659d1a",
-      "title": "一方不服离婚称仍要追她",
+      "id": "615a5732aa815e63",
+      "title": "曝徐嘉余王冰冰结婚了",
       "originalTitle": null,
       "summary": "",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E6%96%B9%E4%B8%8D%E6%9C%8D%E7%A6%BB%E5%A9%9A%E7%A7%B0%E4%BB%8D%E8%A6%81%E8%BF%BD%E5%A5%B9&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%90%E5%98%89%E4%BD%99%E7%8E%8B%E5%86%B0%E5%86%B0%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=27&Refer=top",
       "image": "",
       "category": "romance",
       "topicClass": "romance",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-27T21:33:10.031Z",
+      "publishedAt": "2026-11-28T04:47:41.023Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "weibo",
@@ -266,19 +229,19 @@
       "translated": false,
       "score": 65,
       "ruleScore": 65,
-      "eventId": "ev-2589c9cf72"
+      "eventId": "ev-20c2bceda7"
     },
     {
-      "id": "caf75f0f9c7c9d0a",
-      "title": "这是真的 老破站用户来了没想到长视频的优势居然凸现出来了 ​​​",
+      "id": "61d10b387c227ff1",
+      "title": "地铁上，两名女子怀疑大爷偷拍，双方爆发冲突！民警现场检查手机并无偷拍证据！",
       "originalTitle": null,
       "summary": "",
-      "url": "https://bbs.hupu.com/644212946.html",
+      "url": "https://bbs.hupu.com/644242415.html",
       "image": "",
       "category": "oddity",
-      "topicClass": "oddity",
+      "topicClass": "scene",
       "contentLevel": "headline",
-      "publishedAt": "2026-11-27T21:33:10.110Z",
+      "publishedAt": "2026-11-28T04:47:41.102Z",
       "timeBasis": "fetch",
       "heat": 0,
       "sourceId": "hupu",
@@ -298,55 +261,21 @@
       },
       "reversal": false,
       "translated": false,
-      "score": 63,
-      "ruleScore": 63,
-      "eventId": "ev-d50ba006df"
+      "score": 59,
+      "ruleScore": 59,
+      "eventId": "ev-f36f9c1a28"
     },
     {
-      "id": "68f1901a0775294b",
-      "title": "Rumer Willis shares rare photo of dad Bruce amid dementia battle days after sister Tallulah’s public apology",
+      "id": "d941e6c99f12d15c",
+      "title": "The Oura Ring 5 is on sale for its lowest price ever this Black Friday",
       "originalTitle": null,
-      "summary": "Rumer's pic comes on the heels of her sister Tallulah apologizing for sharing a pic of their dad.",
-      "url": "https://pagesix.com/2026/11/27/celebrity-news/rumer-willis-shares-rare-photo-of-dad-bruce-amid-dementia-battle/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Frumer-willis-shares-rare-photo-150206243_b6ee2f.jpg",
+      "summary": "It's the first time the newest wearable is marked down.",
+      "url": "https://pagesix.com/2026/11/27/style/this-oura-ring-5-deal-is-its-lowest-price-ever-for-black-friday/",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Foura-ring-5-bfcm.jpg?quality%3D90%26strip%3Dall%261795814355%261795814355",
       "category": "overseas-ent",
       "topicClass": "overseas-ent",
       "contentLevel": "story",
-      "publishedAt": "2026-11-27T21:31:01.000Z",
-      "timeBasis": "source",
-      "heat": 0,
-      "sourceId": "pagesix",
-      "sourceName": "Page Six",
-      "sourceGroup": "overseas",
-      "sourceHomepage": "https://pagesix.com/",
-      "fact": {
-        "platformCount": 0,
-        "platformSources": [],
-        "mediaCount": 1,
-        "mediaDomains": [
-          "pagesix.com"
-        ],
-        "key": "tabloid",
-        "label": "单源爆料",
-        "hint": "娱乐媒体爆料，未经其他媒体确认"
-      },
-      "reversal": true,
-      "translated": false,
-      "score": 1,
-      "ruleScore": 1,
-      "eventId": "ev-732a632323"
-    },
-    {
-      "id": "80905078d244af5b",
-      "title": "Inside Dak Prescott and ex Sarah Jane Ramos’ first Thanksgiving as co-parents since dramatic split",
-      "originalTitle": null,
-      "summary": "Page Six breaks down how the Cowboys quarterback and the wine and spirits specialist spent their holiday weekend following their abrupt split earlier this year.",
-      "url": "https://pagesix.com/2026/11/27/celebrity-news/inside-dak-prescott-and-ex-sarah-jane-ramos-first-thanksgiving-as-co-parents-since-dramatic-split/",
-      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F11%2Fdak-prescott-sarah-jane-ramos-123172036_273a34.jpg?w%3D842",
-      "category": "overseas-ent",
-      "topicClass": "overseas-ent",
-      "contentLevel": "story",
-      "publishedAt": "2026-11-27T21:02:41.000Z",
+      "publishedAt": "2026-11-28T03:05:28.000Z",
       "timeBasis": "source",
       "heat": 0,
       "sourceId": "pagesix",
@@ -368,7 +297,41 @@
       "translated": false,
       "score": 1,
       "ruleScore": 1,
-      "eventId": "ev-019fff8fe0"
+      "eventId": "ev-45f1f880c0"
+    },
+    {
+      "id": "1eb1a7ddd6d3882b",
+      "title": "Sheri's Ranch Brothel Worker Alice Little Says She's Playing 'GTA VI' with Clients",
+      "originalTitle": null,
+      "summary": "\"Grand Theft Auto VI\" fans are combining the game's provocative nature with real intimacy, apparently ... because a brothel employee tells us she's getting a ton of requests to game with clients.",
+      "url": "https://www.tmz.com/2026/11/27/grand-theft-auto-vi-played-at-sheris-ranch/",
+      "image": "",
+      "category": "overseas-ent",
+      "topicClass": "overseas-ent",
+      "contentLevel": "story",
+      "publishedAt": "2026-11-27T22:30:49.000Z",
+      "timeBasis": "source",
+      "heat": 0,
+      "sourceId": "tmz",
+      "sourceName": "TMZ",
+      "sourceGroup": "overseas",
+      "sourceHomepage": "https://www.tmz.com/",
+      "fact": {
+        "platformCount": 0,
+        "platformSources": [],
+        "mediaCount": 1,
+        "mediaDomains": [
+          "tmz.com"
+        ],
+        "key": "tabloid",
+        "label": "单源爆料",
+        "hint": "娱乐媒体爆料，未经其他媒体确认"
+      },
+      "reversal": false,
+      "translated": false,
+      "score": 1,
+      "ruleScore": 1,
+      "eventId": "ev-d009262ace"
     }
   ]
 }
